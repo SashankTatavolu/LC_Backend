@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16ceb2a6-bab8-4577-b147-1a2bd2c0da2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Language_Communicator_Backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/chapter_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/project_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/sentence_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/user_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/chapter_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/project_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/sentence_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/user_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/schemas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/services/chapter_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/services/project_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/services/sentence_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/services/user_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gboYpdnbRWbU3AE8uwvIHYbi8K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Language_Communicator_Backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16ceb2a6-bab8-4577-b147-1a2bd2c0da2b" name="Changes" comment="" />
+      <created>1715975688746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715975688746</updated>
+    </task>
+    <servers />
+  </component>
+</project>
