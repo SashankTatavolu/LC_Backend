@@ -1,0 +1,13 @@
+flask
+flask-migrate
+flask_cors
+flask_jwt_extended
+flask_mail
+flask_marshmallow
+psycopg2-binary
+flask-sqlalchemy
+marshmallow-sqlalchemy
+wxconv
+indic_transliteration
+requests
+graphviz

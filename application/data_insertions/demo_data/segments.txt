@@ -1,0 +1,2 @@
+Test_006a	यदि इस फार्म में कुछ भी ऐसा है जो आप समझ नहीं पा रहे हैं ।	yaxi isa PArma meM kuCa BI EsA hE jo Apa samaJa nahIM pA rahe hEM.	If there is anything in this form you do not understand. 
+Test_006b	तो आप कृपया प्रश्न पूछें।	wo Apa kqpayA praSna pUCeM.	Please you ask questions.

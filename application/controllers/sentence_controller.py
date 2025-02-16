@@ -9,7 +9,7 @@ sentence_blueprint = Blueprint('sentences', __name__)
 def add_multiple_sentences():
     data = request.get_json()
     chapter_id = data.get('chapter_id')
-    sentences = data.get('sentences')  # Expecting a list of sentence texts
+    sentences = data.get('sentences') 
 
     if not sentences or not chapter_id:
         return jsonify({'error': 'Invalid data. Ensure chapter_id and sentences are provided.'}), 400

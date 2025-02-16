@@ -15,3 +15,6 @@ class Chapter(db.Model):
 
     project = db.relationship('Project', backref=db.backref('chapters', lazy=True))
     uploaded_by = db.relationship('User', backref=db.backref('chapters', lazy=True))
+    assigned_users = db.relationship('User', secondary='project_user', backref=db.backref('chapters_assigned', lazy='dynamic'))
+    generations = db.relationship('Generation', back_populates='chapter')
+    

@@ -3,7 +3,8 @@ import datetime
 
 project_user = db.Table('project_user',
     db.Column('user_id', db.Integer, db.ForeignKey('users.id'), primary_key=True),
-    db.Column('project_id', db.Integer, db.ForeignKey('projects.id'), primary_key=True)
+    db.Column('project_id', db.Integer, db.ForeignKey('projects.id'), primary_key=True),
+    db.Column('chapter_id', db.Integer, db.ForeignKey('chapters.id'), primary_key=True)
 )
 
 class Project(db.Model):

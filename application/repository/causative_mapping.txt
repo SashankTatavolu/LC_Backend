@@ -1,0 +1,3 @@
+root,tam,word
+KA,causative,KilA
+KA,doublecausative,KilavA
