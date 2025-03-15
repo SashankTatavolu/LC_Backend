@@ -278,8 +278,8 @@ def insert_discourse_data(session, file_path, chapter_id):
 
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/sept-7-2022ICF-HD/sept-7-2022ICF-HD_hin_usr.txt"
-    chapter_id = 2
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"
+    chapter_id = 18
     session = SessionLocal()
     insert_discourse_data(session, file_path, chapter_id)
 

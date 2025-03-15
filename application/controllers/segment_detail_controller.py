@@ -8,6 +8,7 @@ import re
 import subprocess
 import os
 from application.extensions import db
+from application.services.measure_time import measure_response_time
 
 from application.services.segment_detail_service import SegmentDetailService
 
@@ -15,6 +16,7 @@ segment_detail_blueprint = Blueprint('segment_detail', __name__)
 
 @segment_detail_blueprint.route('/process_text', methods=['POST'])
 @jwt_required
+@measure_response_time
 def handle_process_text():
     data = request.get_json()
     if 'chapter_id' not in data or 'chapter_data' not in data:
@@ -32,6 +34,7 @@ def handle_process_text():
 
 @segment_detail_blueprint.route('/segment_details/<int:segment_id>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_segment_details(segment_id):
     segment_details = SegmentDetailService.get_segment_details(segment_id)
     if segment_details:
@@ -41,6 +44,7 @@ def get_segment_details(segment_id):
 
 @segment_detail_blueprint.route('/segment_details', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def create_segment_details():
     data = request.get_json()
     segment_id = SegmentDetailService.create_segment_details(data)
@@ -52,6 +56,7 @@ def create_segment_details():
 
 @segment_detail_blueprint.route('/segment_details/<int:segment_id>/download', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def download_segment_details(segment_id):
     segment_details = SegmentDetailService.get_segment_details_as_text(segment_id)
     if not segment_details:
@@ -70,6 +75,7 @@ def download_segment_details(segment_id):
 
 @segment_detail_blueprint.route('/segment_details/<int:segment_id>/csv', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_segment_details_csv(segment_id):
     segment_details = SegmentDetailService.get_segment_details_as_csv_single(segment_id)
     if segment_details:
@@ -81,6 +87,7 @@ def get_segment_details_csv(segment_id):
 
 @segment_detail_blueprint.route('/segment_details/<int:segment_id>/previous_csv', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_segment_details_csv_multiple(segment_id):
     segment_details = SegmentDetailService.get_segment_details_as_csv(segment_id)
     if segment_details:
@@ -92,6 +99,7 @@ def get_segment_details_csv_multiple(segment_id):
 
 @segment_detail_blueprint.route('/segment_details/<int:segment_id>/download_xml', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def download_segment_details_xml(segment_id):
     # Fetch the segment details using the service function
     segment_details = SegmentDetailService.get_segment_details_as_dict(segment_id)
@@ -111,6 +119,7 @@ def download_segment_details_xml(segment_id):
 
 @segment_detail_blueprint.route('/chapter_segments/<int:chapter_id>/download', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def download_all_segments_for_chapter(chapter_id):
     chapter_segments = SegmentDetailService.get_all_segments_for_chapter_as_text(chapter_id)
     if not chapter_segments:
@@ -130,6 +139,7 @@ def download_all_segments_for_chapter(chapter_id):
 
 @segment_detail_blueprint.route('/segment_details/<int:segment_id>/previous', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_previous_segment_details(segment_id):
     # Call the service method to fetch the previous segment's details
     previous_segment_details = SegmentDetailService.get_previous_segment_details(segment_id)

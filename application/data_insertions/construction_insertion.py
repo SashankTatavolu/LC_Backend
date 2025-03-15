@@ -4,9 +4,9 @@ from sqlalchemy.orm import sessionmaker, declarative_base, relationship
 import datetime
 
 # Database configuration
-SQLALCHEMY_DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
+# SQLALCHEMY_DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
 
-# SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
@@ -261,8 +261,8 @@ def insert_construction_data(session, file_path, chapter_id):
 
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo_data/USRS.txt"
-    chapter_id = 1
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"
+    chapter_id = 18
     session = SessionLocal()
     insert_construction_data(session, file_path, chapter_id)
 

@@ -1,2 +1,6 @@
-Test_006a	यदि इस फार्म में कुछ भी ऐसा है जो आप समझ नहीं पा रहे हैं ।	yaxi isa PArma meM kuCa BI EsA hE jo Apa samaJa nahIM pA rahe hEM.	If there is anything in this form you do not understand. 
-Test_006b	तो आप कृपया प्रश्न पूछें।	wo Apa kqpayA praSna pUCeM.	Please you ask questions.
+Ecommerce_FAQ_061a  #कृपया उत्पाद विवरण देखें या अधिक जानकारी के लिए और इंस्टॉलेशन सेवाओं का अनुरोध करने के लिए हमारी ग्राहक सहायता टीम से संपर्क करें।
+Ecommerce_FAQ_061b  #या अधिक जानकारी के लिए और इंस्टॉलेशन सेवाओं का अनुरोध करने के लिए हमारी ग्राहक सहायता टीम से संपर्क करें।
+Ecommerce_FAQ_065a  #कृपया हमारी वापसी नीति देखें ।
+Ecommerce_FAQ_065b  #या सहायता के लिए हमारी ग्राहक सहायता टीम से संपर्क करें।
+Ecommerce_FAQ_067a  #कृपया चेकआउट के दौरान उपलब्ध शिपिंग गंतव्यों की समीक्षा करें।
+Ecommerce_FAQ_067b  #या सहायता के लिए हमारे ग्राहक सहायता से संपर्क करें।

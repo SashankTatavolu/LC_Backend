@@ -1,11 +1,13 @@
 from flask import Blueprint, request, jsonify
 from flask_jwt_extended import jwt_required
 from application.services.sentence_service import SentenceService
+from application.services.measure_time import measure_response_time
 
 sentence_blueprint = Blueprint('sentences', __name__)
 
 @sentence_blueprint.route('/add', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def add_multiple_sentences():
     data = request.get_json()
     chapter_id = data.get('chapter_id')

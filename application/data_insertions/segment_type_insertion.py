@@ -6,8 +6,8 @@ from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey, Uniq
 from sqlalchemy.orm import relationship
 
 # SQLALCHEMY_DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
-SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc_platform'
-# SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+# SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc_platform'
+SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
@@ -55,8 +55,8 @@ class Segment(Base):
 Base.metadata.create_all(bind=engine)
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo_data/USRS.txt"  # Update this to your file path
-    chapter_id = 1 # Set the chapter ID for filtering segments
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"  # Update this to your file path
+    chapter_id = 18 # Set the chapter ID for filtering segments
 
     session = SessionLocal()
 

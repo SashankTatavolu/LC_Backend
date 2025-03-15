@@ -2,6 +2,7 @@ from flask import Blueprint, request, jsonify
 from flask_jwt_extended import create_access_token,jwt_required, get_jwt
 from ..services.user_service import UserService
 from datetime import timedelta
+from ..services.measure_time import measure_response_time
 
 user_blueprint = Blueprint('users', __name__)
 
@@ -55,6 +56,7 @@ def login_guest():
 
 @user_blueprint.route('/all', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_all_users():
     users = UserService.get_all_users()
     users_data = []
@@ -79,6 +81,7 @@ def get_all_users():
 
 @user_blueprint.route('/by_organization/<organization>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_users_by_organization(organization):
     users = UserService.get_users_by_organization(organization)
     users_data = [{"id": user.id, "username": user.username, "role": user.role, "organization": user.organization, "created_at": user.created_at, "updated_at": user.updated_at} for user in users]
@@ -86,6 +89,7 @@ def get_users_by_organization(organization):
 
 @user_blueprint.route('/by_role/<role>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_users_by_role(role):
     users = UserService.get_users_by_role(role)
     users_data = [{"id": user.id, "username": user.username, "role": user.role, "organization": user.organization, "created_at": user.created_at, "updated_at": user.updated_at} for user in users]
@@ -95,6 +99,7 @@ def get_users_by_role(role):
 
 @user_blueprint.route('/details/<int:user_id>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_user_details(user_id):
     user = UserService.get_user_by_id(user_id)
     if user:

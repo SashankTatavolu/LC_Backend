@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify
 from flask_jwt_extended import jwt_required
-
+from application.services.measure_time import measure_response_time
 from application.services.construction_service import ConstructionService
 
 construction_blueprint = Blueprint('construction', __name__)
@@ -8,6 +8,7 @@ construction_blueprint = Blueprint('construction', __name__)
 
 @construction_blueprint.route('/segment/<int:segment_id>/construction', methods=['POST', 'PUT'])
 @jwt_required()
+@measure_response_time
 def manage_construction_by_segment(segment_id):
     data = request.get_json()
     is_finalized = data.get('is_finalized', False)  # Extract is_finalized from request

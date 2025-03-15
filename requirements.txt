@@ -11,3 +11,4 @@ wxconv
 indic_transliteration
 requests
 graphviz
+redis

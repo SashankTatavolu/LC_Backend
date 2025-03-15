@@ -13,12 +13,15 @@ from application.models.concept_submissions import ConceptSubmission
 from application.models.concept_dictionary_model import ConceptDictionary
 from flask import jsonify, request
 from sqlalchemy.orm import sessionmaker
+from application.services.measure_time import measure_response_time
+
 
 
 concept_blueprint = Blueprint('concepts', __name__)
 
 @concept_blueprint.route('/getconcepts/<string:hindi_label>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_concepts_by_hindi_label(hindi_label):
     # Fetch concepts by hindi_label
     concepts = ConceptService.get_concepts_by_hindi_label(hindi_label)
@@ -253,6 +256,7 @@ def send_email(subject, body, to_email, from_email=None):
 
 @concept_blueprint.route('/get_req', methods=['GET'])
 @jwt_required()  # Ensures the request is authenticated
+@measure_response_time
 def get_concepts():
     try:
         # Extract the 'user_id' from query parameters
@@ -311,6 +315,7 @@ def get_concepts():
 
 @concept_blueprint.route('/update_concept/<temp_id>', methods=['PUT'])
 @jwt_required()
+@measure_response_time
 def update_concept(temp_id):
     try:
         # Log the temp_id from the URL for debugging
@@ -372,6 +377,7 @@ def update_concept(temp_id):
 
 @concept_blueprint.route('/reject/<temp_id>', methods=['DELETE'])
 @jwt_required()
+@measure_response_time
 def reject_concept(temp_id):
     try:
         # Step 1: Find the concept to reject
@@ -405,6 +411,7 @@ def reject_concept(temp_id):
 
 @concept_blueprint.route('/accept_and_store/<temp_id>', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def accept_and_store(temp_id):
     try:
         # Fetch the concept using temp_id from the ConceptSubmission table

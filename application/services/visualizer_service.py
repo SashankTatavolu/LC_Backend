@@ -255,6 +255,32 @@ class VisualizerService:
                     cluster.node(cluster_token, label=cluster_data["concept"], shape='box')
                     for node in cluster_data["connected_nodes"]:
                         cluster.node(node)
+                        
+            for inter_rel in sentence.get("inter_relations", []):
+                source_token = inter_rel["source_token"]
+                target_token = inter_rel["target_token"]
+                source_sentence = inter_rel["source_sentence"]
+                target_sentence = inter_rel["target_sentence"]
+                relation = inter_rel["relation"]
+                
+                # Find the actual nodes by matching token IDs with words
+                source_node = None
+                target_node = None
+                
+                for token in sentences.get(source_sentence, {}).get("tokens", []):
+                    if str(token["id"]) == str(source_token):
+                        source_node = f'{token["word"]}_{token["id"]}'
+                        break
+
+                for token in sentences.get(target_sentence, {}).get("tokens", []):
+                    if str(token["id"]) == str(target_token):
+                        target_node = f'{token["word"]}_{token["id"]}'
+                        break
+                
+                # If both nodes exist, create the edge
+                if source_node and target_node:
+                    dot.edge(source_node, target_node, label=relation, color="red", style="dashed")
+
         
         return sentences, dot
         

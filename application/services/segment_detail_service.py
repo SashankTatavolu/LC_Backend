@@ -9,11 +9,9 @@ from application.models.construction_model import Construction
 # from application.models.domain_term_model import DomainTerm
 from application.segment_repository.sentence_chunker import SentenceChunkerMain
 from application.segment_repository.segmentor import Segmentor
-from io import BytesIO
-import os
-import subprocess
 import re
 import xml.etree.ElementTree as ET
+from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.sql import text
 
 class SegmentDetailService:
@@ -117,44 +115,62 @@ class SegmentDetailService:
     @staticmethod
     def get_previous_segment_details(segment_id):
         # Retrieve the current segment
+        # Retrieve the current segment
         segment = Segment.query.filter_by(segment_id=segment_id).first()
         if not segment:
             return None
-        
-        # Get the previous segment by ordering based on segment_id or a logical field
-        previous_segment = Segment.query.filter(Segment.segment_id < segment_id).order_by(Segment.segment_id.desc()).first()
-        if not previous_segment:
-            return None
-        
-        # Fetch related details for the previous segment
-        lexico_conceptual = [
-            lc.serialize() for lc in LexicalConceptual.query.filter_by(segment_id=previous_segment.segment_id).order_by(LexicalConceptual.lexical_conceptual_id).all()
-        ]
-        relational = [
-            rel.serialize() for rel in Relational.query.filter_by(segment_id=previous_segment.segment_id).order_by(Relational.relational_id).all()
-        ]
-        discourse = [
-            disc.serialize() for disc in Discourse.query.filter_by(segment_id=previous_segment.segment_id).order_by(Discourse.discourse_id).all()
-        ]
-        construction = [
-            con.serialize() for con in Construction.query.filter_by(segment_id=previous_segment.segment_id).order_by(Construction.construction_id).all()
-        ]
-        
-        # domain_term = [
-        #     dt.serialize() for dt in DomainTerm.query.filter_by(segment_id=previous_segment.segment_id).order_by(DomainTerm.domain_term_id).all()
-        # ]
 
+        # Get the previous two segments by ordering based on segment_id
+        previous_segments = Segment.query.filter(Segment.segment_id < segment_id) \
+            .order_by(Segment.segment_id.desc()).limit(2).all()
+
+        # Ensure we have at least one previous segment
+        if not previous_segments:
+            return None
+
+        # Prepare the data for the previous two segments
+        previous_segments_data = []
+
+        for prev_segment in previous_segments:
+            lexico_conceptual = [
+                {"index": lc.lexical_conceptual_id, "data": lc.serialize()}
+                for lc in LexicalConceptual.query.filter_by(segment_id=prev_segment.segment_id)
+                .order_by(LexicalConceptual.lexical_conceptual_id).all()
+            ]
+            relational = [
+                {"index": rel.relational_id, "data": rel.serialize()}
+                for rel in Relational.query.filter_by(segment_id=prev_segment.segment_id)
+                .order_by(Relational.relational_id).all()
+            ]
+            discourse = [
+                {"index": disc.discourse_id, "data": disc.serialize()}
+                for disc in Discourse.query.filter_by(segment_id=prev_segment.segment_id)
+                .order_by(Discourse.discourse_id).all()
+            ]
+            construction = [
+                {"index": con.construction_id, "data": con.serialize()}
+                for con in Construction.query.filter_by(segment_id=prev_segment.segment_id)
+                .order_by(Construction.construction_id).all()
+            ]
+
+            previous_segments_data.append({
+                "segment_id": prev_segment.segment_id,
+                "segment_text": prev_segment.segment_text,
+                "english_text": prev_segment.english_text,
+                "segment_type": prev_segment.segment_type,
+                "status": prev_segment.status,
+                "lexico_conceptual": lexico_conceptual,
+                "relational": relational,
+                "discourse": discourse,
+                "construction": construction
+            })
+
+        # Ensure we return exactly two previous segments (or empty if none)
         return {
-            "segment_text": previous_segment.segment_text,
-            "english_text": previous_segment.english_text,
-            "segment_type": previous_segment.segment_type,
-            "lexico_conceptual": lexico_conceptual,
-            "status": previous_segment.status,
-            "relational": relational,
-            "discourse": discourse,
-            "construction": construction,
-            # "domain_term": domain_term
+            "current_segment_index": segment.segment_id,
+            "previous_segments": previous_segments_data if len(previous_segments_data) == 2 else []
         }
+
     
     @staticmethod
     def get_segment_details_as_text(segment_id):
@@ -341,94 +357,92 @@ class SegmentDetailService:
     def create_segment_details(data):
         segment_id = data.get('segment_id')
 
-        segment = Segment.query.filter_by(segment_id=segment_id).first()
+        try:
+            # Check if segment already exists
+            segment = Segment.query.filter_by(segment_id=segment_id).with_for_update().first()
 
-        if not segment:
-            # If the segment doesn't exist, create a new one
-            segment = Segment(
-                segment_id=segment_id,
-                segment_text=data.get('segment_text'),
-                segment_type=data.get('segment_type'),
-                status=data.get('status', 'pending')
-            )
-            db.session.add(segment)
-            db.session.flush()  
-        else:
-            # If the segment exists, delete related data first
-            segment.status = data.get('status', segment.status)
-            Discourse.query.filter_by(segment_id=segment_id).delete()
-            Construction.query.filter_by(segment_id=segment_id).delete()
-            Relational.query.filter_by(segment_id=segment_id).delete()
-            LexicalConceptual.query.filter_by(segment_id=segment_id).delete()
-            # DomainTerm.query.filter_by(segment_id=segment_id).delete()  
-
-        # Create new LexicalConceptual entries
-        for lc_data in data.get('lexico_conceptual', []):
-            lexical_concept = LexicalConceptual(
-                segment_id=segment.segment_id,
-                segment_index=lc_data['segment_index'],
-                index=lc_data['index'],
-                concept=lc_data['concept'],
-                semantic_category=lc_data.get('semantic_category'),
-                morpho_semantics=lc_data.get('morpho_semantics'),
-                speakers_view=lc_data.get('speakers_view')
-            )
-            db.session.add(lexical_concept)
-            db.session.flush()
-
-            # Create related Relational entries
-            for rel_data in lc_data.get('relational', []):
-                relational = Relational(
-                    segment_id=segment.segment_id,
-                    segment_index=rel_data['segment_index'],
-                    index=rel_data['index'],
-                    head_relation=rel_data['head_relation'],
-                    head_index=rel_data.get('head_index'),
-                    dep_relation=rel_data.get('dep_relation'),
-                    is_main=rel_data.get('is_main', False),
-                    concept_id=lexical_concept.lexical_conceptual_id
+            if not segment:
+                # Create a new segment if it doesn't exist
+                segment = Segment(
+                    segment_id=segment_id,
+                    segment_text=data.get('segment_text'),
+                    segment_type=data.get('segment_type'),
+                    status=data.get('status', 'pending')
                 )
-                db.session.add(relational)
+                db.session.add(segment)
+                db.session.flush()  # Get segment_id immediately
+            else:
+                # Update existing segment's status
+                segment.status = data.get('status', segment.status)
 
-            # Create related Construction entries
-            for con_data in lc_data.get('construction', []):
-                construction = Construction(
+                # Delete related data
+                Discourse.query.filter_by(segment_id=segment_id).delete()
+                Construction.query.filter_by(segment_id=segment_id).delete()
+                Relational.query.filter_by(segment_id=segment_id).delete()
+                LexicalConceptual.query.filter_by(segment_id=segment_id).delete()
+                # DomainTerm.query.filter_by(segment_id=segment_id).delete()
+
+            # Create new LexicalConceptual entries
+            for lc_data in data.get('lexico_conceptual', []):
+                lexical_concept = LexicalConceptual(
                     segment_id=segment.segment_id,
-                    segment_index=con_data['segment_index'],
-                    index=con_data['index'],
-                    construction=con_data['construction'],
-                    cxn_index=con_data['cxn_index'],
-                    component_type=con_data['component_type'],
-                    concept_id=lexical_concept.lexical_conceptual_id
+                    segment_index=lc_data['segment_index'],
+                    index=lc_data['index'],
+                    concept=lc_data['concept'],
+                    semantic_category=lc_data.get('semantic_category'),
+                    morpho_semantics=lc_data.get('morpho_semantics'),
+                    speakers_view=lc_data.get('speakers_view')
                 )
-                db.session.add(construction)
+                db.session.add(lexical_concept)
+                db.session.flush()
 
-            # Create related Discourse entries
-            for disc_data in lc_data.get('discourse', []):
-                discourse = Discourse(
-                    segment_id=segment.segment_id,
-                    segment_index=disc_data['segment_index'],
-                    index=disc_data['index'],
-                    head_index=disc_data.get('head_index'),
-                    relation=disc_data.get('relation'),
-                    concept_id=lexical_concept.lexical_conceptual_id,
-                    discourse=disc_data['discourse']
-                )
-                db.session.add(discourse)
+                # Relational entries
+                for rel_data in lc_data.get('relational', []):
+                    relational = Relational(
+                        segment_id=segment.segment_id,
+                        segment_index=rel_data['segment_index'],
+                        index=rel_data['index'],
+                        head_relation=rel_data['head_relation'],
+                        head_index=rel_data.get('head_index'),
+                        dep_relation=rel_data.get('dep_relation'),
+                        is_main=rel_data.get('is_main', False),
+                        concept_id=lexical_concept.lexical_conceptual_id
+                    )
+                    db.session.add(relational)
 
-            # Create related DomainTerm entries
-            # for domain_data in lc_data.get('domain_term', []):
-            #     domain_term = DomainTerm(
-            #         segment_id=segment.segment_id,
-            #         segment_index=domain_data['segment_index'],
-            #         index=domain_data['index'],
-            #         domain_term=domain_data['domain_term'],
-            #         concept_id=lexical_concept.lexical_conceptual_id  
-            #     )
-            #     db.session.add(domain_term)
+                # Construction entries
+                for con_data in lc_data.get('construction', []):
+                    construction = Construction(
+                        segment_id=segment.segment_id,
+                        segment_index=con_data['segment_index'],
+                        index=con_data['index'],
+                        construction=con_data['construction'],
+                        cxn_index=con_data['cxn_index'],
+                        component_type=con_data['component_type'],
+                        concept_id=lexical_concept.lexical_conceptual_id
+                    )
+                    db.session.add(construction)
 
-        db.session.commit()
-        return segment.segment_id
+                # Discourse entries
+                for disc_data in lc_data.get('discourse', []):
+                    discourse = Discourse(
+                        segment_id=segment.segment_id,
+                        segment_index=disc_data['segment_index'],
+                        index=disc_data['index'],
+                        head_index=disc_data.get('head_index'),
+                        relation=disc_data.get('relation'),
+                        concept_id=lexical_concept.lexical_conceptual_id,
+                        discourse=disc_data['discourse']
+                    )
+                    db.session.add(discourse)
+
+            db.session.commit()
+            return segment.segment_id
+
+        except SQLAlchemyError as e:
+            db.session.rollback()
+            print(f"Error in create_segment_details: {str(e)}")
+            return None
     
     @staticmethod
     def get_segment_details_as_dict(segment_id):
@@ -557,7 +571,7 @@ class SegmentDetailService:
                     if lc.relational:
                         for rel in lc.relational:
                             head_index = rel.head_index if rel.head_index != "-" else ""
-                            relation = rel.relation if rel.relation != "-" else ""
+                            relation = rel.head_relation if rel.head_relation != "-" else ""
                             
                             # Replace with "-" if either part is missing
                             if not head_index or not relation:

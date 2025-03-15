@@ -1,5 +1,6 @@
 from flask import Blueprint, request, jsonify
 from flask_jwt_extended import jwt_required
+from application.services.measure_time import measure_response_time
 
 from application.services.segment_service import SegmentService
 
@@ -7,6 +8,7 @@ segment_blueprint = Blueprint('segments', __name__)
 
 @segment_blueprint.route('/convert_to_wx/format', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def get_wx_format():
     data = request.json
     
@@ -28,6 +30,7 @@ def get_wx_format():
 
 @segment_blueprint.route('/<int:segment_id>', methods=['GET', 'PUT', 'DELETE'])
 @jwt_required()
+@measure_response_time
 def segment(segment_id):
     if request.method == 'GET':
         segment = SegmentService.get_segment_by_id(segment_id)
@@ -42,6 +45,7 @@ def segment(segment_id):
 
 @segment_blueprint.route('/', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def create_segment():
     data = request.get_json()
     segment = SegmentService.create_segment(data)
@@ -49,6 +53,7 @@ def create_segment():
 
 @segment_blueprint.route('/sentence/<int:sentence_id>', methods=['POST', 'PUT'])
 @jwt_required()
+@measure_response_time
 def segments_by_sentence(sentence_id):
     data = request.get_json()
     if request.method == 'POST':
@@ -60,6 +65,7 @@ def segments_by_sentence(sentence_id):
 
 @segment_blueprint.route('/<int:chapter_id>/segment_count', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_segments_count(chapter_id):
     """
     API to get the number of segments in a specific chapter.

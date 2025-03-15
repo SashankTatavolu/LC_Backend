@@ -1,0 +1,912 @@
+<sent_id=Ecommerce_FAQ_001a>
+#खाता बनाने/खोलने के लिए, हमारी वेबसाइट के ऊपरी दाएँ कोने पर स्थित 'साइन अप' बटन पर क्लिक करें ।
+$addressee 22 anim - 21:k1 - respect - -
+KAwA_1 1 - - 24:k2 - - - -
+banA_1 2 - - - - - - 24:op1
+Kola_1 23 - - - - - - 24:op2
+[disjunct_1] 24 - - 21:rt - - - -
+$speaker 5 anim pl 6:r6 - - - -
+^vebasAita_1 6 - - 10:r6 - - - -
+Upara_1 8 - mawup 10:mod - - - -
+xAyAz_1 9 - - 10:mod - - - -
+konA_1 10 - pl 27:k7p - - - -
+sWiwa_1 27 - kqw 26:mod - - - -
+^sAina 12 - - - - - - 25:begin
+^apa 13 - - - - - - 25:inside
+[ne_1] 25 - - - - - - 26:mod
+batana_1 14 - - - - - - 26:head
+[6-waw_1] 26 - - 21:k7p - - - -
+klika_1 16 - - - - - - 21:kriyAmUla
+kara_1-o_1 17 - - - - - - 21:verbalizer
+[cp_1] 21 - -  0:main - - - -
+%imperative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_001b>
+#और पंजीकरण प्रक्रिया को पूरी करने के लिए निर्देशों का पालन करें।
+$addressee 16 anim - 15:k1 - respect - -
+paMjIkaraNa_1 1 - - - - - - 13:mod
+prakriyA_1 2 - - - - - - 13:head
+pUrA_1 4 - - - - - - 14:kriyAmUla
+kara_1 5 - pl - - - - 14:verbalizer
+nirxeSa_1 8 - pl 15:k2 - - - -
+pAlana_1 10 - - - - - - 15:kriyAmUla
+kara_1-o_1 11 - - - Ecommerce_FAQ_001a.21:samuccaya - - 15:verbalizer
+[nc_1] 13 - - 14:k2 - - - -
+[cp_1] 14 -  - 15:rt - - - -
+[cp_2] 15 - - 0:main - - - -
+%imperative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_002>
+#हम ऑनलाइन ऑर्डर के लिए भुगतान विधियों के रूप[a][b] में प्रमुख क्रेडिट कार्ड, डेबिट कार्ड और PayPal स्वीकार करते हैं।
+$speaker 1 - pl 26:k1 - - - -
+^OYnalAina_1 2 - - - - - - 22:mod
+^OYrdara_1 3 - - - - - - 22:head
+BugawAna_1 6 - - - - - - 23:mod
+viXi_1 7 - pl - - - - 23:head
+rUpa_1 28 - - 26:k7 - - - -
+pramuKa_1 11 - - 27:mod - - - -
+^kredita_1 12 - - - - - - 24:mod
+^kArda_1 13 - - - - - - 24:head
+^debita_1 14 - - - - - - 25:mod
+^kArda_1 15 - - - - - - 25:head
+^PayPal 17 - - - - - - 27:op3
+svIkAra_1 18 - - - - - - 26:kriyAmUla
+kara_1-wA_hE_1 19 - - - - - - 26:verbalizer
+[6-waw_1] 22 - - 27:rt - - - -
+[6-waw_2] 23 - - 28:r6 - - - -
+[4-waw_1] 24 - - - - - - 27:op1
+[4-waw_2] 25 - - - - - - 27:op2
+[cp_1] 26 - - 0:main - - - -
+[conj_1] 27 - - 26:k2 - - - -
+%affirmative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_003>
+#आप अपने खाते में लॉग इन करके और 'ऑर्डर इतिहास' अनुभाग पर जाकर अपने ऑर्डर को ट्रैक कर सकते हैं।
+$addressee 1 anim - 23:k1 - respect - -
+apanA 2 - pl 3:r6 1:coref - - -
+KAwA_1 3 - pl 27:k7p - - - -
+^lOYga+ina_1 5 - - - - - - 27:kriyAmUla
+kara_1 7 - - - - - - 27:verbalizer
+[cp_2] 27 - - - - - - 25:op1
+^OYrdara_1 9 - - - - - - 22:mod
+iwihAsa_1 10 - - - - - - 22:head
+anuBAga_1 11 - - - - - - 28:head
+jA_1 13 - - - - - - 25:op2
+apanA_1 14 - pl 15:r6 - - - -
+^OYrdara_1 15 - - 23:k2 - - - -
+^trEka_1 17 - - - - - - 23:kriyAmUla
+kara_1-0_sakawA_hE_1 18 - - - - - - 23:verbalizer
+[karmaXAraya_1] 22 - - - - - - 28:mod
+[6-waw_1] 28 - - 23:k7p - - - -
+[cp_1] 23 - - 0:main - - - -
+[conj_1] 25 - - 23:rpk - - - -
+%affirmative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_004>
+#वहाँ, आपको अपने शिपमेंट की ट्रैकिंग की जानकारी मिलेगी।
+$wyax 1 - - 8:k7p Ecommerce_FAQ_003.28:coref distal - -
+$addressee 2 anim - 8:k4 - respect  - -
+apanA 3 - pl 4:r6 2:coref - - -
+^SipameMta_1 4 - - 6:r6 - - - -
+^trEkiMga_1 6 - - 7:r6 - - - -
+jAnakArI_1 7 - - 8:k1 - - - -
+mila_1-gA_1 8 - - 0:main - - - - 
+%affirmative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_005a>
+#हमारी वापसी नीति आपको पूर्ण धनवापसी के लिए खरीददारी के 30 दिनों के भीतर उत्पाद वापस करने की अनुमति देती है।
+$speaker 1 - pl 23:r6 - - - -
+vApasI_1 2 - - - - - - 23:mod
+nIwi_1 3 - - - - - - 23:head
+$addressee 4 anim - 25:k4 - respect  - -
+pUrNa_1 5 - - 6:mod - - - -
+XanavApasI_1 6 - - 25:rt - - - -
+KarIxaxArI_1 9 - - 12:r6 - - - -
+30 11 numex - 12:card - - - -
+xina_1 12 - pl 24:dur - - - -
+uwpAxa_1 15 - - 24:k2 - - - -
+vApasa_1 16 - - - - - - 24:kriyAmUla
+kara_1 17 - pl - - - - 24:verbalizer
+anumawi_1 19 - - - - - - 25:kriyAmUla
+xe_1-wA_hE_1 20 - - - - - - 25:verbalizer
+[6-waw_1] 23 - - 25:k1 - - - -
+[cp_1] 24 - - 25:k2 - - - -
+[cp_2] 25 - - 0:main - - - -
+%affirmative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_005b>
+#बशर्ते[c][d] वे अपनी मूल स्थिति और पैकेजिंग में हों।
+$wyax 2 - pl 9:k1 Ecommerce_FAQ_005a.15:coref distal - -
+apanA 3 - - 11:r6 2:coref - - -
+mUla_1 4 - - 5:mod - - - -
+sWiwi_1 5 - - - - - - 11:op1
+^pEkejiMga_1 7 - - - - - - 11:op2
+hE_1-e_[g][h] 9 - - 0:main - Ecommerce_FAQ_005a.25:AvaSyakawApariNAma - -
+[conj_1] 11 - - 9:k7 - - - -
+%affirmative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_006>
+#विस्तृत निर्देशों के लिए कृपया हमारे रिटर्न पेज को देखें।
+$addressee 13 anim - 10:k1 - respect  - -
+viswqwa_1 1 - - 2:mod - - - -
+nirxeSa_1 2 - pl 10:rt - - - -
+kqpayA_1 5 - - 10:vkvn - - - -
+$speaker 6 - pl 12:r6 - - - -
+^ritarna_1 7 - - - - - - 12:mod
+^peja_1 8 - - - - - - 12:head
+xeKa_1-o_1 10 - - 0:main - - - -
+[nc_1] 12 - - 10:k2 - - - -
+%imperative 
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_007a>
+#आपका ऑर्डर अभी तक शिप नहीं हुआ है ।
+$addressee 1 - - 2:r6 - respect  - -
+^OYrdara_1 2 - - 7:k1 - - - -
+aBI_1 3 - - - - - - 8:end
+^Sipa_1 5 - - - - - - 7:kriyAmUla
+nahIM_1 6 - - 7:neg - - - -
+ho_1-yA_hE_1 9 - - - - - - 7:verbalizer
+[cp_1] 7 - - 0:main - - - -
+[span_1] 8 - - 7:k7t - - - -
+%negative
+</sent_id>
+<sent_id=Ecommerce_FAQ_007b>
+#तो आप अपना ऑर्डर रद्द कर सकते हैं।
+$addressee 1 anim - 9:k1 - respect  - -
+apanA 2 - - 3:r6 1:coref - - -
+^OYrdara_1 3 - - 9:k2 - - - -
+raxxa_1 4 - - - - - - 9:kriyAmUla
+kara_1-0_saka[i][j]wA_hE_1 5 - - - - - - 9:verbalizer 
+[cp_1] 9 - - 0:main - Ecommerce_FAQ_007a.7:AvaSyakawApariNAma[k][l] - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_008a>
+#कृपया अपने ऑर्डर विवरण के साथ हमारी ग्राहक सहायता टीम से संपर्क करें।
+$addressee 19 anim - 17:k1 - respect - - 
+kqpayA_1    1    -    -    17:vkvn   -    -    -    -
+apanA    2    -    -    15:r6   19:coref    -    -    -
+^OYrdara_1    3    -    -    -    -    -    -    15:mod
+vivaraNa_1    4    -    -     -    -    -   -   15:head
+[nc_1]    15    -    -    17:rask1    -     -    -    -
+$speaker    7    anim    pl    18:r6    -    -    -    -
+grAhaka_1    8    -    -    -  -    -    -    16:mod
+sahAyawA_1    9    -    -     -  -    -    -    16:head
+[nc_2]    16    -    -    -   -    -    -    18:mod
+tIma_1    10    -    -    -   -    -    -    18:head
+[nc_3]    18    -    -    17:k2    -    -    -    -
+saMparka_1    12    -    -    -   -    -    -    17:kriyAmUla
+kara_1-o_1   13    -    -   -   -    -    -    17:verbalizer
+[cp_1]    17    -    -    0:main   -    -    -    -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_008b>
+#और हम रद्दीकरण प्रक्रिया में आपकी सहायता करेंगे।
+$speaker 1 anim pl 10:k1 - - - -
+raxxIkaraNa_1 2 - - - - - - 9:mod
+prakriyA_1 3 - - - - - - 9:head
+$addressee 5 anim - 10:k2 - respect - -
+sahAyawA_1 6 - - - - - - 10:kriyAmUla
+kara_1-gA_1 7 - - - - - - 10:verbalizer
+[6-waw_1] 9 - - 10:k7 - - - -
+[cp_1] 10 - - 0:main Ecommerce_FAQ_008a.17:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_009>
+#शिपिंग का समय गंतव्य और चुनी गई शिपिंग विधि के आधार पर अलग-अलग होता है।
+^SipiMga_1 1 - - 3:r6 - - - -
+samaya_1 3 - - 14:k1 - - - -
+gaMwavya_1 4 - - - - - - 20:op1
+cuna_1 6 - -  17:rbks - - - -
+^SipiMga_1 8 - - - - - - 17:mod
+viXi_1 19 - - - - - - 17:head
+alaga_1 13 - xviwva  3:k1s - - - -
+ho_1-wA_hE_1 14 - - 0:main - - - -
+[6-waw_1] 17 - - - - - - 20:op2
+[conj_1] 20 - - 14:k7  - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_010a>
+#मानक शिपिंग में आमतौर पर 3-5 व्यावसायिक दिन लगते हैं।
+mAnaka_1 1 - - 2:mod - - - -
+^SipiMga_1 2 - - 9:rt - - - -
+AmawOra+para_1 4 - - 9:krvn - - - -
+3 6 numex - - - - - 11:start
+5 10 numex  - - - - - 11:end
+vyAvasAyika_1 7 - - 8:mod - - - -
+xina_1 8 - - 9:k1 - - - -
+laga_1-wA_hE_1 9 - - 0:main - - - -
+[span_1] 11 - - 7:card - - -        -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_010b>
+#जबकि एक्सप्रेस शिपिंग में 1-2 व्यावसायिक दिन लग सकते हैं।
+^eksapresa_1 1 - - 2:mod - - - -
+^SipiMga_1 2 - - 7:k7 - - - -
+1 4 numex - - - - - 13:start
+2        12        numex        -        -        -        -        -        13:end
+[span_1]        13        -        -        6:card        -        -        -        -
+vyAvasAyika_1 5 - - 6:mod - - - -
+xina_1 6 - - 7:k1  - - - -
+laga_1-0_sakawA_hE_1 7 - - 0:main Ecommerce_FAQ_010a.9:viroXI_xyowaka - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_011>
+#हाँ, हम चुनिंदा देशों में अंतर्राष्ट्रीय शिपिंग प्रदान करते हैं।
+$speaker 2 anim pl 12:k1 - - - -
+cuniMxA_1 3 - - 4:mod - - - -
+xeSa_1 4 - pl 12:k7p - - - -
+aMwarrARtrIya_1 6 - - 7:mod - - - -
+^SipiMga_1 7 - - 12:k2 - - - -
+praxAna_1 8 - - - - - - 12:kriyAmUla
+kara_1-wA_hE_1 9 - - - - - - 12:verbalizer
+[cp_1] 12 - - 0:main - hAz_1 - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_012>
+#उपलब्धता और शिपिंग लागत की गणना आपके स्थान के आधार पर चेकआउट प्रक्रिया के दौरान की जाएगी।
+upalabXawA_1 1 - - - - - - 21:op1
+^SipiMga_1 3 - - - - - - 19:mod
+lAgawa_1 4 - - - - - - 19:head
+[6-waw_1] 19 - - - - - - 21:op2
+$addressee 7 anim - 8:r6 - respect - -
+sWAna_1 8 - - 16:k7 - - - -
+^cekaAuta_1 12 - - - - - - 20:mod
+prakriyA_1 13 - - - - - - 20:head
+[6-waw_2] 20 - - 16:k7t - - - -
+gaNanA_1 6 - - - - - - 16:kriyAmUla
+kara_1-yA_jA_gA_1 17 - - - - - - 16:verbalizer
+[cp_1] 16 - - 0:main - - - -
+[conj_1] 21 - - 16:k2 - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_013a>
+#आपका पैकेज ट्रांज़िट के दौरान खो गया है ।
+$addressee 1 anim - 2:r6 - respect - -
+^pEkeja_1 2 - - 6:k1 - - - -
+^trAMjZita_1 3 - - 6:k7t - - - -
+Ko_1-yA_hE_1 6 - - 0:main Ecommerce_FAQ_013c.6:AvaSyakawApariNAma [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_013b>
+#या वह क्षतिग्रस्त हो गया है ।
+$wyax 1 - - 3:k1 Ecommerce_FAQ_013a.2:coref distal - -
+kRawigraswa_1 2 - - 3:k1s - - - -
+ho_1-yA_hE_1 3 - - 0:main Ecommerce_FAQ_013a.3:anyawra [o][shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_013c>[q]
+#तो कृपया तुरंत हमारी ग्राहक सहायता टीम से संपर्क करें।
+$addressee 13 anim - 20:k1 -[r][s] respect - - 
+kqpayA_1 1 - - 20:vkvn - - - -
+wuraMwa_1 2 - - 9:krvn - - - -
+$speaker 3 anim pl 20:k1 - - - -
+grAhaka_1 4 - - - - - - 11:mod
+sahAyawA_1 5 - - - - - - 11:head
+[6-waw_1] 11 - - - - - - 12:mod 
+^tIma_1 6 - - - - - - 12:head
+[4-waw_1] 12 - - 9:k2 - - - -  
+saMparka_1 8 - - - - - - 20:kriyAmUla
+kara_1-o_[v][w]1 9 - - - - - - 20:verbalizer
+[cp_1]  20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_014a>
+#हम जांच शुरू करेंगे ।
+$speaker 1 anim pl 6:k1 - - - -
+jAMca_1 2 - - 6:k2 - - - -
+SurU_1 3 - - - - - - 6:kriyAmUla
+kara_1-gA_1 4 - - - - - - 6:verbalizer
+[cp_1] 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_014b>
+#और हम समस्या को हल करने के लिए आवश्यक कदम उठाएंगे।
+$speaker 1 anim pl 13:k1 - - - -
+samasyA_1 2 - - 12:k2 - - - -
+hala_1 4 - - - - - - 12:kriyAmUla
+kara_1 5 - pl - - - - 12:verbalizer
+AvaSyaka_1 8 - - 13:krvn - - - -
+kaxama_1 9 - - - - - - 13:kriyAmUla
+uTA_1-gA_1 10 - - - Ecommerce_FAQ_014a.6:samuccaya - - 13:verbalizer
+[cp_1] 12 - - 13:rt - - - -
+[cp_2] 13 - - 0:main - - - -
+%affirmative
+</sent_id>
+
+<sent_id=Ecommerce_FAQ_015a>
+#आपको अपना शिपिंग पता बदलने की आवश्यकता है।
+$addressee 1 anim - 8:k4a - respect - -
+apanA 2 -  - 10:r6 [ab][ac]1:coref - - -
+^SipiMga_1 3 - - - - - - 10:mod
+pawA_1 4 - - - - - - 10:head
+baxala_1 5 - pl 7:r6 - - - -
+AvaSyakawA_1 7 - - 8:k1 - - - -
+hE_1-pres 8 - - 0:main Ecommerce_FAQ_015b.8:AvaSyakawApariNAma - - -
+[6-waw_1] 10 - - 5:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_015b>
+#तो कृपया तुरन्त हमारी ग्राहक सहायता टीम से संपर्क करें।
+$addressee 16 anim - 14:k1 - respect - - 
+kqpayA_1 1 - - 14:vkvn - - - -
+wuranwa_1 2 - xviwva  14:krvn - - - -
+$speaker 5 anim pl 15:r6 [ad][ae]- - - -
+grAhaka_1 6 - - - - - - 13:mod
+sahAyawA_1 7 - - - - - - 13:head
+tIma_1 8 - - - - - - 15:head
+saMparka_1 10 - - - - - - 14:kriyAmUla
+kara_1-o_1[af][ag] 11 - - - - - - 14:verbalizer
+[nc_1] 13 - - - - - - 15:mod
+[nc_2] 15 - - 14:k2 - - - -
+[cp_1] 14 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_016a>
+#ऑर्डर अभी तक शिप नहीं किया गया है ।
+^OYrdara_1 1 - - 10:k2 - - - -
+aBI_1 2 - - - - - - 11:end
+[span_1] 11 - - 10:k7t - - - - 
+^Sipa_1 4 - - - - - - 10:kriyAmUla
+nahIM_1 5 - - 10:neg - - - -
+kara_1-yA_jA_yA_hE_1 6 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%pass_negative
+</sent_id>
+<sent_id=Ecommerce_FAQ_016b>
+#तो हम पता अपडेट करने की पूरी कोशिश करेंगे।
+$speaker 1 anim pl 11:k1 - - - -
+pawA_1 2 - - 10:k2 - - - -
+^apadeta_1 3 - - - - - - 10:kriyAmUla
+kara_1 4 - pl - - - - 10:verbalizer
+pUrA_1 6 - - 11:krvn - - - -
+koSiSa_1 7 - - - - - - 11:kriyAmUla
+kara_1-gA_1 8 - - - - - - 11:verbalizer
+[cp_1] 10 - - 11:k2 - - - -
+[cp_2] 11 - - 0:main - Ecommerce_FAQ_016a,10:AvaSyakawApariNAma - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_017>
+#आप हमारी ग्राहक सहायता टीम से फ़ोन नंबर पर फ़ोन करके या ईमेल पते पर ईमेल करके संपर्क कर सकते हैं।
+$addressee 1 anim - 27:k1 - respect - -
+$speaker 2 anim pl 24:r6 - - - -
+grAhaka_1 3 - - - - - - 23:mod
+sahAyawA_1 4 - - - - - - 23:head
+[6-waw_1] 23 - - - - - - 24:mod
+^tIma_1 5 - - - - - - 24:head
+[4-waw_1] 24 - - 27:k2 - - - - 
+^PZona_1 7 - - - - - - 29:mod
+naMbara_1 8 - - - - - - 29:head
+[6-waw_2] 29 - - 25:k7p - - - -  
+^PZona_1 10 - - - - - - 25:kriyAmUla
+kara_1 11 - - - - - - 25:verbalizer
+[cp_1] 25 - - - - - - 28:op1 
+^Imela_1 13 - - - - - - 30:mod
+pawA_1 14 - - - - - - 30:head
+[6-waw_3] 30 - - 26:k7p - - - -   
+^Imela_1 16 - - - - - - 26:kriyAmUla
+kara_1 17 - - - - - - 26:verbalizer
+[cp_2] 26 - - - - - - 28:op2
+saMparka_1 18 - - - - - - 27:kriyAmUla
+kara_1-0_sakawA_hE_1 19 - - - - - - 27:verbalizer
+[cp_3] 27 - - 0:main - - - -
+[disjunct_1] 28 - - 27:rpk - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_018>
+#हमारी टीम आपकी किसी भी पूछताछ या समस्या में सहायता करने के लिए कार्य समय के दौरान उपलब्ध है।
+$speaker 1 anim pl 2:r6 - - - -
+^tIma_1 2 - - 17:k1 - - - -
+$addressee 3 anim - 6:r6 - respect - -
+koI_1 4 - - 21:quant - BI_6 - -
+pUCawACa_1 6 - - - - - - 21:op1
+samasyA_1 8 - - 11:k7 - - - [ak][al][am]-
+sahAyawA_1 10 - - - - - - 21:op2
+kara_1 11 - pl - - - - 20:verbalizer[an]
+kArya_1 14 - - - - - - 19:mod
+samaya_1 15 - - - - - - 19:head
+upalabXa_1 16 - - 17:k1s - - - -
+hE_1-pres 17 - - 0:main - - - -
+[6-waw_1] 19 - - 17:k7t - - - -
+[cp_1] 20 - - 17:rt - - - -
+[disjunct_1] 21 - - - - - - 20:kriyAmUla
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_019>
+#हाँ, हम अतिरिक्त शुल्क लेकर उपहार रैपिंग सेवाएँ प्रदान करते हैं।
+$speaker 2 anim pl 15:k1 - - - -
+awirikwa_1 3 - - 4:mod - - - -
+Sulka_1 4 - - 17:k2 - - - -
+le_1 17 - - 15:rpk - - - -
+upahAra_1 7 - - - - - - 14:mod
+^rEpiMga_1 8 - - - - - - 14:head[aq][ar]
+[4-waw_1] 14 - - - - - - 16:mod 
+sevA_1 9 - pl - - - - 16:head
+[6-waw_1][as][at] 16 - - 15:k2 - - - - 
+praxAna_1 10 - - - - - - 15:kriyAmUla
+kara_1-wA_hE_1 11 - - - - - - 15:verbalizer
+[cp_1] 15 - - 0:main - hAz[au][av]_1 - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_020>
+#चेकआउट प्रक्रिया के दौरान, आप अपने ऑर्डर में उपहार रैपिंग जोड़ने का विकल्प चुन सकते हैं।
+^cekaAuta_1 1 - - - - - - 18:mod
+prakriyA_1 2 - - 14:k3 - - - 18:head
+[6-waw_1] 18 - - 14:k7t - - - - 
+$addressee 5 anim - 14:k1 - respect - -
+apanA 6 - pl 7:r6 5:coref - - -
+^OYrdara_1 7 - - 11:k7 - - - -
+upahAra_1 9 - - - - - - 19:mod
+rEpiMga_1 10 - - - - - - 19:head
+[4-waw_1] 19 - - 11:k2 - - - -  
+jodZa_1 11 - - 13:r6 - - - -
+vikalpa_1 13 - - 14:k2 - - - -
+cuna_1-0_sakawA_hE_1 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_021>[ay]
+#हमारे पास एक मूल्य मिलान नीति है, जिसके तहत हम प्रतिस्पर्धी की वेबसाइट पर पाए जाने वाले समान उत्पाद की कीमत का मिलान करेंगे।
+$speaker 1 - pl 7:rsm - - - -
+1 3 - numex 6:card - - - -
+mUlya_1 4 - - - - - - 26:mod
+milAna_1 5 - - - - - - 26:head
+nIwi_1 6 - - - - - - 28:head
+hE_1-pres 7 - - 0:main - - - -
+$yax 8 - - 30:k7a 28:coref - - -
+$speaker 10 - pl 30:k1 - - - -
+prawisparXI_1 11 - - 13:r6 - - - -
+^vebasAita_1 13 - - 30:k7 - - - -
+pA_1 15 - - 19:mod - - - -
+samAna_1 18 - - 19:mod - - - -
+uwpAxa_1 19 - - 21:r6 - - - -
+kImawa_1 21 - - 30:k2 - - - -
+milAna_1 23 - - - - - - 30:kriyAmUla
+kara_1-gA_1 24 - - - - - - 30:verbalizer
+[6-waw_1] 26 - - - - - - 28:mod
+[4-waw_1] 28 - - 7:k7 - - - -
+[cp_2] 30 - - 28:rcelab - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_022>
+#कृपया उत्पाद के विवरण और प्रतिस्पर्धी के ऑफ़र के साथ हमारी ग्राहक सहायता टीम से संपर्क करें।
+$addressee 23 - - 20:k1 - respect  - -
+kqpayA_1 1 - - 20:vkvn - - - -
+uwpAxa_1 2 - - 4:r6 - - - -
+vivaraNa_1 4 - - - - - - 21:op1
+prawisparXI_1 6 - - 8:r6 - - - -
+^OYPZara_1 8 - - - - - - 21:op2[az][ba]
+$speaker 11 - pl 14:r6 - - - -
+grAhaka_1 12 - - - - - - 19:mod
+sahAyawA_1 13 - - - - - - 19:head
+^tIma_1 14 - - - - - - 22:head
+saMparka_1 16 - - - - - - 20:kriyAmUla[bb][bc]
+kara_1-o_1 17 - - - - - - 20:verbalizer[bd][be]
+[6-waw_1] 19 - - - - - - 22:mod
+[4-waw_1] 22 - - 20:k2 -[bh][bi] - - -
+[cp_1] 20 - - 0:main - - - -
+[conj_1] 21 - - 23:rask3 - - -  -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_023>[bl]
+#दुर्भाग्य से, हम फ़ोन पर ऑर्डर स्वीकार नहीं करते हैं।[bm]
+xurBAgya+se_1 1 - -  9:rh - - - -
+$speaker 3 - pl 9:k1 - - - -
+^PZona_1 4 - - 9:k7 - - - -
+^OYrdara_1 6 - - 9:k2 - - - -
+svIkAra_1 7 - - - - - - 12:kriyAmUla
+nahIM_1 8 - - 9:neg - - - -
+kara_1-wA_hE_1 9 - - - - - - 12:verbalizer
+[cp_1] 12 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=Ecommerce_FAQ_024>
+#कृपया एक सहज और सुरक्षित लेनदेन के लिए हमारी वेबसाइट के माध्यम से अपना ऑर्डर दें।
+$addressee 19 anim - 16:k1 - respect  - -
+kqpayA[bo][bp]_1 1 - - 16:vkvn - - - -
+eka_2 2 - - 6:quant - - - -
+sahaja_1 3 - - - - - - 18:op1
+surakRiwa_1 5 - - - - - - 18:op2
+lenaxena_1 6 - - 16:rt [bs]- - - -
+$speaker 9 - pl 10:r6 - - - -
+^vebasAita_1 10 - - 16:k3 - - - -
+apanA 14 - - 15:r6 19:coref - - - 
+^OYrdara_1 15 - - 16:k2 - - - -
+xe_1-o_1 16 - - 0:main - - - -
+[conj_1] 18 - - 6:mod - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_025>
+#हाँ, हम आपकी व्यक्तिगत जानकारी और भुगतान की जानकारी की सुरक्षा को गंभीरता से लेते हैं।
+$speaker 2 - pl 13:k1 - - - -
+$addressee 3 anim - 9:r6 - respect  - -
+vyakwigawa_1 4 - - 18:mod -[bt][bu] - - -
+jAnakArI_1 18 - - - - - - 16:op1
+BugawAna_1 6 - - 7:r6 - - - -[bv]
+jAnakArI_1 7 - - - - - - 16:op2
+surakRA_1 9 - - 13:k2 - - - -
+gaMBIrawA_1 11 - - 13:krvn - - - -
+le_1-wA_hE_1 13 - - 0:main -  hAz_1 - -
+[conj_1] 16 - - 9:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_026a>  
+#हम उद्योग-मानक एन्क्रिप्शन का उपयोग करते हैं ।[bw]
+$speaker 1 anim pl 10:k1 - - - -
+uxyoga_1 12 - - - - - - 9:mod
+mAnaka_1 13 - - - - - - 9:head
+^enkripSana_1 3 - - - - - - 11:head
+upayoga_1 5 - - - - - - 10:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 10:verbalizer
+[6-waw_1] 9 - - - - - - 11:mod
+[6-waw_2] 11 - - 10:k2 - - - -
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_026b>
+#और हम आपकी जानकारी की सुरक्षा सुनिश्चित करने के लिए सख्त सुरक्षा प्रोटोकॉल का पालन करते हैं।
+$speaker 1 - pl 20:k1 - - - -
+$addressee 2 - - 3:r6 - respect  - -
+jAnakArI_1 3 - - 5:r6 - - - -
+surakRA_1 5 - - 19:k2 - - - -
+suniSciwa_1 6 - - - - - - 19:kriyAmUla
+kara_1 7 - pl - - - - 19:verblizer
+saKwa_1 10 - - 18:mod - - - 21:mod
+surakRA_1 11 - - - - - - 21:head
+[karmaXAraya_1] 21 - - - - - - 18:mod
+^protokOYla_1 12 - - 21:r6 - - - 18:head
+pAlana_1 14 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 15 - - - - - - 20:verbalizer
+[6-waw_1] 18 - - 20:k2 - - - -
+[cp_1] 19 - - 20:rt - - - -
+[cp_2] 20 - - 0:main Ecommerce_FAQ_026a.10:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_027a>
+#आपके द्वारा खरीदा गया कोई उत्पाद आपकी खरीद के 7 दिनों के भीतर सेल पर चला जाता है ।
+$addressee 1 - - 3:k3 - respect - -
+KarIxa_1 3 - - 16:rbks - - - -
+koI[by] 5 - - 6:mod [bz]- - - -
+uwpAxa_1 6 - - 16:k1 - - - -[ca]
+$addressee 7 - - 8:r6 - respect  - -
+KarIxa_1 8 - - 11:r6 - - - -
+7 10 numex - - - - - 17:count
+xina_1 11 - pl - - - - 17:unit
+[span_1] 17 - - 16:k7t - - - -
+BIwara_1[cc] 13 - - 11:rkl - - - -
+sela_1 14 - - 16:k7 - - - -
+calA_1-yA_jA_wA_hE_1 16 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_027b>
+#तो हम एक बार मूल्य समायोजन प्रदान करते हैं।
+$speaker 1 - pl 7:k1 - - - -
+eka+bAra_1  2 - - 11:krvn -[ce] - - -
+mUlya_1 4 - - - - - - 10:mod
+samAyojana_1 5 - - - - - - 10:head
+praxAna_1 6 - - - - - - 11:kriyAmUla
+kara_1-wA_hE_1 7 - - - - - - 11:verbalizer
+[6-waw_1] 10 - - 11:k2 - - - -
+[cp_1] 11 - - 0:main - Ecommerce_FAQ_027a.16:AvaSyakawApariNAma - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_028>
+#समायोजन का अनुरोध करने के लिए कृपया अपने ऑर्डर विवरण के साथ हमारी ग्राहक सहायता टीम से संपर्क करें।
+$addressee 26 - - 24:k1 - respect  - -
+samAyojana_1 1 - - 23:rt - - - -[cf]
+anuroXa_1 3 - - - - - - 23:kriyAmUla
+kara_1 4 - pl - - - - 23:verblizer
+kqpayA[cg] 7 - - 24:vkvn - - - -
+apanA 8 - pl 21:r6 25:coref - - -
+^OYrdara_1 9 - - - - - - 21:mod
+vivaraNa_1 10 - - - - - - 21:head
+$speaker 13 - pl 25:r6 - - - -
+grAhaka_1 14 - - - - - - 22:mod
+sahAyawA_1 15 - - - - - - 22:head
+^tIma_1 16 - - - - - - 25:head
+saMparka_1 18 - - - - - - 24:kriyAmUla
+kara_1-o_1 19 - - - - - - 24:verblizer
+[6-waw_1] 21 - - 24:rask1 - - - -
+[6-waw_2] 22 - - - - - - 25:mod
+[4-waw_1] 25 - - 24:k3 - - - -
+[cp_1] 23 - - 24:rt - - - -
+[cp_2] 24 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_029>
+#हां, हमारे पास एक लॉयल्टी प्रोग्राम है जहां आप हर खरीद के लिए अंक अर्जित कर सकते हैं।
+$speaker 2 - pl 22:rsm - - - -
+eka_2 4 - - 22:card - - - -
+^lOYyaltI_1 5 - - - - - - 22:mod
+progrAma_1 6 - - - - - - 22:head
+hE_1-pres 7 - - 0:main - - - -
+$yax 8 - - 21:k7p 22:coref - - -
+$addressee 9 - - 21:k1 - respect  - -
+hara_1 10 - - 11:quant - - - -
+KarIxa_1 11 - - 21:rt - - - -
+aMka_1 14 - - 21:k2 - - - -
+arjiwa_1 15 - - - - - - 21:kriyAmUla
+kara_1 16 - pl - - - - 21:verbalizer
+[cp_1] 21 - - 22:rcloc - - - -
+[2-waw_1] 22  - - 7:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_030>
+#इन अंकों को भविष्य के ऑर्डर पर छूट के लिए भुनाया जा सकता है।
+$wyax 1 - pl 2:dem - proximal - -
+aMka_1 2 - pl 11:k2 Ecommerce_FAQ_029.14:coref - - -
+BaviRya_1 4 - - 6:k7t - - - -
+^OYrdara_1 6 - - 11:k7 - - - -
+CUta_1 8 - - 11:rt - - - -
+BunA_1-yA_jA_sakawA_hE_1 11 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_031>
+#कृपया अधिक जानने और कार्यक्रम में शामिल होने के लिए हमारी वेबसाइट पर जाएं।
+$addressee 18 anim - 14:k1 - respect - -
+kqpayA_1 1 - - 14:vkn - - - -
+aXika_1 2 - - 3:mod - - - -
+jAna_1 3 - pl 14:k7 - - - 17:op1
+kAryakrama_1 5 - - 16:k7 - - - -
+SAmila_1 7 - - - - - - 16:kriyAmUla
+ho_1 8 - pl 14:k7 - - - 16:verbalizer
+$speaker 11 - pl 12:r6 - - - -
+^vebasAita_1 12 - - 14:k7p - - - -
+jA_1-e_1 14 - - 0:main - - - -
+[cp_1] 16 - - - - - - 17:op2
+[conj_1] 17 - - 14:rt - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_032>
+#हां, आप खाता बनाए बिना अतिथि के रूप में ऑर्डर दे सकते हैं।
+$addressee 2 anim - 11:k1 - respect - -
+KAwA_1 3 - - 4:k2 - - - -
+banA_1 4 - - 11:rasnegk1 - - - -
+awiWi_1 6 - - 12:r6 - - - -
+rUpa_1 12 - - 11:k7 - - - -
+^OYrdara_1 10 - - 11:k2 - - - -
+xe_1-0_sakawA_hE_1 11 - - 0:main - hAz - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_033>
+#हालांकि, खाता बनाने से ऑर्डर ट्रैकिंग और भविष्य की आसान खरीदारी जैसे लाभ मिलते हैं।
+KAwA_1 2 - - 3:k2 - - - -
+banA_1 3 - pl - - - - 19:op1
+^OYrdara_1 5 - - - - - - 17:mod
+^trEkiMga_1 6 - - 11:r6 - - - 17:head
+BaviRya_1 8 - - 11:r6 - - - -
+AsAna_1 10 - - 11:mod - - - -
+KarIxArI_1 11 - - - - - - 19:op3
+lABa_1 13 - - 14:k2 - - - -
+mila_1-wA_hE_1 14 - - 0:main - - - -
+[6-waw_1] 17 - - - - - - 19:op2
+[conj_1] 19 - - 13:re - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_034>
+#हां, हम कुछ उत्पादों के लिए थोक या थोक छूट प्रदान करते हैं।
+$speaker 2 anim pl 15:k1 - - - -
+kuCa_1 3 - - 4:quant - - - -
+uwpAxa_1 4 - pl 15:rt - - - -
+Woka_1 7 - - - - - - 16:op1
+Woka_1 9 - - - - - - 17:mod
+CUta_1 10 - - 12:k2 - - - 17:head
+[6-waw_1] 17 - - - - - - 16:op2
+praxAna_1 11 - - - - - - 15:kriyAmUla
+kara_1-wA_hE_1 12 - - - - - - 15:verblizer
+[cp_1] 15 - - 0:main - hAz - -
+[disjunct_1] 16 - - 15:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_035a>
+#अधिक जानकारी के लिए और अपनी विशिष्ट आवश्यकताओं पर चर्चा करने के लिए कृपया हमारी ग्राहक सहायता टीम से संपर्क करें ।
+$addressee 27 anim - 25:k1 - respect - -  
+aXika_1 1 - - 2:quant - - - -
+jAnakArI_1 2 - - - - - - 26:op1
+apanA 6 - - 8:r6 27:coref - - -
+viSiRta_1 7 - - 8:mod - - - -
+AvaSyakawA_1 8 - pl 25:k7 - - - -
+carcA_1 10 - - - - - - 24:kriyAmUla
+kara_1 11 - pl - - - - 24:verbalizer
+kqpayA_1 14 - - 25:vkvn - - - -
+$speaker 15 anim pl 23:r6 - - - -
+grAhaka_1 16 - - - - - - 28:mod
+sahAyawA_1 17 - - - - - - 28:head
+[6-waw_1] 28 - - - - - - 23:mod 
+tIma_1 18 - - 21:k4 - - - 23:head
+saMparka_1 20 - - - - - - 25:kriyAmUla
+kara_1-e_1 21 - - - - - - 25:verbalizer
+[4-waw_1] 23 - - 25:k3 - - - -
+[cp_1] 24 - - - - - - 26:op2
+[cp_2] 25 - - 0:main - - - -
+[conj_1] 26 - - 25:rt - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_035b>
+#या अधिक जानकारी के लिए और अपनी विशिष्ट आवश्यकताओं पर चर्चा करने के लिए कृपया हमारे थोक पृष्ठ पर जाएँ।
+$addressee 23 anim - 19:k1 - respect - -   
+aXika_1 1 - - 2:quant - - - -
+jAnakArI_1 2 - - - - - - 22:op1
+apanA 6 - - 8:r6 23:coref - - -
+viSiRta_1 7 - - 8:mod - - - -
+AvaSyakawA_1 8 - pl 21:k7 - - - -
+carcA_1 10 - - - - - - 21:kriyAmUla
+kara_1 11 - pl - - - - 21:verbalizer
+kqpayA_1 14 - - 19:vkvn - - - -
+$speaker 15 anim pl 17:r6 - - - -
+Woka_1 16 - - 17:mod - - - -
+pqRTa_1 17 - - 19:k7 - - - -
+jA_1-e_1 19 - - 0:main Ecommerce_FAQ_035a.19:anyawra Ecommerce_FAQ_035a.25:samuccaya - -
+[cp_1] 21 - - - - - - 22:op2
+[conj_1] 22 - - 19:rt - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_036a>
+#आपको अपने ऑर्डर में कोई आइटम बदलने या रद्द करने की आवश्यकता है ।
+$addressee 1 anim - 13:k4a - respect - -
+apanA 2 - pl 3:r6 - - - -
+^OYrdara_1 3 - - 7:k7 - - - -
+koI 5 - - 6:mod - - - -
+Aitama_1 6 - - 7:k2 - - - -
+baxala_1 7 - pl - - - - 16:op1
+raxxa_1 9 - - - - - - 15:kriyAmUla
+kara_1 10 - pl - - - - 15:verbalizer
+AvaSyakawA_1 12 - - 13:k1 - - - -
+hE_1-pres 13 - - 0:main Ecommerce_FAQ_036b.13:AvaSyakawApariNAma - - -
+[cp_1] 15 - - - - - - 16:op2
+[disjunct_1] 16 - - 13:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_036b>
+#तो कृपया जितनी जल्दी हो सके हमारी ग्राहक सहायता टीम से संपर्क करें।
+$addressee 5 anim - 15:k1 - respect - -
+kqpayA_1 1 - - 15:vkn - - - -
+$yax 2 - - 3:quant - - - -
+jalxI_1 3 - - 4:k7t - - - -
+ho_1 4 - - 12:vmod - - - -
+$speaker 6 - pl 9:r6 - - - -
+grAhaka_1 7 - - - - - - 14:mod
+sahAyawA_1 8 - - - - - - 14:head
+^tIma_1 9 - - 12:k5 - - - 16:head
+saMparka_1 11 - - 12:pof - - - 15:kriyAmUla
+kara_1-o_1 12 - - - - - - 15:verbalizer
+[6-waw_1] 14 - - - - - - 16:mod
+[4-waw_1] 16 - - 15:k2 - - - -
+[cp_1] 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_037>
+#हम आवश्यक चरणों में आपकी सहायता करेंगे।
+$speaker 1 anim pl 9:k1 - - - -
+AvaSyaka_1 2 - - 3:mod - - - -
+caraNa_1 3 - pl 9:k7 - - - -
+$addressee 5 anim - 6:k2 - respect - -
+sahAyawA_1 6 - - 7:pof - - - 9:kriyAmUla
+kara_1-gA_1 7 - - - - - - 9:verbalizer
+[cp_1] 9 - -  0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_038a>
+#उत्पाद समीक्षा देने के लिए, हमारी वेबसाइट पर उत्पाद पृष्ठ पर जाएँ ।
+uwpAxa_1 1 - - - - - - 14:mod
+samIkRA_1 2 - - - - - - 14:head
+xe_1 3 - pl 12:rt - - - -
+$speaker 6 anim pl 7:r6 - - - -
+^vebasAita_1 7 - - 15:k7p - - - -
+uwpAxa_1 9 - - - - - - 15:mod
+pqRTa_1 10 - - - - - - 15:head
+$addressee 16 anim - 12:k1 respect - - - 
+jA_1-e_1 12 - - 0:main - - - -
+[6-waw_1] 14 - - 3:k2 - - - -
+[6-waw_2] 15 - - 12:k2p - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_038b>
+#और 'समीक्षा लिखें' बटन पर क्लिक करें।
+$addressee 10 anim -  8:k1 respect - - -
+samIkRA_1 1 - - 2:k2 - - - -
+liKa_1 2 - pl 3:rvks - - - -
+batana_1 3 - - 6:k7p - - - -
+^klika_1 5 - - - - - - 8:kriyAmUla
+kara_1-o_1 6 - - - Ecommerce_FAQ_038a.12:samuccaya - - 8:verbalizer
+[cp_1] 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_039>
+#आप उत्पाद के साथ अपने अनुभव के आधार पर अपनी प्रतिक्रिया और रेटिंग साझा कर सकते हैं।
+$addressee 1 anim - 15:k1 - respect - -
+uwpAxa_1 2 - - 15:rask2 - - - -
+apanA 5 - pl 6:r6 - - - -
+anuBava_1 6 - - 8:r6 - - - -
+AXAra_1 8 - - 15:k7 - - - -
+apanA 10 - - 11:r6 - - - -
+prawikriyA_1 11 - - - - - - 20:op1
+^retiMga_1 13 - - - - - - 20:op2
+sAJA_1 14 - - - - - - 19:kriyAmUla
+kara_1-0_sakawA_hE_1 15 - - - - - - 19:verbalizer
+[cp_1] 19 - - 0:main - - - -
+[conj_1] 20 - - 15:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_040>
+#आमतौर पर, प्रत्येक ऑर्डर पर केवल एक प्रोमो कोड लागू किया जा सकता है।
+AmawOra+para_1 1 - - 2:mod - - - -
+prawyeka_1 3 - - 4:quant - - - -
+^OYrdara_1 4 - - 11:k7 - - - -
+eka_1 7 - - 18:card - kevala_1 - -
+^promo_1 8 - - - - - - 18:mod
+^koda_1 9 - - - - - - 18:head
+[6-waw_1] 18 - - 17:k2 - - - -
+lAgU_1 10 - - - - - - 17:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1 11 - - - - - - 17:verbalizer
+[cp_1] 17 - -  0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_041>
+#चेकआउट प्रक्रिया के दौरान, अपने ऑर्डर पर छूट लागू करने के लिए निर्दिष्ट फ़ील्ड में प्रोमो कोड दर्ज करें।
+$addressee 25 anim - 24:k1 - respect - -
+^cekaAuta_1 1 - - - - - - 21:mod
+prakriyA_1 2 - - 10:k3 - - - 21:head
+apanA 5 - pl 6:r6 25:coref - - -
+^OYrdara_1 6 - - 23:k7 - - - -
+CUta_1 8 - - 23:k2 - - - -
+lAgU_1 9 - - - - - - 23:kriyAmUla
+kara_1 10 - pl - - - - 23:verbalizer
+nirxiRta_1 13 - - 14:mod - - - -
+^PZIlda_1 14 - - 19:k7 - - - -
+^promo_1 16 - - - - - - 22:mod
+^koda_1 17 - - - - - - 22:head
+xarja_1 18 - - - - - - 24:kriyAmUla
+kara_1-e_1 19 - - - - - - 24:verbalizer
+[6-waw_1] 21 - - 24:k7 - - - -
+[6-waw_2] 22 - - 24:k2 - - - -
+[cp_1] 23 - - 24:rt - - - -
+[cp_2] 24 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=Ecommerce_FAQ_042a>
+#आपको  अपने ऑर्डर में गलत आइटम मिलता है ।
+$addressee 1 anim - 7:k4 - respect - -
+apanA 2 - pl 3:r6 1:coref - - -
+^OYrdara_1 3 - - 7:k7 - - - -
+galawa_1 5 - - 6:mod - - - -
+^Aitama_1 6 - - 7:k1 - - - -
+mila_1-wA_hE_1 7 - - 0:main Ecommerce_FAQ_042b.12:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_042b>
+#तो कृपया तुरंत हमारी ग्राहक सहायता टीम से संपर्क करें।
+kqpayA_1 1 - - 9:vkvn - - - -
+$addressee 13 anim - 7:k4 - respect - -
+wuraMwa_1 2 - - 9:krvn - - - -
+$speaker 3 anim pl 6:r6 - - - -
+grAhaka_1 4 - - - - - - 11:mod
+sahAyawA_1 5 - - - - - - 11:head
+^tIma_1 6 - - 9:rask1 - - - -
+saMparka_1 8 - - - - - - 12:kriyAmUla
+kara_1-0_1 9 - - - - - - 12:verbalizer
+[6-waw_1] 11 - - - - - - 14:mod
+[4-waw_1] 14 - - - - - - 14:head
+[cp_1] 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Ecommerce_FAQ_043a>
+#हम आपके लिए सही आइटम भेजने की व्यवस्था करेंगे ।
+$speaker 1 - pl 11:k1 - - - -
+$addressee 2 -  - 6:k4 - respect  - -
+sahI_1 4 - - 5:mod - - - -
+^Aitama_1 5 - - 11:k2 - - - -
+Beja_1 6 - pl 11:rt - - - -
+vyavasWA_1 8 - - - - - - 11:kriyAmUla
+kara_1-gA_1 9 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+
+

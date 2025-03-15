@@ -8,12 +8,14 @@ from .decorators import admin_required
 from application.extensions import db
 from application.models.sentence_model import Sentence
 from application.models.segment_model import Segment
+from application.services.measure_time import measure_response_time
 
 project_blueprint = Blueprint('projects', __name__)
 
 
 @project_blueprint.route('/add', methods=['POST'])
 @jwt_required()
+@measure_response_time
 @admin_required
 def add_project():
     jwt_claims = get_jwt()
@@ -30,6 +32,7 @@ def add_project():
 
 @project_blueprint.route('/all', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def view_all_projects():
     projects = ProjectService.get_all_projects()
     projects_data = []
@@ -64,6 +67,7 @@ def view_all_projects():
 
 @project_blueprint.route('/by_language/<language>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def view_projects_by_language(language):
     projects = ProjectService.get_projects_by_language(language)
     projects_data = [{'id': project.id, 'name': project.name} for project in projects]
@@ -82,6 +86,7 @@ def view_projects_by_language(language):
 #     return jsonify({"error": "Failed to assign user to project and chapter"}), 400
 @project_blueprint.route('/<int:project_id>/assign_users', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def assign_users_to_project_endpoint(project_id):
     data = request.get_json()
     user_ids = data.get('user_ids', [])
@@ -100,6 +105,7 @@ def assign_users_to_project_endpoint(project_id):
 
 @project_blueprint.route('/by_user/<int:user_id>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def view_projects_by_user(user_id):
     projects = ProjectService.get_projects_by_user(user_id)
     projects_data = [{'id': project.id, 'name': project.name, 'description': project.description, 'language': project.language, 'owner_id': project.owner_id} for project in projects]
@@ -108,6 +114,7 @@ def view_projects_by_user(user_id):
 
 @project_blueprint.route('/by_organization/<organization>', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def get_projects_by_user_organization(organization):
     projects = ProjectService.get_projects_by_user_organization(organization)
     projects_data = []

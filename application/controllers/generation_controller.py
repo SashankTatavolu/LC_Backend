@@ -12,10 +12,12 @@ from application.models.segment_model import Segment
 from application.models.sentence_model import Sentence
 from io import BytesIO
 from sqlalchemy.orm import joinedload
+from application.services.measure_time import measure_response_time
 
 generation_blueprint = Blueprint('generation', __name__)
 @generation_blueprint.route('/process_single', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def process_single_file():
     if 'segment_ids' not in request.json or 'chapter_id' not in request.json:
         return jsonify({"error": "Segment IDs or Chapter ID missing"}), 400
@@ -120,6 +122,7 @@ def process_single_file():
 
 @generation_blueprint.route('/process_bulk', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def process_bulk_file():
     if 'chapter_id' not in request.json:
         return jsonify({"error": "Chapter ID missing"}), 400
@@ -225,6 +228,7 @@ def process_bulk_file():
 
 @generation_blueprint.route('/process', methods=['POST'])
 @jwt_required()
+@measure_response_time
 def process_file():
     if 'segment_ids' not in request.json or 'chapter_id' not in request.json:
         return jsonify({"error": "Segment IDs or Chapter ID missing"}), 400
@@ -306,6 +310,7 @@ def process_file():
 
 @generation_blueprint.route('/generate/text', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def fetch_generated_text():
     segment_id = request.args.get('segment_id')
     chapter_id = request.args.get('chapter_id')
@@ -322,6 +327,7 @@ def fetch_generated_text():
     
 @generation_blueprint.route('/<int:segment_id>/download', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def download_generated_text(segment_id):
     generated_text = GenerationService.get_generated_text_as_string(segment_id)
     if not generated_text:
@@ -340,6 +346,7 @@ def download_generated_text(segment_id):
 
 @generation_blueprint.route('/chapter/<int:chapter_id>/download', methods=['GET'])
 @jwt_required()
+@measure_response_time
 def download_generated_texts_for_chapter(chapter_id):
     generated_texts = GenerationService.get_all_generated_texts_by_chapter(chapter_id)
     
