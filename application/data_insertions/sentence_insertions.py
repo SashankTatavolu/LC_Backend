@@ -217,9 +217,9 @@ def read_sentences_from_file(file_path):
                 print(f"Skipping invalid line: {line}")
     return sentences
 
-# DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
+DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
 
-DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+# DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
 
 engine = create_engine(DATABASE_URL)
 Session = sessionmaker(bind=engine)
@@ -236,7 +236,7 @@ sentences_data = read_sentences_from_file(sentence_file_path)
 
 # Insert sentences into the database
 for sentence_data in sentences_data:
-    sentence_data["chapter_id"] = 18 # Specify the chapter ID for these sentences
+    sentence_data["chapter_id"] = 3 # Specify the chapter ID for these sentences
     new_sentence = Sentence(**sentence_data)
     session.add(new_sentence)
 

@@ -7,6 +7,7 @@ from application.models.lexical_conceptual_model import LexicalConceptual
 from application.models.relational_model import Relational
 from application.models.discourse_model import Discourse
 from application.models.construction_model import Construction
+from application.models.user_model import User
 
 class SegmentService:
     @staticmethod
@@ -143,3 +144,4 @@ class SegmentService:
             "discourse": [status[0] for status in discourse],
             "construction": [status[0] for status in construction]
         }
+

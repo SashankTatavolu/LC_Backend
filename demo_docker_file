@@ -16,7 +16,7 @@ WORKDIR /app
 # Copy requirements first to cache dependencies
 COPY requirements.txt /app/
 RUN python -m pip install --upgrade pip setuptools wheel
-RUN pip install --no-cache-dir -r requirements.txt gunicorn  # Install Gunicorn
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the app
 COPY . /app
@@ -25,5 +25,4 @@ EXPOSE 5000
 
 ENV PYTHONUNBUFFERED=1
 
-# Use Gunicorn to run Flask app with multiple workers
-CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:5000", "app:app"]
+CMD ["python", "app.py"]

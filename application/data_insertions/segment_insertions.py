@@ -222,7 +222,8 @@ from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
 from sqlalchemy.orm import relationship
 
 # Database setup
-SQLALCHEMY_DATABASE_URL = "postgresql://postgres:password123@10.2.8.12/lc4u"
+# SQLALCHEMY_DATABASE_URL = "postgresql://postgres:password123@10.2.8.12/lc4u"
+SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:Sashank123@localhost/testdb'
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
@@ -266,7 +267,7 @@ Base.metadata.create_all(bind=engine)
 
 def main():
     file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/segments.txt"
-    chapter_id = 18  # Adjust based on the actual chapter ID
+    chapter_id = 3  # Adjust based on the actual chapter ID
 
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()

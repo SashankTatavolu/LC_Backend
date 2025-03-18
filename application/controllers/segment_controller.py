@@ -92,3 +92,5 @@ def fetch_is_finalized(segment_id):
         return jsonify({"success": True, "data": status}), 200
     except Exception as e:
         return jsonify({"success": False, "error": str(e)}), 500
+
+

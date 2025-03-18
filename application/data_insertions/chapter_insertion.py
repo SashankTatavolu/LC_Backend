@@ -20,9 +20,9 @@ def read_chapter_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-# DATABASE_URL = 'postgresql://postgres:Sashank123@localhost/testdb'
-DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
-# DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc_platform'
+DATABASE_URL = 'postgresql://postgres:Sashank123@localhost/testdb'
+# DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+
 
 engine = create_engine(DATABASE_URL)
 
@@ -47,9 +47,9 @@ chapter_text = read_chapter_from_file(chapter_file_path)
 # }
 
 chapter_data = {
-    "project_id": 9,
+    "project_id": 1,
     "name": "Ecommerce_chapter_1",  
-    "uploaded_by_id": 24, 
+    "uploaded_by_id": 1, 
     "text": chapter_text,
     "created_at": datetime.datetime.utcnow(),
     "updated_at": datetime.datetime.utcnow(),
