@@ -40,7 +40,10 @@ class UserService:
     #     return User.query.filter_by(organization=organization).all()
     @staticmethod
     def get_users_by_organization(organization):
-        return User.query.filter(User.organization == organization, User.role != 'admin').all()
+        return User.query.filter(
+        User.organization == organization,
+        ~User.role.op('?')('admin')  # Checks if 'admin' is NOT in the JSONB role
+    ).all()
 
     from sqlalchemy import func
 

@@ -9,6 +9,8 @@ from application.extensions import db
 from application.models.sentence_model import Sentence
 from application.models.segment_model import Segment
 from application.services.measure_time import measure_response_time
+from application.services.chapter_service import ChapterService
+from application.services.segment_service import SegmentService
 
 project_blueprint = Blueprint('projects', __name__)
 
@@ -73,17 +75,7 @@ def view_projects_by_language(language):
     projects_data = [{'id': project.id, 'name': project.name} for project in projects]
     return jsonify(projects_data), 200
 
-# @project_blueprint.route('/<int:project_id>/assign_user', methods=['POST'])
-# @jwt_required()
-# def assign_user_to_project(project_id):
-#     data = request.get_json()
-#     if not data.get('user_id') or not data.get('chapter_id'):
-#         return jsonify({"error": "user_id and chapter_id are required"}), 400
 
-#     success = ProjectService.assign_user_to_project(project_id, data['user_id'], data['chapter_id'])
-#     if success:
-#         return jsonify({"message": "User assigned to project and chapter successfully"}), 200
-#     return jsonify({"error": "Failed to assign user to project and chapter"}), 400
 @project_blueprint.route('/<int:project_id>/assign_users', methods=['POST'])
 @jwt_required()
 @measure_response_time
@@ -132,3 +124,42 @@ def get_projects_by_user_organization(organization):
         })
 
     return jsonify(projects_data), 200
+
+
+@project_blueprint.route('/<int:project_id>/overview', methods=['GET'])
+@jwt_required()
+def get_project_overview(project_id):
+    """
+    Get project overview with chapter count, total segments, completed segments, pending segments,
+    and a list of chapter IDs.
+    """
+    try:
+        # Get all chapters for the project
+        chapters = ChapterService.get_chapters_by_project(project_id)
+        total_chapters = len(chapters)
+        
+        total_segments = 0
+        completed_segments = 0
+        chapter_ids = []
+
+        for chapter in chapters:
+            chapter_ids.append(chapter.id)
+            chapter_segments = SegmentService.get_segments_count_by_chapter(chapter.id)
+            completed_chapter_segments = SegmentService.get_completed_segments_count_by_chapter(chapter.id)
+
+            total_segments += chapter_segments
+            completed_segments += completed_chapter_segments
+
+        pending_segments = total_segments - completed_segments
+
+        return jsonify({
+            'project_id': project_id,
+            'total_chapters': total_chapters,
+            'chapter_ids': chapter_ids,
+            'total_segments': total_segments,
+            'completed_segments': completed_segments,
+            'pending_segments': pending_segments
+        }), 200
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500

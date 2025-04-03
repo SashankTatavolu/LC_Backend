@@ -16,6 +16,7 @@ from .controllers.construction_controller import construction_blueprint
 from .controllers.generation_controller import generation_blueprint
 from .controllers.user_controller import user_blueprint
 from .controllers.discourse_controller import discourse_blueprint
+from .controllers.assignment_controllers import assignment_blueprint
 
 mail = Mail()
 
@@ -53,5 +54,6 @@ def create_app(config_class=DevelopmentConfig):
     app.register_blueprint(discourse_blueprint, url_prefix='/api/discourse')
     app.register_blueprint(visualizer_blueprint, url_prefix='/api/visualize')
     app.register_blueprint(generation_blueprint, url_prefix='/api/generate')
+    app.register_blueprint(assignment_blueprint, url_prefix='/api/assignments')
 
     return app

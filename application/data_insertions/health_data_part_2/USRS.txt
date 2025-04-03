@@ -1,0 +1,1130 @@
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_001CONSENTSHEET>
+#सूचित सहमति
+sUciwa_1	1	-	-	2:mod	-	-	-	-
+sahamawi_1	2	-	-	0:main	-	-	-	-
+%consentsheet
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_002ADDRESS>
+# क्रिश्चियन मेडिकल कॉलेज , वेल्लोर डिपार्टमेंट ऑफ यूरोलॉजी 
+kriSciyana	3	-	-	-	-	-	-	86:begin
+[ne_1]	86	org	-	5:pof__cn	-	-	-	-
+medikala	4	male	-	-	-	-	-	86:inside
+kOYleja	5	-	-	-	-	-	-	86:inside
+vellora	7	-	-	-	-	-	-	87:begin
+[ne_2]	87	org	-	11:pof__cn	-	-	-	-
+dipArtameMta	8	-	-	-	-	-	-	87:inside
+OYPa	9	-	-	-	-	-	-	87:inside
+yUrolOYjI	10	-	-	-	-	-	-	87:inside
+%address
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_003TITLE>
+#मूत्राशय ट्यूमर के पोस्ट - ट्रांसयूरिथ्रल विच्छेदन ( टीयूआरबीटी ) के बाद 3 महीने में पुनरावृत्ति होने वाले कैंसर में निम्न दो स्थितियों की तुलना करने वाला एक यादृच्छिक नियंत्रित परीक्षण ( आरसीटी ) : 3 सेमी या इससे कम आकार और संख्या में 3 या इससे कम मूत्राशय ट्यूमर्स के लिए अनिरंतर पानी की धार से मूत्राशय की सफाई ( इरिगेशन ) करना बनाम निरंतर पानी की धार से मूत्राशय की सफाई करना ।
+mUwrASaya	11	male	-	12:mod	-	-	-	-
+tyUmara	12	-	-	17:r6	-	-	-	-
+posta_1	14	-	-	-	-	-	-	88:mod
+trAMsayUriWrala	16	-	-	-	-	-	-	89:begin
+[ne_3]	89	-	-	27:k7t	-	-	-	-
+vicCexana_1	17	-	-	-	-	-	-	89:inside
+tIyUArabItI	19	-	-	17:re	-	-	-	-
+bAxa_1	22	-	-	17:k7p	-	-	-	-
+3	23	numex	-	24:card	-	-	-	-
+mahInA_1	24	-	pl	27:k7t	-	-	-	-
+punarAvqwwi_1	26	-	-	-	-	-	-	92:kriyAmUla
+ho_1	27	-	pl	-	-	-	-	92:verbalizer
+[cp_1]	92	-	-	29:mod	-	-	-	-
+kEMsara_1	29	-	-	36:k7	-	-	-	-
+nimna_1	31	-	-	33:quant	-	-	-	-
+xo	32	numex	-	33:card	-	-	-	-
+sWiwi_1	33	-	pl	35:k2	-	-	-	-
+wulanA_1	35	-	-	-	-	-	-	93:kriyAmUla
+kara_1	36	-	pl	-	-	-	-	93:verbalizer
+[cp_2]	93	-	-	41:mod	-	-	-	-
+eka_1	38	numex	-	41:card	-	-	-	-
+yAxqcCika_1	39	-	-	41:mod	-	-	-	-
+niyaMwriwa_1	40	-	-	39:mod	-	-	-	-
+parIkRaNa_1	41	-	-	48:ccof	-	-	-	-
+ArasItI	43	-	-	41:re	-	-	-	-
+3	46	numex	-	-	-	-	-	90:begin
+[ne_4]	90	-	-	48:ccof	-	-	-	-
+semI	47	-	-	-	-	-	-	90:inside
+$wyax	49	-	-	-	-	proximal	-	96:op1
+AkAra_1	51	-	-	-	-	-	-	96:op2
+saMKyA_1	53	-	-	-	-	-	-	96:op3
+3	55	numex	-	56:ccof	-	-	-	-
+$wyax	57	-	-	-	-	proximal	-	97:op1
+mUwrASaya_1	59	-	-	-	-	-	-	91:mod
+tyUmarsa	60	-	-	-	-	-	-	91:head
+[nc_2]	91	-	-	-	-	-	-	96:op4
+aniraMwara_1	63	-	-	64:mod	-	-	-	-
+pAnI_1	64	-	-	66:r6	-	-	-	-
+XAra_1	66	-	-	74:k3	-	-	-	-
+mUwrASaya_1	68	-	-	70:r6	-	-	-	-
+saPAI_1	70	-	-	-	-	-	-	94:kriyAmUla
+irigeSana_1	72	-	-	70:re	-	-	-	-
+kara_1	74	-	pl	-	-	-	-	94:verbalizer
+[cp_3]	94	-	-	75:ccof	-	-	-	-
+niraMwara_1	76	-	-	77:mod	-	-	-	-
+pAnI_1	77	-	-	79:r6	-	-	-	-
+XAra_1	79	-	-	84:k3	-	-	-	-
+mUwrASaya_1	81	-	-	83:k2	-	-	-	-
+saPAI_1	83	-	-	-	-	-	-	95:kriyAmUla
+kara_1	84	-	pl	-	-	-	-	95:verbalizer
+[cp_4]	95	-	-	75:ccof	-	-	-	-
+[conj_1]	96	-	-	0:r6	-	-	-	-
+[disjunct_1]	97	-	-	0:mod	-	-	-	-
+[nc_1]	88	-	-	27:k7t	-	-	-	-
+%title
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_004INFOSHEET>
+#सूचना पत्रक
+sUcanA_1	1	-	-	-	-	-	-	71:mod
+pawraka_1	2	-	-	-	-	-	-	71:head
+[nc_1]	71	-	-	0:k1	-	-	-	-
+%infosheet
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_005>
+#हम आपको मूत्राशय ट्यूमर ( टीयूआरबीटी ) के ट्रांसयूरिथ्रल रिसेक्शन के बाद आकार में 3 सेमी या इससे कम और संख्या में 3 या इससे कम एकल मूत्राशय ट्यूमर के उपचार के रूप में कंटीन्यूएस ब्लैडर इरिगेशन ( सीबीआई ) और पानी की धार से सफाई नहीं करने ( नॉन - इरिगेशन ) की तुलना करने वाले एक अध्ययन में भाग लेने के लिए आमंत्रित करते हैं ।
+$speaker	3	-	pl	0:k1	-	-	-	-
+$addressee	4	-	-	0:k4	-	respect	-	-
+mUwrASaya_1	5	-	-	-	-	-	-	72:mod
+tyUmara_1	6	-	-	-	-	-	-	72:head
+[nc_2]	72	-	-	12:r6	-	-	-	-
+tIyUArabItI	8	-	-	6:mod	-	-	-	-
+trAMsayUriWrala	11	-	-	-	-	-	-	73:begin
+[ne_1]	73	-	-	0:r6	-	-	-	-
+risekSana	12	-	-	-	-	-	-	73:inside
+bAxa_1	14	-	-	12:k7p	-	-	-	-
+AkAra_1	15	-	-	0:k7	-	-	-	-
+3	17	numex	-	18:card	-	-	-	-
+semI	18	-	-	19:ccof	-	-	-	-
+$wyax	20	-	-	19:ccof	-	proximal	-	-
+saMKyA_1	23	-	-	0:k7	-	-	-	-
+3	25	numex	-	26:ccof	-	-	-	-
+$wyax	27	-	-	68:k2	-	proximal	-	-
+ekala_1	29	-	-	-	-	-	-	74:mod
+mUwrASaya_1	30	-	-	-	-	-	-	75:mod
+tyUmara_1	31	-	-	-	-	-	-	75:head
+[nc_4]	75	-	-	33:r6	-	-	-	-
+upacAra_1	33	-	-	50:k7	-	-	-	-
+kaMtInyUesa	37	-	-	-	-	-	-	76:begin
+[ne_2]	76	-	-	43:ccof	-	-	-	-
+blEdara	38	-	-	-	-	-	-	77:begin
+[ne_3]	77	-	-	43:ccof	-	-	-	-
+irigeSana	39	-	-	-	-	-	-	77:inside
+sIbIAI	41	-	-	39:re	-	-	-	-
+pAnI_1	44	-	-	43:ccof	-	-	-	-
+XAra_1	46	-	-	50:k3	-	-	-	-
+saPAI_1	48	-	-	-	-	-	-	79:kriyAmUla
+nahIM_1	49	-	-	50:neg	-	-	-	-
+kara_1	50	-	pl	-	-	-	-	79:verbalizer
+[cp_1]	79	-	-	57:k2	-	-	-	-
+nOYna_1	52	-	-	-	-	-	-	78:mod
+irigeSana	54	-	-	-	-	-	-	78:head
+[nc_5]	78	-	-	50:mod	-	-	-	-
+wulanA_1	57	-	-	-	-	-	-	80:kriyAmUla
+kara_1	58	-	pl	-	-	-	-	80:verbalizer
+[cp_2]	80	-	-	61:mod	-	-	-	-
+eka_1	60	numex	-	61:card	-	-	-	-
+aXyayana_1	61	-	-	64:k7	-	-	-	-
+BAga_1	63	-	-	-	-	-	-	81:kriyAmUla
+le_1	64	-	pl	-	-	-	-	81:verbalizer
+[cp_3]	81	-	-	68:rt	-	-	-	-
+AmaMwriwa_1	67	-	-	-	-	-	-	82:kriyAmUla
+kara_1	68	-	pl	-	-	-	-	82:verbalizer
+[cp_4]	82	-	-	26:ccof	-	-	-	-
+[conj_1]	83	-	-	0:mod	-	-	-	-
+[nc_3]	74	-	-	33:r6	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_006a>
+#इनमें से अधिकांश ट्यूमर कम जोखिम भरे होते हैं ।
+$wyax	1	-	pl	7:k5	-	proximal	-	-
+aXikAMSa_1	3	-	-	4:quant	-	-	-	-
+tyUmara_1	4	-	-	7:k1	-	-	-	-
+joKima_1	6	-	-	-	-	-	-	20:kriyAmUla
+Bara_1-subj_ho_hE_1	7	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_006b>
+#जो मूत्राशय में गहराई तक नहीं फैलते हैं ।
+$yax	11	-	-	17:k1	-	-	-	-
+mUwrASaya_1	12	-	-	17:k7	-	-	-	-
+gaharAI_1	14	-	-	17:k7	-	-	-	-
+nahIM_1	16	-	-	17:neg	-	-	-	-
+PEla_1	17	-	pl	0:main	-	-	-	-
+%negative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_006c>
+#और जो आमतौर पर घातक नहीं होते हैं ।
+$yax	11	-	-	8:k1	-	-	-	-
+AmawOra_1	1	-	-	5:k7	-	-	-	-
+GAwaka_1	3	-	-	-	-	-	-	-
+nahIM_1	4	-	-	5:neg	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_007a>
+#हालांकि , वे बार-बार होते हैं ।
+ho_1-wA_hE_1	5	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_003b.16:pariNAma	-	-	-
+$wyax	1	-	-	5:k1	-	distal	-	-
+bAra+bAra_1	4	-	-	5:krvn	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_007b>
+#अतः नियमित जांच करने और ट्यूमर हटाने के लिये उपचार की आवश्यकता होती है ।
+niyamiwa_1	1	-	-	15:freq	-	-	-	-
+jAMca_1	2	-	-	-	-	-	-	15:kriyAmUla
+kara_1	3	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	-	-	-	-	17:op1
+^tyUmara_1	5	-	-	6:k2	-	-	-	-
+hatA_1	6	-	-	-	-	-	-	17:op2
+upacAra_1	9	-	-	11:r6	-	-	-	-
+AvaSyakawA_1	11	-	-	12:k1	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	12:rt	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_008a>
+#ट्यूमर हटाने के बाद , रक्तस्राव होना आम बात है ।
+tyUmara_1	1	-	-	2:k2	-	-	-	-
+hatA_1	2	-	pl	10:rblak	-	-	-	-
+rakwasrAva_1	6	-	-	-	-	-	-	12:kriyAmUla
+ho_1	7	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	10:k1	-	-	-	-
+Ama_1	8	-	-	9:mod	-	-	-	-
+bAwa_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_008b>
+#और हम आमतौर पर मूत्राशय को लगातार फ्लश करने के लिए एक ट्यूब लगा कर इसका प्रबंधन करते हैं ।
+$speaker	1	anim	pl	21:k1	-	-	-	-
+AmawOra+para_1	2	-	-	21:vkvn	-	-	-	-
+mUwrASaya_1	4	-	-	20:k2	-	-	-	-
+lagAwAra_1	6	-	-	20:krvn	-	-	-	-
+^PlaSa_1	7	-	-	-	-	-	-	20:kriyAmUla
+[cp_1]	20	-	-	21:rt	-	-	-	-
+kara_1	8	-	-	-	-	-	-	20:verbalizer
+^tyUba_1	12	-	-	13:k2	-	-	-	-
+lagA_1	13	-	-	21:rpk	-	-	-	-
+$wyax	15	-	-	21:k2	-	proximal	-	-
+prabaMXana_1	16	-	-	-	-	-	-	21:kriyAmUla
+kara_1-wA_hE_1	17	-	-	-	-	-	-	21:verbalizer
+[cp_2]	21	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_004a.10:samuccaya	-	-	-
+eka_2	11	-	-	12:quant	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_009a>
+#प्राथमिक लक्ष्य रक्त को साफ करना और थक्के बनने को रोकना है ।
+prAWamika_1	1	-	-	2:mod	-	-	-	-
+lakRya_1	2	-	-	16:k1	-	-	-	-
+rakwa_1	3	-	-	15:k2	-	-	-	-
+sAPa_1	5	-	-	-	-	-	-	14:kriyAmUla
+kara_1	6	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	-	-	-	-	15:op1
+WakkA_1	8	-	pl	9:k2	-	-	-	-
+bana_1	9	-	-	11:k2	-	-	-	-
+roka_1	11	-	-	-	-	-	-	15:op2
+hE_1-pres	16	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	16:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_009b>
+#लेकिन यह किसी भी शेष रही कैंसर कोशिकाओं को फ्लश कर के कैंसर की पुनरावृत्ति को रोकने में भी मदद कर सकता है ।
+$wyax	1	-	-	26:k1	-	proximal	-	-
+koI_1	2	-	-	27:quant	-	BI_6	-	-
+SeRa_1	4	-	-	-	-	-	-	24:kriyAmUla
+raha_1	5	-	-	-	-	-	-	24:verbalizer
+[cp_1]	24	-	-	27:rvks	-	-	-	-
+kEMsara_1	6	-	-	-	-	-	-	27:mod
+koSikA_1	7	-	pl	-	-	-	-	27:head
+[nc_1]	27	-	-	25:k2	-	-	-	-
+PlaSa_1	9	-	-	-	-	-	-	25:kriyAmUla
+kara_1	10	-	-	-	-	-	-	25:verbalizer
+[cp_2]	25	-	-	26:rpk	-	-	-	-
+kEMsara_1	12	-	-	14:r6	-	-	-	-
+punarAvqwwi_1	14	-	-	16:k2	-	-	-	-
+roka_1	16	-	-	26:rt	-	BI_1	-	-
+maxaxa_1	19	-	-	-	-	-	-	26:kriyAmUla
+kara_1-0_sakawA_hE_1	20	-	-	-	-	-	-	26:verbalizer
+[cp_3]	26	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_005a.26:viroXI	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_010a>
+#2016 में एक तुलना में यह पाया गया ।
+2016	1	numex	-	7:k7t	-	-	-	-
+eka_2	3	-	-	4:quant	-	-	-	-
+wulanA_1	4	-	-	7:k7	-	-	-	-
+$wyax	6	-	-	7:k2	-	proximal	-	-
+pA_1-yA_jA_yA_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_010b>
+#कि मूत्राशय को फ्लश करने से कैंसर की आवृति का जोखिम 21 % कम हो जाता है ।
+mUwrASaya_1	1	-	-	18:k2	-	-	-	-
+PlaSa_1	3	-	-	-	-	-	-	18:kriyAmUla
+kara_1	4	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	14:rh	-	-	-	-
+kEMsara_1	6	-	-	8:r6	-	-	-	-
+Avqwi_1	8	-	-	10:r6	-	-	-	-
+joKima_1	10	-	-	14:k1	-	-	-	-
+100	20	numex	-	21:card	-	-	-	-
+prawiSawa_1	21	-	-	22:rn	-	-	-	-
+21	11	numex	-	22:card	-	-	-	-
+prawiSawa_1	22	-	-	23:rmeas	-	-	-	-
+kama_1	23	-	-	14:k1s	-	-	-	-
+ho_1-wA_hE_1	14	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_011a>
+#जबकि अन्य अध्ययनों ने इस फ्लशिंग विधि की छान - बीन की है ।
+viXi_1	6	-	-	-	-	-	-	14:head
+[nc_1]	14	-	-	16:k2	-	-	-	-
+CAna+bIna_1	8	-	-	-	-	-	-	16:kriyAmUla
+kara_1-yA_hE_1	11	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_006a.16:viroXI_xyowaka	-	-	-
+anya_1	1	-	-	2:mod	-	-	-	-
+aXyayana_1	2	-	-	16:k1	-	-	-	-
+$wyax	4	-	-	14:dem	-	proximal	-	-
+^PlaSiMga_1	5	-	-	-	-	-	-	14:mod
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_011b>
+#कुछ समीक्षाओं ने पूर्वव्यापी डेटा और गैर - यादृच्छिक उपचारों के कारण चिंता जताई ।
+kuCa_1	1	-	-	2:mod	-	-	-	-
+samIkRA_1	2	-	pl	14:k1	-	-	-	-
+pUrvavyApI_1	4	-	-	5:mod	-	-	-	-
+detA_1	5	-	-	-	-	-	-	17:op1
+gEra+yAxqcCika_1	9	-	-	10:mod	-	-	-	-
+upacAra_1	10	-	pl	-	-	-	-	17:op2
+ciMwA_1	13	-	-	14:k2	-	-	-	-
+jawA_1-yA_1	14	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	14:rh	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_011c>
+#जिससे उनके साक्ष्य कम विश्वसनीय हो गए ।
+$wyax	2	-	pl	3:r6	-	distal	-	-
+sAkRya_1	3	-	-	9:k1	-	-	-	-
+kama_1	10	-	-	5:mod	-	-	-	-
+viSvasanIya_1	5	-	comperless	-	-	-	-	9:kriyAmUla
+ho_1-yA_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_012a>
+#हमारे नए अध्ययन में , हमारा उद्देश्य यह निर्धारित करना है ।
+$speaker	1	anim	pl	3:r6	-	-	-	-
+nae_1	2	-	-	3:mod	-	-	-	-
+aXyayana_1	3	-	-	14:k7	-	-	-	-
+$speaker	6	anim	pl	7:r6	-	-	-	-
+uxxeSya_1	7	-	-	14:k1	-	-	-	-
+$wyax	8	-	-	13:k2	-	proximal	-	-
+nirXAriwa_1	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1	10	-	-	-	-	-	-	13:verbalizer
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[cp_1]	13	-	-	14:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_012b>
+#कि क्या सेलाइन के साथ मूत्राशय को लगातार फ्लश करने से 3 महीने के भीतर पोस्टऑपरेटिव मूत्राशय ट्यूमर की पुनरावृत्ति और प्रतिकूल घटनाओं का होना प्रभावित होगा ।
+selAina	2	-	-	29:k2as	-	-	-	-
+mUwrASaya_1	5	-	-	29:k2	-	-	-	-
+lagAwAra_1	7	-	-	29:krvn	-	-	-	-
+PlaSa_1	8	-	-	-	-	-	-	29:kriyAmUla
+[cp_1]	29	-	-	26:rh	-	-	-	-
+3	11	numex	-	-	-	-	-	32:count
+mahInA_1	12	-	pl	-	-	-	-	32:unit
+[time_meas_1]	32	-	-	24:dur	-	-	-	-
+postaOYparetiva_1	15	-	-	28:mod	-	-	-	-
+mUwrASaya_1	16	-	-	-	-	-	-	28:mod
+tyUmara_1	17	-	-	-	-	-	-	28:head
+[nc_1]	28	-	-	19:r6	-	-	-	-
+punarAvqwwi_1	19	-	-	-	-	-	-	31:op1
+prawikUla_1	21	-	-	22:mod	-	-	-	-
+GatanA_1	22	-	pl	-	-	-	-	31:op2
+ho_1	24	-	-	26:k1	-	-	-	-
+praBAviwa_1	25	-	-	26:k1s	-	-	-	-
+ho_1-gA_1	26	-	-	0:main	-	-	-	-
+[conj_1]	31	-	-	24:k1	-	-	-	-
+kara_1	9	-	-	-	-	-	-	29:verbalizer
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_013>
+#हम 3 सेमी या उससे छोटे ट्यूमर्स से पीडित 190 मूत्राशय कैंसर रोगियों को शामिल करना चाहते हैं ।
+$speaker	1	-	pl	0:k1	-	-	-	-
+3	2	numex	-	3:card	-	-	-	23:count
+seMtImItara_1	3	-	-	-	-	-	-	23:unit
+[length_meas_1]	23	-	-	-	-	-	-	22:op1
+$wyax	5	-	-	17:rh	-	distal	-	22:op2
+CotA_1	6	-	-	7:mod	-	-	-	-
+tyUmarsa_1	7	-	-	16:k3	-	-	-	-
+pIdiwa_1	9	-	-	11:mod	-	-	-	-
+190	10	numex	-	11:card	-	-	-	-
+mUwrASaya_1	11	-	-	16:k2	-	-	-	20:mod
+kEMsara_1	12	-	-	-	-	-	-	20:head
+rogI_1	13	-	pl	-	-	-	-	23:head
+[nc_1]	20	-	-	16:k2	-	-	-	23:mod
+[nc_2]	23	-	-	-	-	-	-	-
+SAmila_1	15	-	-	-	-	-	-	21:kriyAmUla
+kara_1	16	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	17:k2	-	-	-	-
+cAha_1-wA_hE_1	17	-	-	-	-	-	-	-
+[disjunct_1]	22	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_014>
+#आपकी भागीदारी इस शोध में मूल्यवान अंतःदृष्टि का योगदान देगी ।
+BAgIxArI_1	2	-	-	10:k1	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+SoXa_1	4	-	-	10:k7	-	-	-	-
+$addressee	1	anim	-	2:r6	-	respect	-	-
+mUlyavAna_1	6	-	-	7:mod	-	-	-	-
+aMwaHxqRti_1	7	-	-	9:r6	-	-	-	-
+yogaxAna_1	9	-	-	10:k2	-	-	-	-
+xe_1-gA_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_015>
+#इस अध्ययन से सभी को क्या लाभ होगा ?
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1	2	-	-	8:rh	-	-	-	-
+$kim	6	-	-	7:mod	-	-	-	-
+lABa_1	7	-	-	8:k1	-	-	-	-
+ho_1-gA_1	8	-	-	0:main	-	-	-	-
+saBI_1	4	-	-	8:k4a	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_016>
+#कंटीन्यूएस ब्लैडर इरिगेशन ( सीबीआई ) रोगियों के लिए काफी असुविधाजनक हो सकती है ।
+[nc_1]	16	-	-	12:k1	-	-	-	-
+kaMtInyUesa	1	-	-	16:mod	-	-	-	-
+blEdara	2	-	-	-	-	-	-	16:mod
+irigeSana	3	-	-	-	-	-	-	16:head
+@sIbIAI	5	-	-	16:rs	-	-	-	-
+rogI_1	7	-	pl	12:rt	-	-	-	-
+kAPI_1	10	-	-	11:intf	-	-	-	-
+asuviXAjanaka_1	11	-	-	12:k1s	-	-	-	-
+ho_1-0_sakawA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_017a>
+#हालांकि , अगर हमारे अध्ययन से पता यह चलता है ।
+$speaker	2	anim	pl	3:r6	-	-	-	-
+aXyayana_1	3	-	-	7:k5	-	-	-	-
+pawA_1	5	-	-	7:k1	-	-	-	-
+$wyax	6	-	-	7:k1	-	proximal	-	-
+cala_1-wA_hE_1	7	-	-	-	-	-	-	-
+[cp_1]	8	-	-	-	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_017b>
+#कि इस आकार के ट्यूमर के इलाज के लिए यह आवश्यक नहीं है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+AkAra_1	2	-	-	4:r6	-	-	-	-
+tyUmara_1	4	-	-	6:r6	-	-	-	-
+ilAja_1	6	-	-	12:rt	-	-	-	-
+$wyax	9	-	-	12:k1	-	proximal	-	-
+AvaSyaka_1	10	-	-	12:k1s	-	-	-	-
+nahIM_1	11	-	-	12:neg	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_017c>
+#तो इसका मतलब है ।
+$wyax	1	-	-	2:r6	-	proximal	-	-
+mawalaba_1	2	-	-	3:k1	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_017d>
+#कि प्रतिभागियों को अधिक सीधा और आरामदायक अनुभव हो सकता है।
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_018a>
+#यह पता लगाना ।
+lagA_1-nA_hE_1	3	-	-	-	-	-	-	5:verbalizer
+[cp_1]	5	-	-	0:main	-	-	-	-
+$wyax	1	-	-	3:k1	-	proximal	-	-
+pawA_1	2	-	-	-	-	-	-	5:kriyAmUla
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_018b>
+#कि हम बिना किसी समस्या के सीबीआई का उपयोग करना छोड सकते हैं ।
+$speaker	1	anim	pl	10:k1	-	-	-	-
+koI_1	3	-	-	4:mod	-	-	-	-
+samasyA_1	4	-	-	6:r6	-	-	-	-
+@sIbIAI	6	-	-	8:k2	-	-	-	-
+upayoga_1	8	-	-	-	-	-	-	14:kriyAmUla
+kara_1	9	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	10:k2	-	-	-	-
+Coda_1-0_sakawA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_018c>
+#जो न केवल रोगियों के लिए चीजों को आसान बना सकता है ।
+$yax	1	-	-	10:k1	-	-	-	-
+rogI_1	4	-	pl	10:rt	-	-	-	-
+cIja_1	7	-	pl	10:k2	-	-	-	-
+AsAna_1	9	-	-	-	-	-	-	14:kriyAmUla
+banA_1-0_sakawA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_018d>
+#बल्कि लागत में कमी और चिकित्सा संसाधनों का अधिक कुशल उपयोग करने में सहायक भी हो सकता है ।
+kuSala_1	9	-	-	10:k1	-	-	-	-
+lAgawa_1	1	-	-	11:k7	-	-	-	-
+kamI_1	3	-	-	-	-	-	-	22:op1
+cikiwsA_1	5	-	-	-	-	-	-	19:mod
+saMsAXana_1	6	-	pl	-	-	-	-	19:head
+[nc_1]	19	-	-	-	-	-	-	22:op2
+upayoga_1	10	-	-	-	-	-	-	20:kriyAmUla
+kara_1	11	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	15:k7	-	-	-	-
+ho_1-0_sakawA_hE_1	15	-	-	-	-	-	-	21:verbalizer
+[conj_1]	22	-	-	10:k2	-	-	-	-
+sahAyaka_1	13	-	-	-	-	BI_1	-	21:kriyAmUla
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_019>
+#इस अध्ययन में आपकी भागीदारी उपचार प्रक्रिया को बेहतर और रोगी के लिये अधिक अनुकूल बनाने में योगदान कर सकती है ।
+[nc_2]	24	-	-	-	-	-	-	27:op1
+behawara_1	9	-	-	-	-	-	-	27:op2
+rogI_1	11	-	-	-	-	-	-	27:op3
+aXika_1	24	-	-	-	-	-	-	-
+[cp_1]	25	-	-	19:k7	-	-	-	-
+yogaxAna_1	18	-	-	-	-	-	-	26:kriyAmUla
+kara_1-0_sakawA_hE_1	19	-	-	-	-	-	-	26:verbalizer
+[cp_2]	26	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	16:k2	-	-	-	-
+anukUla_1	15	-	-	-	-	-	-	25:kriyAmUla
+banA_1	16	-	-	-	-	-	-	25:verbalizer
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1	2	-	-	16:k7	-	-	-	-
+$addressee	4	anim	-	7:r6	-	respect	-	-
+BAgIxArI_1	5	-	-	-	-	-	-	23:mod
+upacAra_1	6	-	-	-	-	-	-	24:mod
+prakriyA_1	7	-	-	-	-	-	-	24:head
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_020a>
+#यदि आप इस अध्ययन में भाग लेते हैं ।
+$wyax	2	-	-	3:dem	-	proximal	-	-
+$addressee	1	anim	-	6:k1	-	respect	-	-
+aXyayana_1	3	-	-	6:k7	-	-	-	-
+BAga_1	5	-	-	-	-	-	-	9:kriyAmUla
+le_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_016b.9:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_020b>
+#तो आपको क्या करना होगा ?
+$addressee	1	-	-	3:k1	-	respect	-	-
+$kim	2	-	-	3:k2	-	-	-	-
+kara_1-nA_hogA_1	3	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_021a>
+#यदि आप इस अध्ययन में भाग लेना चाहते हैं ।
+$addressee	1	anim	-	7:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1	3	-	-	6:k7	-	-	-	-
+BAga_1	5	-	-	-	-	-	-	8:kriyAmUla
+le_1	6	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	7:k2	-	-	-	-
+cAha_1-wA_hE_1	7	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_017d.7:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_021b>
+#तो आप यह पुष्टि करने के लिए एक मूल्यांकन से गुजरेंगे ।
+$wyax	2	-	-	12:k1	-	proximal	-	-
+puRti_1	3	-	-	-	-	-	-	12:kriyAmUla
+$addressee	1	anim	-	10:k1	-	respect	-	-
+kara_1	4	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	10:rt	-	-	-	-
+mUlyAMkana_1	8	-	-	10:rp	-	-	-	-
+gujara_1-gA_1	10	-	-	0:main	-	-	-	-
+eka_2	7	-	-	8:quant	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_021c>
+#कि आप अध्ययन के मानदंडों को पूरा करते हैं ।
+mAnaxaMda_1	4	-	-	10:k2	-	-	-	-
+aXyayana_1	2	-	-	4:r6	-	-	-	-
+pUrA_1	6	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+$addressee	1	anim	-	10:k1	-	respect	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_021d>
+#विशेष रूप से आकार में 3 सेमी या इससे कम और संख्या में 3 या इससे कम का मूत्राशय ट्यूमर होना ।
+viSeRa+rUpa+se_1	1	-	-	2:mod	-	-	-	-
+AkAra_1	4	-	-	0:k7	-	-	-	-
+3	6	numex	-	7:card	-	-	-	24:count
+seMtImItara_1	7	-	-	-	-	-	-	24:unit
+[length_meas_1]	24	-	-	-	-	-	-	23:op1
+$wyax	9	-	-	-	-	proximal	-	23:op2
+saMKyA_1	12	-	-	0:k7	-	-	-	-
+3	14	numex	-	15:ccof	-	-	-	-
+$wyax	16	-	-	21:rh	-	proximal	-	-
+mUwrASaya_1	19	-	-	21:k1	-	-	-	-
+tyUmara_1	20	-	-	21:k1s	-	-	-	-
+[nc_1]	24	-	-	-	-	-	-	-
+ho_1-nA_1	21	-	-	15:ccof	-	-	-	-
+[disjunct_1]	23	-	-	10:intf	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_022a>
+#प्रतिभागियों को यादृच्छिक रूप से या तो कंटीन्यूएस ब्लैडर इरिगेशन ( सीबीआई ) समूह, या पानी की धार से सफाई नहीं करने वाले समूह में रखा जाएगा ।
+prawiBAgiyoM_1	1	-	-	6:k4	-	-	-	-
+yAxqcCika_1	3	-	-	4:mod	-	-	-	-
+rUpa_1	4	-	-	6:krvn	-	-	-	-
+yA_1	6	-	-	77:vmod	-	wo	-	-
+kaMtInyUesa	8	-	-	-	-	-	-	80:begin
+[ne_1]	80	-	-	14:r6	-	-	-	-
+blEdara	9	-	-	-	-	-	-	81:begin
+[ne_2]	81	-	-	14:r6	-	-	-	-
+irigeSana	10	-	-	-	-	-	-	81:inside
+sIbIAI	12	-	-	10:re	-	-	-	-
+samUha_1	14	-	-	77:k1	-	-	-	-
+pAnI_1	54	-	-	-	-	-	-	88:op2
+XAra_1	56	-	-	60:k3	-	-	-	-
+saPAI_1	58	-	-	-	-	-	-	82:kriyAmUla
+nahIM_1	59	-	-	60:neg	-	-	-	-
+kara_1	60	-	pl	-	-	-	-	82:verbalizer
+[cp_1]	82	-	-	62:mod	-	-	-	-
+samUha_1	62	-	-	73:k1	-	-	-	-
+raKA_1-gA_1	77	-	-	0:main	-	[shade:ja_1]	-	-
+[span_1]	87	-	-	73:k7t	-	-	-	-
+[disjunct_1]	88	-	-	56:r6	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_022bF>
+#पानी की धार से सफाई के बाद 1 घंटे के लिए 1 लीटर,और उसके बाद अगले 2 घंटे के लिए 500 मिलीलीटर,फिर अगले दिन सुबह 6 बजे तक 250 - 500 मिलीलीटर। 
+pAnI_1	16	-	-	18:r6	-	-	-	-
+XAra_1	18	-	-	-	-	-	-	87:start
+saPAI_1	20	-	-	77:k7t	-	-	-	-
+bAxa_1	22	-	-	20:k7p	-	-	-	-
+1	23	numex	-	24:card	-	-	-	-
+GaMtA_1	24	-	pl	77:rt	-	-	-	-
+1	27	meas	-	-	-	-	-	84:count
+lItara_1	28	-	-	-	-	-	-	84:unit
+[meas_1]	84	-	-	29:ccof	-	-	-	-
+$wyax	30	-	-	73:k7t	-	distal	-	-
+bAxa_1	31	-	-	30:k7p	-	-	-	-
+agalA_1	32	-	pl	34:mod	-	-	-	-
+2	33	numex	-	34:card	-	-	-	-
+GaMtA_1	34	-	pl	73:rt	-	-	-	-
+500	37	meas	-	-	-	-	-	85:count
+milIlItara_1	38	-	-	-	-	-	-	85:unit
+[meas_2]	85	-	-	40:k2	-	-	-	-
+Pira_1	40	-	-	73:krvn	-	-	-	-
+agalA_1	41	-	pl	42:mod	-	-	-	-
+xina_1	42	-	-	73:k7t	-	-	-	-
+subaha_1	43	-	-	45:mod	-	-	-	-
+6	44	clocktime	-	73:k7t	-	-	-	-
+250_1	47	numex	-	49:mod	-	-	-	-
+500	49	meas	-	-	-	-	-	86:count
+milIlItara_1	50	-	-	-	-	-	-	86:unit
+[meas_3]	86	-	-	-	-	-	-	88:op1
+%fragment
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_022cF>
+#सक्रिय रूप से पानी की धार से सफाई नहीं होगी।
+sakriya_1	64	-	-	65:mod	-	-	-	-
+rUpa_1	65	-	-	73:krvn	-	-	-	-
+pAnI_1	67	-	-	69:r6	-	-	-	-
+XAra_1	69	-	-	73:rh	-	-	-	-
+saPAI_1	71	-	-	-	-	-	-	83:kriyAmUla
+nahIM_1	72	-	-	73:neg	-	-	-	-
+ho_1	73	-	-	-	-	-	-	83:verbalizer
+[cp_2]	83	-	-	29:ccof	-	-	-	-
+%fragment
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_023>
+#किसी भी आवर्ती ट्यूमर की जांच और आकलन के लिए नियमित अनुवर्ती अपॉइंटमेंट निर्धारित किये जाएंगे ।
+^apOYiMtameMta_1	13	-	-	18:k2	-	-	-	-
+AvarwI_1	3	-	-	4:mod	-	-	-	-
+tyUmara_1	4	-	-	19:r6	-	-	-	-
+jAMca_1	6	-	-	-	-	-	-	19:op1
+Akalana_1	8	-	-	-	-	-	-	19:op2
+niyamiwa_1	11	-	-	13:mod	-	-	-	-
+anuvarwI_1	12	-	-	13:mod	-	-	-	-
+nirXAriwa_1	14	-	-	-	-	-	-	18:kriyAmUla
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	18:rt	-	-	-	-
+kara_1-yA_jA_gA_1	15	-	-	-	-	-	-	18:verbalizer
+koI_1	1	-	-	4:quant	-	BI_6	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_024a>
+#आपको अपने अनुभव और उपचार से संबंधित किसी भी असुविधा या परेशानी को साझा करने के लिए कहा जा सकता है , ।
+$addressee	1	anim	-	18:k2g	-	respect	-	-
+apanA	2	-	-	3:r6	-	-	-	-
+anuBava_1	3	-	-	4:ccof	-	-	-	-
+upacAra_1	5	-	-	4:ccof	-	-	-	-
+koI_1	8	-	-	10:mod	-	BI_6	-	-
+asuviXA_1	10	-	-	-	-	-	-	25:op1
+pareSAnI_1	12	-	-	-	-	-	-	25:op2
+sAJA_1	14	-	-	-	-	-	-	24:kriyAmUla
+kara_1	15	-	-	-	-	-	-	24:verbalizer
+[cp_1]	24	-	-	18:rt	-	-	-	-
+kaha_1-yA_jA_sakawA_hE_1	18	-	-	0:main	-	-	-	-
+[disjunct_1]	25	-	-	15:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_024b>
+#खासकर यदि आप सीबीआई समूह में हैं ।
+$addressee	3	anim	-	7:k1	-	respect	-	-
+@sIbIAI	4	-	-	5:mod	-	-	-	-
+samUha_1	5	-	-	7:k7	-	-	-	-
+hE_1-pres	7	-	-	-	-	KAsakara_1	-	9:op1
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_025>
+#निर्धारित उपचार योजना का पालन करना और निर्धारित अपॉइंटमेंट्स में भाग लेना महत्वपूर्ण है ।
+nirXAriwa_1	1	-	-	3:mod	-	-	-	-
+upacAra_1	2	-	-	-	-	-	-	16:mod
+yojanA_1	3	-	-	-	-	-	-	16:head
+[nc_1]	16	-	-	17:k2	-	-	-	-
+pAlana_1	5	-	-	-	-	-	-	17:kriyAmUla
+kara_1	6	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	-	-	-	-	19:op1
+nirXAriwa_1	8	-	-	9:mod	-	-	-	-
+apOYiMtameMtsa_1	9	-	-	18:k7	-	-	-	-
+BAga_1	11	-	-	-	-	-	-	18:kriyAmUla
+le_1	12	-	-	-	-	-	-	18:verbalizer
+[cp_2]	18	-	-	-	-	-	-	19:op2
+mahawvapUrNa_1	13	-	-	14:k1s	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	14:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_026a>
+#इस अध्ययन में आपकी भागीदारी हमें यह समझने में मदद करने के लिए महत्वपूर्ण है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1	2	-	-	5:k7	-	-	-	-
+BAgIxArI_1	5	-	-	15:k1	-	-	-	-
+$wyax	7	-	-	8:k2	-	proximal	-	-
+maxaxa_1	10	-	-	-	-	-	-	17:kriyAmUla
+[cp_1]	17	-	-	15:rt	-	-	-	-
+$addressee	4	anim	-	5:r6	-	respect	-	-
+$speaker	6	anim	-	8:k1	-	-	-	-
+samaJa_1	8	-	-	17:k7	-	-	-	-
+mahawvapUrNa_1	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+kara_1	11	-	-	-	-	-	-	17:verbalizer
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_026b>
+#कि क्या इस आकार के ट्यूमर के इलाज के लिए मूत्राशय का कंटीन्यूएस ब्लैडर इरिगेशन आवश्यक है ।
+$wyax	2	-	-	3:dem	-	proximal	-	-
+AkAra_1	3	-	-	5:r6	-	-	-	-
+tyUmara_1	5	-	-	7:r6	-	-	-	-
+ilAja_1	7	-	-	16:rt	-	-	-	-
+mUwrASaya_1	10	-	-	12:r6	-	-	-	-
+kaMtInyUesa_1	12	-	-	18:mod	-	-	-	-
+blEdara	13	-	-	-	-	-	-	18:mod
+hE_1-pres	16	-	-	0:main	-	-	-	-
+[nc_1]	18	-	-	16:k1	-	-	-	-
+irigeSana	14	-	-	-	-	-	-	18:head
+AvaSyaka_1	15	-	-	16:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_027a>
+#यदि अध्ययन से पता यह चलता है ।
+aXyayana_1	1	-	-	5:k5	-	-	-	-
+pawA_1	3	-	-	5:k1	-	-	-	-
+$wyax	4	-	-	5:k1	-	proximal	-	-
+cala_1-wA_hE_1	5	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_023c.5:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_027b>
+#कि सीबीआई आवश्यक नहीं है ।
+@sIbIAI	1	-	-	4:k1	-	-	-	-
+AvaSyaka_1	2	-	-	4:k1s	-	-	-	-
+nahIM_1	3	-	-	4:neg	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_027c>
+#तो इससे चिकित्सा क्षेत्र में रोगी - अनुकूल दृष्टिकोण में वृद्धि और संसाधनों में बचत हो सकती है ।
+kRewra_1	3	-	-	-	-	-	-	19:head
+[nc_1]	19	-	-	15:k7p	-	-	-	-
+rogI_1	5	-	-	-	-	-	-	20:mod
+anukUla_1	7	-	-	8:mod	-	-	-	-
+xqRtikoNa_1	8	-	-	-	-	-	-	20:head
+[nc_2]	20	-	-	-	-	-	-	22:op1
+[nc_3]	23	-	-	-	-	-	-	-
+vqxXi_1	10	-	-	-	-	-	-	22:op2
+saMsAXana_1	12	-	pl	-	-	-	-	22:op3
+bacawa_1	14	-	-	-	-	-	-	21:kriyAmUla
+ho_1-0_sakawA_hE_1	15	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	15:k7	-	-	-	-
+$wyax	1	-	-	15:rh	-	proximal	-	-
+cikiwsA_1	2	-	-	-	-	-	-	19:mod
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_028>
+#क्या इस अध्ययन के लिये मुझे अतिरिक्त खर्च करना पडेगा ?
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1	3	-	-	12:rt	-	-	-	-
+awirikwa_1	7	-	-	8:mod	-	-	-	-
+Karca_1	8	-	-	-	-	-	-	12:kriyAmUla
+kara_1-nA_pada_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+$speaker	6	anim	-	12:k1	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_029>
+#नहीं , इस अध्ययन के अंतर्गत आपको उपचार पर कोई अतिरिक्त लागत नहीं आएगी ।
+$wyax	3	-	-	4:dem	-	proximal	-	-
+aXyayana_1	4	-	-	14:k7	-	-	-	-
+$addressee	7	anim	-	14:k4a	-	respect	-	-
+upacAra_1	8	-	-	14:k7	-	-	-	-
+koI_1	10	-	-	12:quant	-	-	-	-
+awirikwa_1	11	-	-	12:mod	-	-	-	-
+lAgawa_1	12	-	-	14:k1	-	-	-	-
+nahIM_1	13	-	-	14:neg	-	-	-	-
+A_1-gA_1	14	-	-	0:main	-	nahIM_1	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_030>
+#क्या आप इस अध्ययन के शुरू होने के बाद इससे हट सकते हैं ?
+$addressee	2	anim	-	11:k1	-	respect	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+aXyayana_1	4	-	-	15:k2	-	-	-	-
+SurU_1	6	-	-	-	-	-	-	15:kriyAmUla
+[cp_1]	15	-	-	11:rblpk	-	-	-	-
+$wyax	10	-	-	11:k5	-	proximal	-	-
+hata_1-0_sakawA_hE_1	11	-	-	0:main	-	-	-	-
+ho_1	7	-	-	-	-	-	-	15:verbalizer
+%interrogative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_031a>
+#इस अध्ययन में आपकी भागीदारी पूरी तरह से स्वैच्छिक है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+aXyayana_1	2	-	-	10:k7	-	-	-	-
+$addressee	4	anim	-	5:r6	-	respect	-	-
+BAgIxArI_1	5	-	-	10:k1	-	-	-	-
+pUrI+waraha+se_1	6	-	-	9:mod	-	-	-	-
+svEcCika_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_031b>
+#और आप इस अध्ययन में भाग लेने की अनुमति वापस लेने का निर्णय लेने के लिए भी स्वतंत्र हैं ।
+le_1	10	-	-	-	-	-	-	21:verbalizer
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aXyayana_1	3	-	-	20:k7	-	-	-	-
+BAga_1	5	-	-	-	-	-	-	20:kriyAmUla
+[cp_1]	20	-	-	8:r6	-	-	-	-
+anumawi_1	8	-	-	21:k2	-	-	-	-
+vApasa_1	9	-	-	-	-	-	-	21:kriyAmUla
+[cp_2]	21	-	-	22:k2	-	-	-	-
+nirNaya_1	12	-	-	-	-	-	-	22:kriyAmUla
+le_1	13	-	pl	-	-	BI	-	22:verbalizer
+[cp_3]	22	-	-	18:rt	-	-	-	-
+$addressee	1	anim	-	18:k1	-	respect	-	-
+le_1	6	-	-	-	-	-	-	20:verbalizer
+svawaMwra_1	17	-	-	18:k1s	-	-	-	-
+hE_1-pres	18	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_027a.18:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_032a>
+#यदि आप ऐसा करते हैं ।
+$wyax	2	-	-	4:dem	-	-	-	-
+prakAra_1	4	-	-	3:k2	-	-	-	-
+kara_1-wA_hE_1	3	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_028b.3:AvaSyakawApariNAma	-	-	-
+$addressee	1	anim	-	3:k1	-	respect	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_032b>
+#तो इससे इस अस्पताल में आपके सामान्य उपचार पर किसी भी तरह से कोई असर नहीं पडेगा ।
+koI_1	9	-	-	11:quant	-	BI_6	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+aspawAla_1	3	-	-	17:k7p	-	-	-	-
+sAmAnya_1	6	-	-	7:mod	-	-	-	-
+upacAra_1	7	-	-	17:k7p	-	-	-	-
+waraha_1	11	-	-	17:krvn	-	-	-	-
+koI_1	13	-	-	14:quant	-	-	-	-
+asara_1	14	-	-	-	-	-	-	17:kriyAmUla
+nahIM_1	15	-	-	17:neg	-	-	-	-
+pada_1-gA_1	16	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+$addressee	5	anim	-	7:r6	-	respect	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_033>
+#अध्ययन समाप्त होने के बाद क्या होगा ?
+aXyayana_1	1	-	-	9:k1	-	-	-	-
+samApwa_1	2	-	-	-	-	-	-	9:kriyAmUla
+ho_1	3	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	7:rblpk	-	-	-	-
+$kim	6	-	-	7:k1	-	-	-	-
+ho_1-gA_1	7	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_034a>
+#यदि अध्ययन से पता यह चलता है ।
+aXyayana_1	1	-	-	5:k5	-	-	-	-
+pawA_1	3	-	-	5:k1	-	-	-	6:kriyAmUla
+$wyax	4	-	-	5:k1	-	proximal	-	-
+cala_1-wA_hE_1	5	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_030c.5:AvaSyakawApariNAma	-	-	6:verbalizer
+[cp_1]	6	-	-	-	-	-	-	-
+$speaker	7	anim	-	-	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_034b>
+#कि इस आकार के ट्यूमर के इलाज के लिए सीबीआई आवश्यक नहीं है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+AkAra_1	2	-	-	4:r6	-	-	-	-
+tyUmara_1	4	-	-	6:r6	-	-	-	-
+ilAja_1	6	-	-	12:rt	-	-	-	-
+AvaSyaka_1	10	-	-	12:k1s	-	-	-	-
+nahIM_1	11	-	-	12:neg	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+@sIbIAI	9	-	-	12:k1	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_034c>
+#तो यह चिकित्सा पद्धति के दिशा - निर्देशों को प्रभावित कर सकता है ।
+$wyax	1	-	-	16:k1	-	proximal	-	-
+cikiwsA_1	2	-	-	-	-	-	-	14:mod
+paxXawi_1	3	-	-	-	-	-	-	14:head
+[nc_1]	14	-	-	5:r6	-	-	-	-
+xiSA+nirxeSa_1	5	-	-	16:k2	-	-	-	-
+praBAviwa_1	9	-	-	-	-	-	-	16:kriyAmUla
+kara_1-0_sakawA_hE_1	10	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_035>
+#डॉक्टर वैकल्पिक , अधिक रोगी - अनुकूल दृष्टिकोणों पर विचार कर सकते हैं ।
+dOYktara_1	1	anim	-	11:k1	-	-	-	-
+vEkalpika_1	2	-	-	11:enm	-	-	-	-
+xqRtikoNa_1	8	-	pl	11:k7	-	-	-	-
+vicAra_1	10	-	-	-	-	-	-	15:kriyAmUla
+[cp_1]	15	-	-	0:main	-	-	-	-
+rogI+anukUla_1	7	-	-	8:mod	-	-	-	-
+aXika_1	5	-	-	7:mod	-	-	-	-
+kara_1-0_sakawA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_036>
+#प्रतिभागियों को भविष्य में अधिक आरामदायक उपचार विकल्पों का अनुभव हो सकता है ।
+prawiBAgI_1	1	anim	pl	11:k4a	-	-	-	-
+BaviRya_1	3	-	-	11:k7	-	-	-	-
+aXika_1	17	-	-	-	-	-	-	-
+upacAra_1	7	-	-	-	-	-	-	15:mod
+vikalpa_1	8	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	10:r6	-	-	-	-
+anuBava_1	10	-	-	-	-	-	-	16:kriyAmUla
+ho_1-0_sakawA_hE_1	11	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+ArAmaxAyaka_1	6	-	-	8:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_037a>
+#इससे रोगी के अनुभवों में सुधार हो सकता है ।
+$wyax	1	-	-	7:rh	-	proximal	-	-
+rogI_1	2	-	-	4:r6	-	-	-	-
+anuBava_1	4	-	pl	7:k7	-	-	-	-
+suXAra_1	6	-	-	-	-	-	-	11:kriyAmUla
+[cp_1]	11	-	-	0:main	-	-	-	-
+ho_1-0_sakawA_hE_1	7	-	-	-	-	-	-	11:verbalizer
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_037b>
+#और संभावित रूप से चिकित्सा लागत कम हो सकती है ।
+saMBAviwa+rUpa+se_1	1	-	-	2:mod	-	-	-	-
+cikiwsA_1	4	-	-	-	-	-	-	11:mod
+lAgawa_1	5	-	-	-	-	-	-	11:head
+[nc_1]	11	-	-	7:k1	-	-	-	-
+kama_1	8	-	-	-	-	-	-	-
+ho_1-0_sakawA_hE_1	7	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_033a.7:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_038>
+#संक्षेप में , अध्ययन के अंत में , आकार में 3 सेमी या इससे कम और संख्या में 3 या इससे कम के मूत्राशय ट्यूमर के इलाज के लिए रोगी - अनुकूल दृष्टिकोण प्राप्त हो सकता है ।
+aXyayana_1	4	-	-	6:r6	-	-	-	-
+aMwa_1	6	-	-	0:k7	-	-	-	-
+AkAra_1	9	-	-	0:k7	-	-	-	-
+3	11	numex	-	12:card	-	-	-	-
+semI	12	-	-	-	-	-	-	42:op1
+$wyax	14	-	-	-	-	proximal	-	42:op2
+saMKyA_1	17	-	-	0:k7	-	-	-	-
+3	19	numex	-	20:ccof	-	-	-	-
+$wyax	21	-	-	35:rh	-	proximal	-	-
+mUwrASaya_1	24	-	-	-	-	-	-	39:mod
+tyUmara_1	25	-	-	-	-	-	-	39:head
+[nc_1]	39	-	-	27:r6	-	-	-	-
+ilAja_1	27	-	-	35:rt	-	-	-	-
+rogI_1	30	-	-	-	-	-	-	40:mod
+anukUla_1	32	-	-	33:mod	-	-	-	-
+xqRtikoNa_1	33	-	-	-	-	-	-	40:head
+[nc_2]	40	-	-	35:k1	-	-	-	-
+prApwa_1	34	-	-	-	-	-	-	41:kriyAmUla
+ho_1	35	-	-	-	-	-	-	41:verbalizer
+[cp_1]	41	-	-	20:ccof	-	-	-	-
+[disjunct_1]	42	-	-	15:intf	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_039>
+#क्या आपकी व्यक्तिगत जानकारी गोपनीय रखी जाएगी ?
+jAnakArI_1	4	-	-	6:k2	-	-	-	-
+gopanIya_1	5	-	-	-	-	-	-	9:kriyAmUla
+raKa_1-yA_jA_gA_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+$addressee	2	anim	-	4:r6	-	respect	-	-
+vyakwigawa_1	3	-	-	4:mod	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_040a>
+#इस अध्ययन के परिणाम किसी मेडिकल जर्नल में प्रकाशित हो सकते हैं ।
+^jarnala_1	7	-	-	-	-	-	-	14:head
+ho_1-0_sakawA_hE_1	10	-	-	-	-	-	-	15:verbalizer
+medikala_1	6	-	-	-	-	-	-	14:mod
+[nc_1]	14	-	-	10:k7	-	-	-	-
+prakASiwa_1	9	-	-	-	-	-	-	15:kriyAmUla
+$wyax	1	-	-	2:dem	-	proximal	-	-
+[cp_1]	15	-	-	0:main	-	-	-	-
+aXyayana_1	2	-	-	4:r6	-	-	-	-
+koI_1	5	-	-	7:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_040b>
+#लेकिन परिणामों के किसी भी प्रकाशन या प्रस्तुति में आपका नाम नहीं बताया जाएगा ।
+pariNAma_1	1	-	pl	5:r6	-	-	-	-
+prakASana_1	5	-	-	-	-	-	-	15:op1
+praswuwi_1	7	-	-	-	-	-	-	15:op2
+nAma_1	10	-	-	-	-	-	-	15:op3
+nahIM_1	11	-	-	12:neg	-	-	-	-
+bawA_1-yA_jA_gA_1	12	-	-	0:main	-	-	-	-
+[disjunct_1]	15	-	-	12:k2	-	-	-	-
+koI_1	3	-	-	5:mod	-	BI_6	-	-
+$addressee	9	anim	-	10:r6	-	respect	-	-
+%negative
+</sent_id>
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_041a>
+#हालाँकि , यदि आप इस अध्ययन में भाग लेने का निर्णय लेते हैं ।
+$wyax	3	-	-	4:dem	-	proximal	-	-
+aXyayana_1	4	-	-	7:k7	-	-	-	-
+BAga_1	6	-	-	-	-	-	-	13:kriyAmUla
+[cp_1]	13	-	-	9:k2	-	-	-	-
+nirNaya_1	9	-	-	-	-	-	-	14:kriyAmUla
+le_1-wA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_2]	14	-	-	-	-	-	-	15:op1
+$addressee	2	anim	-	10:k1	-	respect	-	-
+le_1	7	-	-	-	-	-	-	13:verbalizer
+%affirmative
+</sent_id>
+
+
+<sent_id=P1Information_sheet_and_consent_anu_hin_target_041b>
+#तो आपके मेडिकल नोट्स की समीक्षा अध्ययन से जुडे लोगों द्वारा आपकी अतिरिक्त अनुमति के बिना की जा सकती है ।
+juda_1	8	-	-	9:rvks	-	-	-	-
+loga_1	9	-	pl	16:k1	-	-	-	-
+$addressee	11	anim	-	13:r6	-	respect	-	-
+awirikwa_1	12	-	-	13:mod	-	-	-	-
+anumawi_1	13	-	-	16:ras-neg	-	-	-	-
+kara_1-yA_jA_sakawA_hE1	16	-	-	0:main	-	-	-	-
+[cp_1]	17	-	-	-	-	-	-	-
+$addressee	1	anim	-	3:r6	-	respect	-	-
+medikala_1	2	-	-	-	-	-	-	21:mod
+^notsa_1	3	-	-	-	-	-	-	21:head
+samIkRA_1	5	-	-	-	-	-	-	22:mod
+aXyayana_1	6	-	-	-	-	-	-	22:head
+[nc_1]	22	-	-	8:ras-k1	-	-	-	-
+%affirmative
+</sent_id>

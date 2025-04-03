@@ -67,6 +67,7 @@ class Relational(Base):
     concept_id = Column(Integer, ForeignKey('lexical_conceptual.lexical_conceptual_id'), nullable=True)  # Added concept_id column
     segment = relationship('Segment', back_populates='relational')
     concept = relationship('LexicalConceptual', back_populates='relational')
+    isFinalized = Column(Boolean, default=False) 
 
 Base.metadata.create_all(bind=engine)
 
@@ -118,51 +119,7 @@ def parse_data(file_path):
 
     return relational_data
 
-# def insert_relational_data(session, file_path, chapter_id):
-#     try:
-#         data = parse_data(file_path)
 
-#         for segment_data in data:
-#             # Find the segment using the segment_index (parsed segment_id)
-#             # segment = session.query(Segment).filter_by(segment_index=segment_data['segment_id']).first()
-#             # Join Segment with Sentence to find the segment using the segment_index and chapter_id
-#             segment = session.query(Segment).join(Sentence).filter(
-#                 Segment.segment_index == segment_data['segment_id'],
-#                 Sentence.chapter_id == chapter_id
-#             ).first()
-            
-#             if segment:
-#                 # Find the lexical_conceptual_id using the segment_id and index
-#                 lexical_concept = session.query(LexicalConceptual).filter_by(
-#                     segment_id=segment.segment_id,
-#                     index=segment_data['index']
-#                 ).first()
-
-#                 concept_id = lexical_concept.lexical_conceptual_id if lexical_concept else None
-
-#                 relational_entry = Relational(
-#                     segment_id=segment.segment_id,
-#                     segment_index=segment_data['segment_id'],
-#                     index=segment_data['index'],
-#                     main_index=segment_data['main_index'],
-#                     relation=segment_data['relation'],
-#                     component_type=segment_data['component_type'],
-#                     is_main=segment_data['is_main'],
-#                     concept_id=concept_id  # Set the concept_id here
-#                 )
-#                 session.add(relational_entry)
-#             else:
-#                 print(f"Error: No matching segment found for segment_index: {segment_data['segment_id']}")
-
-#         session.commit()
-#         print("Data inserted successfully!")
-
-#     except Exception as e:
-#         print(f"Error inserting data: {e}")
-#         session.rollback()
-
-#     finally:
-#         session.close()
 
 def insert_relational_data(session, file_path, chapter_id):
     try:
@@ -172,7 +129,7 @@ def insert_relational_data(session, file_path, chapter_id):
             # Find the segment using the segment_index and chapter_id
             segment = session.query(Segment).join(Sentence).filter(
                 Segment.segment_index == segment_data['segment_id'],
-                Sentence.chapter_id == chapter_id
+                # Sentence.chapter_id == chapter_id
             ).first()
             
             if segment:
@@ -221,10 +178,10 @@ def insert_relational_data(session, file_path, chapter_id):
 
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"
-    chapter_id = 18  # Example chapter_id, update it as needed
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/health_data_part_2/USRS.txt"
+    chapter_id = 19 # Example chapter_id, update it as needed
     session = SessionLocal()
-    insert_relational_data(session, file_path, chapter_id)
+    insert_relational_data(session, file_path, chapter_id)  
 
 if __name__ == "__main__":
     main()

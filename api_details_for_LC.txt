@@ -1,0 +1,32 @@
+api_url:http://10.4.16.167:5008/usr_builder
+input_format:
+{
+    "sentences": [
+        {
+            "project_id": "1",
+            "sentence_id": "Geo_ncert_11stnd_3ch-bk1_0041",
+            "sentence": "अन्य अप्रत्यक्ष स्रोतों में गुरुत्वाकर्षण , चुंबकीय क्षेत्र , व भूकंप संबंधी क्रियाएँ शामिल हैं ।"
+        },
+        {
+            "project_id": "1",
+            "sentence_id": "Geo_ncert_11stnd_6ch-bk1_0284a",
+            "sentence": "आर्द्र , उष्ण एवं भूमध्य रेखीय जलवायु में बैक्टेरियल वृद्धि एवं क्रियाएँ सघन होती हैं ।"
+        }
+    ]
+}
+output_format:
+
+{
+    "message": "<sent_id=Geo_ncert_11stnd_3ch-bk1_0041>\n#अन्य अप्रत्यक्ष स्रोतों में गुरुत्वाकर्षण , चुंबकीय क्षेत्र , व भूकंप संबंधी क्रियाएँ शामिल हैं ।\nanya_1\t1\t-\t-\t3:mod\t-\t-\t-\t-\naprawyakRa_1\t2\t-\t-\t1:mod\t-\t-\t-\t-\nsrowa_1\t3\t-\tpl\t15:k7\t-\t-\t-\t-\nguruwvAkarRaNa_1\t5\t-\t-\t-\t-\t-\t-\t18:op1\ncuMbakIya\t7\tmale\t-\t-\t-\t-\t-\t17:begin\n[ne_1]\t17\t-\t-\t-\t-\t-\t-\t18:op2\nkRewra_1\t8\t-\t-\t-\t-\t-\t-\t17:inside\nBUkaMpa_1\t11\t-\t-\t12:mod\t-\t-\t-\t-\nsaMbaMXI_1\t12\t-\t-\t13:mod\t-\t-\t-\t-\nkriyA_1\t13\t-\tpl\t-\t-\t-\t-\t18:op3\nSAmila_1\t14\t-\t-\t15:k1s\t-\t-\t-\t-\nhE_1-pres\t15\t-\t-\t0:main\t-\t-\t-\t-\n[conj_1]\t18\t-\t-\t15:k1\t-\t-\t-\t-\n%affirmative\n</sent_id>\n\n<sent_id=Geo_ncert_11stnd_6ch-bk1_0284a>\n#आर्द्र , उष्ण एवं भूमध्य रेखीय जलवायु में बैक्टेरियल वृद्धि एवं क्रियाएँ सघन होती हैं ।\nArxra_1\t1\t-\t-\t-\t-\t-\t-\t20:op1\nuRNa_1\t3\t-\t-\t-\t-\t-\t-\t20:op2\nBUmaXya\t5\t-\t-\t-\t-\t-\t-\t17:begin\n[ne_1]\t17\t-\t-\t14:k7\t-\t-\t-\t-\nreKIya_1\t6\t-\t-\t7:mod\t-\t-\t-\t-\njalavAyu_1\t7\t-\t-\t-\t-\t-\t-\t17:inside\nbEkteriyala\t9\t-\t-\t-\t-\t-\t-\t18:begin\n[ne_2]\t18\t-\t-\t11:ccof\t-\t-\t-\t-\nvqxXi_1\t10\t-\t-\t-\t-\t-\t-\t18:inside\nkriyA_1\t12\t-\tpl\t11:ccof\t-\t-\t-\t-\nsaGana_1\t13\t-\t-\t-\t-\t-\t-\t19:kriyAmUla\nho_1-wA_hE_1\t14\t-\t-\t-\t-\t-\t-\t19:verbalizer\n[cp_1]\t19\t-\t-\t-\t-\t-\t-\t20:op3\n[conj_1]\t20\t-\t-\t0:main\t-\t-\t-\t-\n%affirmative\n</sent_id>",
+    "status": "success"
+}
+
+
+
+
+docker commands
+
+sudo docker compose up --build
+sudo docker tag language_communicator_backend-web:latest sashank662/language_communicator_backend:latest
+
+sudo docker push sashank662/language_communicator_backend:latest

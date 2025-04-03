@@ -66,6 +66,7 @@ class Relational(Base):
     head_relation = Column(String(255), nullable=False)
     head_index = Column(String(255))  # Added main_index column
     dep_relation = Column(String(255))  # Added relation column
+    isFinalized = Column(Boolean, default=False)
     is_main = Column(Boolean, default=False)
     concept_id = Column(Integer, ForeignKey('lexical_conceptual.lexical_conceptual_id'), nullable=True)  # Added concept_id column
     segment = relationship('Segment', back_populates='relational')
@@ -79,11 +80,13 @@ class Construction(Base):
     segment_index = Column(String(50), nullable=False)
     index = Column(Integer)  # Added index column
     cxn_index = Column(String(50))  # Added cxn_index column
+    isFinalized = Column(Boolean, default=False)
     component_type = Column(String(255))  # Added component_type column
     concept_id = Column(Integer, ForeignKey('lexical_conceptual.lexical_conceptual_id'), nullable=True)  # Added concept_id column
     construction = Column(String(50), nullable=False)
     segment = relationship('Segment', back_populates='construction')
     concept = relationship('LexicalConceptual', back_populates='constructions')
+    
 
     def serialize(self):
         return {
@@ -100,6 +103,8 @@ class Construction(Base):
 # Create tables
 Base.metadata.create_all(bind=engine)
 
+
+
 def parse_data_for_construction(file_path):
     constructions = []
     current_segment_id = None
@@ -107,20 +112,29 @@ def parse_data_for_construction(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
 
+    print(f"📂 File {file_path} has {len(lines)} lines.")  # Debugging
+
     for line in lines:
         line = line.strip()
-        if line.startswith("<sent_id="):
-            match = re.search(r'<sent_id\s*=\s*([\w_\-]+)>', line)
-            if match:
-                current_segment_id = match.group(1)
-            else:
-                current_segment_id = None
-        elif line.startswith("</sent_id>"):
+
+        # Match both <sent_id=> and <segment_id=>
+        match = re.search(r'<(?:sent_id|segment_id)\s*=\s*([\w_\-]+)>', line)
+        if match:
+            current_segment_id = match.group(1)
+            print(f"✅ Parsed segment_id: {current_segment_id}")  # Debugging
+            continue
+
+        elif line.startswith("</sent_id>") or line.startswith("</segment_id>"):
             current_segment_id = None
+            continue
+
         elif line.startswith("#") or line.startswith("%") or line.startswith("*"):
-            continue  # Skip comments and affirmative marker
+            continue  # Skip comments and markers
+
         elif line and current_segment_id is not None:
             parts = re.split(r'\s+', line)
+            print(f"🔍 Processing line: {parts}")  # Debugging
+
             if len(parts) >= 9:  # Ensure there are at least 9 columns
                 try:
                     index = int(parts[1])  # Extract the 2nd column as index
@@ -140,62 +154,15 @@ def parse_data_for_construction(file_path):
                         'component_type': component_type.strip(),
                         'construction': construction
                     })
-                except ValueError as e:
-                    print(f"Error: Invalid format in line: {line} (Segment ID: {current_segment_id}, Error: {e})")
-            else:
-                print(f"Error: Unexpected format in line: {line} {current_segment_id}")
 
+                except ValueError as e:
+                    print(f"⚠️ Error: Invalid format in line: {line} (Segment ID: {current_segment_id}, Error: {e})")
+            else:
+                print(f"⚠️ Error: Unexpected format in line: {line} {current_segment_id}")
+
+    print(f"🚀 Extracted {len(constructions)} constructions.")  # Debugging
     return constructions
 
-# def insert_construction_data(session, file_path, chapter_id):
-#     try:
-#         construction_data = parse_data_for_construction(file_path)
-
-#         for construction_data_item in construction_data:
-#             segment_id = construction_data_item['segment_id']
-#             try:
-#                 # segment = session.query(Segment).filter_by(segment_index=segment_id).first()
-#                 segment = session.query(Segment).join(Sentence).filter(
-#                     Segment.segment_index == segment_id,
-#                     Sentence.chapter_id == chapter_id
-#                 ).first()
-
-#                 if segment:
-#                     # Find the lexical_conceptual_id using the segment_id and index
-#                     lexical_concept = session.query(LexicalConceptual).filter_by(
-#                         segment_id=segment.segment_id,
-#                         index=construction_data_item['index']
-#                     ).first()
-
-#                     concept_id = lexical_concept.lexical_conceptual_id if lexical_concept else None
-
-#                     construction = Construction(
-#                         segment_id=segment.segment_id,
-#                         segment_index=segment_id,
-#                         index=construction_data_item['index'],
-#                         cxn_index=construction_data_item['cxn_index'],
-#                         component_type=construction_data_item['component_type'],
-#                         concept_id=concept_id,  # Set the concept_id here
-#                         construction=construction_data_item['construction']
-#                     )
-#                     session.add(construction)
-#                 else:
-#                     print(f"Error: No matching segment found for segment_index: {segment_id}")
-
-#             except Exception as e:
-#                 print(f"Error inserting data for segment_id {segment_id}: {e}")
-#                 session.rollback()
-
-#         session.commit()
-#         print("Construction data inserted successfully!")
-
-#     except Exception as e:
-#         print(f"Error inserting construction data: {e}")
-#         session.rollback()
-
-#     finally:
-#         session.close()
-#         print("done")
 
 def insert_construction_data(session, file_path, chapter_id):
     try:
@@ -205,10 +172,16 @@ def insert_construction_data(session, file_path, chapter_id):
             segment_id = construction_data_item['segment_id']
             try:
                 # Find the segment using the segment_index and chapter_id
+                print(f"Looking for segment_id: {segment_id}, chapter_id: {chapter_id}")
                 segment = session.query(Segment).join(Sentence).filter(
                     Segment.segment_index == segment_id,
-                    Sentence.chapter_id == chapter_id
+                    # Sentence.chapter_id == chapter_id
                 ).first()
+                
+                if not segment:
+                    print(f"❌ No matching segment found for segment_id {segment_id} in chapter {chapter_id}")
+                else:
+                    print(f"✅ Found segment: {segment.segment_index}")
 
                 if segment:
                     # Find the lexical_conceptual_id using the segment_id and index
@@ -261,8 +234,8 @@ def insert_construction_data(session, file_path, chapter_id):
 
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"
-    chapter_id = 18
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/health_data_part_2/USRS.txt"
+    chapter_id = 19
     session = SessionLocal()
     insert_construction_data(session, file_path, chapter_id)
 

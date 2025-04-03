@@ -37,18 +37,10 @@ chapter_file_path = '/home/sashank/Downloads/LC/Language_Communicator_Backend/ap
 
 chapter_text = read_chapter_from_file(chapter_file_path)
 
-# chapter_data = {
-#     "project_id": 3, 
-#     "name": "geo_ncert_chapter_1",  
-#     "uploaded_by_id": 14,  
-#     "text": chapter_text,
-#     "created_at": datetime.datetime.utcnow(),
-#     "updated_at": datetime.datetime.utcnow(),
-# }
 
 chapter_data = {
     "project_id": 1,
-    "name": "Ecommerce_chapter_1",  
+    "name": "_chapter_3",  
     "uploaded_by_id": 1, 
     "text": chapter_text,
     "created_at": datetime.datetime.utcnow(),

@@ -43,12 +43,6 @@ def add_chapter():
     return jsonify({'message': 'Chapter added successfully', 'chapter_id': chapter.id}), 201
 
 
-# @chapter_blueprint.route('/by_project/<int:project_id>', methods=['GET'])
-# @jwt_required()
-# def get_chapters(project_id):
-#     chapters = ChapterService.get_chapters_by_project(project_id)
-#     chapters_data = [{'id': chapter.id, 'name': chapter.name, 'text': chapter.text, 'created_at': chapter.created_at,'uploaded_by': chapter.uploaded_by.username,'assigned_to': "N1","status": "completed" } for chapter in chapters]
-#     return jsonify(chapters_data), 200
 
 @chapter_blueprint.route('/by_project/<int:project_id>', methods=['GET'])
 @jwt_required()
@@ -68,12 +62,6 @@ def get_chapters(project_id):
     ]
     return jsonify(chapters_data), 200
 
-# @chapter_blueprint.route('/by_chapter/<int:chapter_id>', methods=['GET'])
-# @jwt_required()
-# def get_chapter(chapter_id):
-#     chapters = ChapterService.get_chapters_by_chapter_id(chapter_id)
-#     chapters_data = [{'id': chapter.id, 'name': chapter.name, 'text': chapter.text, 'created_at': chapter.created_at,'uploaded_by': chapter.uploaded_by.username,'assigned_to': "N1","status": "completed" } for chapter in chapters]
-#     return jsonify(chapters_data), 200
 @chapter_blueprint.route('/by_chapter/<int:chapter_id>', methods=['GET'])
 @jwt_required()
 @measure_response_time

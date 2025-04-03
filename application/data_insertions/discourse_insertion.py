@@ -68,6 +68,7 @@ class Relational(Base):
     head_relation = Column(String(255), nullable=False)
     head_index = Column(String(255))  # Added main_index column
     dep_relation = Column(String(255))  # Added relation column
+    isFinalized = Column(Boolean, default=False) 
     is_main = Column(Boolean, default=False)
     concept_id = Column(Integer, ForeignKey('lexical_conceptual.lexical_conceptual_id'), nullable=True)  # Added concept_id column
     segment = relationship('Segment', back_populates='relational')
@@ -81,6 +82,7 @@ class Construction(Base):
     segment_index = Column(String(50), nullable=False)
     index = Column(Integer)  # Added index column
     cxn_index = Column(String(50))  # Added cxn_index column
+    isFinalized = Column(Boolean, default=False) 
     component_type = Column(String(255))  # Added component_type column
     concept_id = Column(Integer, ForeignKey('lexical_conceptual.lexical_conceptual_id'), nullable=True)  # Added concept_id column
     construction = Column(String(50), nullable=False)
@@ -107,6 +109,7 @@ class Discourse(Base):
     segment_index = Column(String(50), nullable=False)
     discourse = Column(String(50))
     index = Column(Integer) 
+    isFinalized = Column(Boolean, default=False)
     head_index = Column(String(50))  
     relation = Column(String(255)) 
     segment = relationship('Segment', back_populates='discourse')
@@ -122,7 +125,8 @@ class Discourse(Base):
             'head_index': self.head_index,
             'relation': self.relation,
             'concept_id': self.concept_id, 
-            'discourse': self.discourse
+            'discourse': self.discourse,
+            'isFinalized': self.isFinalized 
         }
 
 # Create tables
@@ -174,50 +178,6 @@ def parse_data_for_discourse(file_path):
 
     return discourses
 
-# def insert_discourse_data(session, file_path, chapter_id):
-#     try:
-#         discourse_data = parse_data_for_discourse(file_path)
-
-#         for discourse_data_item in discourse_data:
-#             segment_id = discourse_data_item['segment_id']
-#             # segment = session.query(Segment).filter_by(segment_index=discourse_data_item['segment_id']).first()
-#             segment = session.query(Segment).join(Sentence).filter(
-#                     Segment.segment_index == segment_id,
-#                     Sentence.chapter_id == chapter_id
-#                 ).first()
-
-#             if segment:
-
-#                 # Find the lexical_conceptual_id using the segment_id and index
-#                 lexical_concept = session.query(LexicalConceptual).filter_by(
-#                     segment_id=segment.segment_id,
-#                     index=discourse_data_item['index']
-#                 ).first()
-
-#                 concept_id = lexical_concept.lexical_conceptual_id if lexical_concept else None
-
-#                 discourse = Discourse(
-#                     segment_id=segment.segment_id,
-#                     segment_index=discourse_data_item['segment_id'],
-#                     index=discourse_data_item['index'],
-#                     head_index=discourse_data_item['head_index'],
-#                     relation=discourse_data_item['relation'],
-#                     concept_id=concept_id,
-#                     discourse=discourse_data_item['discourse']
-#                 )
-#                 session.add(discourse)
-#             else:
-#                 print(f"Error: No matching segment found for segment_index: {discourse_data_item['segment_id']}")
-
-#         session.commit()
-#         print("Discourse data inserted successfully!")
-
-#     except Exception as e:
-#         print(f"Error inserting discourse data: {e}")
-#         session.rollback()
-
-#     finally:
-#         session.close()
 
 def insert_discourse_data(session, file_path, chapter_id):
     try:
@@ -278,8 +238,8 @@ def insert_discourse_data(session, file_path, chapter_id):
 
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"
-    chapter_id = 18
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/health_data_part_2/USRS.txt"
+    chapter_id = 20
     session = SessionLocal()
     insert_discourse_data(session, file_path, chapter_id)
 

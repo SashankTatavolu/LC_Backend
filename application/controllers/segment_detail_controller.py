@@ -1,12 +1,6 @@
 from flask import Blueprint, Response, jsonify, request, send_file
 from flask_jwt_extended import jwt_required
 from io import BytesIO
-from application.models.segment_model import Segment
-from application.models.sentence_model import Sentence
-from application.models.chapter_model import Chapter
-import re
-import subprocess
-import os
 from application.extensions import db
 from application.services.measure_time import measure_response_time
 

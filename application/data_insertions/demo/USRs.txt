@@ -1,0 +1,169 @@
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_009a>
+#प्राथमिक लक्ष्य रक्त को साफ करना और थक्के बनने को रोकना है ।
+prAWamika_1	1	-	-	2:mod	-	-	-	-
+lakRya_1	2	-	-	16:k1	-	-	-	-
+rakwa_1	3	-	-	15:k2	-	-	-	-
+sAPa_1	5	-	-	-	-	-	-	14:kriyAmUla
+kara_1	6	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	-	-	-	-	15:op1
+WakkA_1	8	-	pl	9:k2	-	-	-	-
+bana_1	9	-	-	11:k2	-	-	-	-
+roka_1	11	-	-	-	-	-	-	15:op2
+hE_1-pres	16	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	16:k1s	-	-	-	-
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_009b>
+#लेकिन यह किसी भी शेष रही कैंसर कोशिकाओं को फ्लश कर के कैंसर की पुनरावृत्ति को रोकने में भी मदद कर सकता है ।
+$wyax	1	-	-	26:k1	-	proximal	-	-
+koI_1	2	-	-	27:quant	-	BI_6	-	-
+SeRa_1	4	-	-	-	-	-	-	24:kriyAmUla
+raha_1	5	-	-	-	-	-	-	24:verbalizer
+[cp_1]	24	-	-	27:rvks	-	-	-	-
+kEMsara_1	6	-	-	-	-	-	-	27:mod
+koSikA_1	7	-	pl	-	-	-	-	27:head
+[nc_1]	27	-	-	25:k2	-	-	-	-
+PlaSa_1	9	-	-	-	-	-	-	25:kriyAmUla
+kara_1	10	-	-	-	-	-	-	25:verbalizer
+[cp_2]	25	-	-	26:rpk	-	-	-	-
+kEMsara_1	12	-	-	14:r6	-	-	-	-
+punarAvqwwi_1	14	-	-	16:k2	-	-	-	-
+roka_1	16	-	-	26:rt	-	BI_1	-	-
+maxaxa_1	19	-	-	-	-	-	-	26:kriyAmUla
+kara_1-0_sakawA_hE_1	20	-	-	-	-	-	-	26:verbalizer
+[cp_3]	26	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_005a.26:viroXI	-	-	-
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_010a>
+#2016 में एक तुलना में यह पाया गया ।
+2016	1	numex	-	7:k7t	-	-	-	-
+eka_2	3	-	-	4:quant	-	-	-	-
+wulanA_1	4	-	-	7:k7	-	-	-	-
+$wyax	6	-	-	7:k2	-	proximal	-	-
+pA_1-yA_jA_yA_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_010b>
+#कि मूत्राशय को फ्लश करने से कैंसर की आवृति का जोखिम 21 % कम हो जाता है ।
+mUwrASaya_1	1	-	-	18:k2	-	-	-	-
+PlaSa_1	3	-	-	-	-	-	-	18:kriyAmUla
+kara_1	4	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	14:rh	-	-	-	-
+kEMsara_1	6	-	-	8:r6	-	-	-	-
+Avqwi_1	8	-	-	10:r6	-	-	-	-
+joKima_1	10	-	-	14:k1	-	-	-	-
+100	20	numex	-	21:card	-	-	-	-
+prawiSawa_1	21	-	-	22:rn	-	-	-	-
+21	11	numex	-	22:card	-	-	-	-
+prawiSawa_1	22	-	-	23:rmeas	-	-	-	-
+kama_1	23	-	-	14:k1s	-	-	-	-
+ho_1-wA_hE_1	14	-	-	0:main	-	[shade:jA_1]	-	-
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_011a>
+#जबकि अन्य अध्ययनों ने इस फ्लशिंग विधि की छान - बीन की है ।
+viXi_1	6	-	-	-	-	-	-	14:head
+[nc_1]	14	-	-	16:k2	-	-	-	-
+CAna+bIna_1	8	-	-	-	-	-	-	16:kriyAmUla
+kara_1-yA_hE_1	11	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	P1Information_sheet_and_consent_anu_hin_target_006a.16:viroXI_xyowaka	-	-	-
+anya_1	1	-	-	2:mod	-	-	-	-
+aXyayana_1	2	-	-	16:k1	-	-	-	-
+$wyax	4	-	-	14:dem	-	proximal	-	-
+^PlaSiMga_1	5	-	-	-	-	-	-	14:mod
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_011b>
+#कुछ समीक्षाओं ने पूर्वव्यापी डेटा और गैर - यादृच्छिक उपचारों के कारण चिंता जताई ।
+kuCa_1	1	-	-	2:mod	-	-	-	-
+samIkRA_1	2	-	pl	14:k1	-	-	-	-
+pUrvavyApI_1	4	-	-	5:mod	-	-	-	-
+detA_1	5	-	-	-	-	-	-	17:op1
+gEra+yAxqcCika_1	9	-	-	10:mod	-	-	-	-
+upacAra_1	10	-	pl	-	-	-	-	17:op2
+ciMwA_1	13	-	-	14:k2	-	-	-	-
+jawA_1-yA_1	14	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	14:rh	-	-	-	-
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_011c>
+#जिससे उनके साक्ष्य कम विश्वसनीय हो गए ।
+$wyax	2	-	pl	3:r6	-	distal	-	-
+sAkRya_1	3	-	-	9:k1	-	-	-	-
+kama_1	10	-	-	5:mod	-	-	-	-
+viSvasanIya_1	5	-	comperless	-	-	-	-	9:kriyAmUla
+ho_1-yA_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_012a>
+#हमारे नए अध्ययन में , हमारा उद्देश्य यह निर्धारित करना है ।
+$speaker	1	anim	pl	3:r6	-	-	-	-
+nae_1	2	-	-	3:mod	-	-	-	-
+aXyayana_1	3	-	-	14:k7	-	-	-	-
+$speaker	6	anim	pl	7:r6	-	-	-	-
+uxxeSya_1	7	-	-	14:k1	-	-	-	-
+$wyax	8	-	-	13:k2	-	proximal	-	-
+nirXAriwa_1	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1	10	-	-	-	-	-	-	13:verbalizer
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[cp_1]	13	-	-	14:k1s	-	-	-	-
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_012b>
+#कि क्या सेलाइन के साथ मूत्राशय को लगातार फ्लश करने से 3 महीने के भीतर पोस्टऑपरेटिव मूत्राशय ट्यूमर की पुनरावृत्ति और प्रतिकूल घटनाओं का होना प्रभावित होगा ।
+selAina	2	-	-	29:k2as	-	-	-	-
+mUwrASaya_1	5	-	-	29:k2	-	-	-	-
+lagAwAra_1	7	-	-	29:krvn	-	-	-	-
+PlaSa_1	8	-	-	-	-	-	-	29:kriyAmUla
+[cp_1]	29	-	-	26:rh	-	-	-	-
+3	11	numex	-	-	-	-	-	32:count
+mahInA_1	12	-	pl	-	-	-	-	32:unit
+[time_meas_1]	32	-	-	24:dur	-	-	-	-
+postaOYparetiva_1	15	-	-	28:mod	-	-	-	-
+mUwrASaya_1	16	-	-	-	-	-	-	28:mod
+tyUmara_1	17	-	-	-	-	-	-	28:head
+[nc_1]	28	-	-	19:r6	-	-	-	-
+punarAvqwwi_1	19	-	-	-	-	-	-	31:op1
+prawikUla_1	21	-	-	22:mod	-	-	-	-
+GatanA_1	22	-	pl	-	-	-	-	31:op2
+ho_1	24	-	-	26:k1	-	-	-	-
+praBAviwa_1	25	-	-	26:k1s	-	-	-	-
+ho_1-gA_1	26	-	-	0:main	-	-	-	-
+[conj_1]	31	-	-	24:k1	-	-	-	-
+kara_1	9	-	-	-	-	-	-	29:verbalizer
+%affirmative
+</segment_id>
+
+<segment_id=P1Information_sheet_and_consent_anu_hin_target_013>
+#हम 3 सेमी या उससे छोटे ट्यूमर्स से पीडित 190 मूत्राशय कैंसर रोगियों को शामिल करना चाहते हैं ।
+$speaker	1	-	pl	0:k1	-	-	-	-
+3	2	numex	-	3:card	-	-	-	23:count
+seMtImItara_1	3	-	-	-	-	-	-	23:unit
+[length_meas_1]	23	-	-	-	-	-	-	22:op1
+$wyax	5	-	-	17:rh	-	distal	-	22:op2
+CotA_1	6	-	-	7:mod	-	-	-	-
+tyUmarsa_1	7	-	-	16:k3	-	-	-	-
+pIdiwa_1	9	-	-	11:mod	-	-	-	-
+190	10	numex	-	11:card	-	-	-	-
+mUwrASaya_1	11	-	-	16:k2	-	-	-	20:mod
+kEMsara_1	12	-	-	-	-	-	-	20:head
+rogI_1	13	-	pl	-	-	-	-	23:head
+[nc_1]	20	-	-	16:k2	-	-	-	23:mod
+[nc_2]	23	-	-	-	-	-	-	-
+SAmila_1	15	-	-	-	-	-	-	21:kriyAmUla
+kara_1	16	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	17:k2	-	-	-	-
+cAha_1-wA_hE_1	17	-	-	-	-	-	-	-
+[disjunct_1]	22	-	-	0:main	-	-	-	-
+%affirmative
+</segment_id>
