@@ -1,0 +1,28 @@
+Chapter
+  - chapter_id (PK)
+
+  └──< Sentence
+        - sentence_id (PK)
+        - chapter_id (FK → Chapter.chapter_id)
+
+        └──< Segment
+              - segment_id (PK)
+              - sentence_id (FK → Sentence.sentence_id)
+
+            └──< LexicalConceptual
+                    - lc_id (PK)
+                    - segment_id (FK → Segment.segment_id)
+
+                    └──< Construction
+                          - construction_id (PK)
+                          - lc_id (FK → LexicalConceptual.lc_id)
+
+                    └──< Relational
+                          - relational_id_id (PK)
+                          - lc_id (FK → LexicalConceptual.lc_id)
+
+                    └──< Discourse
+                          - Discourse_id (PK)
+                          - lc_id (FK → LexicalConceptual.lc_id)
+
+             

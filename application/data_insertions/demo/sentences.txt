@@ -1,5 +1,45 @@
-P1Information_sheet_and_consent_anu_hin_target_009	प्राथमिक लक्ष्य रक्त को साफ करना और थक्के बनने को रोकना है, लेकिन यह किसी भी शेष रही कैंसर कोशिकाओं को फ्लश कर के कैंसर की पुनरावृत्ति को रोकने में भी मदद कर सकता है।
-P1Information_sheet_and_consent_anu_hin_target_010	2016 में एक तुलना में पाया गया कि मूत्राशय को फ्लश करने से कैंसर की आवृति का जोखिम 21% कम हो जाता है।
-P1Information_sheet_and_consent_anu_hin_target_011	जबकि अन्य अध्ययनों ने इस फ्लशिंग विधि की छान-बीन की है, कुछ समीक्षाओं ने पूर्वव्यापी डेटा और गैर-यादृच्छिक उपचारों के कारण चिंता जताई, जिससे उनके साक्ष्य कम विश्वसनीय हो गए।
-P1Information_sheet_and_consent_anu_hin_target_012	हमारे नए अध्ययन में, हमारा उद्देश्य यह निर्धारित करना है कि क्या सेलाइन के साथ मूत्राशय को लगातार फ्लश करने से 3 महीने के भीतर पोस्टऑपरेटिव मूत्राशय ट्यूमर की पुनरावृत्ति और प्रतिकूल घटनाओं का होना प्रभावित होगा।
-P1Information_sheet_and_consent_anu_hin_target_013	हम 3 सेमी या उससे छोटे ट्यूमर्स से पीड़ित 190 मूत्राशय कैंसर रोगियों को शामिल करना चाहते हैं।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_001INFOSHEET	रोगी सूचना-पत्रक
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_002T	पिट्यूटरी एडिनोमा को निकालने के लिये, आर्चनॉइड उभार में मैनिटॉल देने का प्रभाव और  एंडोस्कोपिक ट्रांसनेसल, ट्रांसस्पेनोइडल (टीएनटीएस) से गुजरने वाले रोगियों में मस्तिष्क द्रव (सीएसएफ) के रिसाव की घटना - एक यादृच्छिक नियंत्रित परीक्षण।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_003	परिचय :
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_004	आपको एक शोध अध्ययन में भाग लेने के लिए चुना गया है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_005	इससे पहले कि आप तय करें कि क्या आप इसमें भाग लेना चाहते हैं, कृपया अपने जोखिमों और लाभों के बारे में जानने के लिये नीचे दिए गए अध्ययन के बारे में पढ़ें।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_006	आपको जितना समय चाहिए उतना समय लें, और अध्ययन जांचकर्ताओं से पूछने के लिए स्वतंत्र महसूस करें कि क्या आपको अध्ययन के बारे में कोई संदेह है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_007	हम यह सुनिश्चित करेंगे कि आपके सभी सवालों के जवाब दिए जाएं।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_008	इस अध्ययन में भागीदारी स्वैच्छिक है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_009	पृष्ठभूमि :
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_010	हम एक शोध अध्ययन में भाग लेने के लिए आपसे संपर्क कर रहे हैं, क्योंकि आप नाक के माध्यम से मस्तिष्क ट्यूमर के लिए शल्य-चिकित्सा करवा रहे हैं।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_011	शल्य-चिकित्सा से पहले आपको  एनेस्थेसियोलॉजिस्ट द्वारा  (सामान्य एनेस्थीसिया) देकर  सुला दिया जाएगा।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_012	शल्य-चिकित्सा के दौरान एनेस्थेसियोलॉजिस्ट आपके सभी महत्वपूर्ण एवं शल्य-चिकित्सा के समय आवश्यक मापदंडों, जैसे कि श्वास, दर्द, नींद की स्थिति, रक्तचाप, हृदय गति नियंत्रण का ध्यान रखेगा।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_013	जैसे ही शल्य-चिकित्सक आपकी नाक और खोपड़ी की हड्डी के आधार के माध्यम से ट्यूमर के पास पहुंचता है, हम नाक के माध्यम से मस्तिष्क की परतों को कवर करने के उभार को नियंत्रित करने के लिए कुछ उपाय (आपकी श्वास दर को नियंत्रित करके) करते हैं।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_014	यह उपाय शल्य-चिकित्सक को बिना किसी हस्तक्षेप के ट्यूमर को हटाने में मदद करता है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_015	कभी-कभी, उपायों के बावजूद, मस्तिष्क की आवरण परत शल्य-चिकित्सीय क्षेत्र में उभर सकती है और उपकरण में फंस सकती है तथा कवर परतों में एक छेद बना सकती है, जिसके माध्यम से सीएसएफ नामक मस्तिष्क तरल पदार्थ का बाहर रिसाव हो सकता है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_016	इस रिसाव को रोकने के लिए, एनेस्थेसियोलॉजिस्ट पीठ में एक नली डालता है और अनुभवजन्य रूप से सीएसएफ को हटा देता है, जिससे नाक के माध्यम से उभार कम हो जाता है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_017	इन सभी उपायों के बावजूद, शल्य-चिकित्स के दौरान या शल्य-चिकित्स के बाद कुछ मामलों में रिसाव की संभावना है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_018	सीएसएफ रिसाव के कारण  संक्रमण की संभावना बढ़ जाती है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_019	इसके अलावा, आपको 3 से 5 दिनों के लिए बिस्तर पर आराम करने की आवश्यकता है, जिससे आपके अस्पताल में रहने की अवधि बढ़ा सकती है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020	मैनिटॉल एक दवा है, जिसकी सभी प्रकार की मस्तिष्क संबंधी शल्य-चिकित्सा के लिए नियमित रूप से प्रयोग किया जाता है, जो  मस्तिष्क को राहत प्रदान करता है, जिसके लिए खोपड़ी की हड्डी को खोलने की आवश्यकता होती है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021	इस शोध में, हम यह अध्ययन करने की योजना बना रहे हैं कि क्या मैनिटॉल का प्रयोग शल्य-चिकित्सीय स्थान पर उभार को कम करने में मदद करता है, जिससे मस्तिष्क की आवरण परत में चोट लगने की संभावना कम हो जाती है और  सीएसएफ रिसाव कम हो जाता है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_022	अध्ययन डिजाइन :
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_023	आपकी  शल्य-चिकित्सा के दौरान मानक एनेस्थीसिया दवाओं और निगरानी तकनीकों का उपयोग किया जाएगा।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_024	यदि आप भाग लेने के लिए तैयार हैं, तो आपको दो समूहों में से एक में यादृच्छिक रूप से भेजा जाएगा।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_025	एक समूह को मैनिटॉल नामक दवा प्राप्त होगी और दूसरे समूह को सामान्य अंतःशिरा सेलाइन  तरल पदार्थ की मात्रा प्राप्त होगी।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_026	आपके निर्धारित समूह के अनुसार, आपको दवाएं दी जाएंगी।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_027	ऑपरेशन के दौरान, शल्य-चिकित्सक मस्तिष्क उभार की डिग्री का आकलन करेगा और हमें सूचित करेगा।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_028	इसके अलावा अगर सीएसएफ रिसाव होता है, तो हम आपकी पीठ पर सीएसएफ तरल पदार्थ को नियंत्रित तरीके से हटाने के लिए एक ट्यूब डालेंगे, जो नाक के माध्यम से होने वाले रिसाव को रोकेगी।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_029	लाभ :
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_030	मैनिटॉल का प्रयोग मस्तिष्क उभार, जिससे द्रव रिसाव होता है, को कम करने में मदद कर सकता है या नहीं भी कर सकता है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_031	यदि इस अध्ययन के परिणाम यह साबित करते हैं कि मैनिटॉल के प्रयोग से उभार और द्रव रिसाव को कम करने में मदद मिलती है, तो हम इस उपाय को भविष्य में इसी तरह की शल्य-चिकित्सा से गुजरने वाले रोगियों की नियमित देखभाल के हिस्से के रूप में जारी रखेंगे।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_032	यह परीक्षण एक नियंत्रित परीक्षण है, जिसमें मैनिटॉल  प्राप्त करने की केवल 50% संभावना है, इसलिए आपको प्रत्यक्ष लाभ नहीं भी मिल सकता है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_033	जोखिम :
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_034	कई दशकों से न्यूरोसर्जरी में मस्तिष्क को राहत पहुंचाने के लिए मैनिटॉल का उपयोग नियमित रूप से किया जाता रहा है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_035	इसका उपयोग मूत्र उत्पादन बढ़ा सकता है और रक्त में नमक के स्तर को बदल सकता है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_036	हम नमक के स्तर की निगरानी के लिए रक्त परीक्षण करेंगे और उसका उचित इलाज करेंगे।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_037	मूत्र उत्पादन के आधार पर द्रव दिया जाएगा।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_038	इसलिए यदि आप अध्ययन में भाग ले रहे हैं तो इसमें कोई बड़ा जोखिम नहीं है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_039	अध्ययन जांचकर्ताओं द्वारा नियमित अंतराल पर आपकी निगरानी की जाएगी, इसलिए भागीदारी से जोखिम के बजाय लाभ हैं।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_040	स्वैच्छिक भागीदारी :
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_041	इस अध्ययन में आपकी भागीदारी स्वैच्छिक है।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_042	आप इस अध्ययन में नहीं होने का फैसला कर सकते हैं, या आप पहले तो अध्ययन में भाग ले सकते हैं और फिर बाद में अपना मन बदल सकते हैं।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_043	अपनी देखभाल को प्रभावित किए बिना, आप किसी भी समय अध्ययन छोड़ सकते हैं।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_044	इस अध्ययन में भाग लेने के लिए आपको अतिरिक्त धन का भुगतान नहीं करना होगा।
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_045	इसके अलावा, आपको इस अध्ययन में भाग लेने के लिए कोई प्रतिपूर्ति नहीं मिलेगी।

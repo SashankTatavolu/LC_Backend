@@ -267,7 +267,7 @@ class SegmentDetailService:
                 head_index_relation = "-"
                 cxn_index_component_type = "-"
                 scope = "-"  # Adding the new "scope" column with "-" as the default value
-
+                # domain_term = "-"
                 # Relational
                 if lc.relational:
                     for rel in lc.relational:
@@ -282,6 +282,7 @@ class SegmentDetailService:
                 if lc.constructions:
                     for con in lc.constructions:
                         cxn_index_component_type = f"{con.cxn_index}:{con.component_type}" if con.cxn_index != "-" and con.component_type != "-" else "-"
+                
 
                 # Append lexical concept details as a tab-separated row
                 rows.append(
@@ -339,8 +340,11 @@ class SegmentDetailService:
             #         domain_term = dt.domain_term if dt.domain_term != "-" else "-"
 
             # Append lexical concept details as a tab-separated row
+            def sanitize(text):
+                return str(text).replace('\n', '').replace('\r', '')
+
             rows.append(
-                f"{lc.concept}\t{lc.index}\t{lc.semantic_category}\t{lc.morpho_semantics}\t"
+                f"{sanitize(lc.concept)}\t{lc.index}\t{lc.semantic_category}\t{lc.morpho_semantics}\t"
                 f"{main_index_relation}\t{head_index_relation}\t{lc.speakers_view}\t{scope}\t"
                 f"{cxn_index_component_type}"
             )
@@ -571,7 +575,7 @@ class SegmentDetailService:
                     if lc.relational:
                         for rel in lc.relational:
                             head_index = rel.head_index if rel.head_index != "-" else ""
-                            relation = rel.head_relation if rel.head_relation != "-" else ""
+                            relation = rel.dep_relation if rel.dep_relation != "-" else ""
                             
                             # Replace with "-" if either part is missing
                             if not head_index or not relation:

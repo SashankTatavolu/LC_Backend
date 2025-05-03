@@ -1,6 +1,6 @@
 import datetime
 import re
-from sqlalchemy import create_engine
+from sqlalchemy import and_, create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
@@ -52,8 +52,8 @@ class Segment(Base):
 Base.metadata.create_all(bind=engine)
 
 def main():
-    file_path = "/home/sashank/Downloads/LC_Backend-main/application/data_insertions/health_data/health_data_part_2/segments.txt"
-    chapter_id = 20 # Example: Use the specific chapter_id for the sentences
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/Segments.txt"
+    chapter_id = 44 # Example: Use the specific chapter_id for the sentences
 
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
@@ -62,28 +62,39 @@ def main():
 
     try:
         for line in lines:
-            # Adjust the split regex to handle spaces or tabs
-            parts = re.split(r'\s{2,}|\t+', line.strip())  
-            print(f"Line parts: {parts}")  
-
-            # Ensure there are at least 2 parts (segment index & text)
-            if len(parts) < 2:
+            line = line.strip()
+            # Match the segment index at the beginning (e.g., Geo_nios_13ch_0020a)
+            match = re.match(r'^([^\s]+)\s+(.*)', line)
+            if not match:
                 print(f"Skipping invalid line: {line}")
                 continue
 
-            segment_index = parts[0]  # First occurrence of the segment index
-            segment_text = parts[1]  # Sentence in the original language
-            wx_text = parts[2] if len(parts) > 2 else None  # Handle missing WX text
-            english_text = parts[3] if len(parts) > 3 else None  # Handle missing English text
+            segment_index = match.group(1)
+            rest_of_line = match.group(2)
 
-            # extracted_sentence_id = segment_index.rstrip('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
-            extracted_sentence_id = segment_index  # Keep full ID
+            # Now split the remaining parts: segment_text, wx_text, english_text
+            parts = re.split(r'\s{2,}|\t+', rest_of_line)
+            if len(parts) < 1:
+                print(f"Skipping incomplete line: {line}")
+                continue
 
-            # Fetch the sentence using both sentence_id and chapter_id
+            segment_text = parts[0]
+            wx_text = parts[1] if len(parts) > 1 else None
+            english_text = parts[2] if len(parts) > 2 else None
+
+            # Extract the sentence_id (without trailing character)
+            extracted_sentence_id = segment_index.rstrip('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
+
             sentence = session.query(Sentence).filter(
                 Sentence.sentence_id == extracted_sentence_id,
                 Sentence.chapter_id == chapter_id
             ).first()
+            # sentence = session.query(Sentence).filter(
+            #     and_(
+            #         Sentence.sentence_id.like(f"{extracted_sentence_id}%"),
+            #         Sentence.chapter_id == chapter_id
+            #     )
+            # ).first()
             
             if sentence:
                 sentence_id = sentence.id
@@ -93,8 +104,8 @@ def main():
                     segment_index=segment_index,
                     chapter_id=chapter_id,
                     segment_text=segment_text,
-                    english_text=english_text,  # Allowing None
-                    wx_text=wx_text,  # Allowing None
+                    english_text=english_text,
+                    wx_text=wx_text,
                     segment_type=" ",
                     index_type="type"
                 )
@@ -115,5 +126,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 

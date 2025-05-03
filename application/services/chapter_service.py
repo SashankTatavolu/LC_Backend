@@ -67,8 +67,8 @@ class ChapterService:
     @staticmethod
     def send_email(user_email, project_name, chapter_name, doc_path=None, url=None):
         print(user_email, project_name, chapter_name)
-        sender_email = "sashanktatavolu@gmail.com"
-        sender_password = "twdx pidz jgea rsza"
+        sender_email = "swethapoppoppu@gmail.com"
+        sender_password = "ufec wkhp syss ynqa"
 
         subject = f'New Chapter Assigned: "{chapter_name}"'
 
@@ -158,5 +158,3 @@ class ChapterService:
         segment_indices = [segment.segment_index for segment in segments]
         
         return segment_indices
-
-        

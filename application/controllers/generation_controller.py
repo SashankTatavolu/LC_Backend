@@ -2,6 +2,7 @@ import traceback
 from flask import Blueprint, request, jsonify, send_file
 import json
 from flask_jwt_extended import jwt_required
+import requests
 from application.extensions import db
 from application.services.generation_service_process import hindi_genration
 from application.services.generation_service import GenerationService
@@ -366,3 +367,34 @@ def download_generated_texts_for_chapter(chapter_id):
         download_name=f"generated_chapter_{chapter_id}.txt",
         mimetype="text/plain"
     )
+
+
+
+@generation_blueprint.route('/generate_hindi/<int:segment_id>', methods=['GET'])
+@jwt_required()
+def generate_hindi_text(segment_id):
+    # Step 1: Fetch the USR input
+    segment_text = SegmentDetailService.get_segment_details_as_csv_single(segment_id)
+
+    if not segment_text:
+        return jsonify({'error': 'Segment data not found'}), 404
+
+    # 🔍 Print/log the input being sent to Hindi Generation API
+    print("==== Input to Hindi Generation API ====")
+    print(segment_text)
+    print("=======================================")
+
+    # Step 2: Send to Hindi generation API
+    try:
+        response = requests.post(
+            "http://10.4.16.167:8082/hindi_generation",
+            data=segment_text.encode('utf-8'),
+            headers={"Content-Type": "text/plain"}
+        )
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        return jsonify({'error': 'Hindi generation service failed', 'details': str(e)}), 500
+
+    # Step 3: Return the output
+    return jsonify(response.json()), 200
+

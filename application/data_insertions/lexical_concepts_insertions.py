@@ -5,9 +5,9 @@ from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
 from sqlalchemy.orm import relationship
 import datetime
 
-# SQLALCHEMY_DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
+SQLALCHEMY_DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
 
-SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+# SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
@@ -61,60 +61,6 @@ class LexicalConceptual(Base):
     segment = relationship('Segment', back_populates='lexical_concepts')
 
 Base.metadata.create_all(bind=engine)
-# def parse_data(file_path):
-#     lexical_concepts = []
-#     current_segment_id = None
-
-#     with open(file_path, 'r', encoding='utf-8') as file:
-#         lines = file.readlines()
-
-#     print(f"File {file_path} has {len(lines)} lines.")  # Debugging
-#     for i, line in enumerate(lines[:10]):  # Print first 10 lines
-#         print(f"Line {i+1}: {line.strip()}")
-
-#     for line in lines:
-#         line = line.strip()
-#         if line.startswith("<sent_id="):
-#             match = re.search(r'<sent_id\s*=\s*([\w_\-]+)>', line)
-#             if match:
-#                 current_segment_id = match.group(1)
-#                 print(f"Parsed segment_id: {current_segment_id}")  # Debugging
-#             else:
-#                 print(f"Error: Unable to parse sent_id in line: {line}")
-#                 current_segment_id = None
-#         elif line.startswith("</sent_id>"):
-#             current_segment_id = None
-#         elif line.startswith("#") or line.startswith("%"):
-#             continue  # Skip comments and markers
-#         elif line and current_segment_id is not None:
-#             parts = re.split(r'\s+', line)
-#             print(f"Processing line: {parts}")  # Debugging
-
-#             # Ensure parts has at least required indices
-#             concept = parts[0] if len(parts) > 0 else None
-#             index = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else None
-#             semantic_category = parts[2] if len(parts) > 2 else None
-#             morpho_semantics = parts[3] if len(parts) > 3 else None
-#             speakers_view = parts[6] if len(parts) > 6 else None
-
-#             if concept and index is not None:
-#                 lexical_concepts.append({
-#                     'segment_id': current_segment_id,
-#                     'index': index,
-#                     'concept': concept,
-#                     'semantic_category': semantic_category,
-#                     'morpho_semantics': morpho_semantics,
-#                     'speakers_view': speakers_view
-#                 })
-#             else:
-#                 print(f"Skipping malformed line: {line}")
-
-#     print(f"Extracted {len(lexical_concepts)} lexical concepts.")  # Debugging
-#     return lexical_concepts
-
-
-
-
 def parse_data(file_path):
     lexical_concepts = []
     current_segment_id = None
@@ -123,27 +69,26 @@ def parse_data(file_path):
         lines = file.readlines()
 
     print(f"File {file_path} has {len(lines)} lines.")  # Debugging
+    for i, line in enumerate(lines[:10]):  # Print first 10 lines
+        print(f"Line {i+1}: {line.strip()}")
 
     for line in lines:
         line = line.strip()
-
-        # Match both <sent_id=> and <segment_id=>
-        match = re.search(r'<(?:sent_id|segment_id)\s*=\s*([\w_\-]+)>', line)
-        if match:
-            current_segment_id = match.group(1)
-            print(f"✅ Parsed segment_id: {current_segment_id}")  # Debugging
-            continue
-
-        elif line.startswith("</sent_id>") or line.startswith("</segment_id>"):
+        if line.startswith("<sent_id="):
+            match = re.search(r'<sent_id\s*=\s*([\w_\-]+)>', line)
+            if match:
+                current_segment_id = match.group(1)
+                print(f"Parsed segment_id: {current_segment_id}")  # Debugging
+            else:
+                print(f"Error: Unable to parse sent_id in line: {line}")
+                current_segment_id = None
+        elif line.startswith("</sent_id>"):
             current_segment_id = None
-            continue
-        
         elif line.startswith("#") or line.startswith("%"):
             continue  # Skip comments and markers
-
         elif line and current_segment_id is not None:
             parts = re.split(r'\s+', line)
-            print(f"🔍 Processing line: {parts}")  # Debugging
+            print(f"Processing line: {parts}")  # Debugging
 
             # Ensure parts has at least required indices
             concept = parts[0] if len(parts) > 0 else None
@@ -162,10 +107,12 @@ def parse_data(file_path):
                     'speakers_view': speakers_view
                 })
             else:
-                print(f"⚠️ Skipping malformed line: {line}")
+                print(f"Skipping malformed line: {line}")
 
-    print(f"🚀 Extracted {len(lexical_concepts)} lexical concepts.")  # Debugging
+    print(f"Extracted {len(lexical_concepts)} lexical concepts.")  # Debugging
     return lexical_concepts
+
+
 
 def insert_data(session, file_path, chapter_id):
     try:
@@ -223,9 +170,9 @@ def insert_data(session, file_path, chapter_id):
 
 def main():
     # file_path = "application/data_insertions/10th chapter/test.txt"
-    file_path = "/home/sashank/Downloads/LC_Backend-main/application/data_insertions/health_data/health_data_part_2/USRS.txt"
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"
     
-    chapter_id = 20# Specify the chapter_id you're working with
+    chapter_id = 1# Specify the chapter_id you're working with
 
     session = SessionLocal()
     insert_data(session, file_path, chapter_id)

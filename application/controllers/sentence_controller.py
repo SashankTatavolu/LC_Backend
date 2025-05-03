@@ -22,6 +22,8 @@
 
 from flask import Blueprint, request, jsonify
 from flask_jwt_extended import jwt_required
+from application.extensions import db
+from application.models.segment_model import Segment
 from application.services.sentence_service import SentenceService
 from application.models.sentence_model import Sentence
 from application.services.measure_time import measure_response_time
@@ -49,24 +51,65 @@ def add_multiple_sentences():
     return jsonify({'message': f'{len(new_sentences)} sentences added successfully'}), 201
 
 
+# @sentence_blueprint.route('/chapter/<int:chapter_id>/sentences', methods=['GET'])
+# @jwt_required()
+# @measure_response_time
+# def get_sentences_by_chapter(chapter_id):
+#     """
+#     Fetch all sentences and their IDs for a given chapter.
+#     """
+#     sentences = Sentence.query.filter_by(chapter_id=chapter_id).order_by(Sentence.sentence_index).all()
+
+#     if not sentences:
+#         return jsonify({'error': 'No sentences found for this chapter'}), 404
+
+#     return jsonify([
+#         {
+#             "id": sentence.id,
+#             "sentence_id": sentence.sentence_id,
+#             "sentence_index": sentence.sentence_index,
+#             "text": sentence.text
+#         } for sentence in sentences
+#     ]), 200
+    
 @sentence_blueprint.route('/chapter/<int:chapter_id>/sentences', methods=['GET'])
 @jwt_required()
 @measure_response_time
 def get_sentences_by_chapter(chapter_id):
-    """
-    Fetch all sentences and their IDs for a given chapter.
-    """
-    sentences = Sentence.query.filter_by(chapter_id=chapter_id).order_by(Sentence.sentence_index).all()
+    # Subquery to get the first segment per sentence
+    subquery = (
+        db.session.query(Segment)
+        .filter(Segment.chapter_id == chapter_id)
+        .distinct(Segment.sentence_id)
+        .subquery()
+    )
 
-    if not sentences:
-        return jsonify({'error': 'No sentences found for this chapter'}), 404
+    # Join Sentence with the subquery
+    results = (
+        db.session.query(
+            Sentence.id,
+            Sentence.sentence_id,
+            Sentence.sentence_index,
+            Sentence.text,
+            subquery.c.english_text,
+            subquery.c.wx_text
+        )
+        .outerjoin(subquery, subquery.c.sentence_id == Sentence.id)
+        .filter(Sentence.chapter_id == chapter_id)
+        .order_by(Sentence.sentence_index)
+        .all()
+    )
 
-    return jsonify([
-        {
-            "id": sentence.id,
-            "sentence_id": sentence.sentence_id,
-            "sentence_index": sentence.sentence_index,
-            "text": sentence.text
-        } for sentence in sentences
-    ]), 200
-    
+    # Serialize results
+    response = []
+    for row in results:
+        response.append({
+            "id": row.id,
+            "sentence_id": row.sentence_id,
+            "sentence_index": row.sentence_index,
+            "text": row.text,
+            "english_text": row.english_text,
+            "wx_text": row.wx_text,
+        })
+
+    return jsonify(response), 200

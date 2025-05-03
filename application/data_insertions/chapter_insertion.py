@@ -39,9 +39,9 @@ chapter_text = read_chapter_from_file(chapter_file_path)
 
 
 chapter_data = {
-    "project_id": 1,
-    "name": "_chapter_3",  
-    "uploaded_by_id": 1, 
+    "project_id":12,
+    "name": "IAA_1_to_184",  
+    "uploaded_by_id": 24, 
     "text": chapter_text,
     "created_at": datetime.datetime.utcnow(),
     "updated_at": datetime.datetime.utcnow(),

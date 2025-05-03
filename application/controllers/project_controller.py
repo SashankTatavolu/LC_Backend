@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from flask_jwt_extended import jwt_required, get_jwt
+from flask_jwt_extended import get_jwt_identity, jwt_required, get_jwt
 from application.services.project_service import ProjectService
 from application.services.user_service import UserService
 from application.models.user_model import User
@@ -11,6 +11,7 @@ from application.models.segment_model import Segment
 from application.services.measure_time import measure_response_time
 from application.services.chapter_service import ChapterService
 from application.services.segment_service import SegmentService
+from application.models.project_model import Project
 
 project_blueprint = Blueprint('projects', __name__)
 
@@ -32,25 +33,30 @@ def add_project():
     return jsonify({'message': 'Project added successfully', 'project_id': project.id}), 201
 
 
+
 @project_blueprint.route('/all', methods=['GET'])
 @jwt_required()
 @measure_response_time
 def view_all_projects():
-    projects = ProjectService.get_all_projects()
-    projects_data = []
+    jwt_data = get_jwt()
+    user_id = jwt_data.get('user_id')
 
+    current_user = User.query.get(user_id)
+    if not current_user:
+        return jsonify({"message": "User not found"}), 404
+
+    # Now filter projects by the user's organization
+    projects = Project.query.join(User, Project.owner_id == User.id)\
+        .filter(User.organization == current_user.organization).all()
+
+    projects_data = []
     for project in projects:
         total_chapters = Chapter.query.filter_by(project_id=project.id).count()
-        # Total segments in this project
         total_segments = db.session.query(Segment).join(Sentence).join(Chapter).filter(Chapter.project_id == project.id).count()
-        print("total: ",total_segments)
         pending_segments = db.session.query(Segment).join(Sentence).join(Chapter).filter(
             Chapter.project_id == project.id,
-            Segment.status == 'pending'  # Only pending segments
+            Segment.status == 'pending'
         ).count()
-        print("pending: ",pending_segments)
-        # total_segments = Segment.query.filter_by(project_id=project.id).count()
-        # pending_segments = Segment.query.filter_by(project_id=project.id, status='pending').count()
 
         projects_data.append({
             'id': project.id,
@@ -58,14 +64,11 @@ def view_all_projects():
             'language': project.language,
             'created_at': project.created_at,
             'total_chapters': total_chapters,
-            # 'total_segments': 50,
-            'total_segments': 50,
-            'pending_segments': 5
+            'total_segments': total_segments,
+            'pending_segments': pending_segments
         })
-    
+
     return jsonify(projects_data), 200
-
-
 
 @project_blueprint.route('/by_language/<language>', methods=['GET'])
 @jwt_required()

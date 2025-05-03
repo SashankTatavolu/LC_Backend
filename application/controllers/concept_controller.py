@@ -216,8 +216,8 @@ def submit_concept():
 
 SMTP_SERVER = 'smtp.gmail.com'  # e.g., Gmail SMTP server
 SMTP_PORT = 587  # SMTP port for STARTTLS
-SENDER_EMAIL = 'swethapoppoppu@gmail.com'
-SENDER_PASSWORD = 'ufec wkhp syss ynqa'  # Make sure this is securely handled
+SENDER_EMAIL = 'tat.iiith2025@gmail.com'
+SENDER_PASSWORD = 'noal fndb ucip aiui'  # Make sure this is securely handled
 
 
 

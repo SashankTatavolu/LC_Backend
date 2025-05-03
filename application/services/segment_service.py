@@ -1,13 +1,12 @@
 from application.extensions import db
 from application.models.segment_model import Segment
 from application.models.assignment_model import Assignment
-import os 
-import subprocess
+from application.services.chapter_service import ChapterService
 from application.models.lexical_conceptual_model import LexicalConceptual
 from application.models.relational_model import Relational
 from application.models.discourse_model import Discourse
 from application.models.construction_model import Construction
-from application.models.user_model import User
+from application.models.chapter_model import Chapter
 
 class SegmentService:
     @staticmethod
@@ -151,31 +150,44 @@ class SegmentService:
     
     @staticmethod
     def assign_user_to_tab(user_id, segment_id, tab_name):
-        """
-        Assign a user to a specific tab of a segment and store chapter_id.
-        """
-        # Fetch the chapter_id using segment_id
-        segment = Segment.query.filter_by(segment_id=segment_id).first()
-        if not segment:
-            return {'error': 'Segment not found'}, 404
-
-        chapter_id = segment.chapter_id  # Assuming segment has a chapter_id column
-
-        # Check if the assignment already exists
+        # Check if this segment + tab is already assigned
         existing_assignment = Assignment.query.filter_by(
-            user_id=user_id, segment_id=segment_id, tab_name=tab_name
+            segment_id=segment_id,
+            tab_name=tab_name
         ).first()
-        
-        if existing_assignment:
-            return {'message': 'User already assigned to this segment tab.'}
 
-        # Create a new assignment with chapter_id
-        assignment = Assignment(user_id=user_id, segment_id=segment_id, tab_name=tab_name, chapter_id=chapter_id)
+        if existing_assignment:
+            assigned_user = existing_assignment.user
+            segment = Segment.query.get(segment_id)
+
+            return {
+                'error': f"This segment (ID: {segment_id}) is already assigned.",
+                'details': {
+                    'assigned_user': assigned_user.username,
+                    'user_id': assigned_user.id,
+                    'tab_name': tab_name,
+                    'segment_index': segment.segment_index if segment else None
+                }
+            }
+
+        segment = Segment.query.get(segment_id)
+        if not segment:
+            return {'error': 'Segment not found.'}
+
+        assignment = Assignment(
+            user_id=user_id,
+            segment_id=segment_id,
+            tab_name=tab_name,
+            chapter_id=segment.chapter_id  # assuming the Segment model has this field
+        )
         db.session.add(assignment)
         db.session.commit()
 
         return assignment
 
+
+
+    
 
     @staticmethod
     def get_assigned_users(segment_id, tab_name):
@@ -241,46 +253,64 @@ class SegmentService:
     def get_finalized_counts_by_chapter(chapter_id):
         """
         Get the count of segments in a chapter that have finalized lexical_conceptual, relational, 
-        construction, and discourse components.
+        construction, and discourse components. Also includes fully finalized and pending segments.
         """
         from sqlalchemy.sql import func
 
-        # Query total segments
-        total_segments = db.session.query(Segment).filter(Segment.chapter_id == chapter_id).count()
+        # Get chapter name
+        chapter = db.session.query(Chapter).filter_by(id=chapter_id).first()
+        chapter_name = chapter.name if chapter else None
 
-        # Query finalized counts for each category (ensuring unique segment IDs)
-        lexical_count = (
-            db.session.query(func.count(func.distinct(LexicalConceptual.segment_id)))
+        # Get all segment IDs in this chapter
+        all_segment_ids = db.session.query(Segment.segment_id).filter(Segment.chapter_id == chapter_id).all()
+        all_segment_ids = {s[0] for s in all_segment_ids}
+        total_segments = len(all_segment_ids)
+
+        # Query finalized segment IDs per component
+        lexical_set = {
+            s[0] for s in db.session.query(LexicalConceptual.segment_id)
             .join(Segment, Segment.segment_id == LexicalConceptual.segment_id)
             .filter(Segment.chapter_id == chapter_id, LexicalConceptual.isFinalized == True)
-            .scalar()
-        )
+            .distinct().all()
+        }
 
-        relational_count = (
-            db.session.query(func.count(func.distinct(Relational.segment_id)))
+        relational_set = {
+            s[0] for s in db.session.query(Relational.segment_id)
             .join(Segment, Segment.segment_id == Relational.segment_id)
             .filter(Segment.chapter_id == chapter_id, Relational.isFinalized == True)
-            .scalar()
-        )
+            .distinct().all()
+        }
 
-        construction_count = (
-            db.session.query(func.count(func.distinct(Construction.segment_id)))
+        construction_set = {
+            s[0] for s in db.session.query(Construction.segment_id)
             .join(Segment, Segment.segment_id == Construction.segment_id)
             .filter(Segment.chapter_id == chapter_id, Construction.isFinalized == True)
-            .scalar()
-        )
+            .distinct().all()
+        }
 
-        discourse_count = (
-            db.session.query(func.count(func.distinct(Discourse.segment_id)))
+        discourse_set = {
+            s[0] for s in db.session.query(Discourse.segment_id)
             .join(Segment, Segment.segment_id == Discourse.segment_id)
             .filter(Segment.chapter_id == chapter_id, Discourse.isFinalized == True)
-            .scalar()
-        )
+            .distinct().all()
+        }
+
+        # Fully finalized = intersection of all sets
+        fully_finalized_segments = lexical_set & relational_set & construction_set & discourse_set
+        fully_finalized_count = len(fully_finalized_segments)
+
+        # Pending segments = all segments - fully finalized ones
+        pending_segments = all_segment_ids - fully_finalized_segments
+        pending_count = len(pending_segments)
 
         return {
+            "chapter_name": chapter_name,
             "total_segments": total_segments,
-            "lexical_finalized": lexical_count,
-            "relational_finalized": relational_count,
-            "construction_finalized": construction_count,
-            "discourse_finalized": discourse_count
+            "lexical_finalized": len(lexical_set),
+            "relational_finalized": len(relational_set),
+            "construction_finalized": len(construction_set),
+            "discourse_finalized": len(discourse_set),
+            "fully_finalized": fully_finalized_count,
+            "pending_segments": pending_count
         }
+

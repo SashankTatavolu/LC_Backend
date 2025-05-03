@@ -23,6 +23,46 @@ output_format:
 
 
 
+API : http://10.4.16.167:8082/hindi_generation
+
+Input_Format:
+<sent_id=gold_data_001>
+#राम बाज़ार जा रहा है।
+rAma 1 male - - - - - 4:begin
+[ne_1] 4 per - 3:k1 - - - -
+bAjZAra_1 2 - - 3:k2p - def - -
+jA_1-0_rahA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+
+<sent_id=gold_data_002>
+#सीता किताब पढ़ती है।
+sIwA 1 female - - - - - 4:begin
+[ne_1] 4 per - 3:k1 - - - -
+kiwAba_1 2 - - 3:k2 - - - -
+paDZa_1-wA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+
+
+
+
+Output_Format:
+{
+    "output": [
+        {
+            "segment_id": "gold_data_001",
+            "text": "राम बाजार जा रहा है ।"
+        },
+        {
+            "segment_id": "gold_data_002",
+            "text": "सीता किताब पढती है ।"
+        }
+    ]
+}
+
+
+scp -r build/web  tto@10.2.8.18:/home/tto/LC_flutter/
 
 docker commands
 
@@ -30,3 +70,7 @@ sudo docker compose up --build
 sudo docker tag language_communicator_backend-web:latest sashank662/language_communicator_backend:latest
 
 sudo docker push sashank662/language_communicator_backend:latest
+
+
+
+<script src="flutter_bootstrap.js" async></script>

@@ -1,8 +1,12 @@
-from flask import Blueprint, request, jsonify
+from mailbox import Message
+from flask import Blueprint, Config, current_app, request, jsonify
 from flask_jwt_extended import create_access_token,jwt_required, get_jwt
+
+from application.controllers.concept_controller import send_email
 from ..services.user_service import UserService
 from datetime import timedelta
 from ..services.measure_time import measure_response_time
+from ..extensions import mail 
 
 user_blueprint = Blueprint('users', __name__)
 
@@ -42,7 +46,7 @@ def login():
         access_token = create_access_token(
             identity=user.username, 
             additional_claims=additional_claims, 
-            expires_delta=timedelta(minutes=30)
+            expires_delta=timedelta(hours=2)
         )
         return jsonify(access_token=access_token, role=roles), 200
     return jsonify({"error": "Invalid credentials"}), 401
@@ -119,3 +123,50 @@ def get_user_details(user_id):
         return jsonify(user_data), 200
     return jsonify({"error": "User not found"}), 404
 
+
+@user_blueprint.route('/contact', methods=['POST'])
+def contact_us():
+    data = request.get_json()
+    name = data.get('name', 'Anonymous')
+    email = data.get('email')
+    subject = data.get('subject')
+    message = data.get('message')
+
+    if not email or not subject or not message:
+        return jsonify({"error": "Email, subject, and message are required"}), 400
+
+    try:
+        # Use your custom send_email function
+        subject = f"Contact Us - {subject}"
+        body = f"From: {name}\nEmail: {email}\n\nMessage:\n{message}"
+        
+        # Send email to both your email and Somapaul's email
+        to_emails = ['sashank.tatavolu@research.iiit.ac.in']
+        
+        # Call send_email function for each recipient
+        for to_email in to_emails:
+            send_email(subject, body, to_email, email)
+
+        return jsonify({"message": "Your message has been sent successfully!"}), 200
+    except Exception as e:
+        print(f"[Contact Us Error] {e}")
+        return jsonify({"error": "Failed to send message"}), 500
+
+
+@user_blueprint.route('/update/<int:user_id>', methods=['PUT'])
+@jwt_required()
+def update_user(user_id):
+    claims = get_jwt()
+    current_user_id = claims.get('user_id')
+    current_user_roles = claims.get('role', [])
+
+    # Optional: restrict updates
+    if current_user_id != user_id and 'admin' not in current_user_roles:
+        return jsonify({"error": "Permission denied"}), 403
+
+    data = request.get_json()
+    updated_user = UserService.update_user(user_id, data)
+    
+    if updated_user:
+        return jsonify({"message": "User updated successfully"}), 200
+    return jsonify({"error": "User not found or update failed"}), 404

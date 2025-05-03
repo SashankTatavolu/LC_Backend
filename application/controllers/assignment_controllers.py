@@ -1,6 +1,6 @@
 from collections import defaultdict
 from flask import Blueprint, jsonify
-from flask_jwt_extended import jwt_required
+from flask_jwt_extended import get_jwt, jwt_required
 from sqlalchemy import exists
 from ..models.assignment_model import Assignment
 from ..models.segment_model import Segment
@@ -14,21 +14,30 @@ from ..extensions import db
 
 assignment_blueprint = Blueprint('assignments', __name__)
     
-
 @assignment_blueprint.route('/assigned_users', methods=['GET'])
 @jwt_required()
 def get_assignments():
+    jwt_data = get_jwt()
+    user_id = jwt_data.get('user_id')
+
+    current_user = User.query.get(user_id)
+    if not current_user:
+        return jsonify({"message": "User not found"}), 404
+
     assignments = (
         db.session.query(
             Assignment.segment_id,
             Segment.segment_index,
             Assignment.chapter_id,
+            Chapter.name.label('chapter_name'),  # ⬅️ Add chapter name
             Assignment.user_id,
             User.username,
             Assignment.tab_name
         )
         .join(User, User.id == Assignment.user_id)
         .join(Segment, Segment.segment_id == Assignment.segment_id)
+        .join(Chapter, Chapter.id == Assignment.chapter_id)  # ⬅️ Join Chapter table
+        .filter(User.organization == current_user.organization)
         .all()
     )
 
@@ -36,6 +45,7 @@ def get_assignments():
         "segment_id": None,
         "segment_index": None,
         "chapter_id": None,
+        "chapter_name": None,  # ⬅️ Add this
         "user_id": None,
         "username": None,
         "assigned_tabs": []
@@ -46,11 +56,27 @@ def get_assignments():
         segment_data["segment_id"] = a.segment_id
         segment_data["segment_index"] = a.segment_index
         segment_data["chapter_id"] = a.chapter_id
+        segment_data["chapter_name"] = a.chapter_name  # ⬅️ Set chapter name
         segment_data["user_id"] = a.user_id
         segment_data["username"] = a.username
 
-        if a.tab_name not in segment_data["assigned_tabs"]:
-            segment_data["assigned_tabs"].append(a.tab_name)
+        existing_tabs = [t['tab_name'] for t in segment_data["assigned_tabs"]]
+        if a.tab_name not in existing_tabs:
+            is_finalized = False
+
+            if a.tab_name == 'lexical_conceptual':
+                is_finalized = db.session.query(LexicalConceptual).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
+            elif a.tab_name == 'construction':
+                is_finalized = db.session.query(Construction).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
+            elif a.tab_name == 'relational':
+                is_finalized = db.session.query(Relational).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
+            elif a.tab_name == 'discourse':
+                is_finalized = db.session.query(Discourse).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
+
+            segment_data["assigned_tabs"].append({
+                "tab_name": a.tab_name,
+                "isFinalized": is_finalized
+            })
 
     return jsonify(list(grouped_assignments.values())), 200
 

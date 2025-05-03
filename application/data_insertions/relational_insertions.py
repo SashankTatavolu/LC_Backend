@@ -4,8 +4,8 @@ from sqlalchemy.orm import sessionmaker, declarative_base, relationship
 import datetime
 
 # Database configuration
-# SQLALCHEMY_DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
-SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+SQLALCHEMY_DATABASE_URL = "postgresql://postgres:Sashank123@localhost/testdb"
+# SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
@@ -129,7 +129,7 @@ def insert_relational_data(session, file_path, chapter_id):
             # Find the segment using the segment_index and chapter_id
             segment = session.query(Segment).join(Sentence).filter(
                 Segment.segment_index == segment_data['segment_id'],
-                # Sentence.chapter_id == chapter_id
+                Sentence.chapter_id == chapter_id
             ).first()
             
             if segment:
@@ -178,8 +178,8 @@ def insert_relational_data(session, file_path, chapter_id):
 
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/health_data_part_2/USRS.txt"
-    chapter_id = 19 # Example chapter_id, update it as needed
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/USRs.txt"
+    chapter_id = 1 # Example chapter_id, update it as needed
     session = SessionLocal()
     insert_relational_data(session, file_path, chapter_id)  
 

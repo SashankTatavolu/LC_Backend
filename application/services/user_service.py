@@ -62,4 +62,27 @@ class UserService:
     @staticmethod
     def get_user_by_id(user_id):
         return User.query.get(user_id)
- 
+    
+    
+    @staticmethod
+    def update_user(user_id, data):
+        user = User.query.get(user_id)
+        if not user:
+            return None
+
+        if 'username' in data:
+            user.username = data['username']
+        if 'email' in data:
+            user.email = data['email']
+        if 'organization' in data:
+            user.organization = data['organization']
+        if 'role' in data:
+            if isinstance(data['role'], list):
+                user.role = data['role']
+            else:
+                user.role = [role.strip() for role in data['role'].split(',')]
+        if 'password' in data and data['password']:
+            user.set_password(data['password'])
+
+        db.session.commit()
+        return user

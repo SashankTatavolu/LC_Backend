@@ -221,9 +221,13 @@ def assign_user_to_segment():
     result = SegmentService.assign_user_to_tab(user_id, segment_id, tab_name)
     
     if isinstance(result, Assignment):
-        return jsonify(result.serialize()), 201  # Ensure serialization
+        return jsonify(result.serialize()), 201
     else:
-        return jsonify(result), 400
+        return jsonify({
+            'status': 'failure',
+            'error': result.get('error'),
+            'details': result.get('details')
+        }), 400
 
 
 
@@ -266,22 +270,27 @@ def fetch_is_finalized(segment_id):
         return jsonify({"success": False, "error": str(e)}), 500
 
 
+
 @segment_blueprint.route('/<int:chapter_id>/finalized_counts', methods=['GET'])
 @jwt_required()
 @measure_response_time
 def get_finalized_counts(chapter_id):
     """
-    Get the count of finalized lexical, relational, construction, and discourse segments for a chapter.
+    Get the count of finalized lexical, relational, construction, and discourse segments for a chapter,
+    including the chapter name, the count of fully finalized segments, and pending segments.
     """
     try:
         counts = SegmentService.get_finalized_counts_by_chapter(chapter_id)
         return jsonify({
             'chapter_id': chapter_id,
+            'chapter_name': counts["chapter_name"],
             'total_segments': counts["total_segments"],
             'lexical_finalized': counts["lexical_finalized"],
             'relational_finalized': counts["relational_finalized"],
             'construction_finalized': counts["construction_finalized"],
-            'discourse_finalized': counts["discourse_finalized"]
+            'discourse_finalized': counts["discourse_finalized"],
+            'fully_finalized': counts["fully_finalized"],
+            'pending_segments': counts["pending_segments"]
         }), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
