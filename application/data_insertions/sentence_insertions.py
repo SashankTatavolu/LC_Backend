@@ -78,7 +78,7 @@ session = Session()
 Base.metadata.create_all(engine)
 
 # Path to sentence file
-sentence_file_path = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/chapter1/sentences.txt'
+sentence_file_path = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Sanskrit_data/sentences.txt'
 
 # Read the sentence data from the file
 sentences_data = read_sentences_from_file(sentence_file_path)

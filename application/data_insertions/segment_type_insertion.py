@@ -55,7 +55,7 @@ class Segment(Base):
 Base.metadata.create_all(bind=engine)
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/USRs.txt"  # Update this to your file path
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Sanskrit_data/USRs.txt"  # Update this to your file path
     chapter_id = 44# Set the chapter ID for filtering segments
 
     session = SessionLocal()

@@ -68,21 +68,43 @@ class UserService:
     def update_user(user_id, data):
         user = User.query.get(user_id)
         if not user:
+            print(f"User with ID {user_id} not found.")
             return None
 
-        if 'username' in data:
-            user.username = data['username']
-        if 'email' in data:
-            user.email = data['email']
-        if 'organization' in data:
-            user.organization = data['organization']
-        if 'role' in data:
-            if isinstance(data['role'], list):
-                user.role = data['role']
-            else:
-                user.role = [role.strip() for role in data['role'].split(',')]
-        if 'password' in data and data['password']:
-            user.set_password(data['password'])
+        try:
+            print(f"Updating user {user_id} with data: {data}")
 
-        db.session.commit()
-        return user
+            if 'username' in data and data['username']:
+                print(f"Updating username from {user.username} to {data['username']}")
+                user.username = data['username']
+
+            if 'email' in data and data['email']:
+                print(f"Updating email from {user.email} to {data['email']}")
+                user.email = data['email']
+
+            if 'organization' in data:
+                print(f"Updating organization from {user.organization} to {data['organization']}")
+                user.organization = data['organization']
+
+            # Handle roles update
+            if 'roles' in data:
+                if isinstance(data['roles'], list):
+                    print(f"Updating roles from {user.role} to {data['roles']}")
+                    user.role = data['roles']
+                else:
+                    user.role = [role.strip() for role in data['roles'].split(',')]
+                    print(f"Updated roles to {user.role}")
+
+            if 'password' in data and data['password']:
+                user.set_password(data['password'])
+                print(f"Password updated for user {user_id}")
+
+            db.session.flush()  # Pushes the changes to the DB immediately for verification
+            db.session.commit()
+            print(f"User {user_id} updated successfully with new data: {user.username}, {user.email}, {user.organization}, {user.role}")
+            return user
+
+        except Exception as e:
+            print(f"Error updating user {user_id}: {e}")
+            db.session.rollback()
+            return None

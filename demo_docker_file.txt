@@ -54,3 +54,50 @@ services:
     ports:
       - "5432:5432"
     restart: always
+
+
+
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021c
+
+
+जिससे मस्तिष्क की आवरण परत में चोट लगने की संभावना कम हो जाती है
+
+
+Which reduces the chances of injury to the brain cover layer.
+
+jisase maswiRka kI AvaraNa parawa meM cota lagane kI saMBAvanA kama ho jAwI hE .
+
+
+
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020c
+
+जो मस्तिष्क को राहत प्रदान करता है।
+Which provides relief to the brain.
+
+jo maswiRka ko rAhawa praxAna karawA hE.
+
+
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020b
+जिसकी सभी प्रकार की मस्तिष्क संबंधी शल्य-चिकित्सा के लिए नियमित रूप से प्रयोग किया जाता है,  जिसके लिए खोपडी की हड्डी को खोलने की आवश्यकता होती है।
+
+which is used regularly for all types of neurological surgery,  which requires the opening of the skull bone.
+jisakI saBI prakAra kI maswiRka saMbaMXI Salya-cikiwsA ke lie niyamiwa rUpa se prayoga kiyA jAwA hE, jisake lie KopadI kI haddI ko Kolane kI AvaSyakawA howI hE.
+
+
+
+
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_020c
+जो मस्तिष्क को राहत प्रदान करता है।
+
+which provides relief to the brain.
+jo maswiRka ko rAhawa praxAna karawA hE.
+
+
+
+oct-31-2022-part1Patient_Information_Sheet-Riya_Lal_Study_hin_target_021c
+
+जिससे मस्तिष्क की आवरण परत में चोट लगने की संभावना कम हो जाती है
+
+Which reduces the chances of injury to the brain cover layer.
+
+jisase maswiRka kI AvaraNa parawa meM cota lagane kI saMBAvanA kama ho jAwI hE .

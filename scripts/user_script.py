@@ -1,7 +1,7 @@
 import requests
 
-register_url = 'http://localhost:5000/api/users/register'
-login_url = 'http://localhost:5000/api/users/login'
+register_url = 'https://canvas.iiit.ac.in/lc/api/users/register'
+login_url = 'https://canvas.iiit.ac.in/lc/api/users/login'
 
 data_register = {
     "username": "testuser1",

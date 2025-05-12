@@ -1,30 +1,38 @@
 from flask import Flask
 from flask_cors import CORS
 from config import DevelopmentConfig
-from flask_mail import Mail
-from .extensions import db, ma, jwt, migrate
-from .controllers.chapter_controller import chapter_blueprint
-from .controllers.project_controller import project_blueprint
-from .controllers.sentence_controller import sentence_blueprint
-from .controllers.segment_controller import segment_blueprint
-from .controllers.concept_controller import concept_blueprint
+from application.controllers.chapter_controller import chapter_blueprint
+from application.controllers.project_controller import project_blueprint
+from application.controllers.sentence_controller import sentence_blueprint
+from application.controllers.segment_controller import segment_blueprint
+from application.controllers.concept_controller import concept_blueprint
 from application.controllers.lexical_controller import lexical_blueprint
-from .controllers.relational_controller import relational_blueprint
+from application.controllers.relational_controller import relational_blueprint
 from application.controllers.segment_detail_controller import segment_detail_blueprint
 from application.controllers.visualizer_controllers import visualizer_blueprint
-from .controllers.construction_controller import construction_blueprint
-from .controllers.generation_controller import generation_blueprint
-from .controllers.user_controller import user_blueprint
-from .controllers.discourse_controller import discourse_blueprint
-from .controllers.assignment_controllers import assignment_blueprint
-
-mail = Mail()
+from application.controllers.construction_controller import construction_blueprint
+from application.controllers.generation_controller import generation_blueprint
+from application.controllers.user_controller import user_blueprint
+from application.controllers.discourse_controller import discourse_blueprint
+from application.controllers.assignment_controllers import assignment_blueprint
+from application.controllers.notification_controller import notification_blueprint
+from application.controllers.reviewer_controller import reviewer_blueprint
+from flask_mail import Mail
+from application.extensions import db, ma, jwt, migrate, mail
+import secrets
 
 def create_app(config_class=DevelopmentConfig):
     app = Flask(__name__)
 
     # Load configuration
     app.config.from_object(config_class)
+    
+    # Double-check SECRET_KEY is set
+    if not app.config.get('SECRET_KEY'):
+        app.config['SECRET_KEY'] = secrets.token_hex(32)
+        print("WARNING: Generated temporary SECRET_KEY. Please set SECRET_KEY in your config.py or environment variables.")
+    else:
+        print(f"Using SECRET_KEY: {app.config['SECRET_KEY'][:5]}... (first 5 chars)")
 
     # Initialize extensions
     mail.init_app(app)
@@ -55,5 +63,7 @@ def create_app(config_class=DevelopmentConfig):
     app.register_blueprint(visualizer_blueprint, url_prefix='/api/visualize')
     app.register_blueprint(generation_blueprint, url_prefix='/api/generate')
     app.register_blueprint(assignment_blueprint, url_prefix='/api/assignments')
+    app.register_blueprint(notification_blueprint, url_prefix='/api/notifications')
+    app.register_blueprint(reviewer_blueprint, url_prefix='/api/review')
 
     return app

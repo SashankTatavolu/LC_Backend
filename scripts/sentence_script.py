@@ -1,7 +1,7 @@
 import requests
 
 def get_jwt_token(username, password):
-    login_url = "http://localhost:5000/api/users/login"  
+    login_url = "https://canvas.iiit.ac.in/lc/api/users/login"  
 
     login_payload = {
         "username": username,
@@ -21,7 +21,7 @@ def test_add_multiple_sentences():
     print("token: ",jwt_token)
 
     if jwt_token:
-        add_sentences_url = "http://localhost:5000/api/sentences/add"  
+        add_sentences_url = "https://canvas.iiit.ac.in/lc/api/sentences/add"  
 
         headers = {
             "Authorization": f"Bearer {jwt_token}",

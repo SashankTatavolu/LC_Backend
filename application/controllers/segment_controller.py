@@ -9,6 +9,11 @@ from application.models.assignment_model import Assignment
 from application.services.measure_time import measure_response_time
 from application.services.segment_service import SegmentService
 from application.models.segment_model import Segment
+from application.models.chapter_model import Chapter
+from application.models.feedback_model import Feedback
+from application.models.user_model import User
+from application.controllers.concept_controller import send_email
+from application.models.notification_model import Notification
 
 segment_blueprint = Blueprint('segments', __name__)
 
@@ -41,9 +46,48 @@ def segment(segment_id):
         return jsonify(segment.serialize()) if segment else ('', 404)
 
     elif request.method == 'DELETE':
-        result = SegmentService.delete_segment(segment_id)
-        return ('segment deleted', 204) if result else ('', 404)
+        try:
+            result = SegmentService.delete_segment(segment_id)
+            return ('segment deleted', 204) if result else ('Segment not found', 404)
+        except Exception as e:
+            print(f"Error during DELETE: {e}")  # Log the actual error
+            
+            return jsonify({'error': 'Internal server error', 'details': str(e)}), 500
+        
+@segment_blueprint.route('/by_chapter/<int:chapter_id>', methods=['GET'])
+def get_segments_by_chapter_details(chapter_id):
+    segments = Segment.query.filter_by(chapter_id=chapter_id).all()
+    result = [
+        {
+            'segment_index': segment.segment_index,
+            'segment_text': segment.segment_text,
+            'english_text': segment.english_text,
+            'wx_text': segment.wx_text
+        }
+        for segment in segments
+    ]
+    return jsonify(result)
 
+@segment_blueprint.route('/segments/by_chapter/<int:chapter_id>', methods=['GET'])
+def get_segments_sentences_by_chapter(chapter_id):
+    segments = Segment.query.filter_by(chapter_id=chapter_id).all()
+
+    # Find the project_id from the chapter
+    chapter = Chapter.query.get(chapter_id)
+    if not chapter:
+        return jsonify({"error": "Chapter not found"}), 404
+
+    project_id = chapter.project_id
+
+    sentences = []
+    for segment in segments:
+        sentences.append({
+            "project_id": str(project_id),
+            "sentence_id": str(segment.segment_index),
+            "sentence": segment.segment_text
+        })
+
+    return jsonify({"sentences": sentences})
 
 @segment_blueprint.route('/', methods=['POST'])
 @jwt_required()
@@ -294,3 +338,95 @@ def get_finalized_counts(chapter_id):
         }), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+
+
+@segment_blueprint.route('/by_sentences/<int:sentence_id>', methods=['GET'])
+@jwt_required()
+@measure_response_time
+def get_segments_by_sentence_id(sentence_id):
+    """
+    Get all segments for a given sentence ID.
+    """
+    try:
+        segments = Segment.query.filter_by(sentence_id=sentence_id).all()
+        if not segments:
+            return jsonify({'message': 'No segments found for this sentence_id'}), 404
+
+        return jsonify([segment.serialize() for segment in segments]), 200
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
+
+@segment_blueprint.route('/segments/<int:segment_id>/feedback', methods=['POST', 'GET'])
+@jwt_required()
+@measure_response_time
+def segment_feedback(segment_id):
+    if request.method == 'POST':
+        data = request.get_json()
+        user_id = data.get('user_id')
+        has_error = data.get('has_error', False)
+        error_details = data.get('error_details', '')
+        tab_name = data.get('tab_name')
+
+        # Check if segment exists
+        segment = Segment.query.get(segment_id)
+        if not segment:
+            return jsonify({'error': 'Segment not found'}), 404
+
+        # Extract chapter_id and segment_index
+        chapter_id = segment.chapter_id
+        segment_index = segment.segment_index
+
+        # Save feedback
+        feedback = Feedback(
+            segment_id=segment_id,
+            user_id=user_id,
+            has_error=has_error,
+            error_details=error_details,
+            tab_name=tab_name
+        )
+        db.session.add(feedback)
+        db.session.commit()
+
+        # Fetch the assigned user for this segment
+        assignment = Assignment.query.filter_by(segment_id=segment_id).first()
+
+        if assignment:
+            assigned_user = User.query.get(assignment.user_id)
+            if assigned_user:
+                # Construct notification message
+                notification_message = (
+                    f"New feedback received for Segment {segment_id} in {tab_name}."
+                )
+
+                # Save in-app notification
+                notification = Notification(
+                    user_id=assigned_user.id,
+                    segment_id=segment_id,
+                    message=notification_message
+                )
+                db.session.add(notification)
+                db.session.commit()
+
+                # Send email notification
+                subject = f"New Feedback for Segment {segment_id}"
+                body = (
+                    f"Hello {assigned_user.username},\n\n"
+                    f"You have received new feedback for Segment ID: {segment_id} in {tab_name}.\n"
+                    f"- Chapter ID: {chapter_id}\n"
+                    f"- Segment Index: {segment_index}\n"
+                    f"- Has Error: {'Yes' if has_error else 'No'}\n"
+                    f"- Details: {error_details}\n\n"
+                    "Please review the feedback at your earliest convenience.\n\n"
+                    "Regards,\nThe Review Team"
+                )
+
+                # Send the email
+                send_email(subject, body, assigned_user.email)
+
+        return jsonify(feedback.serialize()), 201
+
+    elif request.method == 'GET':
+        feedbacks = Feedback.query.filter_by(segment_id=segment_id).all()
+        return jsonify([feedback.serialize() for feedback in feedbacks]), 200

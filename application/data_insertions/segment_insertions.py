@@ -52,7 +52,7 @@ class Segment(Base):
 Base.metadata.create_all(bind=engine)
 
 def main():
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/Segments.txt"
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Sanskrit_data/sentences.txt"
     chapter_id = 44 # Example: Use the specific chapter_id for the sentences
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -85,16 +85,16 @@ def main():
             # Extract the sentence_id (without trailing character)
             extracted_sentence_id = segment_index.rstrip('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
 
-            sentence = session.query(Sentence).filter(
-                Sentence.sentence_id == extracted_sentence_id,
-                Sentence.chapter_id == chapter_id
-            ).first()
             # sentence = session.query(Sentence).filter(
-            #     and_(
-            #         Sentence.sentence_id.like(f"{extracted_sentence_id}%"),
-            #         Sentence.chapter_id == chapter_id
-            #     )
+            #     Sentence.sentence_id == extracted_sentence_id,
+            #     Sentence.chapter_id == chapter_id
             # ).first()
+            sentence = session.query(Sentence).filter(
+                and_(
+                    Sentence.sentence_id.like(f"{extracted_sentence_id}%"),
+                    Sentence.chapter_id == chapter_id
+                )
+            ).first()
             
             if sentence:
                 sentence_id = sentence.id

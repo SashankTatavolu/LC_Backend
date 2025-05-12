@@ -48,11 +48,24 @@ class SegmentService:
 
     @staticmethod
     def delete_segment(segment_id):
-        segment = Segment.query.filter_by(segment_id=segment_id).first()
-        if segment:
+        try:
+            segment = Segment.query.get(segment_id)
+            if not segment:
+                return False
+
+            # Remove or reassign linked assignments
+            assignments = Assignment.query.filter_by(segment_id=segment_id).all()
+            for a in assignments:
+                db.session.delete(a)  # Or set a.segment_id = new_id if reassignment is intended
+
             db.session.delete(segment)
             db.session.commit()
-        return segment
+            return True
+        except Exception as e:
+            print(f"Error deleting segment {segment_id}: {e}")
+            db.session.rollback()
+            return False
+
 
     @staticmethod
     def create_segments(sentence_id, chapter_id, segments_data):

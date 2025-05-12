@@ -20,8 +20,8 @@ def read_chapter_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-DATABASE_URL = 'postgresql://postgres:Sashank123@localhost/testdb'
-# DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+# DATABASE_URL = 'postgresql://postgres:Sashank123@localhost/testdb'
+DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
 
 
 engine = create_engine(DATABASE_URL)
@@ -33,14 +33,14 @@ session = Session()
 Base.metadata.create_all(engine)
 
 
-chapter_file_path = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Ecommerce_data/input.txt'
+chapter_file_path = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/input.txt'
 
 chapter_text = read_chapter_from_file(chapter_file_path)
 
 
 chapter_data = {
-    "project_id":12,
-    "name": "IAA_1_to_184",  
+    "project_id":13,
+    "name": "Geonios_15ch",  
     "uploaded_by_id": 24, 
     "text": chapter_text,
     "created_at": datetime.datetime.utcnow(),

@@ -1,7 +1,7 @@
 import requests
 from pprint import pprint
 
-base_url = 'http://localhost:5000/api/chapters'
+base_url = 'https://canvas.iiit.ac.in/lc/api/chapters'
 register_url = f'{base_url}/add'
 get_chapters_url = f'{base_url}/by_project/'
 
@@ -15,7 +15,7 @@ project_id = 1
 
 def get_jwt_token():
     try:
-        login_url = 'http://localhost:5000/api/users/login'
+        login_url = 'https://canvas.iiit.ac.in/lc/api/users/login'
         data_login = {
             "username": "testuser1",
             "password": "testpassword"

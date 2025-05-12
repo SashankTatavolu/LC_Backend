@@ -45,7 +45,7 @@ class ChapterService:
         
         for user in users:
             # ChapterService.send_email(user.email, project_name, chapter_name)
-            ChapterService.send_email(user.email, project_name, chapter_name, doc_path="application/docs/LC_Document.pdf", url="http://localhost:5000/")
+            ChapterService.send_email(user.email, project_name, chapter_name, doc_path="application/docs/LC_Document.pdf", url="https://canvas.iiit.ac.in/lc/")
             
     # @staticmethod
     # def send_email(user_email, project_name, chapter_name):

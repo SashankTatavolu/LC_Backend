@@ -36,8 +36,8 @@ def read_concepts_from_file(file_path):
     return concepts
 
 # Update the DATABASE_URL as needed
-# DATABASE_URL = 'postgresql://postgres:Sashank123@localhost/testdb'
-DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
+DATABASE_URL = 'postgresql://postgres:Sashank123@localhost/testdb'
+# DATABASE_URL = 'postgresql://postgres:password123@10.2.8.12/lc4u'
 
 engine = create_engine(DATABASE_URL)
 
