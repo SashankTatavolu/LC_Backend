@@ -1,0 +1,2170 @@
+<sent_id=Geo_ncert_7stnd_7ch_0001a>
+#अध्याय 1 में आप यह पढ चुके हैं ।
+aXyAya	1	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	6:k7t	-	-	-	-
+1	2	numex	-	-	-	-	-	10:inside
+$addressee	4	-	-	6:k1	-	respect	-	-
+$wyax	5	-	-	6:k2	-	proximal	-	-
+paDa_1-subj_hE_1	6	-	-	0:main	-	[shade:cuka_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0001b>
+#कि ‘प्रारंभिक मानव’ भोजन , वस्त्र एवं आवास के लिए पूर्ण रूप से प्रकृति पर निर्भर थे ।
+‘prAraMBika	1	-	-	-	-	-	-	18:begin
+[ne_1]	18	-	-	16:k1	-	-	-	-
+mAnava’	2	-	-	-	-	-	-	19:begin
+[ne_2]	19	-	-	-	-	-	-	20:op1
+Bojana_1	3	-	-	-	-	-	-	19:inside
+vaswra_1	5	-	-	-	-	-	-	20:op2
+AvAsa_1	7	-	-	-	-	-	-	20:op3
+pUrNa_1	10	-	-	11:mod	-	-	-	-
+rUpa_1	11	-	-	16:krvn	-	-	-	-
+prakqwi_1	13	-	-	16:k7	-	-	-	-
+nirBara_1	15	-	-	16:k1s	-	-	-	-
+hE_1-past	16	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	16:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0002>
+#लेकिन समय के साथ उसने नए कौशल विकसित करके खाद्य पदार्थों का उत्पादन , घर बनाने , यातायात एवं संचार के बेहतर साधनों का विकास किया ।
+samaya_1	1	-	-	25:k7t	-	-	-	-
+sAWa_1	3	-	-	1:k7p	-	-	-	-
+$wyax	4	-	-	25:k1	-	distal	-	-
+nae_1	5	-	-	6:mod	-	-	-	-
+kOSala_1	6	-	-	8:k2	-	-	-	-
+vikasiwa_1	7	-	-	-	-	-	-	27:kriyAmUla
+kara_1	8	-	-	-	-	-	-	27:verbalizer
+[cp_1]	27	-	-	25:vmod	-	-	-	-
+KAxya_1	9	-	-	10:mod	-	-	-	-
+paxArWa_1	10	-	pl	12:r6	-	-	-	-
+uwpAxana_1	12	-	-	-	-	-	-	29:op1
+Gara_1	14	-	-	15:k2	-	-	-	-
+banA_1	15	-	pl	-	-	-	-	29:op2
+yAwAyAwa_1	17	-	-	-	-	-	-	29:op3
+saMcAra_1	19	-	-	-	-	-	-	29:op4
+behawara_1	21	-	-	-	-	-	-	29:op5
+sAXana_1	22	-	pl	24:k2	-	-	-	-
+vikAsa_1	24	-	-	-	-	-	-	28:kriyAmUla
+kara_1-yA_1	25	-	-	-	-	-	-	28:verbalizer
+[cp_2]	28	-	-	0:main	Geo_ncert_7stnd_7ch_0001a.28:viroXI	-	-	-
+[conj_1]	29	-	-	22:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0003>
+#इस प्रकार उसने अपने आवास के वातावरण को अपने अनुकूल बनाया ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	11:sent-adv	-	-	-	-
+$wyax	3	-	-	11:k1	-	distal	-	-
+apanA	4	-	pl	5:r6	-	-	-	-
+AvAsa_1	5	-	-	7:r6	-	-	-	-
+vAwAvaraNa_1	7	-	-	11:k2	-	-	-	-
+apanA	9	-	pl	11:k2	-	-	-	-
+anukUla_1	10	-	-	11:k2s	-	-	-	-
+banA_1-yA_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0004>
+#बस्तियाँ , वे स्थान हैं जहाँ लोग अपने लिए घर बनाते हैं ।
+baswI_1	1	-	pl	5:rad	-	-	-	-
+$wyax	3	-	pl	5:k1	-	distal	-	-
+sWAna_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+jahAz	6	-	-	11:k7p	-	-	-	-
+loga_1	7	-	-	11:k1	-	-	-	-
+apanA	8	-	pl	11:rt	-	-	-	-
+Gara_1	10	-	-	11:k2	-	-	-	-
+banA_1	11	-	pl	5:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0005>
+#प्रारंभिक मनुष्य वृक्षों एवं गुफाओं में निवास करते थे ।
+prAraMBika_1	1	-	-	3:mod	-	-	-	-
+manuRya_1	2	-	-	-	-	-	-	11:mod
+vqkRa_1	3	-	pl	-	-	-	-	11:head
+[nc_1]	11	-	-	-	-	-	-	13:op1
+guPA_1	5	-	pl	-	-	-	-	13:op2
+nivAsa_1	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-wA_WA_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	8:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0006a>
+#जब उन्होंने फसलें उगाना आरंभ किया ।
+$wyax	1	-	pl	5:k1	-	distal	-	-
+Pasala_1	2	-	pl	3:k2	-	-	-	-
+ugA_1	3	-	-	5:k2	-	-	-	-
+AraMBa_1	4	-	-	-	-	-	-	7:kriyAmUla
+kara_1-yA_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	Geo_ncert_7stnd_7ch_0006b.7:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0006b>
+#तो उनके लिए एक जगह स्थायी घर बनाना आवश्यक हो गया ।
+$wyax	1	-	pl	7:rt	-	distal	-	-
+eka_1	3	numex	-	4:card	-	-	-	-
+jagaha_1	4	-	-	7:k2	-	-	-	-
+sWAyI_1	5	-	-	6:mod	-	-	-	-
+Gara_1	6	-	-	7:k2	-	-	-	-
+banA_1	7	-	-	9:k1	-	-	-	-
+AvaSyaka_1	8	-	-	-	-	-	-	12:kriyAmUla
+ho_1-yA_1	9	-	-	-	-	[shade:ja_1]	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0007a>
+#बस्तियों का विकास नदी घाटियों के निकट हुआ ।
+baswI_1	1	-	pl	3:r6	-	-	-	-
+vikAsa_1	3	-	-	8:k1	-	-	-	-
+naxI_1	4	-	-	5:mod	-	-	-	-
+GAtI_1	5	-	pl	8:k7p	-	-	-	-
+nikata_1	7	-	-	5:k7p	-	-	-	-
+ho_1-yA_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0007b>
+#क्योंकि वहाँ पर्याप्त मात्रा में जल उपलब्ध था ।
+vahAz	1	-	pl	7:k7p	-	-	-	-
+paryApwa_1	2	-	-	3:mod	-	-	-	-
+mAwrA_1	3	-	-	7:k7	-	-	-	-
+jala_1	5	-	-	7:k1	-	-	-	-
+upalabXa_1	6	-	-	-	-	-	-	9:kriyAmUla
+hE_1-past	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	Geo_ncert_7stnd_7ch_0007a.9:kAryakAraNa	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0007c>
+#एवं भूमि उपजाऊ थी ।
+BUmi_1	1	-	-	3:k1	-	-	-	-
+upajAU_1	2	-	-	3:k1s	-	-	-	-
+hE_1-past	3	-	-	0:main	Geo_ncert_7stnd_7ch_0007b.3:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0008>
+#व्यापार , वाणिज्य एवं विनिर्माण के विकास के साथ ही मानव बस्तियाँ बडी होती गईं ।
+vyApAra_1	1	-	-	-	-	-	-	19:op1
+vANijya	3	male	-	-	-	-	-	19:op2
+vinirmANa_1	5	-	-	-	-	-	-	19:op3
+vikAsa_1	7	-	-	14:ras-k2	-	-	-	-
+sAWa_1	9	-	-	7:k7p	-	hI	-	-
+mAnava_1	11	-	-	-	-	-	-	17:mod
+baswI_1	12	-	pl	-	-	-	-	17:head
+[nc_1]	17	-	-	14:k1	-	-	-	-
+badA_1	13	-	-	-	-	-	-	18:kriyAmUla
+ho_1-yA_1	14	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	7:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0009a>
+#नदी घाटी के निकट बस्ती पनपने लगीं ।
+naxI_1	1	-	-	2:mod	-	-	-	-
+GAtI_1	2	-	-	6:k7p	-	-	-	-
+nikata_1	4	-	-	2:k7p	-	-	-	-
+baswA_1	5	-	-	6:k1	-	-	-	-
+panapa_1-nA_laga_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0009b>
+#एवं सभ्यता का विकास हुआ ।
+saByawA_1	1	-	-	3:k1	-	-	-	-
+vikAsa_1	3	-	-	4:k1	-	-	-	-
+ho_1-yA_1	4	-	-	0:main	Geo_ncert_7stnd_7ch_0009a.4:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0010>
+#क्या आपको सिंधु , टिगरिस , नील एवं ह्वांग-ही नदियों के किनारे विकसित हुई सभ्यताओं के नाम याद हैं ?
+$kim	1	-	-	19:krvn	-	-	-	-
+$addressee	2	-	-	19:k4a	-	respect	-	-
+siMXu	3	male	-	-	-	-	-	22:op1
+tigarisa	5	-	-	-	-	-	-	22:op2
+nIla	7	female	-	-	-	-	-	22:op3
+hvAMga-hI	9	-	-	-	-	-	-	22:op4
+naxI_1	10	-	pl	12:r6	-	-	-	-
+kinArA_1	12	-	pl	14:k7p	-	-	-	-
+vikasiwa_1	13	-	-	-	-	-	-	21:kriyAmUla
+ho_1	14	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	15:rvks	-	-	-	-
+saByawAoM_1	15	-	-	17:r6	-	-	-	-
+nAma_1	17	-	-	19:k1	-	-	-	-
+yAxa_1	18	-	-	19:k1s	-	-	-	-
+hE_1-pres	19	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	10:mod	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0011>
+#बस्तियाँ , स्थायी या अस्थायी हो सकती हैं ।
+baswI_1	1	-	pl	-	-	-	-	11:op1
+sWAyI_1	3	-	-	-	-	-	-	11:op2
+asWAyI_1	5	-	-	-	-	-	-	10:kriyAmUla
+ho_1-0_saka_hE_1	6	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+[disjunct_1]	11	-	-	6:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0012>
+#जो बस्तियाँ कुछ समय के लिए बनाई जाती है , उन्हें अस्थायी बस्तियाँ कहते हैं ।
+$yax	1	-	-	2:dem	-	-	-	-
+baswI_1	2	-	pl	7:k2	-	-	-	-
+kuCa_1	3	-	-	4:quant	-	-	-	-
+samaya_1	4	-	-	7:rt	-	-	-	-
+banA_1-yA_jA_wA_hE_1	7	-	-	0:main	-	-	-	-
+$wyax	11	-	pl	14:k2	-	distal	-	-
+asWAyI_1	12	-	-	13:mod	-	-	-	-
+baswI_1	13	-	pl	14:k2	-	-	-	-
+kaha_1	14	-	pl	7:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0013>
+#घने जंगलों , गर्म एवं ठंडे रेगिस्तानों तथा पर्वतों के निवासी अकसर अस्थायी बस्तियों में रहते है ।
+Gane_1	1	-	-	2:mod	-	-	-	-
+jaMgala_1	2	-	pl	-	-	-	-	19:op1
+garma_1	4	-	-	-	-	-	-	19:op2
+TaMdA_1	6	-	pl	7:mod	-	-	-	-
+regiswAnoM_1	7	-	-	-	-	-	-	19:op3
+parvawa_1	9	-	pl	11:r6	-	-	-	-
+nivAsI_1	11	-	-	-	-	-	-	19:op4
+akasara_1	12	-	-	16:krvn	-	-	-	-
+asWAyI_1	13	-	-	14:mod	-	-	-	-
+baswI_1	14	-	pl	16:k7	-	-	-	-
+raha_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	8:ccof	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0014>
+#वे आखेट , संग्रहण , स्थानांतरी कृषि एवं ऋतु-प्रवास करते है ।
+$wyax	1	-	pl	10:k1	-	distal	-	-
+AKeta_1	2	-	-	-	-	-	-	15:op1
+saMgrahaNa_1	4	-	-	-	-	-	-	14:kriyAmUla
+sWAnAMwarI	6	-	-	-	-	-	-	13:begin
+[ne_1]	13	-	-	0:main	-	-	-	-
+kqRi	7	female	-	-	-	-	-	15:op2
+qwu-pravAsa	9	-	-	-	-	-	-	15:op3
+kara_1-wA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	10:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0015>
+#यद्यपि अधिकांश बस्तियाँ आज स्थायी बस्तियाँ हैं ।
+aXikAMSa_1	2	-	-	3:quant	-	-	-	-
+baswI_1	3	-	pl	7:k1	-	-	-	-
+Aja_1	4	-	-	7:k7t	-	-	-	-
+sWAyI_1	5	-	-	6:mod	-	-	-	-
+baswI_1	6	-	pl	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	-	-	-	-	9:op1
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0016>
+#इन बस्तियों में लोग रहने के लिए घर बनाते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+baswI_1	2	-	pl	5:k7p	-	-	-	-
+loga_1	4	-	-	5:k2	-	-	-	-
+raha_1	5	-	pl	9:rt	-	-	-	-
+Gara_1	8	-	-	9:k2	-	-	-	-
+banA_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0017>
+#वे स्थान जहाँ भवन अथवा बस्तियाँ विकसित होती हैं उसे बसाव स्थान कहते हैं ।
+$wyax	1	-	pl	2:dem	-	distal	-	-
+sWAna_1	2	-	-	-	-	-	-	18:op1
+jahAz	3	-	-	8:k7p	-	-	-	-
+Bavana_1	4	-	-	-	-	-	-	18:op2
+baswI_1	6	-	pl	-	-	-	-	18:op3
+vikasiwa_1	7	-	-	-	-	-	-	17:kriyAmUla
+ho_1	8	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	10:rc	-	-	-	-
+$wyax	10	-	-	13:k2	-	distal	-	-
+basAva_1	11	-	-	-	-	-	-	16:mod
+sWAna_1	12	-	-	-	-	-	-	16:head
+[nc_1]	16	-	-	13:k2s	-	-	-	-
+kaha_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[disjunct_1]	18	-	-	8:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0018>
+#मैरी का जन्मदिन था ।
+mErI	1	-	-	3:r6	-	-	-	-
+janmaxina_1	3	-	-	4:k1	-	-	-	-
+hE_1-past	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0019>
+#केक काटने के लिए वह अपने मित्रों के साथ गुरप्रीत की प्रतीक्षा कर रही थी ।
+keka_1	1	-	-	2:k2	-	-	-	-
+kAta_1	2	-	pl	13:rt	-	-	-	-
+$wyax	5	-	-	13:k1	-	distal	-	-
+apanA	6	-	pl	7:r6	-	-	-	-
+miwra_1	7	-	pl	13:ras-k1	-	-	-	-
+sAWa_1	9	-	-	7:k7p	-	-	-	-
+guraprIwa	10	-	-	12:k2	-	-	-	-
+prawIkRA_1	12	-	-	-	-	-	-	17:kriyAmUla
+kara_1-yA_raha_WA_1	13	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0020>
+#आखिरकार थकी , खाँसती और हाँफती हुई गुरप्रीत पहुँची ।
+AKirakAra_1	1	-	-	9:krvn	-	-	-	-
+WakA_1	2	-	-	-	-	-	-	11:op1
+KAzsa_1	4	-	-	-	-	-	-	11:op2
+hAzPa_1	6	-	-	8:rvks	-	-	-	-
+guraprIwa	8	-	-	-	-	-	-	11:op3
+pahuzca_1-yA_1	9	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	9:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0021a>
+#उसने यह बताया ।
+$wyax	1	-	-	3:k1	-	distal	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+bawA_1-yA_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0021b>
+#कि अत्यधिक यातायात जाम था ।
+awyaXika_1	1	-	-	2:quant	-	-	-	-
+yAwAyAwa_1	2	-	-	4:k1	-	-	-	-
+jAma_1	3	-	-	4:k1s	-	-	-	-
+hE_1-past	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0022a>
+#मैरी की माँ मिसेस थॉमस ने गुरप्रीत की पीठ थपथपाकर गहरी साँस भरी ।
+mErI	1	-	-	3:r6	-	-	-	-
+mA_1	3	-	pl	5:mod	-	-	-	-
+misesa	4	-	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	13:k1	-	-	-	-
+WOYmasa	5	-	-	-	-	-	-	15:inside
+guraprIwa	7	-	-	9:k2	-	-	-	-
+pITa_1	9	-	-	10:k2	-	-	-	-
+WapaWapA_1	10	-	-	13:rpk	-	-	-	-
+gaharA_1	11	-	-	12:mod	-	-	-	-
+sAzsa_1	12	-	-	13:k2	-	-	-	-
+Bara_1-yA_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0022b>
+#और उसने यह कहा ।
+$wyax	1	-	-	3:k1	-	distal	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+kaha_1-yA_1	3	-	-	0:main	Geo_ncert_7stnd_7ch_0022a.3:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0022c>
+#कि ओह ! ... हमारे शहर में बहुत प्रदूषण है !
+oha_1	1	-	-	0:main	-	-	-	-
+$speaker	4	-	pl	5:r6	-	-	-	-
+Sahara_1	5	-	-	9:k7p	-	-	-	-
+bahuwa_1	7	-	-	8:quant	-	-	-	-
+praxURaNa_1	8	-	-	9:k1	-	-	-	-
+hE_1	9	-	-	1:ccof	-	-	-	-
+%imperative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0023>
+#प्रसाद हाल ही में गाँव से आया था ।
+prasAxa	1	male	-	7:k1	-	-	-	-
+hAla_1	2	-	-	7:k7t	-	hI	-	-
+gAzva_1	5	-	-	7:k5	-	-	-	-
+A_1-yA_WA_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0024a>
+#उसने यह पूछा ।
+$wyax	1	-	-	3:k1	-	distal	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+pUCa_1-yA_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0024b>
+#शहरों में इतना प्रदूषण तथा यातायात जाम क्यों होता है ?
+Sahara_1	1	-	pl	9:k7p	-	-	-	-
+iwanA_1	3	-	-	4:quant	-	-	-	-
+praxURaNa_1	4	-	-	-	-	-	-	13:op1
+yAwAyAwa_1	6	-	-	-	-	-	-	13:op2
+jAma_1	7	-	-	-	-	-	-	12:kriyAmUla
+$kim	8	-	-	9:krvn	-	-	-	-
+ho_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	9:k1	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0025>
+#शहरों में बढती आबादी के कारण दिन-प्रतिदिन वाहनों की संख्या बढती जा रही है ।
+Sahara_1	1	-	pl	3:k7p	-	-	-	-
+baDa_1	3	-	-	4:rvks	-	-	-	-
+AbAxI_1	4	-	-	11:rh	-	-	-	-
+xina-prawixina	7	-	-	8:mod	-	-	-	-
+vAhana_1	8	-	pl	10:r6	-	-	-	-
+saMKyA_1	10	-	-	11:k1	-	-	-	-
+baDa_1-0_raha_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0026a>
+#मैरी ने यह पूछा ।
+mErI	1	-	-	4:k1	-	-	-	-
+$wyax	3	-	-	4:k2	-	proximal	-	-
+pUCa_1-yA_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0026b>
+#कि तब लोग शहर क्यों आते हैं ?
+waba	1	-	-	5:k7t	-	-	-	-
+loga_1	2	-	-	5:k1	-	-	-	-
+Sahara_1	3	-	-	5:k1	-	-	-	-
+$kim	4	-	-	5:krvn	-	-	-	-
+A_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0027a>
+#उसकी माँ ने यह उत्तर दिया ।
+$wyax	1	-	-	2:r6	-	distal	-	-
+mA_1	2	-	pl	6:k1	-	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+uwwara_1	5	-	-	6:k2	-	-	-	-
+xe_1-yA_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0027b>
+#कि वे यहाँ नौकरी , बेहतर शिक्षा एवं चिकित्सीय सुविधा की तलाश में आते हैं ।
+$wyax	1	-	pl	13:k1	-	distal	-	-
+yahAz	2	-	-	13:k7p	-	-	-	-
+nOkarI_1	3	-	-	-	-	-	-	16:op1
+behawara_1	5	-	-	6:mod	-	-	-	-
+SikRA_1	6	-	-	-	-	-	-	16:op2
+cikiwsIya_1	8	-	-	9:mod	-	-	-	-
+suviXA_1	9	-	-	-	-	-	-	16:op3
+walASa_1	11	-	-	13:k7	-	-	-	-
+A_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	11:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0028a>
+#मैरी ने फिर यह पूछा ।
+mErI	1	-	-	5:k1	-	-	-	-
+Pira_1	3	-	-	5:krvn	-	-	-	-
+$wyax	4	-	-	5:k2	-	proximal	-	-
+pUCa_1-yA_1	5	-	-	0:main	Geo_ncert_7stnd_7ch_0028c.5:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0028b>
+#कि यदि इतनी अधिक संख्या में लोग शहर में आते रहेंगे ।
+iwanA_1	2	-	-	3:intf	-	-	-	-
+aXika_1	3	-	-	4:quant	-	-	-	-
+saMKyA_1	4	-	-	9:k7	-	-	-	-
+loga_1	6	-	-	9:k1	-	-	-	-
+Sahara_1	7	-	-	9:k7p	-	-	-	-
+A_1-wA_raha_1	9	-	-	-	-	-	-	12:op1
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0028c>
+#तो ये सारे लोग कहाँ रहेंगे ?
+$wyax	1	-	pl	3:dem	-	proximal	-	-
+sArA_1	2	-	pl	3:quant	-	-	-	-
+loga_1	3	-	-	5:k1	-	-	-	-
+$kim	4	-	-	5:krvn	-	-	-	-
+raha_1-gA_1	5	-	-	0:main	Geo_ncert_7stnd_7ch_0027a.5:pariNAma	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0029a>
+#मि. थॉमस ने यह कहा ।
+mi.	1	-	-	-	-	-	-	7:begin
+[ne_1]	7	-	-	5:k1	-	-	-	-
+WOYmasa	2	-	-	-	-	-	-	7:inside
+$wyax	4	-	-	5:k2	-	proximal	-	-
+kaha_1-yA_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0029b>
+#कि यही कारण है ।
+yahI	1	-	-	2:dem	-	-	-	-
+kAraNa_1	2	-	-	3:k1	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0029c>
+#कि अत्यधिक संख्या में गंदी बस्तियाँ एवं अवैध कब्जे वाली बस्तियाँ दिखाई देती हैं , जहाँ लोग भीड-भाड एवं अस्वास्थ्यकारी में रहते हैं ।
+awyaXika_1	1	-	-	2:quant	-	-	-	-
+saMKyA_1	2	-	-	11:k7	-	-	-	-
+gaMxA_1	4	-	-	5:mod	-	-	-	-
+baswI_1	5	-	pl	6:ccof	-	-	-	-
+avEXa_1	7	-	-	8:mod	-	-	-	-
+kabjA_1	8	-	mawupa	6:ccof	-	-	-	-
+baswI_1	10	-	pl	11:k2	-	-	-	-
+xiKA_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+jahAz	15	-	-	21:k7p	-	-	-	-
+loga_1	16	-	-	21:k1	-	-	-	-
+BIda-BAda	17	-	-	-	-	-	-	24:op1
+asvAsWyakArI_1	19	-	-	-	-	-	-	24:op2
+raha_1	21	-	pl	11:rc	-	-	-	-
+[conj_1]	24	-	-	21:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0030>
+#शहरों में जल एवं विद्युत की कमी एक सामान्य समस्या हैं ।
+Sahara_1	1	-	pl	11:k7p	-	-	-	-
+jala_1	3	-	-	-	-	-	-	13:op1
+vixyuwa_1	5	-	-	-	-	-	-	13:op2
+kamI_1	7	-	-	11:k1	-	-	-	-
+eka_1	8	numex	-	10:card	-	-	-	-
+sAmAnya_1	9	-	-	10:mod	-	-	-	-
+samasyA_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	7:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0031>
+#ऋतु-प्रवास : लोगों के मौसमी आवागमन को ऋतु-प्रवास कहते हैं ।
+qwu-pravAsa	1	-	-	9:k1	-	-	-	-
+loga_1	3	-	pl	6:r6	-	-	-	-
+mOsamI_1	5	-	-	6:mod	-	-	-	-
+AvAgamana_1	6	-	-	9:k2	-	-	-	-
+qwu-pravAsa	8	-	-	9:k2s	-	-	-	-
+kaha_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0032>
+#जो लोग पशु पालते हैं , वे मौसम में परिवर्तन के अनुसार नए चरागाहों की खोज में निकल जाते हैं ।
+$yax	1	-	-	2:dem	-	-	-	-
+loga_1	2	-	-	4:k1	-	-	-	-
+paSu_1	3	-	-	4:k2	-	-	-	-
+pAla_1	4	-	pl	7:rc	-	-	-	-
+$wyax	7	-	pl	18:k1	-	distal	-	-
+mOsama_1	8	-	-	18:k7	-	-	-	-
+parivarwana_1	10	-	-	18:k7a	-	-	-	-
+nae_1	13	-	-	14:mod	-	-	-	-
+carAgAha_1	14	-	pl	16:r6	-	-	-	-
+Koja_1	16	-	-	18:k7	-	-	-	-
+nikala_1-wA_hE_1	18	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0033a>
+#प्रसाद ने यह कहा ।
+prasAxa	1	male	-	4:k1	-	-	-	-
+$wyax	3	-	-	4:k2	-	proximal	-	-
+kaha_1-yA_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0033b>
+#कि हमारे गाँव में बडे सिनेमा घर , अच्छी सुविधओं वाले स्कूल एवं अच्छे अस्पताल नहीं हैं ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+gAzva_1	2	-	-	16:k7p	-	-	-	-
+badA_1	4	-	pl	6:mod	-	-	-	-
+sinemA_1	5	-	-	-	-	-	-	18:mod
+Gara_1	6	-	-	-	-	-	-	18:head
+[nc_1]	18	-	-	-	-	-	-	19:op1
+acCA_1	8	-	-	9:mod	-	-	-	-
+suviXaoM_1	9	-	mawupa	11:mod	-	-	-	-
+skUla_1	11	-	-	-	-	-	-	19:op2
+acCA_1	13	-	pl	14:mod	-	-	-	-
+aspawAla_1	14	-	-	-	-	-	-	19:op3
+nahIM_1	15	-	-	16:neg	-	-	-	-
+hE_1-pres	16	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	16:k1	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0033c>
+#लेकिन हमारे यहाँ बहुत सारी खुली भूमि एवं साँस लेने के लिए ताजी हवा मिलती है ।
+$speaker	1	-	pl	14:k1	-	-	-	-
+yahAz	2	-	-	14:k7p	-	-	-	-
+bahuwa_1	3	-	-	6:quant	-	-	-	-
+sArA_1	4	-	-	6:quant	-	-	-	-
+KulA_1	5	-	-	6:mod	-	-	-	-
+BUmi_1	6	-	-	-	-	-	-	17:op1
+sAzsa_1	8	-	-	-	-	-	-	17:op2
+le_1	9	-	pl	14:rt	-	-	-	-
+wAjA_1	12	-	-	13:mod	-	-	-	-
+havA_1	13	-	-	14:k1	-	-	-	-
+mila_1-wA_hE_1	14	-	-	0:main	Geo_ncert_7stnd_7ch_0033a.14:viroXI	-	-	-
+[conj_1]	17	-	-	9:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0034a>
+#जब मेरे दादा जी बीमार थे ।
+$speaker	1	-	-	2:r6	-	-	-	-
+xAxA_1	2	-	-	5:k1	-	jI/salutation	-	-
+bImAra_1	4	-	-	5:k1s	-	-	-	-
+hE_1-past	5	-	-	0:main	Geo_ncert_7stnd_7ch_0034b.5:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0034b>
+#तो उनको शहर के अस्पताल में लाना पडा था ।
+$wyax	1	-	pl	6:k1	-	distal	-	-
+Sahara_1	2	-	-	4:r6	-	-	-	-
+aspawAla_1	4	-	-	6:k7p	-	-	-	-
+lA_1-nA_pada_WA_1	6	-	-	0:main	Geo_ncert_7stnd_7ch_0033c.6:pariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0035>
+#ऊपर दिए गए संवाद से बस्तियों के दो विभिन्न चित्रण हमारे सामने आते हैं , ग्रामीण एवं शहरी बस्तियाँ ।
+Upara_1	1	-	-	2:k7	-	-	-	-
+xe_1	2	-	pl	4:rvks	-	-	-	-
+saMvAxa_1	4	-	-	13:k3	-	-	-	-
+baswI_1	6	-	pl	10:r6	-	-	-	-
+xo	8	numex	-	10:card	-	-	-	-
+viBinna_1	9	-	-	10:mod	-	-	-	-
+ciwraNa_1	10	-	-	13:k1	-	-	-	-
+$speaker	11	-	pl	13:k7	-	-	-	-
+sAmanA_1	12	-	pl	11:k7p	-	-	-	-
+A_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+grAmINa_1	16	-	-	-	-	-	-	21:op1
+SaharI_1	18	-	-	-	-	-	-	21:op2
+baswI_1	19	-	pl	13:k1	-	-	-	-
+[conj_1]	21	-	-	19:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0036>
+#गाँव , ग्रामीण बस्ती होती है , जहाँ लोग कृषि , मत्स्य पालन , वानिकी , दस्तकारी एवं पशुपालन संबंधी कार्य करते हैं ।
+gAzva_1	1	-	-	5:k7p	-	-	-	-
+grAmINa_1	3	-	-	4:mod	-	-	-	-
+baswA_1	4	-	-	5:k1	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+jahAz	8	-	-	22:k7p	-	-	-	-
+loga_1	9	-	-	22:k1	-	-	-	-
+kqRi_1	10	-	-	-	-	-	-	27:op1
+mawsya	12	male	-	-	-	-	-	25:begin
+[ne_1]	25	-	-	-	-	-	-	27:op2
+pAlana_1	13	-	-	-	-	-	-	25:inside
+vAnikI_1	15	-	-	-	-	-	-	27:op3
+xaswakArI_1	17	-	-	-	-	-	-	27:op4
+paSupAlana_1	19	-	-	20:mod	-	-	-	-
+saMbaMXI_1	20	-	-	-	-	-	-	27:op5
+kArya_1	21	-	-	-	-	-	-	26:kriyAmUla
+kara_1	22	-	pl	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	5:rc	-	-	-	-
+[conj_1]	27	-	-	21:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0037>
+#ग्रामीण बस्ती सघन या प्रकीर्ण हो सकती है ।
+grAmINa_1	1	-	-	-	-	-	-	11:op1
+baswA_1	2	-	-	-	-	-	-	10:mod
+saGana_1	3	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	1:mod	-	-	-	-
+prakIrNa_1	5	-	-	-	-	-	-	11:op2
+ho_1-0_saka_ho_1	6	-	-	0:main	-	-	-	-
+[disjunct_1]	11	-	-	6:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0038>
+#सघन बस्तियों में घर पास-पास बने होते हैं ।
+saGana_1	1	-	-	2:mod	-	-	-	-
+baswI_1	2	-	pl	6:k7p	-	-	-	-
+Gara_1	4	-	-	6:k1	-	-	-	-
+pAsa_1	5	-	xviwva	-	-	-	-	10:kriyAmUla
+bana_1-subj_ho_hE_1	6	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0039>
+#प्रकीर्ण बस्तियों में लोगों के घर दूर-दूर व्यापक क्षेत्र में फैले होते हैं ।
+prakIrNa_1	1	-	-	2:mod	-	-	-	-
+baswI_1	2	-	pl	-	-	-	-	15:whole
+loga_1	4	-	pl	6:r6	-	-	-	-
+Gara_1	6	-	-	11:k1	-	-	-	-
+xUra_1	7	-	xviwva	9:mod	-	-	-	-
+vyApaka_1	8	-	-	9:mod	-	-	-	-
+kRewra_1	9	-	-	-	-	-	-	15:part
+PEla_1-subj_ho_hE_1	11	-	-	0:main	-	-	-	-
+[spatial_1]	15	-	-	11:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0040>
+#इस प्रकार की बस्तियाँ मुख्यतः पहाडी क्षेत्रो , घने जंगल एवं अतिविषम जलवायु वाले क्षेत्रों में पाई जाती हैं ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	4:r6	-	-	-	-
+baswI_1	4	-	pl	17:k1	-	-	-	-
+muKyawaH_1	5	-	-	17:krvn	-	-	-	-
+pahAdA_1	6	-	-	7:mod	-	-	-	-
+kRewro_1	7	-	-	-	-	-	-	21:op1
+Gane_1	9	-	-	10:mod	-	-	-	-
+jaMgala_1	10	-	-	-	-	-	-	21:op2
+awiviRama_1	12	-	-	13:mod	-	-	-	-
+jalavAyu_1	13	-	mawupa	-	-	-	-	21:op3
+kRewra_1	15	-	pl	17:k7p	-	-	-	-
+pA_1-yA_jA_wA_hE_1	17	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	15:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0041>
+#ग्रामीण क्षेत्रों में लोग अपने पर्यावरण के अनुकूल घर बनाते हैं ।
+grAmINa_1	1	-	-	2:mod	-	-	-	-
+kRewra_1	2	-	pl	10:k7p	-	-	-	-
+loga_1	4	-	-	10:k1	-	-	-	-
+apanA	5	-	pl	6:r6	-	-	-	-
+paryAvaraNa_1	6	-	-	9:r6	-	-	-	-
+anukUla_1	8	-	-	9:mod	-	-	-	-
+Gara_1	9	-	-	10:k2	-	-	-	-
+banA_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0042>
+#अत्यधिक वर्षा वाले क्षेत्रों में ढाल वाली छत बनाते हैं ।
+awyaXika_1	1	-	-	2:quant	-	-	-	-
+varRA_1	2	-	mawupa	4:mod	-	-	-	-
+kRewra_1	4	-	pl	9:k7p	-	-	-	-
+DAla_1	6	-	mawupa	8:mod	-	-	-	-
+Cawa_1	8	-	-	9:k2	-	-	-	-
+banA_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0043>
+#जिन स्थानों में वर्षा के समय जल का जमाव होता है , वहाँ ऊँचे प्लेटफॉर्म अथवा स्टिल्ट पर घर बनाए जाते हैं ।
+$yax	1	-	pl	2:dem	-	-	-	-
+sWAna_1	2	-	pl	10:k7p	-	-	-	-
+varRA_1	4	-	-	10:k7t	-	-	-	-
+jala_1	7	-	-	9:k1	-	-	-	-
+jamAva_1	9	-	-	10:k1	-	-	-	-
+ho_1	10	-	-	13:rc	-	-	-	-
+vahAz	13	-	pl	20:k7p	-	-	-	-
+UzcA_1	14	-	pl	15:mod	-	-	-	-
+pletaPOYrma_1	15	-	-	-	-	-	-	24:op1
+stilta_1	17	-	-	-	-	-	-	24:op2
+Gara_1	19	-	-	-	-	-	-	24:op3
+banA_1-wA_hE_1	20	-	-	0:main	-	-	-	-
+[disjunct_1]	24	-	-	20:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0044>
+#गर्म जलवायु वाले क्षेत्रों में मिट्टी की मोटी दीवार वाले घर पाए जाते हैं , जिनकी छतें फूस की बनी होती है ।
+garma_1	1	-	-	2:mod	-	-	-	-
+jalavAyu_1	2	-	mawupa	4:mod	-	-	-	-
+kRewra_1	4	-	pl	12:k7p	-	-	-	-
+mittI_1	6	-	-	9:r6	-	-	-	-
+motA_1	8	-	-	9:mod	-	-	-	-
+xIvAra_1	9	-	mawupa	11:mod	-	-	-	-
+Gara_1	11	-	-	12:k2	-	-	-	-
+pA_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+$yax	16	-	pl	17:r6	-	-	-	-
+Cawa_1	17	-	pl	20:k1	-	-	-	-
+PUsa_1	18	-	-	20:rhh	-	-	-	-
+bana_1	20	-	-	12:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0045>
+#स्थानीय सामग्री , जैसे - पत्थर , पंक , चिकनी मिट्टी , तृण आदि का उपयोग घर बनाने में किया जाता है ।
+sWAnIya_1	1	-	-	2:mod	-	-	-	-
+sAmagrI_1	2	-	-	20:rh	-	-	-	-
+jEsA_1	4	-	pl	6:mod	-	-	-	-
+pawWara_1	6	-	-	20:k2	-	-	-	-
+paMka_1	8	-	-	20:mod	-	-	-	-
+cikanA_1	10	-	-	11:mod	-	-	-	-
+mittI_1	11	-	-	20:k3	-	-	-	-
+wqNa_1	13	-	-	16:r6	-	Axi	-	-
+upayoga_1	16	-	-	-	-	-	-	24:kriyAmUla
+Gara_1	17	-	-	18:k2	-	-	-	-
+banA_1	18	-	pl	20:k7	-	-	-	-
+kara_1-yA_jA_wA_hE_1	20	-	-	-	-	-	-	24:verbalizer
+[cp_1]	24	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0046>
+#नगरीय बस्तियों में नगर छोटी एवं शहर उनसे बडी बस्तियाँ होती हैं ।
+nagarIya_1	1	-	-	2:mod	-	-	-	-
+baswI_1	2	-	pl	11:k7	-	-	-	-
+nagara_1	4	-	-	-	-	-	-	14:op1
+CotA_1	5	-	-	-	-	-	-	14:op2
+Sahara_1	7	-	-	-	-	-	-	14:op3
+$wyax	8	-	pl	11:rh	-	distal	-	-
+badA_1	9	-	-	10:mod	-	-	-	-
+baswI_1	10	-	pl	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	11:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0047>
+#नगरीय क्षेत्रों में लोग निर्माण , व्यापार एवं सेवा क्षेत्रों में कार्यरत होते हैं ।
+nagarIya_1	1	-	-	2:mod	-	-	-	-
+kRewra_1	2	-	pl	-	-	-	-	17:whole
+loga_1	4	-	-	13:k1	-	-	-	-
+nirmANa_1	5	-	-	-	-	-	-	18:op1
+vyApAra	7	male	-	-	-	-	-	18:op2
+sevA_1	9	-	-	-	-	-	-	18:op3
+kRewra_1	10	-	pl	-	-	-	-	17:part
+kAryarawa_1	12	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_hE_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+[spatial_1]	17	-	-	13:k7p	-	-	-	-
+[conj_1]	18	-	-	10:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0048>
+#आप अपने राज्य के कुछ गाँवों , नगरों एवं शहरों के नाम लिखिए ।
+$addressee	1	-	-	13:k1	-	respect	-	-
+apanA	2	-	pl	3:r6	-	-	-	-
+rAjya_1	3	-	-	6:r6	-	-	-	-
+kuCa_1	5	-	-	6:quant	-	-	-	-
+gAzva_1	6	-	pl	-	-	-	-	15:op1
+nagara_1	8	-	pl	-	-	-	-	15:op2
+Sahara_1	10	-	pl	-	-	-	-	15:op3
+nAma_1	12	-	-	13:k2	-	-	-	-
+liKa_1-e_1	13	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	12:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0049>
+#परिवहन लोगों एवं सामान के आवागमन के साधन होते हैं ।
+parivahana_1	1	-	-	-	-	-	-	12:mod
+loga_1	2	-	pl	-	-	-	-	12:head
+[nc_1]	12	-	-	-	-	-	-	13:op1
+sAmAna_1	4	-	-	-	-	-	-	13:op2
+AvAgamana_1	6	-	-	8:r6	-	-	-	-
+sAXana_1	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	6:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0050>
+#पुराने समय में अधिक दूरी की यात्रा करने में अत्यधिक समय लगता था ।
+purAnA_1	1	-	pl	2:mod	-	-	-	-
+samaya_1	2	-	-	8:k7	-	-	-	-
+xUrI_1	5	-	-	7:k2	-	-	-	-
+yAwrA_1	7	-	-	-	-	-	-	15:kriyAmUla
+kara_1	8	-	pl	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	12:k7	-	-	-	-
+awyaXika_1	10	-	-	11:quant	-	-	-	-
+samaya_1	11	-	-	12:k2	-	-	-	-
+laga_1-wA_WA_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=Geo_ncert_7stnd_7ch_0051a>
+#उस समय लोग पैदल चलते थे ।
+$wyax	1	-	-	2:dem	-	distal	-	-
+samaya_1	2	-	-	5:k7t	-	-	-	-
+loga_1	3	-	-	5:k1	-	-	-	-
+pExala_1	4	-	-	-	-	-	-	8:kriyAmUla
+cala_1-wA_WA_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0051b>
+#एवं वे अपने सामान को ढोने के लिए पशुओं का उपयोग करते थे ।
+$wyax	1	-	pl	11:k1	-	distal	-	-
+apanA	2	-	pl	3:r6	-	-	-	-
+sAmAna_1	3	-	-	5:k2	-	-	-	-
+Do_1	5	-	pl	11:rt	-	-	-	-
+paSu_1	8	-	pl	10:k2	-	-	-	-
+upayoga_1	10	-	-	-	-	-	-	14:kriyAmUla
+kara_1-wA_WA_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	Geo_ncert_7stnd_7ch_0051a.14:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0052>
+#पहिए की खोज से परिवहन आसान हो गया ।
+pahie_1	1	-	-	3:r6	-	-	-	-
+Koja_1	3	-	-	7:rh	-	-	-	-
+parivahana_1	5	-	-	7:k1	-	-	-	-
+AsAna_1	6	-	-	-	-	-	-	10:kriyAmUla
+ho_1-yA_1	7	-	-	-	-	[shade:ja_1]	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0053a>
+#समय के साथ परिवहन के विभिन्न साधनों का विकास होता गया ।
+samaya_1	1	-	-	10:k7t	-	-	-	-
+sAWa_1	3	-	-	1:k7p	-	-	-	-
+parivahana_1	4	-	-	7:r6	-	-	-	-
+viBinna_1	6	-	-	7:mod	-	-	-	-
+sAXana_1	7	-	pl	9:k2	-	-	-	-
+vikAsa_1	9	-	-	-	-	-	-	13:kriyAmUla
+ho_1-yA_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0053b>
+#लेकिन आज भी लोग परिवहन के लिए पशुओं का उपयोग करते हैं ।
+Aja_1	1	-	-	10:k7t	-	BI	-	-
+loga_1	3	-	-	10:k1	-	-	-	-
+parivahana_1	4	-	-	10:rt	-	-	-	-
+paSu_1	7	-	pl	9:k2	-	-	-	-
+upayoga_1	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	Geo_ncert_7stnd_7ch_0053a.13:viroXI	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0054>
+#हमारे देश में सामान्यतः गधे , खच्चर , बैल एवं ऊँट का उपयोग किया जाता है ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+xeSa_1	2	-	-	14:k7p	-	-	-	-
+sAmAnyawaH_1	4	-	-	14:krvn	-	-	-	-
+gaXA_1	5	-	pl	-	-	-	-	19:op1
+Kaccara_1	7	-	-	-	-	-	-	19:op2
+bEla_1	9	-	-	-	-	-	-	19:op3
+Uzta_1	11	-	-	-	-	-	-	19:op4
+upayoga_1	13	-	-	-	-	-	-	18:kriyAmUla
+kara_1-yA_jA_wA_hE_1	14	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	13:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0055>
+#दक्षिणी अफ्रीका के ऐंडीज पर्वत के क्षेत्र में लामा का उपयोग उसी तरह होता है , जैसे तिब्बत में याक का उपयोग होता है ।
+xakRiNI_1	1	-	-	2:mod	-	-	-	-
+aPrIkA	2	-	-	5:r6	-	-	-	-
+EMdIja	4	-	-	5:mod	-	-	-	-
+parvawa_1	5	-	-	7:r6	-	-	-	-
+kRewra_1	7	-	-	14:k7p	-	-	-	-
+lAmA_1	9	-	-	11:r6	-	-	-	-
+upayoga_1	11	-	-	14:k1	-	-	-	-
+usI	12	-	-	13:dem	-	-	-	-
+waraha_1	13	-	-	14:krvn	-	-	-	-
+ho_1-wA_hE_1	14	-	-	-	-	-	-	27:op1
+wibbawa	18	male	-	23:k7p	-	-	-	-
+yAka	20	-	-	22:k1	-	-	-	-
+upayoga_1	22	-	-	-	-	-	-	26:kriyAmUla
+ho_1-wA_hE_1	23	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	-	-	-	-	27:op2
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0056>
+#प्रारंभ में अन्य देशों के व्यापारियों को भारत पहुँचने में अनेक महीने लग जाते थे ।
+prAraMBa_1	1	-	-	9:k7	-	-	-	-
+anya_1	3	-	-	4:mod	-	-	-	-
+xeSa_1	4	-	pl	6:r6	-	-	-	-
+vyApArI_1	6	-	pl	9:k2	-	-	-	-
+BArawa	8	male	-	9:k2p	-	-	-	-
+pahuzca_1	9	-	pl	13:k7	-	-	-	-
+aneka_1	11	-	-	12:quant	-	-	-	-
+mahInA_1	12	-	pl	13:k7t	-	-	-	-
+laga_1-wA_WA_1	13	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0057>
+#वे समुद्री मार्ग से या थलीय मार्ग से आते थे ।
+$wyax	1	-	pl	9:k1	-	distal	-	-
+samuxrI_1	2	-	-	3:mod	-	-	-	-
+mArga_1	3	-	-	-	-	-	-	12:op1
+WalIya_1	6	-	-	7:mod	-	-	-	-
+mArga_1	7	-	-	-	-	-	-	12:op2
+A_1-wA_WA_1	9	-	-	0:main	-	-	-	-
+[disjunct_1]	12	-	-	9:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0058>
+#हवाई यात्रा ने परिवहन को द्रुत बना दिया है ।
+havAI_1	1	-	-	-	-	-	-	11:mod
+yAwrA_1	2	-	-	-	-	-	-	11:head
+[nc_1]	11	-	-	7:k1	-	-	-	-
+parivahana_1	4	-	-	7:k2	-	-	-	-
+xruwa_1	6	-	-	-	-	-	-	12:kriyAmUla
+banA_1-yA_hE_1	7	-	-	-	-	[shade:xe_1]	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0059>
+#आज भारत से यूरोप की यात्रा करने में केवल 6 से 8 घंटे का समय लगता है ।
+Aja_1	1	-	-	16:k7t	-	-	-	-
+BArawa	2	male	-	7:k5	-	-	-	-
+yUropa	4	male	-	6:k2	-	-	-	-
+yAwrA_1	6	-	-	-	-	-	-	19:kriyAmUla
+kara_1	7	-	pl	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	16:k7	-	-	-	-
+6	10	numex	-	13:rsp	-	kevala	-	-
+8	12	numex	-	13:card	-	-	-	-
+GaMtA_1	13	-	pl	15:r6	-	-	-	-
+samaya_1	15	-	-	16:k1	-	-	-	-
+laga_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0060>
+#इस प्रकार परिवहन के आधुनिक साधन समय एवं ऊर्जा की बचत करते है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	12:k1	-	-	-	-
+parivahana_1	3	-	-	7:r6	-	-	-	-
+AXunika_1	5	-	-	7:mod	-	-	-	-
+sAXana_1	6	-	-	-	-	-	-	15:mod
+samaya_1	7	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	-	-	-	-	17:op1
+UrjA_1	9	-	-	-	-	-	-	17:op2
+bacawa_1	11	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	11:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0061>
+#परिवहन के उन साधनों की एक सूची बनाएँ जिनका उपयोग आपकी कक्षा के छात्रा स्कूल आने के लिए करते हैं ।
+parivahana_1	1	-	-	4:r6	-	-	-	-
+$wyax	3	-	pl	4:dem	-	distal	-	-
+sAXana_1	4	-	pl	7:r6	-	-	-	-
+eka_1	6	numex	-	7:card	-	-	-	-
+sUcI_1	7	-	-	8:k2	-	-	-	-
+banA_1-e_1	8	-	-	0:main	-	-	-	-
+$yax	9	-	pl	10:r6	-	-	-	-
+upayoga_1	10	-	-	-	-	-	-	23:kriyAmUla
+$addressee	11	-	-	12:r6	-	respect	-	-
+kakRA_1	12	-	-	15:r6	-	-	-	-
+CAwrA_1	14	-	-	-	-	-	-	22:mod
+skUla_1	15	-	-	-	-	-	-	22:head
+[nc_1]	22	-	-	16:k2	-	-	-	-
+A_1	16	-	pl	19:rt	-	-	-	-
+kara_1	19	-	pl	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	8:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0062>
+#कम दूरी यातायात के सबसे अधिक उपयोग किए जाने वाले मार्ग सडक हैं ।
+xUrI_1	2	-	-	13:k1	-	-	-	-
+yAwAyAwa_1	3	-	-	7:k2	-	-	-	-
+aXika_1	6	-	superl	7:k2	-	-	-	-
+upayoga_1	7	-	-	-	-	-	-	15:kriyAmUla
+kara_1	8	-	pl	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	11:mod	-	-	-	-
+mArga_1	11	-	-	13:k1	-	-	-	-
+sadaka_1	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0063a>
+#सडके पक्की एवं कच्ची हो सकती हैं ।
+sadake_1	1	-	-	5:k1	-	-	-	-
+pakkI_1	2	-	-	-	-	-	-	9:op1
+kaccA_1	4	-	-	-	-	-	-	9:op2
+ho_1-0_saka_hE_1	5	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	5:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0063b>
+#और मैदानी क्षेत्रों में सडकों का घना जाल बिछा है ।
+mExAnI_1	1	-	-	2:mod	-	-	-	-
+kRewra_1	2	-	pl	8:k7p	-	-	-	-
+sadaka_1	4	-	pl	7:r6	-	-	-	-
+GanA_1	6	-	-	7:mod	-	-	-	-
+jAla_1	7	-	-	8:k2	-	-	-	-
+biCA_1-0_hE_1	8	-	-	0:main	Geo_ncert_7stnd_7ch_0063a.8:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0064>
+#मरुस्थलों , वनों एवं ऊँचे पर्वत जैसे स्थानों पर भी सडकें बनी हुई है ।
+marusWaloM_1	1	-	-	-	-	-	-	16:op1
+vana_1	3	-	pl	-	-	-	-	16:op2
+UzcA_1	5	-	pl	6:mod	-	-	-	-
+parvawa_1	6	-	-	-	-	-	-	16:op3
+sWAna_1	8	-	pl	12:k7p	-	BI	-	-
+sadaka_1	11	-	pl	12:k1	-	-	-	-
+bana_1-yA_ho_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	8:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0065>
+#हिमालय पर्वत पर मनाली-लेह राजमार्ग विश्व के सबसे ऊँचे सडक मार्गों में से एक है ।
+himAlaya	1	male	-	2:mod	-	-	-	-
+parvawa_1	2	-	-	15:k7p	-	-	-	-
+manAlI-leha	4	-	-	-	-	-	-	17:begin
+[ne_1]	17	-	-	11:r6	-	-	-	-
+rAjamArga	5	male	-	-	-	-	-	18:begin
+[ne_2]	18	-	-	11:r6	-	-	-	-
+viSva	6	male	-	-	-	-	-	18:inside
+UzcA_1	9	-	superl	11:mod	-	-	-	-
+sadaka_1	10	-	-	-	-	-	-	19:mod
+mArga_1	11	-	pl	-	-	-	-	19:head
+[nc_1]	19	-	-	15:k7	-	-	-	-
+eka_1	14	numex	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0066>
+#भूमिगत सडकों को भूमिगत मार्ग कहते है ।
+BUmigawa_1	1	-	-	2:mod	-	-	-	-
+sadaka_1	2	-	pl	6:k2	-	-	-	-
+BUmigawa_1	4	-	-	5:mod	-	-	-	-
+mArga_1	5	-	-	6:k1	-	-	-	-
+kaha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0067>
+#फ्लाईओवर , उत्थित संरचनाओं के ऊपर बनाए जाते है ।
+PlAIovara_1	1	-	-	7:k1	-	-	-	-
+uwWiwa_1	3	-	-	4:mod	-	-	-	-
+saMracanA_1	4	-	pl	7:k7	-	-	-	-
+Upara_1	6	-	-	4:k7p	-	-	-	-
+banA_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0068>
+#भारत में अनेक राष्ट्रीय एवं राज्य राजमार्ग हैं ।
+BArawa	1	male	-	8:k7p	-	-	-	-
+aneka_1	3	-	-	8:k1	-	-	-	-
+rARtrIya_1	4	-	-	-	-	-	-	11:op1
+rAjya_1	6	-	-	-	-	-	-	10:mod
+rAjamArga_1	7	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	-	-	-	-	11:op2
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	8:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0069>
+#भारत में एक्सप्रेस वे का निर्माण नवीनतम है ।
+BArawa	1	male	-	8:k7p	-	-	-	-
+eksapresa_1	3	-	-	8:k1	-	-	-	-
+$wyax	4	-	pl	6:r6	-	distal	-	-
+nirmANa_1	6	-	-	8:k1	-	-	-	-
+navInawama_1	7	-	superl	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0070>
+#स्वर्ण चतुर्भुज महामार्ग दिल्ली , मुंबई , चेन्नई और कोलकाता को जोडता है ।
+svarNa	1	male	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	12:k1	-	-	-	-
+cawurBuja	2	-	-	-	-	-	-	16:begin
+[ne_2]	16	-	-	12:k1	-	-	-	-
+mahAmArga	3	-	-	-	-	-	-	16:inside
+xillI	4	female	-	-	-	-	-	17:op1
+muMbaI	6	-	-	-	-	-	-	17:op2
+cennaI	8	-	-	-	-	-	-	17:op3
+kolakAwA	10	-	-	-	-	-	-	17:op4
+joda_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	12:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0071>
+#रेलमार्ग के द्वारा तीव्रता से एवं कम खर्च में लोगों का आवागमन एवं भारी सामान को ढोने का कार्य होता है ।
+relamArga_1	1	-	-	20:k3	-	-	-	-
+wIvrawA_1	4	-	-	6:mod	-	-	-	-
+evaM_1	6	-	-	20:vmod	-	-	-	-
+kama_1	7	-	-	8:quant	-	-	-	-
+Karca_1	8	-	-	20:k7	-	-	-	-
+loga_1	10	-	pl	12:r6	-	-	-	-
+AvAgamana_1	12	-	-	20:k1	-	-	-	-
+evaM_1	13	-	-	14:mod	-	-	-	-
+BArI_1	14	-	-	15:mod	-	-	-	-
+sAmAna_1	15	-	-	17:k2	-	-	-	-
+Do_1	17	-	pl	19:r6	-	-	-	-
+kArya_1	19	-	-	-	-	-	-	23:kriyAmUla
+ho_1-wA_hE_1	20	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0072>
+#वाष्प के इंजन की खोज एवं औद्योगिक क्रांति ने रेल परिवहन के तीव्र विकास में सहायता प्रदान की ।
+vARpa_1	1	-	-	3:r6	-	-	-	-
+iMjana_1	3	-	-	5:r6	-	-	-	-
+Koja_1	5	-	-	-	-	-	-	22:op1
+Oxyogika_1	7	-	-	8:mod	-	-	-	-
+krAMwi	8	female	-	-	-	-	-	22:op2
+rela_1	10	-	-	-	-	-	-	20:mod
+parivahana_1	11	-	-	-	-	-	-	20:head
+[nc_1]	20	-	-	14:r6	-	-	-	-
+wIvra_1	13	-	-	14:mod	-	-	-	-
+vikAsa_1	14	-	-	-	-	-	-	22:op3
+sahAyawA_1	16	-	-	18:k2	-	-	-	-
+praxAna_1	17	-	-	-	-	-	-	21:kriyAmUla
+kara_1-yA_1	18	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	18:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0073>
+#डीजल एवं विद्युत इंजनों ने व्यापक रूप से वाष्प के इंजनों का स्थान ले लिया है ।
+dIjala_1	1	-	-	-	-	-	-	19:op1
+vixyuwa_1	3	-	-	-	-	-	-	18:mod
+iMjana_1	4	-	pl	-	-	-	-	18:head
+[nc_1]	18	-	-	-	-	-	-	19:op2
+vyApaka_1	6	-	-	7:mod	-	-	-	-
+rUpa_1	7	-	-	14:krvn	-	-	-	-
+vARpa_1	9	-	-	11:r6	-	-	-	-
+iMjana_1	11	-	pl	13:r6	-	-	-	-
+sWAna_1	13	-	-	14:k2	-	-	-	-
+le_1-yA_hE_1	14	-	-	0:main	-	[shade:le_1]	-	-
+[conj_1]	19	-	-	14:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0074>
+#सुपरफास्ट रेलगाडियों से परिवहन की गति और तीव्र हो गई है ।
+suparaPAsta_1	1	-	-	-	-	-	-	13:mod
+relagAdI_1	2	-	pl	-	-	-	-	13:head
+[nc_1]	13	-	-	9:rh	-	-	-	-
+parivahana_1	4	-	-	6:r6	-	-	-	-
+gawi_1	6	-	-	-	-	-	-	15:op1
+wIvra_1	8	-	-	-	-	-	-	14:kriyAmUla
+ho_1-yA1_ho_1	9	-	-	-	-	[shade:ja_1]	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	9:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0075>
+#मैदानी भागा में रेलमार्गों का जाल व्यापक रूप से फैला है ।
+mExAnI_1	1	-	-	2:mod	-	-	-	-
+BAga_1	2	-	-	10:k7p	-	-	-	-
+relamArgoM_1	4	-	-	6:r6	-	-	-	-
+jAla_1	6	-	-	10:k1	-	-	-	-
+vyApaka_1	7	-	-	8:mod	-	-	-	-
+rUpa_1	8	-	-	10:krvn	-	-	-	-
+PElA_1-0_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0076a>
+#उन्नत प्रौद्योगिकीय कौशल से दुर्गम पहाडी क्षेत्रों में भी रेलमार्ग बनाना संभव हो गया है ।
+unnawa_1	1	-	-	3:mod	-	-	-	-
+prOxyogikIya_1	2	-	-	1:mod	-	-	-	-
+kOSala_1	3	-	-	13:rh	-	-	-	-
+xurgama_1	5	-	-	7:mod	-	-	-	-
+pahAdA_1	6	-	-	5:mod	-	-	-	-
+kRewra_1	7	-	pl	13:k7p	-	BI	-	-
+relamArga_1	10	-	-	11:k2	-	-	-	-
+banA_1	11	-	-	13:k1	-	-	-	-
+saMBava_1	12	-	-	-	-	-	-	17:kriyAmUla
+ho_1-yA1_ho_1	13	-	-	-	-	[shade:ja_1]	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0076b>
+#लेकिन इनकी संख्या काफी कम है ।
+$wyax	1	-	pl	2:r6	-	proximal	-	-
+saMKyA_1	2	-	-	5:k1	-	-	-	-
+kAPI_1	3	-	-	4:intf	-	-	-	-
+kama_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	Geo_ncert_7stnd_7ch_0076a.5:viroXI	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0077>
+#भारतीय रेलमार्गों का जाल भली-भाँति विकसित है ।
+BArawIya_1	1	-	-	2:mod	-	-	-	-
+relamArgoM_1	2	-	-	4:r6	-	-	-	-
+jAla_1	4	-	-	7:k1	-	-	-	-
+BalI-BAzwi	5	-	-	7:krvn	-	-	-	-
+vikasiwa_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0078>
+#यह एशिया में सबसे बडा है ।
+$wyax	1	-	-	6:k1	-	proximal	-	-
+eSiyA	2	female	-	6:k7p	-	-	-	-
+badA_1	5	-	superl	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0079>
+#जायनिंग से ल्हासा के बीच चलने वाली रेलगाडी समुद्रतल से 4 , 000 मीटर की उँचाई पर चलती है , जिसका सबसे ऊँचाई समुद्र तल से 5 , 072 मीटर है ।
+jAyaniMga	1	-	-	6:k5	-	-	-	-
+lhAsA	3	-	-	6:k7p	-	-	-	-
+bIca_1	5	-	-	3:k7p	-	-	-	-
+cala_1	6	-	pl	8:mod	-	-	-	-
+relagAdI_1	8	-	-	18:k1	-	-	-	-
+samuxrawala	9	-	-	18:k5	-	-	-	-
+4	11	numex	-	18:k1	-	-	-	-
+000	13	meas	-	-	-	-	-	34:count
+mItara_1	14	-	-	-	-	-	-	34:unit
+uzcAI_1	16	-	-	18:k7	-	-	-	-
+cala_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+$yax	21	-	-	23:r6	-	-	-	-
+saba_1	22	-	-	23:mod	-	-	-	-
+UzcAI_1	23	-	-	31:k1	-	-	-	-
+samuxra_1	24	-	-	-	-	-	-	33:mod
+wala_1	25	-	-	-	-	-	-	33:head
+[nc_1]	33	-	-	31:k5	-	-	-	-
+5	27	numex	-	30:card	-	-	-	-
+072	29	meas	-	-	-	-	-	35:count
+mItara_1	30	-	-	-	-	-	-	35:unit
+hE_1	31	-	-	18:rc	-	-	-	-
+[meas_1]	34	-	-	16:r6	-	-	-	-
+[meas_2]	35	-	-	31:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0080>
+#ट्रांससाइबेरियन रेलमार्ग विश्व में सबसे लंबा रेलमार्ग है , जो पश्चिमी रूस में सेंट पीटर्सबर्ग से प्रशांत महासागरीय तट पर स्थित व्लादिवोस्टक तक जाता है ।
+trAMsasAiberiyana	1	-	-	-	-	-	-	27:begin
+[ne_1]	27	-	-	8:k1	-	-	-	-
+relamArga_1	2	-	-	-	-	-	-	27:inside
+viSva_1	3	-	-	8:k7p	-	-	-	-
+laMbA_1	6	-	superl	7:mod	-	-	-	-
+relamArga_1	7	-	-	8:k1	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+$yax	10	-	-	24:k1	-	-	-	-
+paScimI_1	11	-	-	12:mod	-	-	-	-
+rUsa	12	female	-	24:k7p	-	-	-	-
+seMta	14	male	-	-	-	-	-	28:begin
+[ne_2]	28	-	-	-	-	-	-	30:start
+pItarsabarga	15	-	-	-	-	-	-	28:inside
+praSAMwa	17	male	-	-	-	-	-	29:begin
+[ne_3]	29	-	-	21:intf	-	-	-	-
+mahAsAgarIya_1	18	-	-	19:mod	-	-	-	-
+wata_1	19	-	-	-	-	-	-	29:inside
+sWiwa_1	21	-	-	22:mod	-	-	-	-
+vlAxivostaka	22	-	-	-	-	-	-	30:end
+jA_1	24	-	-	7:rc	-	-	-	-
+[span_1]	30	-	-	24:k2p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0081a>
+#आप पहले यह पढ चुके हैं ।
+$addressee	1	-	-	4:k1	-	respect	-	-
+pahalA_1	2	-	pl	4:k7t	-	-	-	-
+$wyax	3	-	-	4:k2	-	proximal	-	-
+paDa_1-subj_hE_1	4	-	-	0:main	-	[shade:cuka_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0081b>
+#कि प्रारंभिक समय में परिवहन के लिए जलमार्ग का उपयोग किया जाता था ।
+prAraMBika_1	1	-	-	2:mod	-	-	-	-
+samaya_1	2	-	-	10:k7t	-	-	-	-
+parivahana_1	4	-	-	10:rt	-	-	-	-
+jalamArga_1	7	-	-	9:k2	-	-	-	-
+upayoga_1	9	-	-	-	-	-	-	14:kriyAmUla
+kara_1-yA_jA_wA_WA_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0082>
+#अधिक दूरी में भारी एवं बडे आकार वाले सामानों को ढोने के लिए जलमार्ग सबसे सस्ता साधन होता है ।
+xUrI_1	2	-	-	18:k7	-	-	-	-
+BArI_1	4	-	-	-	-	-	-	23:op1
+badA_1	6	-	pl	-	-	-	-	23:op2
+AkAra_1	7	-	mawupa	9:mod	-	-	-	-
+sAmAna_1	9	-	pl	11:k2	-	-	-	-
+Do_1	11	-	pl	18:rt	-	-	-	-
+jalamArga_1	14	-	-	-	-	-	-	21:mod
+saswA_1	16	-	superl	17:k1	-	-	-	-
+sAXana_1	17	-	-	-	-	-	-	22:kriyAmUla
+ho_1-wA_hE_1	18	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	7:mod	-	-	-	-
+%affirmative
+[nc_1]	21	-	-	16:intf	-	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0083>
+#ये मुख्यतः दो प्रकार के होते हैं , अंतर्देशीय जलमार्ग एवं समुद्रीमार्ग ।
+$wyax	1	-	pl	6:k1	-	proximal	-	-
+muKyawaH_1	2	-	-	4:mod	-	-	-	-
+xo	3	numex	-	4:card	-	-	-	-
+prakAra_1	4	-	-	6:rhh	-	-	-	-
+ho_1-wA_hE_1	6	-	-	-	-	-	-	15:op1
+aMwarxeSIya	9	male	-	-	-	-	-	14:begin
+[ne_1]	14	-	-	-	-	-	-	15:op2
+jalamArga_1	10	-	-	-	-	-	-	14:inside
+samuxrImArga	12	-	-	-	-	-	-	15:op3
+[conj_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0084>
+#नाव्य नदियों एवं झीलों का उपयोग अंतर्देशीय जलमार्ग के लिए होता है ।
+nAvya_1	1	-	-	2:mod	-	-	-	-
+naxI_1	2	-	pl	-	-	-	-	14:op1
+JIla_1	4	-	pl	-	-	-	-	14:op2
+upayoga_1	6	-	-	11:k1	-	-	-	-
+aMwarxeSIya_1	7	-	-	8:mod	-	-	-	-
+jalamArga_1	8	-	-	11:rt	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	6:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0085>
+#कुछ महत्त्वपूर्ण अंतर्देशीय जलमार्ग हैं : गंगा-ब्रह्मपुत्रा नदी तंत्र , उत्तरी अमेरिका में ग्रेट लेक एवं अफ्रीका में नील नदी ।
+kuCa_1	1	-	-	4:quant	-	-	-	-
+mahawwvapUrNa_1	2	-	-	4:mod	-	-	-	-
+aMwarxeSIya_1	3	-	-	-	-	-	-	22:mod
+jalamArga_1	4	-	-	-	-	-	-	22:head
+[nc_1]	22	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	-	-	-	-	27:op1
+gaMgA-brahmapuwrA	7	-	-	-	-	-	-	23:begin
+[ne_1]	23	-	-	0:ccof	-	-	-	-
+naxI	8	female	-	-	-	-	-	24:begin
+[ne_2]	24	-	-	0:ccof	-	-	-	-
+waMwra_1	9	-	-	-	-	-	-	24:inside
+uwwarI_1	11	-	-	12:mod	-	-	-	-
+amerikA	12	male	-	0:k7p	-	-	-	-
+greta	14	male	-	-	-	-	-	25:begin
+[ne_3]	25	-	-	-	-	-	-	27:op2
+leka	15	-	-	-	-	-	-	25:inside
+aPrIkA	17	-	-	20:mod	-	-	-	-
+nIla	19	female	-	-	-	-	-	26:begin
+[ne_4]	26	-	-	-	-	-	-	27:op3
+naxI_1	20	-	-	-	-	-	-	26:inside
+[conj_1]	27	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0086>
+#समुद्री एवं महासागरीय मार्गों का उपयोग सामान्यतः व्यापारिक माल एवं समान को एक देश से दूसरे देश में पहुँचाने के लिए करते हैं ।
+samuxrI_1	1	-	-	2:ccof	-	-	-	-
+mahAsAgarIya_1	3	-	-	2:ccof	-	-	-	-
+mArga_1	4	-	pl	6:r6	-	-	-	-
+upayoga_1	6	-	-	-	-	-	-	25:kriyAmUla
+sAmAnyawaH_1	7	-	-	19:krvn	-	-	-	-
+vyApArika_1	8	-	-	9:mod	-	-	-	-
+mAla_1	9	-	-	-	-	-	-	26:op1
+samAna_1	11	-	-	-	-	-	-	26:op2
+eka_1	13	numex	-	14:card	-	-	-	-
+xeSa_1	14	-	-	19:k5	-	-	-	-
+xUsarA_1	16	-	pl	17:nmod__adj	-	-	-	-
+xeSa_1	17	-	-	19:k7p	-	-	-	-
+pahuzcA_1	19	-	pl	22:rt	-	-	-	-
+kara_1-wA_hE_1	22	-	-	-	-	-	-	25:verbalizer
+[cp_1]	25	-	-	0:main	-	-	-	-
+[conj_1]	26	-	-	19:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0087>
+#ये मार्ग पत्तनों से जुडे होते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+mArga_1	2	-	-	5:k1	-	-	-	-
+pawwana_1	3	-	pl	5:ras-k1	-	-	-	-
+juda_1-subj_ho_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0088>
+#विश्व के कुछ महत्त्वपूर्ण पत्तन है , एशिया में सिंगापुर एवं मुंबई , उत्तर अमेरिका में न्यूयॉर्क एवं लॉस एंजिल्स , दक्षिण अमेरिका में रियो डि जेनेरियो , अफ्रीका में डरबन एवं केपटाउन , ऑस्ट्रेलिया में सिडनी , यूरोप में लंदन ।
+viSva_1	1	-	-	5:r6	-	-	-	-
+kuCa_1	3	-	-	5:quant	-	-	-	-
+mahawwvapUrNa_1	4	-	-	5:mod	-	-	-	-
+pawwana_1	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+eSiyA	8	female	-	41:k7p	-	-	-	-
+siMgApura	10	-	-	-	-	-	-	48:op1
+muMbaI	12	-	-	-	-	-	-	48:op2
+uwwara	14	male	-	-	-	-	-	43:begin
+[ne_1]	43	-	-	41:k7p	-	-	-	-
+amerikA	15	male	-	-	-	-	-	43:inside
+nyUyOYrka	17	-	-	18:ccof	-	-	-	-
+lOYsa	19	-	-	-	-	-	-	44:begin
+[ne_2]	44	-	-	18:ccof	-	-	-	-
+eMjilsa	20	-	-	-	-	-	-	44:inside
+xakRiNa	22	male	-	-	-	-	-	45:begin
+[ne_3]	45	-	-	41:k7p	-	-	-	-
+amerikA	23	male	-	-	-	-	-	45:inside
+riyo	25	-	-	-	-	-	-	46:begin
+[ne_4]	46	-	-	41:re	-	-	-	-
+di	26	-	-	-	-	-	-	47:begin
+[ne_5]	47	-	-	41:re	-	-	-	-
+jeneriyo	27	-	-	-	-	-	-	47:inside
+aPrIkA	29	-	-	41:k7p	-	-	-	-
+darabana	31	-	-	32:ccof	-	-	-	-
+kepatAuna	33	-	-	32:ccof	-	-	-	-
+OYstreliyA	35	-	-	41:k7p	-	-	-	-
+sidanI	37	-	-	-	-	-	-	49:op1
+yUropa	39	male	-	41:k7p	-	-	-	-
+laMxana	41	-	-	6:k1s	-	-	-	-
+[conj_1]	48	-	-	-	-	-	-	50:op1
+[conj_2]	49	-	-	41:mod	-	-	-	-
+[conj_3]	50	-	-	41:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0089>
+#क्या आप विश्व के कुछ और पत्तनों के भी नाम बता सकते हैं ?
+$kim	1	-	-	11:krvn	-	-	-	-
+$addressee	2	-	-	11:k1	-	respect	-	-
+viSva_1	3	-	-	7:r6	-	-	-	-
+kuCa_1	5	-	-	7:quant	-	-	-	-
+Ora_1	6	-	-	7:quant	-	-	-	-
+pawwana_1	7	-	pl	10:r6	-	BI	-	-
+nAma_1	10	-	-	11:k2	-	-	-	-
+bawA_1-0_saka_hE_1	11	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0090>
+#बीसवीं सदी के आरंभ में विकसित यह परिवहन का सबसे तीव्र मार्ग है ।
+bIsavIM	1	-	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	4:r6	-	-	-	-
+saxI_1	2	-	-	-	-	-	-	15:inside
+AraMBa_1	4	-	-	13:k7	-	-	-	-
+vikasiwa_1	6	-	-	13:k1s	-	-	-	-
+$wyax	7	-	-	13:k1	-	proximal	-	-
+parivahana_1	8	-	-	12:r6	-	-	-	-
+wIvra_1	11	-	superl	12:mod	-	-	-	-
+mArga_1	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0091>
+#ईंधन की लागत अधिक होने के कारण यह सर्वाधिक मँहगा साधन है ।
+IMXana_1	1	-	-	3:r6	-	-	-	-
+lAgawa_1	3	-	-	5:k1	-	-	-	-
+ho_1	5	-	pl	12:rh	-	-	-	-
+$wyax	8	-	-	12:k1	-	proximal	-	-
+sarvAXika_1	9	-	-	10:intf	-	-	-	-
+mazhagA_1	10	-	-	11:mod	-	-	-	-
+sAXana_1	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0092>
+#वायु यातायात खराब मौसम , जैसे-कुहरे एवं तूफान से कुप्रभावित होता है ।
+vAyu_1	1	-	-	-	-	-	-	14:mod
+yAwAyAwa_1	2	-	-	-	-	-	-	14:head
+[nc_1]	14	-	-	11:k1	-	-	-	-
+KarAba_1	3	-	-	4:mod	-	-	-	-
+mOsama_1	4	-	-	-	-	-	-	16:op1
+jEse-kuhare	6	-	-	-	-	-	-	16:op2
+wUPAna_1	8	-	-	-	-	-	-	16:op3
+kupraBAviwa_1	10	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	11:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0093>
+#यह यातायात का अकेला साधन है , जो सर्वाधिक दुर्गम एवं दुरूह स्थानों तक पहुँच सकता है , विशेष रूप से जहाँ सडक एवं रेलमार्ग नहीं हैं ।
+$wyax	1	-	-	6:k1	-	proximal	-	-
+yAwAyAwa_1	2	-	-	5:r6	-	-	-	-
+akelA_1	4	-	-	5:mod	-	-	-	-
+sAXana_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	15:k1	-	-	-	-
+sarvAXika_1	9	-	-	10:intf	-	-	-	-
+xurgama_1	10	-	-	11:ccof	-	-	-	-
+xurUha_1	12	-	-	11:ccof	-	-	-	-
+sWAna_1	13	-	pl	15:k2p	-	-	-	-
+pahuzca_1	15	-	pl	6:rc	-	-	-	-
+viSeRa_1	19	-	-	20:mod	-	-	-	-
+rUpa_1	20	-	-	27:krvn	-	-	-	-
+jahAz_1	22	-	-	27:krvn	-	-	-	-
+sadaka_1	23	-	-	-	-	-	-	29:op1
+relamArga_1	25	-	-	-	-	-	-	29:op2
+nahIM_1	26	-	-	27:neg	-	-	-	-
+hE_1	27	-	pl	6:rc	-	-	-	-
+[conj_1]	29	-	-	27:k1	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0094>
+#हेलीकॉप्टर अगम्य स्थानों एवं संकटकालीन स्थितियों में लोगों को बचाने एवं भोजन , जल , कपडे एवं दवाएँ बाँटने के लिए एक बहुत ही उपयोगी साधन है ।
+helIkOYptara_1	1	-	-	2:intf	-	-	-	-
+agamya_1	2	-	-	3:mod	-	-	-	-
+sWAna_1	3	-	pl	-	-	-	-	29:op1
+saMkatakAlIna_1	5	-	-	6:mod	-	-	-	-
+sWiwi_1	6	-	pl	-	-	-	-	29:op2
+loga_1	8	-	pl	10:k2	-	-	-	-
+bacA_1	10	-	pl	11:ccof	-	-	-	-
+Bojana_1	12	-	-	17:ccof	-	-	-	-
+jala_1	14	-	-	17:ccof	-	-	-	-
+kapadA_1	16	-	pl	17:ccof	-	-	-	-
+xavAez_1	18	-	-	17:ccof	-	-	-	-
+bAzta_1	19	-	pl	11:ccof	-	-	-	-
+eka_1	22	numex	-	26:card	-	-	-	-
+bahuwa_1	23	-	-	26:intf	-	hI	-	-
+upayogI_1	25	-	-	26:mod	-	-	-	-
+sAXana_1	26	-	-	27:k1	-	-	-	-
+hE_1-pres	27	-	-	0:main	-	-	-	-
+[conj_1]	29	-	-	10:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0095>
+#कुछ महत्त्वपूर्ण हवाई पत्तन हैं : दिल्ली , मुंबई , न्यूयॉर्क , लंदन , पेरिस , फ्रैंकफर्ट एवं काहिरा ।
+kuCa_1	1	-	-	4:quant	-	-	-	-
+mahawwvapUrNa_1	2	-	-	4:mod	-	-	-	-
+havAI_1	3	-	-	-	-	-	-	21:mod
+pawwana_1	4	-	-	-	-	-	-	21:head
+[nc_1]	21	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+xillI	7	female	-	-	-	-	-	22:op1
+muMbaI	9	-	-	-	-	-	-	22:op2
+nyUyOYrka	11	-	-	-	-	-	-	22:op3
+laMxana	13	-	-	-	-	-	-	22:op4
+perisa	15	-	-	-	-	-	-	22:op5
+PrEMkaParta	17	-	-	5:k1s	-	-	-	22:op6
+kAhirA	19	-	-	5:k1s	-	-	-	22:op7
+[conj_1]	22	-	-	5:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0096>
+#संचार दूसरों के पास तक सूचना पहुँचाने की प्रक्रिया है ।
+saMcAra_1	1	-	-	10:k1	-	-	-	-
+xUsarA	2	-	pl	7:k7	-	-	-	-
+pAsa_1	4	-	-	2:k7p	-	-	-	-
+sUcanA_1	6	-	-	7:k2	-	-	-	-
+pahuzcA_1	7	-	pl	9:r6	-	-	-	-
+prakriyA_1	9	-	-	10:k1	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0097>
+#तकनीकी विकास के साथ मानव ने संचार के नए एवं तीव्र साधनों को विकसित कर लिया है ।
+wakanIkI_1	1	-	-	2:mod	-	-	-	-
+vikAsa_1	2	-	-	15:ras-k2	-	-	-	-
+sAWa_1	4	-	-	2:k7p	-	-	-	-
+mAnava_1	5	-	-	15:k1	-	-	-	-
+saMcAra_1	7	-	-	12:r6	-	-	-	-
+nae_1	9	-	-	-	-	-	-	20:op1
+wIvra_1	11	-	-	-	-	-	-	20:op2
+sAXana_1	12	-	pl	15:k2	-	-	-	-
+vikasiwa_1	14	-	-	-	-	-	-	19:kriyAmUla
+kara_1-yA_hE_1	15	-	-	-	-	[shade:le_1]	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	12:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0098>
+#संचार तंत्र के विकास का वर्णन करता है ।
+saMcAra_1	1	-	-	-	-	-	-	10:mod
+waMwra_1	2	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	4:r6	-	-	-	-
+vikAsa_1	4	-	-	6:k2	-	-	-	-
+varNana_1	6	-	-	-	-	-	-	11:kriyAmUla
+kara_1-wA_hE_1	7	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0099>
+#संचार के क्षेत्र में विकास से विश्व में सूचना क्रांति आई है ।
+saMcAra_1	1	-	-	3:r6	-	-	-	-
+kRewra_1	3	-	-	-	-	-	-	15:whole
+vikAsa_1	5	-	-	11:rh	-	-	-	-
+viSva_1	7	-	-	-	-	-	-	15:part
+sUcanA	9	female	-	-	-	-	-	14:begin
+[ne_1]	14	-	-	11:k1	-	-	-	-
+krAMwi_1	10	-	-	-	-	-	-	14:inside
+A_1-yA_hE_1	11	-	-	0:main	-	-	-	-
+[spatial_1]	15	-	-	11:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0100>
+#सूचना प्रदान करने के लिए शिक्षा तथा मनोरजंन के लिए संचार के विभिन्न साधनों का उपयोग होता है ।
+sUcanA_1	1	-	-	3:k2	-	-	-	-
+praxAna_1	2	-	-	-	-	-	-	20:kriyAmUla
+kara_1	3	-	pl	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	17:rt	-	-	-	-
+SikRA_1	6	-	-	-	-	-	-	22:op1
+manorajaMna_1	8	-	-	-	-	-	-	22:op2
+saMcAra_1	11	-	-	14:r6	-	-	-	-
+viBinna_1	13	-	-	14:mod	-	-	-	-
+sAXana_1	14	-	pl	16:k2	-	-	-	-
+upayoga_1	16	-	-	-	-	-	-	21:kriyAmUla
+ho_1-wA_hE_1	17	-	-	-	-	-	-	21:verbalizer
+[cp_2]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	17:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0101>
+#समाचारपत्रों , रेडियो एवं टेलीविजन के द्वारा हम बडी संख्या में लोगों के साथ संचार कर सकते हैं ।
+samAcArapawra_1	1	-	pl	-	-	-	-	21:op1
+rediyo_1	3	-	-	-	-	-	-	21:op2
+telIvijana_1	5	-	-	-	-	-	-	21:op3
+$speaker	8	-	pl	16:k1	-	-	-	-
+badA_1	9	-	-	10:mod	-	-	-	-
+saMKyA_1	10	-	-	16:k7	-	-	-	-
+loga_1	12	-	pl	16:ras-k2	-	-	-	-
+sAWa_1	14	-	-	12:k7p	-	-	-	-
+saMcAra_1	15	-	-	-	-	-	-	20:kriyAmUla
+kara_1-0_saka_hE_1	16	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	16:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0102>
+#इसलिए इनको जनसंम्पर्क माध्यम कहते हैं ।
+$wyax	1	-	pl	4:k2	-	proximal	-	-
+janasaMmparka	2	-	-	-	-	-	-	7:begin
+[ne_1]	7	-	-	4:k2s	-	-	-	-
+mAXyama_1	3	-	-	-	-	-	-	7:inside
+kaha_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+    
+    
+<sent_id=Geo_ncert_7stnd_7ch_0103>
+#सेटेलाइट से संचार में तीव्रता आई है ।
+setelAita_1	1	-	-	6:k5	-	-	-	-
+saMcAra_1	3	-	-	6:k7	-	-	-	-
+wIvrawA_1	5	-	-	6:k1	-	-	-	-
+A_1-yA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0104>
+#तेल की खोज , वनों का सर्वेक्षण , भूमिगत जल , खनिज संपदा , मौसम पूर्वानुमान एवं आपदा पूर्व चेतावनी आदि में सेटेलाइट सहायक होते हैं ।
+wela_1	1	-	-	3:r6	-	-	-	-
+Koja_1	3	-	-	-	-	-	-	32:op1
+vana_1	5	-	pl	7:r6	-	-	-	-
+sarvekRaNa_1	7	-	-	-	-	-	-	32:op2
+BUmigawa_1	9	-	-	10:mod	-	-	-	-
+jala_1	10	-	-	-	-	-	-	32:op3
+Kanija_1	12	-	-	-	-	-	-	28:mod
+saMpaxA_1	13	-	-	-	-	-	-	28:head
+[nc_1]	28	-	-	-	-	-	-	32:op4
+mOsama_1	15	-	-	-	-	-	-	29:mod
+pUrvAnumAna_1	16	-	-	-	-	-	-	29:head
+[nc_2]	29	-	-	-	-	-	-	32:op5
+ApaxA_1	18	-	-	25:k1	-	-	-	-
+pUrva_1	19	-	-	20:mod	-	-	-	-
+cewAvanI_1	20	-	-	25:k7	-	Axi	-	-
+setelAita_1	23	-	-	-	-	-	-	30:mod
+sahAyaka_1	24	-	-	-	-	-	-	30:head
+[nc_3]	30	-	-	-	-	-	-	31:kriyAmUla
+ho_1-wA_hE_1	25	-	-	-	-	-	-	31:verbalizer
+[cp_1]	31	-	-	0:main	-	-	-	32:op6
+[conj_1]	32	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0105>
+#अब हम इंटरनेट के माध्यम से इलेक्ट्रॉनिक मेल या ई-मेल भेज सकते हैं ।
+aba	1	-	-	11:k7t	-	-	-	-
+$speaker	2	-	pl	11:k1	-	-	-	-
+iMtaraneta_1	3	-	-	11:k3	-	-	-	-
+ilektrOYnika_1	7	-	-	8:mod	-	-	-	-
+mela_1	8	-	-	-	-	-	-	15:op1
+I-mela	10	-	-	-	-	-	-	15:op2
+Beja_1-0_saka_hE_1	11	-	-	0:main	-	-	-	-
+[disjunct_1]	15	-	-	11:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0106>
+#आज सेल्युलर फोन के द्वारा बेतार टेलिफोनिक संचार अत्यधिक लोकप्रिय हो चुका है ।
+Aja_1	1	-	-	11:k7t	-	-	-	-
+selyulara_1	2	-	-	-	-	-	-	15:mod
+Pona_1	3	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	11:k3	-	-	-	-
+bewAra_1	6	-	-	11:k1	-	-	-	-
+teliPonika_1	7	-	-	8:mod	-	-	-	-
+saMcAra_1	8	-	-	11:k1	-	-	-	-
+awyaXika_1	9	-	-	10:intf	-	-	-	-
+lokapriya_1	10	-	-	11:k1s	-	-	-	-
+ho_1-0_cukA_ho_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0107a>
+#इंटरनेट के माध्यम से विश्वभर में केवल सूचना एवं परस्पर समीपता ही नहीं मिलती ।
+iMtaraneta_1	1	-	-	14:k3	-	-	-	-
+viSvaBara_1	5	-	-	14:k7p	-	-	-	-
+sUcanA_1	8	-	-	-	-	kevala	-	16:op1
+paraspara_1	10	-	-	11:mod	-	-	-	-
+samIpawA_1	11	-	-	-	-	hI	-	16:op2
+nahIM_1	13	-	-	14:neg	-	-	-	-
+mila_1-wA_1	14	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	14:k1	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0107b>
+#अपितु इनसे हमारा जीवन अधिक सुखमय भी बन गया है ।
+$wyax	2	-	pl	8:rh	-	proximal	-	-
+$speaker	3	-	pl	4:r6	-	-	-	-
+jIvana_1	4	-	-	8:k1	-	-	-	-
+suKamaya_1	6	-	compermore	8:k1s	-	BI	-	-
+bana_1-yA_hE_1	8	-	-	-	-	[shade:ja_1]	-	12:op1
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0108>
+#अब हम घर बैठे ही रेल , हवाईजहाज एवं सिनेमा या होटल तक के लिए टिकट आरक्षित करवा सकते है ।
+aba	1	-	-	18:k7t	-	-	-	-
+$speaker	2	-	pl	18:k1	-	-	-	-
+Gara_1	3	-	-	4:k7p	-	-	-	-
+bETa_1	4	-	-	18:vmod	-	hI	-	-
+rela_1	6	-	-	9:ccof	-	-	-	-
+havAIjahAja_1	8	-	-	9:ccof	-	-	-	-
+sinemA_1	10	-	-	9:ccof	-	-	-	-
+hotala_1	12	-	-	-	-	-	-	23:op1
+tikata_1	16	-	-	18:k2	-	-	-	-
+ArakRiwa_1	17	-	-	-	-	-	-	22:kriyAmUla
+karavA_1-0_saka_hE_1	18	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	-	-	-	-	24:op1
+[disjunct_1]	24	-	-	18:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0109>
+#संपूर्ण विश्व में इस प्रकार लोगों के बीच , लोगों एवं सेवाओं तथा संस्थाओं के बीच तीव्र गति से आपसी संपर्क संभव होने के कारण आज हम एक बृहद् विश्व समाज के रूप में विकसित हो रहे हैं ।
+saMpUrNa_1	1	-	-	2:mod	-	-	-	-
+viSva_1	2	-	-	36:k7p	-	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+prakAra_1	5	-	-	36:k1	-	-	-	-
+loga_1	6	-	pl	-	-	-	-	43:op1
+bIca_1	8	-	-	6:k7p	-	-	-	-
+loga_1	10	-	pl	11:ccof	-	-	-	-
+sevA_1	12	-	pl	11:ccof	-	-	-	-
+saMsWA_1	14	-	pl	-	-	-	-	43:op2
+bIca_1	16	-	-	14:k7p	-	-	-	-
+wIvra_1	17	-	-	18:mod	-	-	-	-
+gawi_1	18	-	-	23:krvn	-	-	-	-
+ApasI_1	20	-	-	21:mod	-	-	-	-
+saMparka_1	21	-	-	23:k1	-	-	-	-
+saMBava_1	22	-	-	-	-	-	-	41:kriyAmUla
+ho_1	23	-	pl	-	-	-	-	41:verbalizer
+[cp_1]	41	-	-	36:rh	-	-	-	-
+Aja_1	26	-	-	36:k7t	-	-	-	-
+$speaker	27	-	pl	36:k1	-	-	-	-
+eka_1	28	numex	-	31:card	-	-	-	-
+bqhax_1	29	-	-	31:mod	-	-	-	-
+viSva_1	30	-	-	-	-	-	-	40:mod
+samAja_1	31	-	-	-	-	-	-	40:head
+[nc_1]	40	-	-	36:k7	-	-	-	-
+vikasiwa_1	35	-	-	-	-	-	-	42:kriyAmUla
+ho_1-nA_raha_hE_1	36	-	-	-	-	-	-	42:verbalizer
+[cp_2]	42	-	-	0:main	-	-	-	-
+[conj_1]	43	-	-	-	-	-	-	44:op1
+[conj_2]	44	-	-	23:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0110>
+#आप निम्न प्रश्नों के उत्तर दीजिए ।
+$addressee	1	-	-	6:k1	-	respect	-	-
+nimna_1	2	-	-	3:mod	-	-	-	-
+praSna_1	3	-	pl	5:r6	-	-	-	-
+uwwara_1	5	-	-	6:k2	-	-	-	-
+xe_1-e_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0111>
+#परिवहन के चार प्रकार क्या है ?
+parivahana_1	1	-	-	4:r6	-	-	-	-
+cAra	3	numex	-	4:card	-	-	-	-
+prakAra_1	4	-	-	6:k1	-	-	-	-
+$kim	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0112>
+#बस्ती से आप क्या समझते हैं ?
+baswA_1	1	-	-	5:k5	-	-	-	-
+$addressee	3	-	-	5:k1	-	respect	-	-
+$kim	4	-	-	5:krvn	-	-	-	-
+samaJa_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0113>
+#ग्रामीण लोगों के क्रियाकलाप क्या है ?
+grAmINa_1	1	-	-	2:mod	-	-	-	-
+loga_1	2	-	pl	4:r6	-	-	-	-
+kriyAkalApa_1	4	-	-	6:k1	-	-	-	-
+$kim	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0114>
+#आप रेलमार्ग के किन्हीं दो गुणों के बारे में बताएं ।
+$addressee	1	-	-	10:k1	-	respect	-	-
+relamArga_1	2	-	-	6:r6	-	-	-	-
+koI_1	4	-	pl	6:mod	-	-	-	-
+xo	5	numex	-	6:card	-	-	-	-
+guNa_1	6	-	pl	10:k7	-	-	-	-
+bawAeM_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0115>
+#संचार से आप क्या समझते हैं ?
+saMcAra_1	1	-	-	5:k3	-	-	-	-
+$addressee	3	-	-	5:k1	-	respect	-	-
+$kim	4	-	-	5:krvn	-	-	-	-
+samaJa_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0116>
+#जनसंपर्क माध्यम क्या है ?
+janasaMparka_1	1	-	-	-	-	-	-	6:mod
+mAXyama_1	2	-	-	-	-	-	-	6:head
+[nc_1]	6	-	-	4:k1	-	-	-	-
+$kim	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0117>
+#आप सही उत्तर चिन्हित कीजिए ।
+$addressee	1	-	-	5:k1	-	respect	-	-
+saha_1	2	-	-	3:mod	-	-	-	-
+uwwara_1	3	-	-	5:k2	-	-	-	-
+cinhiwa_1	4	-	-	-	-	-	-	7:kriyAmUla
+kIjie_1-wA_hE_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0118>
+#इनमें से कौन संचार का साधन नहीं है ?
+$wyax	1	-	pl	8:k5	-	proximal	-	-
+$kim	3	-	-	8:k1	-	-	-	-
+saMcAra_1	4	-	-	6:r6	-	-	-	-
+sAXana_1	6	-	-	8:k1	-	-	-	-
+nahIM_1	7	-	-	8:neg	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0119>
+#इनमें से कौन-सा सडक का भूमिगत निर्माण है ?
+$wyax	1	-	pl	8:k5	-	proximal	-	-
+kOna-sA	3	-	-	4:mod__wq	-	-	-	-
+sadaka_1	4	-	-	7:r6	-	-	-	-
+BUmigawa_1	6	-	-	7:mod	-	-	-	-
+nirmANa_1	7	-	-	8:k1	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0120>
+#किसी द्वीप पर पहुंचने के लिए , निम्न में से कौन-सा यातायात का साधन उपयुक्त है ?
+kisI	1	-	-	2:mod	-	-	-	-
+xvIpa_1	2	-	-	4:k7p	-	-	-	-
+pahuMcane_1	4	-	-	16:rt	-	-	-	-
+nimna_1	8	-	-	16:k7	-	-	-	-
+kOna-sA	11	-	-	16:k1	-	-	-	-
+yAwAyAwa_1	12	-	-	14:r6	-	-	-	-
+sAXana_1	14	-	-	16:k1	-	-	-	-
+upayukwa_1	15	-	-	16:k1s	-	-	-	-
+hE_1-pres	16	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0121>
+#यातायात का कौन-सा साधन पर्यावरण को दूषित नहीं करता ?
+yAwAyAwa_1	1	-	-	4:r6	-	-	-	-
+kOna-sA	3	-	-	4:nmod__adj	-	-	-	-
+sAXana_1	4	-	-	9:k1	-	-	-	-
+paryAvaraNa_1	5	-	-	9:k2	-	-	-	-
+xURiwa_1	7	-	-	-	-	-	-	11:kriyAmUla
+nahIM_1	8	-	-	9:neg	-	-	-	-
+kara_1-wA_1	9	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0122>
+#निम्नलिखित परिस्थितियों में आप संचार के किस साधन को प्राथमिकता देंगे ?
+nimnaliKiwa_1	1	-	-	2:mod	-	-	-	-
+parisWiwi_1	2	-	pl	11:k7	-	-	-	-
+$addressee	4	-	-	11:k1	-	respect	-	-
+saMcAra_1	5	-	-	8:r6	-	-	-	-
+$kim	7	-	-	8:mod__wq	-	-	-	-
+sAXana_1	8	-	-	11:k4	-	-	-	-
+prAWamikawA_1	10	-	-	-	-	-	-	13:kriyAmUla
+xe_1-gA_1	11	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0123>
+#आपके दादा जी अचानक बीमार पड गए ।
+$addressee	1	-	-	2:r6	-	respect	-	-
+xAxA_1	2	-	-	3:mod	-	salutation	-	-
+acAnaka_1	4	-	-	6:krvn	-	-	-	-
+bImAra_1	5	-	-	-	-	-	-	9:kriyAmUla
+pada_1-yA_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0124>
+#आप डॉक्टर को कैसे सूचित करेंगे ?
+$addressee	1	-	-	6:k1	-	respect	-	-
+dOYktara_1	2	-	-	6:k4	-	-	-	-
+$kim	4	-	pl	6:krvn	-	-	-	-
+sUciwa_1	5	-	-	-	-	-	-	8:kriyAmUla
+kara_1-gA_1	6	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0125>
+#आपकी मां पुराने घर को बेचना चाहती है ।
+$addressee	1	-	-	2:r6	-	respect	-	-
+mAM_1	2	-	-	7:k1	-	-	-	-
+purAnA_1	3	-	pl	4:mod	-	-	-	-
+Gara_1	4	-	-	6:k2	-	-	-	-
+beca_1	6	-	-	7:k2	-	-	-	-
+cAha_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0126>
+#आप इस समाचार को दूसरों तक कैसे पहुंचाएंगे ?
+$addressee	1	-	-	8:k1	-	respect	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+samAcAra_1	3	-	-	8:k2	-	-	-	-
+xUsarA	5	-	pl	8:k7	-	-	-	-
+$kim	7	-	pl	8:krvn	-	-	-	-
+pahuMcAeMge_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0127a>
+#आप अपने चचेरे भाई के विवाह में सम्मिलित होने जा रहे हैं ।
+$addressee	1	-	-	9:k1	-	respect	-	-
+apanA	2	-	pl	4:r6	-	-	-	-
+cacerA_1	3	-	pl	4:mod	-	-	-	-
+BAI_1	4	-	-	6:r6	-	-	-	-
+vivAha_1	6	-	-	9:k7	-	-	-	-
+sammiliwa_1	8	-	-	-	-	-	-	14:kriyAmUla
+ho_1-0_raha_1	9	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0127b>
+#इसके कारण आप अगले 2 दिन तक स्कूल में अनुपस्थित रहेंगे ।
+$wyax	1	-	-	11:rh	-	proximal	-	-
+$addressee	3	-	-	11:k1	-	respect	-	-
+agalA_1	4	-	pl	6:mod	-	-	-	-
+2	5	meas	-	-	-	-	-	14:count
+xina_1	6	-	-	-	-	-	-	14:unit
+skUla_1	8	-	-	11:k7p	-	-	-	-
+anupasWiwa_1	10	-	-	-	-	-	-	13:kriyAmUla
+raha_1-gA_1	11	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[meas_1]	14	-	-	11:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0128>
+#आप अपने शिक्षक को कैसे सूचित करेंगे ?
+$addressee	1	-	-	7:k1	-	respect	-	-
+apanA	2	-	pl	3:r6	-	-	-	-
+SikRaka_1	3	-	-	7:k2	-	-	-	-
+$kim	5	-	pl	7:krvn	-	-	-	-
+sUciwa_1	6	-	-	-	-	-	-	9:kriyAmUla
+kara_1-gA_1	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0129>
+#आपका मित्र अपने परिवार के साथ न्यूयॉर्क घूमने जा रहा है ।
+$addressee	1	-	-	2:r6	-	respect	-	-
+miwra_1	2	-	-	8:k1	-	-	-	-
+apanA	3	-	pl	4:r6	-	-	-	-
+parivAra_1	4	-	-	8:ras-k1	-	-	-	-
+sAWa_1	6	-	-	4:k7p	-	-	-	-
+nyUyOYrka	7	-	-	8:k2p	-	-	-	-
+GUma_1-0_raha_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_7ch_0130>
+#आप उसके साथ प्रतिदिन कैसे संपर्क में रहेंगे ?
+$addressee	1	-	-	8:k1	-	respect	-	-
+$wyax	2	-	-	8:ras-k1	-	distal	-	-
+sAWa_1	3	-	-	2:k7p	-	-	-	-
+prawixina_1	4	-	-	8:k7t	-	-	-	-
+$kim	5	-	pl	8:krvn	-	-	-	-
+saMparka_1	6	-	-	8:k7	-	-	-	-
+raha_1-gA_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+

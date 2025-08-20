@@ -131,6 +131,18 @@ def download_all_segments_for_chapter(chapter_id):
     )
 
 
+@segment_detail_blueprint.route('/chapters/<int:chapter_id>/segments/download_usr', methods=['GET'])
+def download_usr_format(chapter_id):
+    content = SegmentDetailService.get_all_segments_for_chapter_as_text(chapter_id)
+    if not content:
+        return Response("No content found", status=404)
+    
+    return Response(
+        content,
+        mimetype="text/plain",
+        headers={"Content-Disposition": f"attachment;filename=chapter_{chapter_id}_segments.usr"}
+    )
+
 @segment_detail_blueprint.route('/segment_details/<int:segment_id>/previous', methods=['GET'])
 @jwt_required()
 @measure_response_time

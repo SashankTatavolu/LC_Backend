@@ -1,0 +1,48 @@
+sent_151	आज सुबह मंदिर नदी के किनारे बनकर पूजा के लिए खुला।	Aja subaha maMdir nadI ke kinAre banakara pUjA ke liye khulA	The temple by the river opened for worship this morning.
+sent_152	वह स्कूल सुबह पाँच किलोमीटर चलकर गया।	vah skUla subaha pAZca kilomItara calakara gayA	He walked five kilometers to school in the morning.
+sent_153	मैं वाराणसी घूमने दो हफ्ते के लिए गया था।	maEM vAraNasI GUmaNe do haPhte ke liye gayA ThA	I went to Varanasi for two weeks to travel.
+sent_154	विद्यालय में हर घंटे कक्षा के पास घंटी बजती है।	vidyAlaya meM hara ghaMte kakSA ke pAsa ghaMTI bajatI hE	A bell rings near the classroom every hour at school.
+sent_155	वह मीटिंग ख़त्म होने के बाद आया।	vah mItiMga KawaM hone ke bAda AyA	He came after the meeting ended.
+sent_156	पक्षी आसमान के पार पश्चिम की तरफ उड़ गया।	pakSI AsamAna ke pAra paScima kI waraP uda gayA	The bird flew across the sky toward the west.
+sent_157	वह कक्षा जाने से पहले फ़ॉर्म जमा करने गई थी।	vah kakSA jAne se pahale POrma jama karne gayI ThI	She had gone to submit the form before going to class.
+sent_158	सुबह होने पर वे लोग पेड़ के नीचे से उठकर मंदिर गए	subaha hone para ve log peDa ke nIce se uThakara maMdir gaye	When morning came, they got up from under the tree and went to the temple.
+sent_159	वह गाड़ी सुबह जल्दी रवाना हुई।	vah gAqI subaha jaldI ravAnA huI	That vehicle departed early in the morning.
+sent_160	किसान खेत में दिन भर काम करता है।	kisAna Keta meM dina bhara kAma karatA hE	The farmer works all day in the field.
+sent_161	वह बाज़ार के पास रहती है।	vah bAjzAra ke pAsa rahatI hE	She lives near the market.
+sent_162	बच्चे स्कूल से लौटकर पार्क जाते हैं।	bacce skUla se lawtakara pArka jAte hEM	Children go to the park after returning from school.
+sent_163	सूरज पूरब से उगता है।	sUraja pUraba se ugatA hE	The sun rises in the east.
+sent_164	बारिश शाम को शुरू हुई।	bAriSa SAma ko SurU huI	It started raining in the evening.
+sent_165	मंदिर शहर के बीचोंबीच है।	maMdir Sahara ke bIcombIca hE	The temple is in the middle of the city.
+sent_166	वह दोपहर तीन बजे पहुंचा।	vah dopahara tIna baje pahuMcA	He arrived at three in the afternoon.
+sent_167	ट्रेन एक घंटे में आएगी।	treNa eka ghaMte meM AyegI	The train will arrive in an hour.
+sent_168	वह स्टेशन से सीधे घर आया।	vah stesana se sIDe Ghara AyA	He came straight home from the station.
+sent_169	उन्होंने पूरे हफ्ते यात्रा की।	unhaonne pUre haPhte yAtrA kI	They traveled the whole week.
+sent_170	बच्चा बिस्तर पर दोपहर तक सोया रहा।	baccA biswara para dopahara taka soyA rahA	The child remained asleep on the bed until afternoon.
+sent_171	सूरज पश्चिम में ढल गया।	sUraja pascima meM Dala gayA	The sun set in the west.
+sent_172	सैनिक सीमा की ओर बढ़े।	sainika sImA kI ora baDe	The soldiers advanced toward the border.
+sent_173	हम जनवरी में यात्रा करेंगे।	ham janavarI meM yAtrA kareMge	We will travel in January.
+sent_174	पेड़ के नीचे आराम मत करो।	peDa ke nIce ArAma mata karo	Don't rest under the tree.
+sent_175	वह बरसात के मौसम में आया।	vah barasAta ke mausama meM AyA	He came during the rainy season.
+sent_176	चिड़िया आकाश में उड़ रही है।	ciDiYA AkASa meM uD rahI hE	The bird is flying in the sky.
+sent_177	हम हर रविवार मंदिर जाते हैं।	ham hara ravivAra maMdir jAte hEM	We go to the temple every Sunday.
+sent_178	उन्होंने पहले भोजन किया, फिर निकले।	unhone pahale Bhojana kiyA, phira nikale	They ate first, then left.
+sent_179	वह अक्सर शाम को टहलने जाता है।	vah aksara SAma ko tahaLane jAwA hE	He often goes for a walk in the evening.
+sent_180	बच्चा आधी रात को रोया।	baccA ADI rAta ko royA	The child cried at midnight.
+sent_181	हमने घंटों तक इंतज़ार किया।	hamne ghaMTom taka iMtaZAra kiyA	We waited for hours.
+sent_182	वह गाँव से शहर आया।	vah gAoM se Sahara AyA	He came from the village to the city.
+sent_183	किताब अलमारी में रखी है।	kitAba almArI meM rakhI hE	The book is kept in the cupboard.
+sent_184	वह रोज़ सुबह दौड़ता है।	vah roza subaha dauraTA hE	He runs every morning.
+sent_185	वे दो साल पहले मिले थे।	ve do sAla pahale mile The	They met two years ago.
+sent_186	उन्होंने गांव में तीन दिन बिताए।	unhaonne gAvaM meM tIna dina bitAe	They spent three days in the village.
+sent_187	वह जल्दी स्कूल चला गया।	vah jaldI skUla calA gayA	He left for school early.
+sent_188	बच्चे पार्क में खेल रहे हैं।	bacce pArka meM Kela rahe hEM	The children are playing in the park.
+sent_189	वह कल रात नहीं आया।	vah kala rAta nahIM AyA	He didn’t come last night.
+sent_190	हम नदी पार करके आए।	ham nadI pAra karke Aye	We came crossing the river.
+sent_191	वह मेरे बाद आया।	vah mere bAda AyA	He came after me.
+sent_192	सब लोग सड़क की ओर दौड़े।	saba log saDak kI ora daude	Everyone ran toward the road.
+sent_193	वह हर दिन स्कूल जाता है।	vah hara dina skUla jAtA hE	He goes to school every day.
+sent_194	गाय खेत में चर रही है।	gAya Keta meM cara rahI hE	The cow is grazing in the field.
+sent_195	वह अगले हफ्ते दिल्ली जाएगा।	vah agle haphte dillI jAyegA	He will go to Delhi next week.
+sent_196	माँ शाम तक बाज़ार में थीं।	mAM SAma taka bAzAra meM ThIM	Mother was at the market until evening.
+sent_197	सूरज ढलने से पहले वह चला गया।	sUraja Dalane se pahale vah calA gayA	He left before sunset.
+sent_198	सड़क के उस पार पुस्तकालय है।	saDak ke usa pAra pustakAlaya hE	The library is across the road.

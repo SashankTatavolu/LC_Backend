@@ -46,24 +46,46 @@ class SegmentService:
             db.session.commit()
         return segment
 
+    
+    
+    
     @staticmethod
     def delete_segment(segment_id):
         try:
-            segment = Segment.query.get(segment_id)
+            # Get the exact segment with all its relationships
+            segment = db.session.query(Segment).filter_by(segment_id=segment_id).first()
             if not segment:
                 return False
 
-            # Remove or reassign linked assignments
-            assignments = Assignment.query.filter_by(segment_id=segment_id).all()
-            for a in assignments:
-                db.session.delete(a)  # Or set a.segment_id = new_id if reassignment is intended
+            # Check for any dependencies
+            has_dependencies = (
+                db.session.query(LexicalConceptual)
+                .filter_by(segment_id=segment_id)
+                .first() is not None or
+                db.session.query(Relational)
+                .filter_by(segment_id=segment_id)
+                .first() is not None or
+                db.session.query(Discourse)
+                .filter_by(segment_id=segment_id)
+                .first() is not None or
+                db.session.query(Construction)
+                .filter_by(segment_id=segment_id)
+                .first() is not None
+            )
 
+            if has_dependencies:
+                raise ValueError("Cannot delete segment with existing dependencies")
+
+            # Delete assignments first
+            Assignment.query.filter_by(segment_id=segment_id).delete()
+
+            # Now delete the segment
             db.session.delete(segment)
             db.session.commit()
             return True
         except Exception as e:
-            print(f"Error deleting segment {segment_id}: {e}")
             db.session.rollback()
+            print(f"Error deleting segment {segment_id}: {e}")
             return False
 
 

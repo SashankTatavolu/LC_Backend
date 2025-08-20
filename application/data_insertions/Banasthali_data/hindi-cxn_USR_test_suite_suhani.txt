@@ -1,0 +1,531 @@
+﻿<sent_id=sent_151>
+#आज सुबह मंदिर नदी के किनारे बनकर पूजा के लिए खुला ।
+Aja_1        1        -        -        2:mod        -        -        -        -
+subaha_1        2        -        -        7:k7t        -        -        -        -
+maMxira        3        male        -        4:mod        -        -        -        -
+naxI_1        4        -        -        6:r6        -        -        -        -
+kinArA_1        6        -        pl        7:k7p        -        -        -        -
+bana_1        7        -        -        11:rpk        -        -        -        -
+pUjA_1        8        -        -        11:rt        -        -        -        -
+Kula_1-yA_1        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_152>
+#वह स्कूल सुबह पाँच किलोमीटर चलकर गया ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+skUla_1        2        -        -        6:k1        -        -        -        -
+subaha_1        3        -        -        6:k7t        -        -        -        -
+pAzca        4        numex        -        -        -        -        -        9:count
+kilomItara_1        5        -        -        -        -        -        -        9:unit
+cala_1-yA_1        6        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        6:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_153>
+#मैं वाराणसी घूमने दो हफ्ते के लिए गया था ।
+$speaker        1        -        -        8:k1        -        -        -        -
+vArANasI        2        female        -        3:k2p        -        -        -        -
+GUma_1        3        -        pl        8:vmod        -        -        -        -
+xo        4        numex        -        5:card        -        -        -        -
+haPwA_1        5        -        pl        8:rt        -        -        -        -
+jA_1-yA1_WA_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_154>
+#विद्यालय में हर घंटे कक्षा के पास घंटी बजती है ।
+vixyAlaya_1        1        -        -        9:k7p        -        -        -        -
+hara_1        3        -        -        4:quant        -        -        -        -
+GaMtA_1        4        -        pl        9:k7t        -        -        -        -
+kakRA_1        5        -        -        9:rsm        -        -        -        -
+pAsa_1        7        -        -        5:k7p        -        -        -        -
+GaMtA_1        8        -        -        9:k1        -        -        -        -
+baja_1-wA_hE_1        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_155>
+#वह मीटिंग ख़त्म होने के बाद आया ।
+$wyax        1        -        -        7:k1        -        distal        -        -
+mItiMga_1        2        -        -        4:k1        -        -        -        -
+KZawma_1        3        -        -        -        -        -        -        9:kriyAmUla
+ho_1        4        -        pl        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        7:rblpk        -        -        -        -
+bAxa_1        6        -        -        4:k7p        -        -        -        -
+A_1-yA_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_156>
+#पक्षी आसमान के पार पश्चिम की तरफ उड़ गया ।
+pakRI_1        1        -        -        8:k1        -        -        -        -
+AsamAna_1        2        -        -        4:k2        -        -        -        -
+pAra_1        4        -        -        -        -        -        -        11:kriyAmUla
+paScima        5        male        -        8:rd        -        -        -        -
+waraPa_1        7        -        -        5:k7p        -        -        -        -
+udZa_1-yA_1        8        -        -        -        -        [shade:ja_1]        -        11:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_157>
+#वह कक्षा जाने से पहले फ़ॉर्म जमा करने गई थी ।
+$wyax        1        -        -        8:k1        -        distal        -        -
+kakRA_1        2        -        -        3:k2p        -        -        -        -
+jA_1        3        -        pl        8:rblak        -        -        -        -
+pahalA_1        5        -        pl        3:k7p        -        -        -        -
+PZOYrma_1        6        -        -        8:k2        -        -        -        -
+jamA_1        7        -        -        -        -        -        -        12:kriyAmUla
+kara_1-yA1_WA_1        8        -        -        -        -        -        -        12:verbalizer
+[cp_1]        12        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_158>
+#सुबह होने पर वे लोग पेड़ के नीचे से उठकर मंदिर गए ।
+subaha_1        1        -        -        2:k7t        -        -        -        -
+ho_1        2        -        pl        12:rblsk        -        -        -        -
+$wyax        4        -        pl        5:dem        -        distal        -        -
+loga_1        5        -        -        12:k1        -        -        -        -
+pedZa_1        6        -        -        10:k7p        -        -        -        -
+nIcA_1        8        -        pl        6:k7p        -        -        -        -
+uTa_1        10        -        -        12:rpk        -        -        -        -
+maMxira_1        11        -        -        12:k2p        -        -        -        -
+gae_1-wA_hE_1        12        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_159>
+#वह गाड़ी सुबह जल्दी रवाना हुई ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+gAdZI_1        2        -        -        6:k1        -        -        -        -
+subaha_1        3        -        -        6:k7t        -        -        -        -
+jalxI_1        4        -        -        3:k7p        -        -        -        -
+ravAnA_1        5        -        -        -        -        -        -        8:kriyAmUla
+ho_1-yA_1        6        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_160>
+#किसान खेत में दिन भर काम करता है ।
+kisAna_1        1        -        -        7:k1        -        -        -        -
+Kewa_1        2        -        -        7:k7p        -        -        -        -
+xina_1        4        -        -        7:k7t        -        Bara        -        -
+kAma_1        6        -        -        -        -        -        -        10:kriyAmUla
+kara_1-wA_hE_1        7        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_161>
+#वह बाज़ार के पास रहती है ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+bAjZAra_1        2        -        -        5:k7p        -        -        -        -
+pAsa_1        4        -        -        2:k7p        -        -        -        -
+raha_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_162>
+#बच्चे स्कूल से लौटकर पार्क जाते हैं ।
+baccA_1        1        -        pl        6:k1        -        -        -        -
+skUla_1        2        -        -        4:k5        -        -        -        -
+lOta_1        4        -        -        6:rpk        -        -        -        -
+pArka_1        5        -        -        6:k2p        -        -        -        -
+jA_1-wA_hE_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_163>
+#सूरज पूरब से उगता है ।
+sUraja_1        1        -        -        4:k1        -        -        -        -
+pUraba        2        male        -        4:k5        -        -        -        -
+uga_1-wA_hE_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_164>
+#बारिश शाम को शुरू हुई ।
+bAriSa_1        1        -        -        5:k1        -        -        -        -
+SAma_1        2        -        -        5:k7t        -        -        -        -
+SurU_1        4        -        -        -        -        -        -        7:kriyAmUla
+ho_1-yA_1        5        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_165>
+#मंदिर शहर के बीचोंबीच है ।
+maMxira_1        1        -        -        5:k1        -        -        -        -
+Sahara_1        2        -        -        5:k7p        -        -        -        -
+bIcoMbIca_1        4        -        -        2:k7p        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_166>
+#वह दोपहर तीन बजे पहुंचा ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+xopahara_1        2        -        -        5:k7t        -        -        -        -
+wIna        3        clocktime        pl        5:k7t        -        -        -        -
+pahuMcA_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_167>
+#ट्रेन एक घंटे में आएगी ।
+trena_1        1        -        -        5:k1        -        -        -        -
+eka_1        2        numex        -        3:card        -        -        -        -
+GaMtA_1        3        -        pl        5:k7t        -        -        -        -
+A_1-gA_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_168>
+#वह स्टेशन से सीधे घर आया ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+steSana_1        2        -        -        6:k5        -        -        -        -
+sIXA_1        4        -        pl        6:krvn        -        -        -        -
+Gara_1        5        -        -        6:k2p        -        -        -        -
+A_1-yA_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_169>
+#उन्होंने पूरे हफ्ते यात्रा की ।
+$wyax        1        -        pl        5:k1        -        distal        -        -
+pUrA_1        2        -        pl        3:mod        -        -        -        -
+haPwA_1        3        -        pl        5:k7t        -        -        -        -
+yAwrA_1        4        -        -        -        -        -        -        7:kriyAmUla
+kara_1-yA_1        5        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_170>
+#बच्चा बिस्तर पर दोपहर तक सोया रहा ।
+baccA_1        1        -        -        6:k1        -        -        -        -
+biswara_1        2        -        -        6:k7p        -        -        -        -
+xopahara_1        4        -        -        6:k7t        -        -        -        -
+so_1-yA_raha_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_171>
+#सूरज पश्चिम में ढल गया ।
+sUraja_1        1        -        -        4:k1        -        -        -        -
+paScima        2        male        -        4:k7p        -        -        -        -
+Dala_1-yA_1        4        -        -        0:main        -        [shade:ja_1]        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_172>
+#सैनिक सीमा की ओर बढ़े ।
+sEnika_1        1        -        -        -        -        -        -        7:mod
+sImA_1        2        -        -        -        -        -        -        7:head
+[nc_1]        7        -        -        5:rd        -        -        -        -
+ora_1        4        -        -        2:k7p        -        -        -        -
+baDZe_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_173>
+#हम जनवरी में यात्रा करेंगे ।
+$speaker        1        -        pl        5:k1        -        -        -        -
+janavarI        2        moy        -        5:k7t        -        -        -        -
+yAwrA_1        4        -        -        -        -        -        -        7:kriyAmUla
+kara_1-gA_1        5        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_174>
+#पेड़ के नीचे आराम मत करो ।
+pedZa_1        1        -        -        6:k7p        -        -        -        -
+nIcA_1        3        -        pl        1:k7p        -        -        -        -
+ArAma_1        4        -        -        -        -        -        -        8:kriyAmUla
+mawa_1        5        -        -        6:neg        -        -        -        -
+kara_1-imper_o_1        6        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_175>
+#वह बरसात के मौसम में आया ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+barasAwa_1        2        -        -        4:r6        -        -        -        -
+mOsama_1        4        -        -        6:k7        -        -        -        -
+A_1-yA_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_176>
+#चिड़िया आकाश में उड़ रही है ।
+cidZiyA_1        1        -        -        4:k1        -        -        -        -
+AkASa_1        2        -        -        4:k7p        -        -        -        -
+udZa_1-0_raha_hE_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_177>
+#हम हर रविवार मंदिर जाते हैं ।
+$speaker        1        -        pl        5:k1        -        -        -        -
+hara_1        2        -        -        3:quant        -        -        -        -
+ravivAra        3        dow        -        5:k7t        -        -        -        -
+maMxira_1        4        -        -        5:k2p        -        -        -        -
+jA_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_178>
+#उन्होंने पहले भोजन किया , फिर निकले ।
+$wyax        1        -        pl        4:k1        -        distal        -        -
+pahalA_1        2        -        pl        4:k7t        -        -        -        -
+Bojana_1        3        -        -        -        -        -        -        9:kriyAmUla
+kara_1        4        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        6:rbmod__relc        -        -        -        -
+Pira_1        6        -        -        7:krvn        -        -        -        -
+nikala_1-e_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_179>
+#वह अक्सर शाम को टहलने जाता है ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+aksara_1        2        -        -        5:krvn        -        -        -        -
+SAma_1        3        -        -        5:k7t        -        -        -        -
+tahala_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_180>
+#बच्चा आधी रात को रोया ।
+baccA_1        1        -        -        5:k1        -        -        -        -
+AXI_1        2        -        -        3:quant        -        -        -        -
+rAwa_1        3        -        -        5:k7t        -        -        -        -
+ro_1-yA_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_181>
+#हमने घंटों तक इंतज़ार किया ।
+$speaker        1        -        pl        5:k1        -        -        -        -
+GaMtA_1        2        -        pl        5:k7t        -        -        -        -
+iMwajZAra_1        4        -        -        -        -        -        -        7:kriyAmUla
+kara_1-yA_1        5        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_182>
+#वह गाँव से शहर आया ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+gAzva_1        2        -        -        5:k5        -        -        -        -
+Sahara_1        4        -        -        5:k2p        -        -        -        -
+A_1-yA_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_183>
+#किताब अलमारी में रखी है ।
+kiwAba_1        1        -        -        4:k2        -        -        -        -
+alamArI_1        2        -        -        4:k7p        -        -        -        -
+raKa_1-yA_hE_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_184>
+#वह रोज़ सुबह दौड़ता है ।
+$wyax        1        -        -        4:k1        -        distal        -        -
+rojZa_1        2        -        -        4:k7t        -        -        -        -
+subaha_1        3        -        -        4:k7t        -        -        -        -
+xOdZa_1-wA_hE_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_185>
+#वे दो साल पहले मिले थे ।
+$wyax        1        -        pl        5:k1        -        distal        -        -
+xo        2        numex        -        -        -        -        -        8:count
+sAla_1        3        -        -        -        -        -        -        8:unit
+pahalA_1        4        -        pl        3:k7p        -        -        -        -
+mila_1-subj_WA_1        5        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        5:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_186>
+#उन्होंने गांव में तीन दिन बिताए ।
+$wyax        1        -        pl        6:k1        -        distal        -        -
+gAMva_1        2        -        -        6:k7p        -        -        -        -
+wIna        4        numex        pl        -        -        -        -        8:count
+xina_1        5        -        -        -        -        -        -        8:unit
+biwA_1-e_1        6        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        6:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_187>
+#वह जल्दी स्कूल चला गया ।
+$wyax        1        -        -        4:k1        -        distal        -        -
+jalxI_1        2        -        -        4:krvn        -        -        -        -
+skUla_1        3        -        -        4:k2p        -        -        -        -
+calA_1-yA_1        4        -        -        0:main        -        [shade:ja_1]        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_188>
+#बच्चे पार्क में खेल रहे हैं ।
+baccA_1        1        -        pl        4:k1        -        -        -        -
+pArka_1        2        -        -        4:k7p        -        -        -        -
+Kela_1-0_raha_hE_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_189>
+#वह कल रात नहीं आया ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+kala_1        2        -        -        5:k7t        -        -        -        -
+rAwa_1        3        -        -        5:k7t        -        -        -        -
+nahIM_1        4        -        -        5:neg        -        -        -        -
+A_1-yA_1        5        -        -        0:main        -        -        -        -
+%negative
+</sent_id>
+
+
+<sent_id=sent_190>
+#हम नदी पार करके आए ।
+$speaker        1        -        pl        5:k1        -        -        -        -
+naxI_1        2        -        -        4:k7p        -        -        -        -
+pAra_1        3        -        -        -        -        -        -        7:kriyAmUla
+kara_1        4        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        5:vmod        -        -        -        -
+A_1-e_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_191>
+#वह मेरे बाद आया ।
+$wyax        1        -        -        4:k1        -        distal        -        -
+$speaker        2        -        -        4:k7t        -        -        -        -
+bAxa_1        3        -        -        2:k7p        -        -        -        -
+A_1-yA_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_192>
+#सब लोग सड़क की ओर दौड़े ।
+saba        1        -        -        2:dem        -        -        -        -
+loga_1        2        -        -        6:k1        -        -        -        -
+sadZaka_1        3        -        -        6:rd        -        -        -        -
+ora_1        5        -        -        3:k7p        -        -        -        -
+xOdZa_1-e_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_193>
+#वह हर दिन स्कूल जाता है ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+hara_1        2        -        -        3:quant        -        -        -        -
+xina_1        3        -        -        5:k7t        -        -        -        -
+skUla_1        4        -        -        5:k2p        -        -        -        -
+jA_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_194>
+#गाय खेत में चर रही है ।
+gAya_1        1        -        -        4:k1        -        -        -        -
+Kewa_1        2        -        -        4:k7p        -        -        -        -
+cara_1-0_raha_hE_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_195>
+#वह अगले हफ्ते दिल्ली जाएगा ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+agalA_1        2        -        pl        3:mod        -        -        -        -
+haPwA_1        3        -        pl        5:k7t        -        -        -        -
+xillI        4        female        -        5:k2p        -        -        -        -
+jA_1-gA_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_196>
+#माँ शाम तक बाज़ार में थीं ।
+mA_1        1        -        pl        6:k1        -        -        -        -
+SAma_1        2        -        -        6:k7t        -        -        -        -
+bAjZAra_1        4        -        -        6:k7p        -        -        -        -
+hE_1-past        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_197>
+#सूरज ढलने से पहले वह चला गया ।
+sUraja_1        1        -        -        2:k1        -        -        -        -
+Dala_1        2        -        pl        6:rblak        -        -        -        -
+pahalA_1        4        -        pl        2:k7p        -        -        -        -
+$wyax        5        -        -        6:k1        -        distal        -        -
+calA_1-yA_1        6        -        -        0:main        -        [shade:ja_1]        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_198>
+#सड़क के उस पार पुस्तकालय है ।
+sadZaka_1        1        -        -        5:r6        -        -        -        -
+$wyax        3        -        -        5:dem        -        distal        -        -
+pAra_1        4        -        -        -        -        -        -        8:mod
+puswakAlaya_1        5        -        -        -        -        -        -        8:head
+[nc_1]        8        -        -        6:k1        -        -        -        -
+hE_1-pres        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

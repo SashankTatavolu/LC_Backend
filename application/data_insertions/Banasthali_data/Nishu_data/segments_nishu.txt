@@ -1,0 +1,50 @@
+sent_199	राम और सीता बाग़ में खेल रहे थे।	rAma aura sIwA bAGa meM Kela rahe We.	Ram and Sita were playing in the garden.
+sent_200	मोहन और सीता स्कूल गए।	mohana aura sIwA skUla gae.	Mohan and Sita went to school.
+sent_201	यह कुर्सी न तो बहुत मज़बूत है न ही सुन्दर।	yaha kursI nA wo bahuwa majabUwa hai nA hI suMdara.	This chair is neither strong nor beautiful.
+sent_202	उसके पास किताबें और पेन थे।	usa ke pAs kitAbeM Ora pen whe.	She had books and a pen.
+sent_203	राम समझदार है और ईमानदार भी।	rAma samajhdAra hai Ora imAndAra bhI.	Ram is wise and also honest.
+sent_204	राम ने सेब और केला खाया।	rAma ne sebA aura kela khAyA.	Ram ate apple and banana.
+sent_205	हम दिल्ली या मुंबई जा सकते हैं।	hama dillI yA mumbAI jA sakawe hEM.	We can go to Delhi or Mumbai.
+sent_206	राम ने चावल या रोटी खाई।	rAma ne cAvala yA rowI KAi.	Ram ate either rice or roti.
+sent_207	सीता ने लाल और नीला कपड़ा पहना।	sIwA ne lAla Ora nIlA kapadZA pahanA.	Sita wore a red and blue dress.
+sent_208	राम की किताब और कलम गुम हो गए।	rAma kI kiwAba aura kalama gum ho gae.	Ram’s book and pen got lost.
+sent_209	राम ने धीरे और ध्यान से कहा।	rAma ne DIre aura DyAna se kahA.	Ram spoke slowly and attentively.
+sent_210	बच्चे हँसते और खेलते हुए नज़र आए।	bacce haswe aura Kelawe hue nazar aaye.	The children appeared laughing and playing.
+sent_211	राम या सीता में से एक आएगा।	rAma yA sIwA meM se eka AyegA.	Either Ram or Sita will come.
+sent_212	राम और मोहन एक ही कक्षा में बैठे।	rAma Ora mohana ek hI kakSa meM baiWe.	Ram and Mohan sat in the same class.
+sent_213	यहाँ कुर्सी सुन्दर और आरामदायक है।	yahA kursI suMdara Ora rAhatadAyaka hEM.	This chair is beautiful and comfortable.
+sent_214	मिठाई और पानी तैयार हैं।	mIWAI Ora pAnI waiyAra hEM.	Sweets and water are ready.
+sent_215	राम और सीता दोनों एक-दूसरे के सहयोगी हैं।	rAma aura sIwA donoM ek dUsare ke sahayogI hEM.	Ram and Sita are each other’s partners.
+sent_216	उसने चाय या कॉफी पी।	usane cAI yA kaPI pI.	She drank tea or coffee.
+sent_217	वह लड़का सुन्दर और होशियार है।	vaha ladZakA sundara Ora hosiyAra hEM.	That boy is handsome and smart.
+sent_218	राम ने पीली और हरी कमीज़ खरीदी।	rAma ne pIlA aura hara kameez kharIdA.	Ram bought yellow and green shirts.
+sent_219	घर में न तो बिजली थी न ही पानी।	Gara meM nA to bijalI WI nA hI pAnI.	At home, there was neither electricity nor water.
+sent_220	कल हम दिल्ली या लखनऊ जा सकते हैं।	kala hama dillI yA lAKnau jA sakate haM.	Tomorrow we can go to Delhi or Lucknow.
+sent_221	उसने किताबें और कागज़ मेज़ पर रखे।	usane kitAbeM Ora kAgaza meja para raKe.	She kept books and papers on the table.
+sent_222	पानी गर्म और साफ़ है।	pAnI garama Ora sAPa hEM.	The water is hot and clean.
+sent_223	सीता ने न तो भात खाया न ही सब्ज़ी।	sIwA ne nA to bhAwa KAyA na hI sabjI.	Sita ate neither rice nor vegetables.
+sent_224	उसने एक पुस्तक या पत्रिका पढ़ी।	usane ek puswaka yA pawrikA paDI.	She read either a book or a magazine.
+sent_225	लड़की होशियार और परिश्रमी है।	larZakI hosiyAra Ora pariSramI hEM.	The girl is smart and hardworking.
+sent_226	राम ने जल्दी में रोटी और सब्ज़ी खाई।	rAma ne jaldI meM rotI aura sabjI KAyI.	Ram ate roti and vegetables in a hurry.
+sent_227	गायें और भेड़ें घास खा रही हैं।	gAyaM Ora bherZa GAs Ka rahI hEM.	The cow and the sheep are eating grass.
+sent_228	यह घर नया और साफ़ है।	yah Gara nayA Ora sAPa hEM.	This house is new and clean.
+sent_229	दीवार पर तस्वीरें और घड़ी लगी हैं।	dIvAra para tasvIreM Ora GarZi lagI hEM.	Pictures and a clock are on the wall.
+sent_230	वह दुख और अंधकार में था।	vaha dUKa Ora anDakAra meM WA.	He was in sorrow and darkness.
+sent_231	राम बाज़ार या पुस्तकालय गया होगा।	rAma bAzAra yA puswakAlaya gayA hogA.	Ram must have gone to the market or the library.
+sent_232	किताब कॉपी भारी थी और टोपी पुरानी भी।	kitAba kAPi BArI thI Ora WodI purAnI BI.	The book was quite heavy and also a bit old.
+sent_233	वह न तो पढ़ा-लिखा है न ही सुसंस्कृत।	vah nA wo paDA likhA hEM nA hI susaMskriwa.	He is neither educated nor cultured.
+sent_234	उन्होंने पत्र और सूची दोनों भेजी।	unhoMne patr Ora sUcI donoM bhejI.	They sent both the letter and the list.
+sent_235	इस कार्यक्रम में बच्चे और बुज़ुर्ग सभी आए।	is kAryakrama meM bacce Ora buzurga saBI Aye.	In this program, both children and elders came.
+sent_236	वह या वो बस से आया या रिक्शा से।	vaha yA wo basa se AyA yA rikSA se.	He came either by bus or by rickshaw.
+sent_237	वह दीवार पर चित्र भी लगाएगा और घड़ी भी।	vaha dIvAra para ciwra bhI lagAegA Ora Gari BI.	He will hang both a picture and a clock on the wall.
+sent_238	राम समय से पहले या देरी से पहुँचा।	rAma samaya se pahale yA dera se pahumcA.	Ram arrived either early or late.
+sent_239	राम और उसका मित्र दोनों बाज़ार गए।	rAma Ora usakA mitra donoM bAzAra gae.	Ram and his friend both went to the market.
+sent_240	राम ने घर में और बाज़ार में तस्वीरें खींचीं।	rAma ne Gara meM Ora bAzAra meM tasvIreM khIcIM.	Ram took photographs at home and in the market.
+sent_241	राम ने दीवार को नीला या हरा रंग दिया।	rAma ne dIvAla ko nIlA yA harA raMga diyA.	Ram painted the wall either blue or green.
+sent_242	घड़ी सस्ती भी है और टिकाऊ भी।	GArZI sASwI BI hEM Ora wikau BI.	The watch is both cheap and durable.
+sent_243	सीता पुस्तक लाई लेकिन कलम नहीं।	sIwA puswaka lAI lekin kalama nahIM.	Sita took the book but not the pen.
+sent_244	दिल्ली या कोलकाता में सम्मेलन आयोजित होगा।	dillI yA kolkawA meM sammelana Ayojiwa hogA.	The conference will be held either in Delhi or Kolkata.
+sent_245	यह मानव या पशु दोनों के लिए हानिकारक है।	yaha mAnava yA paSu donoM ke liye hAnikAraka hEM.	This is harmful for both humans and animals.
+sent_246	पीला और नारंगी रंग कमरे में चलता है।	pIlA Ora narAMgI raMga kAmare meM calawA hEM.	Yellow and orange colors look good in the room.
+sent_247	छात्र ने समास और सन्धि दोनों को अच्छी तरह समझा।	CAwra ne samAsa Ora sanDi dono ko AchchhI waraha samJA.	The student understood both compounds and sandhi well.
+sent_248	काम न तो मुश्किल है न असंभव।	kAma nA wo muSkila hE nA asambhava.	The task is neither difficult nor impossible.

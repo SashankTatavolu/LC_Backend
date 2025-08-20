@@ -103,15 +103,7 @@ def get_assigned_users_to_chapter(chapter_id):
     
     return jsonify(assigned_users), 200
 
-# @chapter_blueprint.route('/by_chapter/<int:chapter_id>/segments', methods=['GET'])
-# @jwt_required()
-# def get_segments_by_chapter(chapter_id):
-#     segments = ChapterService.get_segments_by_chapter_id(chapter_id)
-#     if not segments:
-#         return jsonify({'message': 'No segments found for the given chapter ID'}), 404
 
-#     segments_data = [segment.serialize() for segment in segments]
-#     return jsonify(segments_data), 200
 
 @chapter_blueprint.route('/by_chapter/<int:chapter_id>/sentences_segments', methods=['GET'])
 @jwt_required()
@@ -151,3 +143,22 @@ def get_segment_indices(chapter_id):
             return jsonify({"message": "No segments found for this chapter"}), 404
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+    
+@chapter_blueprint.route('/delete/<int:chapter_id>', methods=['DELETE'])
+@jwt_required()
+@measure_response_time
+def delete_chapter(chapter_id):
+    try:
+        # First get the chapter to ensure it exists
+        chapter = ChapterService.get_chapters_by_chapter_id(chapter_id)
+        if not chapter:
+            return jsonify({'message': 'Chapter not found'}), 404
+
+        # Delete all related data in the correct order to maintain referential integrity
+        ChapterService.delete_chapter_and_related_data(chapter_id)
+        
+        return jsonify({'message': 'Chapter and all related content deleted successfully'}), 200
+        
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500

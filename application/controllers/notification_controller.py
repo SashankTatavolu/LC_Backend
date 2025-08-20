@@ -9,6 +9,10 @@ from application.models.project_model import Project
 from application.models.segment_model import Segment
 from application.models.chapter_model import Chapter
 
+from sqlalchemy.orm import contains_eager
+from sqlalchemy import func
+
+
 notification_blueprint = Blueprint('notifications', __name__)
 
 @notification_blueprint.route('/notifications', methods=['GET'])
@@ -26,6 +30,7 @@ def get_notifications():
             return jsonify({'error': 'Invalid user_id format'}), 400
 
         # Fetch detailed notifications with related segment, chapter, project info, and error details
+        
         notifications = (
             db.session.query(
                 Notification.id,
@@ -39,14 +44,22 @@ def get_notifications():
                 Chapter.name.label('chapter_name'),
                 Chapter.project_id,
                 Project.name.label('project_name'),
-                Feedback.has_error,
-                Feedback.error_details
+                func.bool_or(Feedback.has_error).label('has_error'),
+                func.string_agg(Feedback.error_details, '; ').label('error_details')
             )
             .join(Segment, Segment.segment_id == Notification.segment_id)
             .join(Chapter, Chapter.id == Segment.chapter_id)
             .join(Project, Project.id == Chapter.project_id)
-            .outerjoin(Feedback, Feedback.segment_id == Segment.segment_id)  # Use outer join to handle cases with no feedback
+            .outerjoin(Feedback, Feedback.segment_id == Segment.segment_id)
             .filter(Notification.user_id == user_id)
+            .group_by(
+                Notification.id,
+                Segment.segment_index,
+                Segment.chapter_id,
+                Chapter.name,
+                Chapter.project_id,
+                Project.name
+            )
             .all()
         )
 
@@ -54,7 +67,7 @@ def get_notifications():
         notification_list = []
         for notif in notifications:
             notification_list.append({
-                "id": notif.id,
+                "notification_id": notif.id,  # ✅ explicitly include it
                 "user_id": notif.user_id,
                 "segment_id": notif.segment_id,
                 "segment_index": notif.segment_index,
@@ -68,6 +81,7 @@ def get_notifications():
                 "has_error": notif.has_error if notif.has_error is not None else False,
                 "error_details": notif.error_details if notif.error_details else ""
             })
+
 
         return jsonify(notification_list), 200
 
@@ -209,4 +223,29 @@ def delete_all_notifications():
         return jsonify({'message': 'All notifications deleted successfully'}), 200
     except Exception as e:
         print(f"Error in delete_all_notifications: {e}")
+        return jsonify({'error': 'Internal server error'}), 500
+
+
+@notification_blueprint.route('/notifications/unread', methods=['GET'])
+@jwt_required()
+def get_unread_notifications():
+    try:
+        # Get user_id from JWT
+        user_id = get_jwt()["user_id"]
+
+        # Fetch unread notifications
+        unread_notifications = (
+            db.session.query(Notification.segment_id)
+            .filter_by(user_id=user_id, is_read=False)
+            .distinct()  # Only unique segment_ids
+            .all()
+        )
+
+        # Convert result to flat list of segment_ids
+        unread_segment_ids = [row.segment_id for row in unread_notifications]
+
+        return jsonify(unread_segment_ids), 200
+
+    except Exception as e:
+        print(f"Error in get_unread_notifications: {e}")
         return jsonify({'error': 'Internal server error'}), 500

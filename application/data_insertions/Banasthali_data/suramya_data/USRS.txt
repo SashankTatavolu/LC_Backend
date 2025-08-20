@@ -1,0 +1,695 @@
+﻿<sent_id=sent_51>
+#तुम IIM अहमदाबाद जाओ और एडमिशन लो ।
+$addressee        1        -        -        0:k1        -        -        -        -
+IIM        2        -        -        0:rvks        -        -        -        -
+ahamaxAbAxa        3        -        -        -        -        -        -        9:begin
+[ne_1]        9        place        -        4:k2p        -        -        -        -
+jA_1-o_1        4        -        -        -        -        -        -        11:op1
+edamiSana_1        6        -        -        -        -        -        -        10:kriyAmUla
+le_1-o_1        7        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        -        -        -        -        11:op2
+[conj_1]        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_52>
+#आप इन्फोसिस में काम करते हो ?
+$addressee        1        -        -        5:k1        -        respect        -        -
+inPosisa        2        -        -        5:k7        -        -        -        -
+kAma_1        4        -        -        -        -        -        -        8:kriyAmUla
+kara_1-wA_ho_1        5        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_53>
+#कल NBA फाइनल्स देखने का प्लान बनाया ।
+kala_1        1        -        -        7:k7t        -        -        -        -
+NBA        2        -        -        -        -        -        -        9:begin
+[ne_1]        9        -        -        4:k2        -        -        -        -
+PAinalsa_1        3        -        -        -        -        -        -        9:inside
+xeKa_1        4        -        pl        6:r6        -        -        -        -
+plAna_1        6        -        -        7:k2        -        -        -        -
+banA_1-yA_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_54>
+#मोहन ने ISRO का परीक्षा दिया है ।
+mohana        1        male        -        6:k1        -        -        -        -
+ISRO        3        -        -        5:k2        -        -        -        -
+parIkRA_1        5        -        -        -        -        -        -        9:kriyAmUla
+xe_1-yA_hE_1        6        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_55>
+#रवि ने AIIMS दिल्ली में चेकअप कराया है ।
+ravi        1        male        -        7:k1        -        -        -        -
+AIIMS        3        -        -        4:mod        -        -        -        -
+xillI        4        female        -        7:k7p        -        -        -        -
+cekaapa_1        6        -        -        -        -        -        -        10:kriyAmUla
+karA_1-yA_hE_1        7        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_56>
+#ताजमहल देखकर हम घर गए ।
+wAjamahala        1        male        -        2:k2        -        -        -        -
+xeKa_1        2        -        -        5:rpk        -        -        -        -
+$speaker        3        -        pl        5:k1        -        -        -        -
+Gara_1        4        -        -        5:k2p        -        -        -        -
+gae_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_57>
+#रिया ने NGO में काम शुरू किया है ।
+riyA        1        -        -        7:k1        -        -        -        -
+NGO        3        -        -        7:k7        -        -        -        -
+kAma_1        5        -        -        7:k2        -        -        -        -
+SurU_1        6        -        -        -        -        -        -        10:kriyAmUla
+kara_1-yA_hE_1        7        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_58>
+#राम ने IIT बॉम्बे जाकर सेमिनार अटेंड किया ।
+rAma        1        male        -        8:k1        -        -        -        -
+IIT        3        -        -        -        -        -        -        10:begin
+[ne_1]        10        -        -        5:k2p        -        -        -        -
+bOYmbe        4        -        -        -        -        -        -        10:inside
+jA_1        5        -        -        8:rpk        -        -        -        -
+seminAra_1        6        -        -        8:k2        -        -        -        -
+ateMda_1        7        -        -        -        -        -        -        11:kriyAmUla
+kara_1-yA_1        8        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_59>
+#मैंने बी.एच.यू. में इंटर्नशिप की थी ।
+$speaker        1        -        -        5:k1        -        -        -        -
+bI.eca.yU.        2        -        -        5:k7        -        -        -        -
+iMtarnaSipa_1        4        -        -        -        -        -        -        8:kriyAmUla
+kara_1-yA_WA_1        5        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_60>
+#प्रिया ने अमेज़न का ऑर्डर कैंसिल किया ।
+priyA        1        female        -        7:k1        -        -        -        -
+amejZana        3        -        -        5:r6        -        -        -        -
+OYrdara_1        5        -        -        7:k2        -        -        -        -
+kEMsila_1        6        -        -        -        -        -        -        9:kriyAmUla
+kara_1-yA_1        7        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_61>
+#आज गूगल का इवेंट हुआ है ।
+Aja_1        1        -        -        5:k7t        -        -        -        -
+gUgala        2        -        -        4:r6        -        -        -        -
+iveMta_1        4        -        -        5:k1        -        -        -        -
+ho_1-yA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_62>
+#श्याम ने पाइथन वर्कशॉप अटेंड की ।
+SyAma        1        male        -        6:k1        -        -        -        -
+pAiWana        3        -        -        -        -        -        -        8:begin
+[ne_1]        8        -        -        6:k2        -        -        -        -
+varkaSOYpa_1        4        -        -        -        -        -        -        8:inside
+ateMda_1        5        -        -        -        -        -        -        9:kriyAmUla
+kara_1-yA_1        6        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_63>
+#सीता ने अपना ख्याल रखना शुरू कर दिया ।
+sIwA        1        female        -        7:k1        -        -        -        -
+apanA        3        -        pl        4:r6        -        -        -        -
+KyAla_1        4        -        -        5:k2        -        -        -        -
+raKa_1        5        -        -        7:k2        -        -        -        -
+SurU_1        6        -        -        -        -        -        -        10:kriyAmUla
+kara_1-yA_1        7        -        -        -        -        [shade:xe_1]        -        10:verbalizer
+[cp_1]        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_64>
+#अर्जुन ने क्रिकेट खेलना छोड़ दिया है ।
+arjuna        1        male        -        5:k1        -        -        -        -
+kriketa_1        3        -        -        4:k2        -        -        -        -
+Kela_1        4        -        -        5:k2        -        -        -        -
+CodZa_1-yA_hE_1        5        -        -        0:main        -        [shade:xe_1]        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_65>
+#प्रिया ने डांस क्लास चलाना शुरू किया है ।
+priyA        1        female        -        7:k1        -        -        -        -
+dAMsa_1        3        -        -        -        -        -        -        10:mod
+klAsa_1        4        -        -        -        -        -        -        10:head
+[nc_1]        10        -        -        5:k2        -        -        -        -
+calA_1        5        -        -        7:k2        -        -        -        -
+SurU_1        6        -        -        -        -        -        -        11:kriyAmUla
+kara_1-yA_hE_1        7        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_66>
+#काशी हिन्दू विश्वविद्यालय ( BHU ) का कैंपस काफी बड़ा है ।
+kASI        1        female        -        -        -        -        -        13:begin
+[ne_1]        13        -        -        8:r6        -        -        -        -
+hinxU        2        -        -        -        -        -        -        14:begin
+[ne_2]        14        -        -        8:r6        -        -        -        -
+viSvavixyAlaya        3        male        -        -        -        -        -        14:inside
+B_H_U        5        -        -        3:re        -        -        -        -
+kEMpasa_1        8        -        -        11:k1        -        -        -        -
+kAPI_1        9        -        -        10:intf        -        -        -        -
+badZA_1        10        -        -        11:k1s        -        -        -        -
+hE_1-pres        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_67>
+#मैं UFO की लैंडिंग देखने जा रहा हूँ ।
+$speaker        1        -        -        5:k1        -        -        -        -
+UFO        2        -        -        4:r6        -        -        -        -
+lEMdiMga_1        4        -        -        5:k2        -        -        -        -
+xeKa_1-0_raha_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_68>
+#UFO दूसरे ग्रह से आते हैं ।
+UFO        1        -        -        5:k1        -        -        -        -
+xUsarA_1        2        -        pl        3:nmod__adj        -        -        -        -
+graha_1        3        -        -        5:k5        -        -        -        -
+A_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_69>
+#शुभांशु शुक्ला NASA और ISRO के साथ अंतरिक्ष में गए ।
+SuBAMSu        1        -        -        -        -        -        -        12:begin
+[ne_1]        12        -        -        10:k1        -        -        -        -
+SuklA        2        female        -        -        -        -        -        12:inside
+NASA        3        -        -        -        -        -        -        13:op1
+ISRO        5        -        -        -        -        -        -        13:op2
+sAWa_1        7        -        -        5:k7p        -        -        -        -
+aMwarikRa_1        8        -        -        10:k7p        -        -        -        -
+gae_1-wA_hE_1        10        -        -        0:main        -        -        -        -
+[conj_1]        13        -        -        10:rt        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_70>
+#शुभांशु शुक्ला इंटरनेशनल स्पेस स्टेशन ( ISS ) में रहे ।
+SuBAMSu        1        -        -        -        -        -        -        12:begin
+[ne_1]        12        -        -        10:k7p        -        -        -        -
+SuklA        2        female        -        -        -        -        -        13:begin
+[ne_2]        13        -        -        10:k7p        -        -        -        -
+iMtaraneSanala        3        male        -        -        -        -        -        14:begin
+[ne_3]        14        -        -        10:k7p        -        -        -        -
+spesa        4        -        -        -        -        -        -        15:begin
+[ne_4]        15        -        -        10:k7p        -        -        -        -
+steSana        5        male        -        -        -        -        -        15:inside
+ISS        7        -        -        5:re        -        -        -        -
+raha_1-e_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_71>
+#नरेंद्र मोदी भारत के PM हैं ।
+nareMxra        1        male        -        -        -        -        -        8:begin
+[ne_1]        8        -        -        6:k1        -        -        -        -
+moxI        2        -        -        -        -        -        -        8:inside
+BArawa        3        male        -        5:r6        -        -        -        -
+P_M_        5        -        -        6:k1s        -        -        -        -
+hE_1-pres        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_72>
+#मेरे टीचर का रिसर्च पेपर IEEE में पब्लिश हुआ ।
+$speaker        1        -        -        2:r6        -        -        -        -
+tIcara_1        2        -        -        5:r6        -        -        -        -
+risarca_1        4        -        -        -        -        -        -        11:mod
+pepara_1        5        -        -        -        -        -        -        11:head
+[nc_1]        11        -        -        9:k1        -        -        -        -
+IEEE        6        -        -        9:k7        -        -        -        -
+pabliSa_1        8        -        -        -        -        -        -        12:kriyAmUla
+ho_1-yA_1        9        -        -        -        -        -        -        12:verbalizer
+[cp_1]        12        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_73>
+#टेस्ला ने AI Day 2025 में अपने नए रोबोट का डेमो दिखाया ।
+teslA        1        -        -        3:k1        -        -        -        -
+AI        3        -        -        5:rvks        -        -        -        -
+Day        4        -        -        -        -        -        -        14:begin
+[ne_1]        14        -        -        12:k7t        -        -        -        -
+2025        5        numex        -        -        -        -        -        14:inside
+apanA        7        -        pl        9:r6        -        -        -        -
+nae_1        8        -        -        9:mod        -        -        -        -
+robota_1        9        -        -        11:r6        -        -        -        -
+demo_1        11        -        -        12:k2        -        -        -        -
+xiKA_1-yA_1        12        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_74>
+#WHO ने 2025 में नया प्लान घोषित किया ।
+W_H_O        1        -        -        8:k1        -        -        -        -
+2025        3        numex        -        8:k7t        -        -        -        -
+nayA_1        5        -        -        6:mod        -        -        -        -
+plAna_1        6        -        -        8:k2        -        -        -        -
+GoRiwa_1        7        -        -        -        -        -        -        10:kriyAmUla
+kara_1-yA_1        8        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_75>
+#एलन मस्क ने X.com की जगह ट्विटर ( X ) को रीब्रांड कर दिया ।
+elana        1        -        -        -        -        -        -        16:begin
+[ne_1]        16        -        -        13:k1        -        -        -        -
+maska        2        -        -        -        -        -        -        16:inside
+X.com        4        -        -        6:r6        -        -        -        -
+jagaha_1        6        -        -        13:k2        -        -        -        -
+tvitara_1        7        -        -        13:k2        -        -        -        -
+X        9        -        -        7:re        -        -        -        -
+rIbrAMda_1        12        -        -        -        -        -        -        17:kriyAmUla
+kara_1-yA_1        13        -        -        -        -        [shade:xe_1]        -        17:verbalizer
+[cp_1]        17        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_76>
+#नेटफ्लिक्स ने AI बेस्ड सबटाइटल जनरेटर शुरू किया ।
+netaPliksa        1        -        -        8:k1        -        -        -        -
+AI        3        -        -        6:rvks        -        -        -        -
+besda_1        4        -        -        6:mod        -        -        -        -
+sabatAitala        5        -        -        -        -        -        -        10:begin
+[ne_1]        10        -        -        8:k2        -        -        -        -
+janaretara_1        6        -        -        -        -        -        -        10:inside
+SurU_1        7        -        -        -        -        -        -        11:kriyAmUla
+kara_1-yA_1        8        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_77>
+#गूगल ने I / O कॉन्फ्रेंस में Android 15 का नया वर्शन पेश किया ।
+gUgala        1        -        -        14:k1        -        -        -        -
+I        3        -        -        -        -        -        -        16:begin
+[ne_1]        16        -        -        14:k7        -        -        -        -
+kOYnPreMsa_1        6        -        -        -        -        -        -        16:inside
+Android        8        -        -        14:k2        -        -        -        -
+15        9        numex        -        12:r6        -        -        -        -
+nayA_1        11        -        -        12:mod        -        -        -        -
+varSana_1        12        -        -        14:k2        -        -        -        -
+peSa_1        13        -        -        -        -        -        -        17:kriyAmUla
+kara_1-yA_1        14        -        -        -        -        -        -        17:verbalizer
+[cp_1]        17        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_78>
+#भारत सरकार ने GDP ग्रोथ के नए आंकड़े जारी किए ।
+BArawa        1        male        -        -        -        -        -        12:begin
+[ne_1]        12        -        -        10:k1        -        -        -        -
+sarakAra        2        female        -        -        -        -        -        12:inside
+GDP        4        -        -        -        -        -        -        13:begin
+[ne_2]        13        -        -        8:r6        -        -        -        -
+groWa_1        5        -        -        -        -        -        -        13:inside
+nae_1        7        -        -        8:mod        -        -        -        -
+AMkadZe_1        8        -        -        10:k2        -        -        -        -
+jArI_1        9        -        -        -        -        -        -        14:kriyAmUla
+kara_1-yA_1        10        -        -        -        -        -        -        14:verbalizer
+[cp_1]        14        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_79>
+#मेटा ने VR और AR के नए प्रोडक्ट्स लॉन्च किए ।
+metA        1        -        -        -        -        -        -        13:op1
+AR        5        -        -        -        -        -        -        13:op2
+nae_1        7        -        -        8:mod        -        -        -        -
+prodaktsa_1        8        -        -        10:k2        -        -        -        -
+lOYnca_1        9        -        -        -        -        -        -        12:kriyAmUla
+kara_1-yA_1        10        -        -        -        -        -        -        12:verbalizer
+[cp_1]        12        -        -        0:main        -        -        -        -
+[conj_1]        13        -        -        8:r6        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_80>
+#ISRO ने PSLV-C58 के जरिये नया उपग्रह अंतरिक्ष में भेजा ।
+ISRO        1        -        -        10:k1        -        -        -        -
+PS_LV-_C58        3        -        -        10:k3        -        -        -        -
+nayA_1        6        -        -        8:mod        -        -        -        -
+upagraha_1        7        -        -        -        -        -        -        12:mod
+aMwarikRa_1        8        -        -        -        -        -        -        12:head
+[nc_1]        12        -        -        10:k7p        -        -        -        -
+Beja_1-yA_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_81>
+#IBM ने क्वांटम कंप्यूटिंग के लिए नया चिप डिजाइन किया ।
+IB_M_        1        -        -        10:k1        -        -        -        -
+kvAMtama        3        -        -        -        -        -        -        12:begin
+[ne_1]        12        -        -        10:rt        -        -        -        -
+kaMpyUtiMga_1        4        -        -        -        -        -        -        12:inside
+nayA_1        7        -        -        8:mod        -        -        -        -
+cipa_1        8        -        -        10:k2        -        -        -        -
+dijAina_1        9        -        -        -        -        -        -        13:kriyAmUla
+kara_1-yA_1        10        -        -        -        -        -        -        13:verbalizer
+[cp_1]        13        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_82>
+#अमेज़न ने AWS के तहत नया डेटा सेंटर खोला ।
+amejZana        1        -        -        9:k1        -        -        -        -
+AWS        3        -        -        9:k7a        -        -        -        -
+nayA_1        6        -        -        8:mod        -        -        -        -
+detA_1        7        -        -        -        -        -        -        11:mod
+seMtara_1        8        -        -        -        -        -        -        11:head
+[nc_1]        11        -        -        9:k2        -        -        -        -
+Kola_1-yA_1        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_83>
+#UNICEF ने WHO के साथ मिलकर नया हेल्थ प्रोग्राम शुरू करवाया ।
+UNICEF        1        -        -        11:k1        -        -        -        -
+W_H_O        3        -        -        6:ras-k1        -        -        -        -
+sAWa_1        5        -        -        3:k7p        -        -        -        -
+mila_1        6        -        -        11:rpk        -        -        -        -
+nayA_1        7        -        -        9:mod        -        -        -        -
+helWa_1        8        -        -        -        -        -        -        13:mod
+progrAma_1        9        -        -        -        -        -        -        13:head
+[nc_1]        13        -        -        11:k2        -        -        -        -
+SurU_1        10        -        -        -        -        -        -        14:kriyAmUla
+karavA_1-yA_1        11        -        -        -        -        -        -        14:verbalizer
+[cp_1]        14        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_84>
+#पेटीएम ने RBI की गाइडलाइंस के अनुसार अपना पेमेंट बैंक सर्विस बंद कर दी ।
+petIema        1        -        -        13:k1        -        -        -        -
+RBI        3        -        -        5:r6        -        -        -        -
+gAidalAiMsa_1        5        -        -        13:k7a        -        -        -        -
+apanA        8        -        pl        11:r6        -        -        -        -
+pemeMta_1        9        -        -        -        -        -        -        16:mod
+bEMka_1        10        -        -        -        -        -        -        17:mod
+sarvisa        11        female        -        -        -        -        -        17:head
+[nc_2]        17        -        -        13:k2        -        -        -        -
+baMxa_1        12        -        -        -        -        -        -        18:kriyAmUla
+kara_1-yA_1        13        -        -        -        -        [shade:xe_1]        -        18:verbalizer
+[cp_1]        18        -        -        0:main        -        -        -        -
+%affirmative
+[nc_1]        16        -        -        13:k2        -        -        -        -
+</sent_id>
+
+
+<sent_id=sent_85>
+#माइक्रोसॉफ्ट ने GPT-5 आधारित कोपायलट फीचर ऑफिस 365 में जोड़ा ।
+mAikrosOYPta        1        -        -        10:k1        -        -        -        -
+GPT-5        3        -        -        7:nmod__adj        -        -        -        -
+AXAriwa_1        4        -        -        7:mod        -        -        -        -
+kopAyalata_1        5        -        -        -        -        -        -        12:mod
+PIcara_1        6        -        -        -        -        -        -        13:mod
+OYPisa_1        7        -        -        -        -        -        -        13:head
+[nc_2]        13        -        -        8:mod        -        -        -        -
+365        8        numex        -        10:k7p        -        -        -        -
+jodZA_1-wA_hE_1        10        -        -        0:main        -        -        -        -
+%affirmative
+[nc_1]        12        -        -        8:mod        -        -        -        -
+</sent_id>
+
+
+<sent_id=sent_86>
+#BBC ने FIFA कप 2026 की लाइव कवरेज की घोषणा की ।
+BBC        1        -        -        11:k1        -        -        -        -
+FIFA        3        -        -        -        -        -        -        13:begin
+[ne_1]        13        -        -        8:r6        -        -        -        -
+kapa        4        male        -        -        -        -        -        14:begin
+[ne_2]        14        -        -        8:r6        -        -        -        -
+2026        5        numex        -        -        -        -        -        14:inside
+lAiva_1        7        -        -        -        -        -        -        15:mod
+kavareja_1        8        -        -        -        -        -        -        15:head
+[nc_1]        15        -        -        10:k2        -        -        -        -
+GoRaNA_1        10        -        -        -        -        -        -        16:kriyAmUla
+kara_1-yA_1        11        -        -        -        -        -        -        16:verbalizer
+[cp_1]        16        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_87>
+#DRDO ने AI आधारित बम डिटेक्शन सिस्टम लॉन्च किया ।
+DRDO        1        -        -        3:k1        -        -        -        -
+AI        3        -        -        4:intf        -        -        -        -
+AXAriwa_1        4        -        -        7:mod        -        -        -        -
+bama_1        5        -        -        -        -        -        -        11:mod
+ditekSana_1        6        -        -        -        -        -        -        12:mod
+sistama_1        7        -        -        -        -        -        -        12:head
+[nc_2]        12        -        -        9:k2        -        -        -        -
+lOYnca_1        8        -        -        -        -        -        -        13:kriyAmUla
+kara_1-yA_1        9        -        -        -        -        -        -        13:verbalizer
+[cp_1]        13        -        -        0:main        -        -        -        -
+%affirmative
+[nc_1]        11        -        -        9:k2        -        -        -        -
+</sent_id>
+
+
+<sent_id=sent_88>
+#गूगल ने अपने पिक्सेल 9 स्मार्टफोन में UWB तकनीक जोड़ी ।
+gUgala        1        -        -        10:k1        -        -        -        -
+apanA        3        -        pl        6:r6        -        -        -        -
+piksela_1        4        -        -        -        -        -        -        12:mod
+9        5        numex        -        6:card        -        -        -        -
+smArtaPona_1        6        -        -        -        -        -        -        12:head
+[nc_1]        12        -        -        10:k7        -        -        -        -
+UWB        8        -        -        -        -        -        -        13:mod
+wakanIka_1        9        -        -        -        -        -        -        13:head
+[nc_2]        13        -        -        10:k2        -        -        -        -
+jodZI_1-wA_hE_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_89>
+#सैमसंग ने CES 2025 में नया AI TV लॉन्च किया ।
+sEmasaMga        1        -        -        10:k1        -        -        -        -
+CES        3        -        -        -        -        -        -        12:begin
+[ne_1]        12        -        -        10:k7t        -        -        -        -
+2025        4        numex        -        -        -        -        -        12:inside
+nayA_1        6        -        -        8:mod        -        -        -        -
+AI        7        -        -        8:rvks        -        -        -        -
+T_V_        8        -        -        10:k2        -        -        -        -
+lOYnca_1        9        -        -        -        -        -        -        13:kriyAmUla
+kara_1-yA_1        10        -        -        -        -        -        -        13:verbalizer
+[cp_1]        13        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_90>
+#रणबीर कपूर ने IIFA अवॉर्ड्स 2025 में बेस्ट एक्टर का अवॉर्ड जीता ।
+raNabIra        1        -        -        -        -        -        -        14:begin
+[ne_1]        14        -        -        12:k1        -        -        -        -
+kapUra        2        male        -        -        -        -        -        14:inside
+IIFA        4        -        -        -        -        -        -        15:begin
+[ne_2]        15        -        -        12:k1        -        -        -        -
+avOYrdsa_1        5        -        -        -        -        -        -        15:inside
+2025        6        numex        -        12:k7t        -        -        -        -
+besta_1        8        -        -        9:mod        -        -        -        -
+ektara_1        9        -        -        11:r6        -        -        -        -
+avOYrda_1        11        -        -        12:k1        -        -        -        -
+jI_1-wA_1        12        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_91>
+#ICC ने T20 वर्ल्ड कप के लिए नया शेड्यूल जारी किया ।
+ICC        1        -        -        11:k1        -        -        -        -
+T20        3        -        -        5:nmod__adj        -        -        -        -
+varlda        4        -        -        -        -        -        -        13:begin
+[ne_1]        13        -        -        11:rt        -        -        -        -
+kapa_1        5        -        -        -        -        -        -        13:inside
+nayA_1        8        -        -        9:mod        -        -        -        -
+SedyUla_1        9        -        -        11:k2        -        -        -        -
+jArI_1        10        -        -        -        -        -        -        14:kriyAmUla
+kara_1-yA_1        11        -        -        -        -        -        -        14:verbalizer
+[cp_1]        14        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_92>
+#PUBG मोबाइल ने नए अपडेट में ज़ॉम्बी मोड जोड़ा ।
+PUBG        1        -        -        -        -        -        -        11:begin
+[ne_1]        11        -        -        9:k1        -        -        -        -
+mobAila_1        2        -        -        -        -        -        -        11:inside
+nae_1        4        -        -        5:mod        -        -        -        -
+apadeta_1        5        -        -        9:k7        -        -        -        -
+moda_1        8        -        -        9:k2        -        -        -        -
+jodZA_1-wA_hE_1        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_93>
+#कल मैंने IRCTC ऐप से ट्रेन की टिकट बुक की ।
+kala_1        1        -        -        10:k7t        -        -        -        -
+$speaker        2        -        -        10:k1        -        -        -        -
+IRCTC        3        -        -        -        -        -        -        12:begin
+[ne_1]        12        -        -        10:k5        -        -        -        -
+Epa_1        4        -        -        -        -        -        -        12:inside
+trena_1        6        -        -        9:r6        -        -        -        -
+tikata_1        8        -        -        -        -        -        -        13:mod
+buka_1        9        -        -        -        -        -        -        13:head
+[nc_1]        13        -        -        -        -        -        -        14:kriyAmUla
+kara_1-yA_1        10        -        -        -        -        -        -        14:verbalizer
+[cp_1]        14        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_94>
+#कॉलेज के WiFi से रात भर PUBG खेला ।
+kOYleja_1        1        -        -        3:r6        -        -        -        -
+WiFi        3        -        -        8:rh        -        -        -        -
+rAwa_1        5        -        -        7:k7t        -        Bara        -        -
+Kela_1-yA_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_95>
+#शिमला में DSLR से इतने फोटोज लिए कि फोन की मेमोरी भर गई ।
+SimalA        1        -        -        7:k7p        -        -        -        -
+DS_L_R        3        -        -        7:k5        -        -        -        -
+iwanA_1        5        -        pl        6:quant        -        -        -        -
+Potoja_1        6        -        -        -        -        -        -        16:op1
+le_1-yA_1        7        -        -        0:main        -        -        -        -
+Pona_1        9        -        -        11:r6        -        -        -        -
+memorI_1        11        -        -        -        -        -        -        15:kriyAmUla
+Bara_1        12        -        -        -        -        [shade:ja_1]        -        15:verbalizer
+[cp_1]        15        -        -        7:vk2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_96>
+#मनाली में 5G नेटवर्क पकड़ना मुश्किल था ।
+manAlI        1        -        -        5:k7p        -        -        -        -
+5G        3        numex        -        4:card        -        -        -        -
+netavarka_1        4        -        -        5:k2        -        -        -        -
+pakadZanA_1        5        -        -        7:k1        -        -        -        -
+muSkila_1        6        -        -        7:k1s        -        -        -        -
+hE_1-past        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_97>
+#कल CCD में बैठकर हमने BTS का नया गाना सुना ।
+kala_1        1        -        -        4:k7t        -        -        -        -
+CCD        2        -        -        4:k7        -        -        -        -
+bETa_1        4        -        -        10:rpk        -        -        -        -
+$speaker        5        -        pl        10:k1        -        -        -        -
+BTS        6        -        -        9:r6        -        -        -        -
+nayA_1        8        -        -        9:mod        -        -        -        -
+gAnA_1        9        -        -        10:k2        -        -        -        -
+sunA_1-0_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_98>
+#हमने CCD में चाय ली , फिर पेटीएम से पैसे दिए ।
+$speaker        1        -        pl        5:k1        -        -        -        -
+CCD        2        -        -        5:k7        -        -        -        -
+cAya_1        4        -        -        5:k2        -        -        -        -
+le_1-yA_1        5        -        -        0:main        -        -        -        -
+Pira_1        7        -        -        11:krvn        -        -        -        -
+petIema        8        -        -        11:k5        -        -        -        -
+pEsA_1        10        -        pl        11:k2        -        -        -        -
+xe_1        11        -        pl        5:vmod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_99>
+#IPL में मुंबई इंडियंस जीत गई ।
+IP_L_        1        -        -        5:k7        -        -        -        -
+muMbaI        3        -        -        -        -        -        -        8:begin
+[ne_1]        8        -        -        5:k1        -        -        -        -
+iMdiyaMsa        4        -        -        -        -        -        -        8:inside
+jIwa_1-yA_1        5        -        -        0:main        -        [shade:ja_1]        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_100>
+#UNESCO हेरिटेज साइट पुरानी होती है ।
+UNESCO        1        -        -        -        -        -        -        8:begin
+[ne_1]        8        -        -        5:k1        -        -        -        -
+heriteja_1        2        -        -        -        -        -        -        9:mod
+sAita_1        3        -        -        -        -        -        -        9:head
+[nc_1]        9        -        -        5:k1        -        -        -        -
+purAnA_1        4        -        -        5:k1s        -        -        -        -
+ho_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

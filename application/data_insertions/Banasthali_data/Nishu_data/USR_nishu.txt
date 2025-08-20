@@ -1,0 +1,619 @@
+﻿<sent_id=sent_199>
+#राम और सीता बाग़ में खेल रहे थे ।
+rAma        1        male        -        -        -        -        -        10:begin
+[ne_1]        10        per        -        -        -        -        -        13:op1
+sIwA        3        female        -        -        -        -        -        11:begin
+[ne_2]        11        per        -        -        -        -        -        13:op2
+bAgZa_1        4        -        -        6:k7        -        -        -        -
+Kela_1-0_raha_WA_1        6        -        -        0:main        -        -        -        -
+[conj_1]        13        -        -        6:k1        -        -        -        -
+%affirmative
+[ne_3]        12        place        -        6:k7        -        -        -        -
+</sent_id>
+
+
+<sent_id=sent_200>
+#मोहन और सीता स्कूल गए ।
+mohana        1        male        -        -        -        -        -        8:op1
+sIwA        3        female        -        -        -        -        -        7:begin
+[ne_1]        7        per        -        5:k1        -        -        -        -
+skUla        4        male        -        5:k2p        -        -        -        -
+gae_1-wA_hE_1        5        -        -        -        -        -        -        8:op2
+[conj_1]        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_201>
+#यह कुर्सी न तो बहुत मज़बूत है न ही सुन्दर ।
+$wyax        1        -        -        2:dem        -        proximal        -        -
+kursI_1        2        -        -        7:k1        -        -        -        -
+na_1        3        -        -        7:vmod        -        wo        -        -
+bahuwa_1        5        -        -        6:intf        -        -        -        -
+majZabUwa_1        6        -        -        7:k1s        -        -        -        -
+hE_1-pres        7        -        -        0:main        -        -        -        -
+na_1        8        -        -        10:neg        -        hI        -        -
+sunxara_1        10        -        -        7:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_202>
+#उसके पास किताबें और पेन थे ।
+$wyax        1        -        -        6:rsm        -        distal        -        -
+pAsa_1        2        -        -        1:k7p        -        -        -        -
+kiwAba_1        3        -        pl        -        -        -        -        8:op1
+pena_1        5        -        -        -        -        -        -        8:op2
+hE_1-past        6        -        -        0:main        -        -        -        -
+[conj_1]        8        -        -        6:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_203>
+#राम समझदार है और ईमानदार भी ।
+rAma        1        male        -        -        -        -        -        8:begin
+[ne_1]        8        per        -        3:k1        -        -        -        -
+samaJaxAra_1        2        -        -        3:k1s        -        -        -        -
+hE_1        3        -        -        -        -        -        -        9:op1
+ImAnaxAra_1        5        -        -        0:main        -        BI        -        -
+[conj_1]        9        -        -        0:r6        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_204>
+#राम ने सेब और केला खाया ।
+rAma        1        male        -        -        -        -        -        8:begin
+[ne_1]        8        per        -        6:k1        -        -        -        -
+seba_1        3        -        -        -        -        -        -        9:op1
+kelA_1        5        -        -        -        -        -        -        9:op2
+KA_1-yA_1        6        -        -        0:main        -        -        -        -
+[conj_1]        9        -        -        6:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_205>
+#हम दिल्ली या मुंबई जा सकते हैं ।
+$speaker        1        -        pl        5:k1        -        -        -        -
+xillI        2        female        -        -        -        -        -        9:op1
+muMbaI        4        -        -        -        -        -        -        9:op2
+jA_1-0_saka_hE_1        5        -        -        0:main        -        -        -        -
+[disjunct_1]        9        -        -        5:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_206>
+#राम ने चावल या रोटी खाई ।
+rAma        1        male        -        -        -        -        -        8:begin
+[ne_1]        8        per        -        6:k1        -        -        -        -
+cAvala_1        3        -        -        -        -        -        -        9:op1
+rotI_1        5        -        -        -        -        -        -        9:op2
+KA_1-yA_1        6        -        -        0:main        -        -        -        -
+[disjunct_1]        9        -        -        6:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_207>
+#सीता ने लाल और नीला कपड़ा पहना ।
+sIwA        1        female        -        -        -        -        -        9:begin
+[ne_1]        9        per        -        7:k1        -        -        -        -
+lAla        3        male        -        -        -        -        -        10:op1
+nIlA_1        5        -        -        6:mod        -        -        -        -
+kapadZA_1        6        -        -        -        -        -        -        10:op2
+pahanA_1-0_1        7        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        7:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_208>
+#राम की किताब और कलम गुम हो गए ।
+rAma        1        male        -        -        -        -        -        10:begin
+[ne_1]        10        per        -        3:r6        -        -        -        -
+kiwAba_1        3        -        -        -        -        -        -        12:op1
+kalama_1        5        -        -        -        -        -        -        12:op2
+guma_1        6        -        -        -        -        -        -        11:kriyAmUla
+ho_1-yA_1        7        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+[conj_1]        12        -        -        7:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_209>
+#राम ने धीरे और ध्यान से कहा ।
+rAma        1        male        -        -        -        -        -        9:begin
+[ne_1]        9        per        -        7:k1        -        -        -        -
+XIre_1        3        -        -        -        -        -        -        10:op1
+XyAna_1        5        -        -        -        -        -        -        10:op2
+kaha_1-yA_1        7        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        7:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_210>
+#बच्चे हँसते और खेलते हुए नज़र आए ।
+baccA_1        1        -        pl        2:k1        -        -        -        -
+hazsa_1        2        -        pl        -        -        -        -        10:op1
+Kela_1        4        -        pl        -        -        -        -        10:op2
+najZara_1        6        -        -        -        -        -        -        9:kriyAmUla
+A_1-e_1        7        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        7:rh        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_211>
+#राम या सीता में से एक आएगा ।
+rAma        1        male        -        -        -        -        -        9:begin
+[ne_1]        9        per        -        -        -        -        -        11:op1
+sIwA        3        female        -        -        -        -        -        10:begin
+[ne_2]        10        per        -        -        -        -        -        11:op2
+eka_1        6        numex        -        -        -        -        -        11:op3
+A_1-gA_1        7        -        -        0:main        -        -        -        -
+[disjunct_1]        11        -        -        7:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_212>
+#राम और मोहन एक ही कक्षा में बैठे ।
+rAma        1        male        -        -        -        -        -        10:begin
+[ne_1]        10        per        -        -        -        -        -        11:op1
+mohana        3        male        -        -        -        -        -        11:op2
+eka_1        4        numex        -        6:card        -        hI        -        -
+kakRA_1        6        -        -        8:k7        -        -        -        -
+bETa_1-e_1        8        -        -        0:main        -        -        -        -
+[conj_1]        11        -        -        8:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_213>
+#यहाँ कुर्सी सुन्दर और आरामदायक है ।
+yahAz        1        -        -        6:k7p        -        -        -        -
+kursI_1        2        -        -        6:k1        -        -        -        -
+sunxara_1        3        -        -        -        -        -        -        8:op1
+ArAmaxAyaka_1        5        -        -        -        -        -        -        8:op2
+hE_1-pres        6        -        -        0:main        -        -        -        -
+[conj_1]        8        -        -        6:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_214>
+#मिठाई और पानी तैयार हैं ।
+miTAI_1        1        -        -        -        -        -        -        7:op1
+pAnI_1        3        -        -        -        -        -        -        7:op2
+wEyAra_1        4        -        -        5:k1s        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+[conj_1]        7        -        -        5:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_215>
+#राम और सीता दोनों एक-दूसरे के सहयोगी हैं ।
+rAma        1        male        -        -        -        -        -        10:begin
+[ne_1]        10        per        -        -        -        -        -        12:op1
+sIwA        3        female        -        -        -        -        -        11:begin
+[ne_2]        11        per        -        -        -        -        -        12:op2
+xonA        4        numex        pl        5:card        -        -        -        -
+eka-xUsare        5        -        -        7:r6        -        -        -        -
+sahayogI_1        7        -        -        8:k1s        -        -        -        -
+hE_1-pres        8        -        -        0:main        -        -        -        -
+[conj_1]        12        -        -        8:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_216>
+#उसने चाय या कॉफी पी ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+cAya_1        2        -        -        -        -        -        -        7:op1
+kOYPI_1        4        -        -        -        -        -        -        7:op2
+pI_1-imper_o_1        5        -        -        0:main        -        -        -        -
+[disjunct_1]        7        -        -        5:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_217>
+#वह लड़का सुन्दर और होशियार है ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+ladZakA_1        2        -        -        -        -        -        -        8:op1
+sunxara_1        3        -        -        -        -        -        -        8:op2
+hoSiyAra_1        5        -        -        -        -        -        -        8:op3
+hE_1-pres        6        -        -        0:main        -        -        -        -
+[conj_1]        8        -        -        6:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_218>
+#राम ने पीली और हरी कमीज़ खरीदी ।
+rAma        1        male        -        -        -        -        -        9:begin
+[ne_1]        9        per        -        7:k1        -        -        -        -
+pIlA_1        3        -        -        -        -        -        -        10:op1
+harA_1        5        -        -        -        -        -        -        10:op2
+kamIjZa_1        6        -        -        7:k2        -        -        -        -
+KarIxa_1-yA_1        7        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        6:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_219>
+#घर में न तो बिजली थी न ही पानी ।
+Gara_1        1        -        -        6:k7p        -        -        -        -
+na_1        3        -        -        6:vmod        -        wo        -        -
+bijalI_1        5        -        -        6:k1        -        -        -        -
+hE_1-past        6        -        -        0:main        -        -        -        -
+na_1        7        -        -        9:neg        -        hI        -        -
+pAnI_1        9        -        -        6:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_220>
+#कल हम दिल्ली या लखनऊ जा सकते हैं ।
+kala_1        1        -        -        6:k7t        -        -        -        -
+$speaker        2        -        pl        6:k1        -        -        -        -
+xillI        3        female        -        -        -        -        -        10:op1
+laKanaU        5        -        -        -        -        -        -        10:op2
+jA_1-0_saka_hE_1        6        -        -        0:main        -        -        -        -
+[disjunct_1]        10        -        -        6:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_221>
+#उसने किताबें और कागज़ मेज़ पर रखे ।
+$wyax        1        -        -        7:k1        -        distal        -        -
+kiwAba_1        2        -        pl        -        -        -        -        10:op1
+kAgajZa_1        4        -        -        -        -        -        -        9:mod
+mejZa_1        5        -        -        -        -        -        -        9:head
+[nc_1]        9        -        -        -        -        -        -        10:op2
+raKa_1-e_1        7        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        7:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_222>
+#पानी गर्म और साफ़ है ।
+pAnI_1        1        -        -        5:k1        -        -        -        -
+garma_1        2        -        -        -        -        -        -        7:op1
+sAPZa_1        4        -        -        -        -        -        -        7:op2
+hE_1-pres        5        -        -        0:main        -        -        -        -
+[conj_1]        7        -        -        5:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_223>
+#सीता ने न तो भात खाया न ही सब्ज़ी ।
+sIwA        1        female        -        -        -        -        -        11:begin
+[ne_1]        11        per        -        6:k1        -        -        -        -
+na_1        3        -        -        6:vmod        -        wo        -        -
+BAwa_1        5        -        -        6:k2        -        -        -        -
+KA_1        6        -        -        9:rvks        -        -        -        -
+na_1        7        -        -        9:neg        -        hI        -        -
+sabjZI_1        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_224>
+#उसने एक पुस्तक या पत्रिका पढ़ी ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+eka_1        2        numex        -        3:card        -        -        -        -
+puswaka_1        3        -        -        -        -        -        -        8:op1
+pawrikA_1        5        -        -        -        -        -        -        8:op2
+paDZI_1-wA_hE_1        6        -        -        0:main        -        -        -        -
+[disjunct_1]        8        -        -        6:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_225>
+#लड़की होशियार और परिश्रमी है ।
+ladZakA_1        1        -        -        5:k1        -        -        -        -
+hoSiyAra_1        2        -        -        -        -        -        -        7:op1
+pariSramI_1        4        -        -        -        -        -        -        7:op2
+hE_1-pres        5        -        -        0:main        -        -        -        -
+[conj_1]        7        -        -        5:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_226>
+#राम ने जल्दी में रोटी और सब्ज़ी खाई ।
+rAma        1        male        -        -        -        -        -        10:begin
+[ne_1]        10        per        -        8:k1        -        -        -        -
+jalxI_1        3        -        -        8:krvn        -        -        -        -
+rotI_1        5        -        -        -        -        -        -        11:op1
+sabjZI_1        7        -        -        -        -        -        -        11:op2
+KA_1-yA_1        8        -        -        0:main        -        -        -        -
+[conj_1]        11        -        -        8:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_227>
+#गायें और भेड़ें घास खा रही हैं ।
+gAya_1        1        -        pl        -        -        -        -        9:op1
+BedZeM_1        3        -        -        -        -        -        -        9:op2
+GAsa_1        4        -        -        5:k2        -        -        -        -
+KA_1-0_raha_hE_1        5        -        -        0:main        -        -        -        -
+[conj_1]        9        -        -        5:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_228>
+#यह घर नया और साफ़ है ।
+$wyax        1        -        -        2:dem        -        proximal        -        -
+Gara_1        2        -        -        6:k1        -        -        -        -
+nayA_1        3        -        -        -        -        -        -        8:op1
+sAPZa_1        5        -        -        -        -        -        -        8:op2
+hE_1-pres        6        -        -        0:main        -        -        -        -
+[conj_1]        8        -        -        6:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_229>
+#दीवार पर तस्वीरें और घड़ी लगी हैं ।
+xIvAra_1        1        -        -        6:k7p        -        -        -        -
+wasvIra_1        3        -        pl        -        -        -        -        9:op1
+GadZA_1        5        -        -        -        -        -        -        9:op2
+laga_1-yA_hE_1        6        -        -        0:main        -        -        -        -
+[conj_1]        9        -        -        6:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_230>
+#वह दुख और अंधकार में था ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+xuKa_1        2        -        -        -        -        -        -        8:op1
+aMXakAra_1        4        -        -        -        -        -        -        8:op2
+hE_1-past        6        -        -        0:main        -        -        -        -
+[conj_1]        8        -        -        6:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_231>
+#राम बाज़ार या पुस्तकालय गया होगा ।
+rAma        1        male        -        -        -        -        -        8:begin
+[ne_1]        8        per        -        5:k1        -        -        -        -
+bAjZAra        2        -        -        -        -        -        -        9:op1
+puswakAlaya_1        4        -        -        -        -        -        -        9:op2
+jA_1-yA1_ho_1        5        -        -        0:main        -        -        -        -
+[disjunct_1]        9        -        -        5:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_232>
+#किताब कॉपी भारी थी और टोपी पुरानी भी ।
+kiwAba_1        1        -        -        -        -        -        -        10:mod
+kOYpI_1        2        -        -        -        -        -        -        10:head
+[nc_1]        10        -        -        4:k1        -        -        -        -
+BArI_1        3        -        -        4:k1s        -        -        -        -
+WA_1        4        -        -        -        -        -        -        11:op1
+topI_1        6        -        -        0:k1        -        -        -        -
+purAnA_1        7        -        -        0:main        -        BI        -        -
+[conj_1]        11        -        -        0:re        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_233>
+#वह न तो पढ़ा-लिखा है न ही सुसंस्कृत ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+na_1        2        -        -        5:vmod        -        wo        -        -
+paDZA-liKA        4        -        -        5:k1        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+na_1        6        -        -        8:neg        -        hI        -        -
+susaMskqwa_1        8        -        -        5:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_234>
+#उन्होंने पत्र और सूची दोनों भेजी ।
+$wyax        1        -        pl        6:k1        -        distal        -        -
+pawra_1        2        -        -        -        -        -        -        8:op1
+sUcI_1        4        -        -        -        -        -        -        8:op2
+xonA_1        5        -        pl        6:k2        -        -        -        -
+Beja_1-yA_1        6        -        -        0:main        -        -        -        -
+[conj_1]        8        -        -        6:k7        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_235>
+#इस कार्यक्रम में बच्चे और बुज़ुर्ग सभी आए ।
+$wyax        1        -        -        2:dem        -        proximal        -        -
+kAryakrama_1        2        -        -        8:k7        -        -        -        -
+baccA_1        4        -        pl        -        -        -        -        10:op1
+bujZurga_1        6        -        -        -        -        -        -        10:op2
+saBI        7        -        -        8:k2        -        -        -        -
+A_1-e_1        8        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        8:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_236>
+#वह या वो बस से आया या रिक्शा से ।
+$wyax        1        -        -        0:k1        -        distal        -        -
+vo        3        -        -        6:k1        -        -        -        -
+basa_1        4        -        -        6:krvn        -        -        -        -
+A_1        6        -        -        7:ccof        -        -        -        -
+rikSA_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_237>
+#वह दीवार पर चित्र भी लगाएगा और घड़ी भी ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+xIvAra_1        2        -        -        6:k7p        -        -        -        -
+ciwra_1        4        -        -        6:k2        -        BI        -        -
+lagA_1        6        -        -        -        -        -        -        11:op1
+GadZA_1        8        -        -        0:main        -        BI        -        -
+[conj_1]        11        -        -        0:re        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_238>
+#राम समय से पहले या देरी से पहुँचा ।
+rAma        1        male        -        -        -        -        -        10:begin
+[ne_1]        10        per        -        8:k1        -        -        -        -
+samaya_1        2        -        -        8:k7t        -        -        -        -
+pahalA_1        4        -        pl        2:k7p        -        -        -        -
+xerI_1        6        -        -        -        -        -        -        11:op1
+pahuzcA_1-0_1        8        -        -        0:main        -        -        -        -
+[disjunct_1]        11        -        -        8:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_239>
+#राम और उसका मित्र दोनों बाज़ार गए ।
+rAma        1        male        -        -        -        -        -        9:begin
+[ne_1]        9        per        -        -        -        -        -        10:op1
+$wyax        3        -        -        4:r6        -        distal        -        -
+miwra_1        4        -        -        -        -        -        -        10:op2
+xonA        5        numex        pl        6:card        -        -        -        -
+bAjZAra_1        6        -        -        7:k2p        -        -        -        -
+gae_1-wA_hE_1        7        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        7:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_240>
+#राम ने घर में और बाज़ार में तस्वीरें खींचीं ।
+rAma        1        male        -        -        -        -        -        11:begin
+[ne_1]        11        per        -        9:k1        -        -        -        -
+Gara_1        3        -        -        -        -        -        -        12:whole
+bAjZAra_1        6        -        -        -        -        -        -        12:part
+wasvIra_1        8        -        pl        9:k2        -        -        -        -
+KIMca_1-yA_1        9        -        -        0:main        -        -        -        -
+[spatial_1]        12        -        -        -        -        -        -        13:op1
+[conj_1]        13        -        -        9:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_241>
+#राम ने दीवार को नीला या हरा रंग दिया ।
+rAma        1        male        -        -        -        -        -        11:begin
+[ne_1]        11        per        -        9:k1        -        -        -        -
+xIvAra_1        3        -        -        9:k4        -        -        -        -
+nIlA_1        5        -        -        -        -        -        -        12:op1
+harA_1        7        -        -        8:mod        -        -        -        -
+raMga_1        8        -        -        -        -        -        -        12:op2
+xe_1-yA_1        9        -        -        0:main        -        -        -        -
+[disjunct_1]        12        -        -        9:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_242>
+#घड़ी सस्ती भी है और टिकाऊ भी ।
+GadZA_1        1        -        -        4:k1        -        -        -        -
+saswA_1        2        -        -        4:k1s        -        BI        -        -
+hE_1        4        -        -        -        -        -        -        9:op1
+tikAU_1        6        -        -        0:main        -        BI        -        -
+[conj_1]        9        -        -        0:r6        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_243>
+#सीता पुस्तक लाई लेकिन कलम नहीं ।
+sIwA        1        female        -        -        -        -        -        8:begin
+[ne_1]        8        per        -        2:pof__cn        -        -        -        -
+puswaka        2        female        -        3:k1        -        -        -        -
+lA_1-yA_1        3        -        -        -        -        -        -        9:op1
+kalama_1        5        -        -        0:k1        -        -        -        -
+nahIM_1        6        -        -        -        -        -        -        9:op2
+%negative
+</sent_id>
+
+
+<sent_id=sent_244>
+#दिल्ली या कोलकाता में सम्मेलन आयोजित होगा ।
+xillI        1        female        -        -        -        -        -        10:op1
+kolakAwA        3        -        -        -        -        -        -        10:op2
+sammelana_1        5        -        -        7:k1        -        -        -        -
+Ayojiwa_1        6        -        -        -        -        -        -        9:kriyAmUla
+ho_1-gA_1        7        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+[disjunct_1]        10        -        -        7:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_245>
+#यह मानव या पशु दोनों के लिए हानिकारक है ।
+$wyax        1        -        -        9:k1        -        proximal        -        -
+mAnava_1        2        -        -        -        -        -        -        11:op1
+paSu_1        4        -        -        -        -        -        -        11:op2
+xonA_1        5        -        pl        9:rt        -        -        -        -
+hAnikAraka_1        8        -        -        9:k1s        -        -        -        -
+hE_1-pres        9        -        -        0:main        -        -        -        -
+[disjunct_1]        11        -        -        5:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_246>
+#पीला और नारंगी रंग कमरे में चलता है ।
+pIlA_1        1        -        -        -        -        -        -        10:op1
+nAraMgI_1        3        -        -        -        -        -        -        10:op2
+raMga_1        4        -        -        7:k1        -        -        -        -
+kamarA_1        5        -        pl        7:k7p        -        -        -        -
+cala_1-wA_hE_1        7        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        4:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_247>
+#छात्र ने समास और सन्धि दोनों को अच्छी तरह समझा ।
+CAwra_1        1        -        -        10:k1        -        -        -        -
+samAsa        3        male        -        -        -        -        -        12:op1
+sanXi_1        5        -        -        -        -        -        -        12:op2
+xonA_1        6        -        pl        10:k2        -        -        -        -
+acCA_1        8        -        -        9:mod        -        -        -        -
+waraha_1        9        -        -        10:krvn        -        -        -        -
+samaJA_1-0_1        10        -        -        0:main        -        -        -        -
+[conj_1]        12        -        -        10:k7        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_248>
+#काम न तो मुश्किल है न असंभव ।
+kAma_1        1        -        -        5:k1        -        -        -        -
+na_1        2        -        -        5:vmod        -        wo        -        -
+muSkila_1        4        -        -        5:k1s        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+na_1        6        -        -        7:neg        -        -        -        -
+asaMBava_1        7        -        -        5:k1s        -        -        -        -
+%affirmative
+</sent_id>

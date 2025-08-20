@@ -1,5 +1,5 @@
 import re
-from flask import Blueprint, Response, request, jsonify
+from flask import Blueprint, Response, app, current_app, request, jsonify
 from flask_jwt_extended import jwt_required
 import requests
 
@@ -82,3 +82,93 @@ def generate_svg_from_api_multiple(segment_id):
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+
+
+@visualizer_blueprint.route('/generate-svg-from-api_coref/<segment_id>', methods=['POST'])
+@jwt_required()
+def generate_svg_from_api_coref(segment_id):
+    try:
+        current_app.logger.info(f"Starting visualization for segment {segment_id}")
+
+        # 1. Fetch main segment USR text
+        usr_text = SegmentDetailService.get_segment_details_as_csv_single(segment_id)
+        if not usr_text:
+            current_app.logger.error(f"No USR data found for segment {segment_id}")
+            return jsonify({"error": "No USR data found for the given segment"}), 404
+
+        current_app.logger.debug(f"Initial USR text length: {len(usr_text)}")
+
+        # 2. Extract all segment references from discourse fields
+        found_connections = set()
+        
+        for line in usr_text.split('\n'):
+            try:
+                if not line.strip() or line.startswith(('#', '<', '%')):
+                    continue
+                    
+                parts = re.split(r'\t+', line.strip())
+                if len(parts) > 5 and parts[5] not in ('-', ''):
+                    for item in parts[5].split('|'):
+                        if ':' in item:
+                            ref = item.split(':')[0].strip()
+                            if not ref.isdigit():  # Skip simple token references
+                                found_connections.add(ref)
+            except Exception as e:
+                current_app.logger.warning(f"Error processing line: {line[:50]}... Error: {str(e)}")
+                continue
+
+        current_app.logger.info(f"Found {len(found_connections)} unique segment references")
+
+        # 3. Resolve and merge connected segments
+        merged_texts = [usr_text]
+        resolution_failures = []
+        
+        for ref in found_connections:
+            try:
+                # Extract base segment reference (before any dot)
+                segment_ref = ref.split('.')[0]
+                
+                current_app.logger.debug(f"Attempting to resolve: {segment_ref}")
+                segment_id = SegmentDetailService.get_segment_id_by_name(segment_ref)
+                
+                if segment_id:
+                    linked_text = SegmentDetailService.get_segment_details_as_csv_single(segment_id)
+                    if linked_text:
+                        merged_texts.append(linked_text)
+                        current_app.logger.debug(f"Successfully merged {segment_ref}")
+                    else:
+                        resolution_failures.append(f"Empty USR for {segment_ref}")
+                else:
+                    resolution_failures.append(f"Not found: {segment_ref}")
+            except Exception as e:
+                resolution_failures.append(f"Error resolving {ref}: {str(e)}")
+                current_app.logger.error(f"Failed to resolve {ref}: {str(e)}", exc_info=True)
+
+        if resolution_failures:
+            current_app.logger.warning(f"Resolution failures: {', '.join(resolution_failures)}")
+
+        # 4. Combine all USR texts
+        full_usr_text = '\n'.join(merged_texts)
+        current_app.logger.debug(f"Final USR text length: {len(full_usr_text)}")
+
+        # 5. Generate visualization
+        try:
+            current_app.logger.info("Generating visualization...")
+            sentences, dot = VisualizerService.process_usr_data_coref(full_usr_text)
+            
+            if not dot:
+                current_app.logger.error("Visualization generation returned empty DOT graph")
+                return jsonify({"error": "Failed to generate visualization"}), 500
+                
+            svg = dot.pipe(format='svg')
+            current_app.logger.info("Successfully generated SVG")
+            return Response(svg, mimetype='image/svg+xml')
+            
+        except Exception as e:
+            current_app.logger.error(f"Visualization generation failed: {str(e)}", exc_info=True)
+            return jsonify({"error": "Visualization failed", "details": str(e)}), 500
+
+    except Exception as e:
+        current_app.logger.critical(f"Endpoint crashed: {str(e)}", exc_info=True)
+        return jsonify({"error": "Internal server error", "details": str(e)}), 500

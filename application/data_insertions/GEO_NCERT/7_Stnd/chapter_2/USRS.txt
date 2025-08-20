@@ -1,0 +1,1405 @@
+<sent_id=Geo_ncert_7stnd_2ch_0001>
+#हमारी पृथ्वी के अंदर ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+pqWvI	2	female	-	-	-	-	-	6:begin
+[ne_1]	6	place	-	0:main	-	-	-	-
+aMxara_1	4	-	-	2:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0002>
+#हमारी पृथ्वी एक गतिशील ग्रह है ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+pqWvI_1	2	-	-	-	-	-	-	8:begin
+[ne_1]	8	place	-	6:k1	-	-	-	-
+eka_1	3	numex	-	5:card	-	-	-	-
+gawiSIla_1	4	-	-	5:mod	-	-	-	-
+graha_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0003>
+#इसके अंदर एवं बाहर निरंतर परिवर्तन होता रहता है ।
+$wyax	1	-	-	-	-	proximal	-	11:op1
+aMxara_1	2	-	-	1:k7p	-	-	-	-
+bAhara_1	4	-	-	-	-	-	-	11:op2
+niraMwara_1	5	-	-	7:krvn	-	-	-	-
+parivarwana_1	6	-	-	7:k1	-	-	-	-
+ho_1-wA_raha_hE_1	7	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	7:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0004a>
+#क्या आपने कभी यह सोचा है ।
+$kim	1	-	-	5:krvn	-	-	-	-
+$addressee	2	-	-	5:k1	-	respect	-	-
+kaBI	3	-	-	5:k7t	-	-	-	-
+$wyax	4	-	-	5:k2	-	proximal	-	-
+soca_1-yA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0004b>
+#कि पृथ्वी के आंतरिक भाग में क्या है ?
+pqWvI	1	female	-	-	-	-	-	9:begin
+[ne_1]	9	place	-	4:r6	-	-	-	-
+AMwarika_1	3	-	-	4:mod	-	-	-	-
+BAga_1	4	-	-	7:k7	-	-	-	-
+$kim	6	-	-	7:krvn	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0005>
+#पृथ्वी किन पदार्थों से बनी है ?
+pqWvI_1	1	-	-	-	-	-	-	8:begin
+[ne_1]	8	place	-	5:k1	-	-	-	-
+$kim	2	-	pl	3:mod__wq	-	-	-	-
+paxArWa_1	3	-	pl	5:rh	-	-	-	-
+bana_1-yA_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0006>
+#पृथ्वी का आंतरिक भाग एक प्याज की तरह पृथ्वी भी एक के ऊपर एक संकेंद्री परतों से बनी है ।
+pqWvI	1	female	-	-	-	-	-	21:begin
+[ne_1]	21	place	-	4:r6	-	-	-	-
+AMwarika_1	3	-	-	4:mod	-	-	-	-
+BAga_1	4	-	-	18:k1	-	-	-	-
+eka_1	5	numex	-	6:card	-	-	-	-
+pyAja_1	6	-	-	18:rv	-	-	-	-
+pqWvI_1	9	-	-	-	-	BI	-	22:begin
+[ne_2]	22	place	-	18:k1	-	-	-	-
+eka_1	11	numex	-	18:k7	-	-	-	-
+Upara_1	13	-	-	11:k7p	-	-	-	-
+eka_1	14	numex	-	16:card	-	-	-	-
+saMkeMxrI_1	15	-	-	16:mod	-	-	-	-
+parawa_1	16	-	pl	18:k5	-	-	-	-
+bana_1-yA_hE_1	18	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0007>
+#पृथ्वी की सतह की सबसे ऊपरी परत को पर्पटी कहते हैं ।
+pqWvI	1	female	-	-	-	-	-	13:begin
+[ne_1]	13	place	-	3:r6	-	-	-	-
+sawaha_1	3	-	-	7:r6	-	-	-	-
+UparI_1	6	-	superl	7:mod	-	-	-	-
+parawa_1	7	-	-	10:k2	-	-	-	-
+parpatI_1	9	-	-	10:k1	-	-	-	-
+kaha_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0008>
+#यह सबसे पतली परत होती है ।
+$wyax	1	-	-	5:k1	-	proximal	-	-
+pawalA_1	3	-	superl	4:mod	-	-	-	-
+parawa_1	4	-	-	5:k1s	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0009>
+#यह महाद्वीपीय संहति में 35 किलोमीटर एवं समुद्री सतह में केवल 5 किलोमीटर तक है ।
+$wyax	1	-	-	3:dem	-	proximal	-	-
+mahAxvIpIya_1	2	-	-	3:mod	-	-	-	-
+saMhawi_1	3	-	-	15:k7	-	-	-	-
+35	5	meas	-	-	-	-	-	17:count
+kilomItara_1	6	-	-	-	-	-	-	17:unit
+samuxrI_1	8	-	-	9:mod	-	-	-	-
+sawaha_1	9	-	-	-	-	-	-	19:op2
+5	12	meas	-	-	-	kevala	-	18:count
+kilomItara_1	13	-	-	-	-	-	-	18:unit
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[meas_1]	17	-	-	-	-	-	-	19:op1
+[meas_2]	18	-	-	15:k7t	-	-	-	-
+[conj_1]	19	-	-	15:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0010>
+#महाद्वीपीय संहति मुख्य रूप से सिलिका एवं ऐलुमिना जैसे खनिजों से बनी है ।
+mahAxvIpIya_1	1	-	-	2:mod	-	-	-	-
+saMhawi_1	2	-	-	12:k1	-	-	-	-
+muKya_1	3	-	-	4:mod	-	-	-	-
+rUpa_1	4	-	-	12:krvn	-	-	-	-
+silikA_1	6	-	-	-	-	-	-	15:op1
+EluminA_1	8	-	-	-	-	-	-	15:op2
+KanijoM_1	10	-	-	12:ras-k1	-	-	-	-
+bana_1-yA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	10:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0011>
+#इसलिए इसे सिएल ( सि-सिलिका तथा एल-एलुमिना ) कहा जाता है ।
+$wyax	1	-	-	8:k2g	-	proximal	-	-
+siela	2	-	-	-	-	-	-	12:op1
+si-silikA	4	-	-	2:re	-	-	-	-
+ela-eluminA	6	-	-	-	-	-	-	12:op2
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_2ch_0010.8:pariNAma	-	-	-
+[conj_1]	12	-	-	8:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0012>
+#महासागर की पर्पटी मुख्यतः सिलिका एवं मैग्नीशियम की बनी है ; ।
+mahAsAgara	1	male	-	3:r6	-	-	-	-
+parpatI_1	3	-	-	-	-	-	-	13:op1
+muKyawaH_1	4	-	-	5:mod	-	-	-	-
+silikA_1	5	-	-	-	-	-	-	13:op2
+mEgnISiyama_1	7	-	-	-	-	-	-	13:op3
+bana_1	9	-	-	11:ccof	-	-	-	-
+[conj_1]	13	-	-	9:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0013>
+#इसलिए इसे सिमै ( सि-सिलिका तथा मै-मैग्नीशियम ) कहा जाता है ।
+$wyax	1	-	-	8:k2g	-	proximal	-	-
+simE	2	-	-	-	-	-	-	12:op1
+si-silikA	4	-	-	-	-	-	-	12:op2
+mE-mEgnISiyama	6	-	-	-	-	-	-	12:op3
+kaha_1-yA_jA_wA_hE_1	8	-	-	0:main	Geo_ncert_7stnd_2ch_0012.8:pariNAma	-	-	-
+[conj_1]	12	-	-	8:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0014>
+#पर्पटी के ठीक नीचे मैंटल होता है जो 2900 किलोमीटर की गहराई तक फैला होता है ।
+parpatI_1	1	-	-	6:k7p	-	TIka	-	-
+nIcA_1	4	-	pl	1:k7p	-	-	-	-
+mEMtala	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	14:k1	-	-	-	-
+2900	9	meas	-	-	-	-	-	18:count
+kilomItara_1	10	-	-	-	-	-	-	18:unit
+gaharAI_1	12	-	-	14:k7	-	-	-	-
+PElA_1	14	-	-	6:rc	-	-	-	-
+[meas_1]	18	-	-	12:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0015>
+#इसकी सबसे आंतरिक परत क्रोड है , जिसकी त्रिज्या लगभग 3500 किलामीटर है ।
+$wyax	1	-	-	5:r6	-	proximal	-	-
+AMwarika_1	3	-	superl	5:mod	-	-	-	-
+parawa_1	4	-	-	-	-	-	-	15:mod
+kroda_1	5	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+$yax	8	-	-	9:r6	-	-	-	-
+wrijyA_1	9	-	-	13:k1	-	-	-	-
+3500	11	numex	-	-	-	lagaBaga	-	16:count
+kilAmItara_1	12	-	-	-	-	-	-	16:unit
+hE_1	13	-	-	6:rc	-	-	-	-
+[meas_1]	16	-	-	13:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0016a>
+#यह मुख्यतः निकल एवं लोहे की बनी होती है ।
+$wyax	1	-	-	3:k1	-	proximal	-	-
+muKyawaH_1	2	-	-	3:krvn	-	-	-	-
+nikala_1-0_1	3	-	-	-	-	-	-	11:op1
+lohe_1	5	-	-	7:k1	-	-	-	-
+bana_1-yA_ho_hE_1	7	-	-	-	-	-	-	11:op2
+[conj_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0016b>
+#तथा इसे निफ़े ( नि-निकिल तथा फ़े-फ़ेरस ) कहते हैं ।
+$wyax	1	-	-	-	-	proximal	-	11:op1
+niPZe	2	-	-	8:k1	-	-	-	-
+ni-nikila	4	-	-	-	-	-	-	11:op2
+PZe-PZerasa	6	-	-	-	-	-	-	11:op3
+kaha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	8:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0017>
+#केंद्रीय क्रोड का तापमान एवं दाब काफी उच्च होता है ।
+keMxrIya_1	1	-	-	2:mod	-	-	-	-
+kroda_1	2	-	-	4:r6	-	-	-	-
+wApamAna_1	4	-	-	-	-	-	-	12:op1
+xAba_1	6	-	-	-	-	-	-	12:op2
+kAPI_1	7	-	-	8:quant	-	-	-	-
+ucca_1	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	9:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0018a>
+#विश्व की सबसे गहरी खान दक्षिण अफ़्रीका में स्थित है ।
+viSva_1	1	-	-	5:r6	-	-	-	-
+gaharA_1	4	-	superl	5:mod	-	-	-	-
+KAna_1	5	-	-	7:mod	-	-	-	-
+xakRiNa	6	male	-	-	-	-	-	12:begin
+[ne_1]	12	-	-	10:k7p	-	-	-	-
+aPZrIkA	7	-	-	-	-	-	-	12:inside
+sWiwa_1	9	-	-	10:k1s	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0018b>
+#तथा इसकी गहराई लगभग 4 किलोमीटर है ।
+$wyax	1	-	-	2:r6	-	proximal	-	-
+gaharAI_1	2	-	-	6:k1	-	-	-	-
+4	4	meas	-	-	-	lagaBaga	-	8:count
+kilomItara_1	5	-	-	-	-	-	-	8:unit
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[meas_1]	8	-	-	6:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0019>
+#तेल की खोज में इंजीनियर 6 किलोमीटर गहराई तक खोद चुके हैं ।
+wela_1	1	-	-	3:r6	-	-	-	-
+Koja_1	3	-	-	10:k7	-	-	-	-
+iMjIniyara_1	5	-	-	10:k1	-	-	-	-
+6	6	meas	-	-	-	-	-	14:count
+kilomItara_1	7	-	-	-	-	-	-	14:unit
+gaharAI_1	8	-	-	10:k7	-	-	-	-
+Koxa_1-subj_hE_1	10	-	-	0:main	-	[shade:cuka_1]	-	-
+[meas_1]	14	-	-	8:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0020>
+#पृथ्वी के केंद्र तक पहुँचने के लिए ( जो बिलकुल असंभव है ) आपको समुद्र की सतह पर 6000 किलोमीटर गहराई तक खोदना होगा !
+pqWvI	1	female	-	-	-	-	-	26:begin
+[ne_1]	26	place	-	3:r6	-	-	-	-
+keMxra_1	3	-	-	5:k2p	-	-	-	-
+pahuzca_1	5	-	pl	12:rt	-	-	-	-
+$yax	9	-	-	12:k1	-	-	-	-
+bilakula_1	10	-	-	12:krvn	-	-	-	-
+asaMBava_1	11	-	-	12:k1s	-	-	-	-
+hE_1	12	-	-	14:rc	-	-	-	-
+$addressee	14	-	-	23:k1	-	respect	-	-
+samuxra_1	15	-	-	17:r6	-	-	-	-
+sawaha_1	17	-	-	23:k7p	-	-	-	-
+6000	19	meas	-	-	-	-	-	27:count
+kilomItara_1	20	-	-	-	-	-	-	27:unit
+gaharAI_1	21	-	-	23:k7	-	-	-	-
+Koxa_1-nA_ho_1	23	-	-	0:main	-	-	-	-
+[meas_1]	27	-	-	21:mod	-	-	-	-
+%imperative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0021>
+#पृथ्वी के आयतन का केवल 1 प्रतिशत हिस्सा ही पर्पटी है ।
+pqWvI	1	female	-	-	-	-	-	13:begin
+[ne_1]	13	place	-	3:r6	-	-	-	-
+Ayawana_1	3	-	-	8:r6	-	-	-	-
+1	6	numex	-	7:card	-	kevala	-	-
+prawiSawa_1	7	-	-	8:mod	-	-	-	-
+hissA_1	8	-	-	11:k1	-	hI	-	-
+parpatI_1	10	-	-	11:k1	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0022>
+#84 प्रतिशत मैटंल एवं 15 प्रतिशत हिस्सा क्रोड है ।
+84	1	numex	-	2:card	-	-	-	-
+prawiSawa_1	2	-	-	3:mod	-	-	-	-
+mEtaMla_1	3	-	-	-	-	-	-	11:op1
+15	5	numex	-	6:card	-	-	-	-
+prawiSawa_1	6	-	-	7:mod	-	-	-	-
+hissA_1	7	-	-	-	-	-	-	11:op2
+kroda_1	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	9:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0023>
+#पृथ्वी की त्रिज्या 6371 किलोमीटर है ।
+pqWvI	1	female	-	-	-	-	-	8:begin
+[ne_1]	8	place	-	3:r6	-	-	-	-
+wrijyA_1	3	-	-	6:k1	-	-	-	-
+6371	4	meas	-	-	-	-	-	9:count
+kilomItara_1	5	-	-	-	-	-	-	9:unit
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[meas_1]	9	-	-	6:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0024>
+#शैल एवं खनिज ।
+SEla	1	male	-	-	-	-	-	5:op1
+Kanija_1	3	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0025>
+#पृथ्वी की पर्पटी अनेक प्रकार के शैलों से बनी है ।
+pqWvI	1	female	-	-	-	-	-	12:begin
+[ne_1]	12	place	-	3:r6	-	-	-	-
+parpatI_1	3	-	-	9:k1	-	-	-	-
+aneka_1	4	-	-	5:quant	-	-	-	-
+prakAra_1	5	-	-	7:r6	-	-	-	-
+SEloM_1	7	-	-	9:rh	-	-	-	-
+bana_1-yA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0026>
+#पृथ्वी की पर्पटी बनाने वाले खनिज पदार्थ के किसी भी प्राकृतिक पिंड को शैल कहते हैं ।
+pqWvI	1	female	-	-	-	-	-	18:begin
+[ne_1]	18	place	-	3:r6	-	-	-	-
+parpatI_1	3	-	-	4:k2	-	-	-	-
+banA_1	4	-	pl	7:mod	-	-	-	-
+Kanija_1	6	-	-	-	-	-	-	19:mod
+paxArWa_1	7	-	-	-	-	-	-	19:head
+[nc_1]	19	-	-	12:r6	-	-	-	-
+kisI	9	-	-	12:mod	-	BI	-	-
+prAkqwika_1	11	-	-	12:mod	-	-	-	-
+piMda_1	12	-	-	15:k2	-	-	-	-
+SEla_1	14	-	-	15:k2s	-	-	-	-
+kaha_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0027>
+#शैल विभिन्न रंग , आकार एवं गठन की हो सकती हैं ।
+SEla	1	male	-	8:k1	-	-	-	-
+viBinna_1	2	-	-	3:mod	-	-	-	-
+raMga_1	3	-	-	-	-	-	-	13:op1
+AkAra_1	5	-	-	-	-	-	-	13:op2
+gaTana_1	7	-	-	-	-	-	-	13:op3
+kara_1-yA_ho_saka_1	8	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	8:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0028>
+#मुख्य रूप से शैल तीन प्रकार की होती हैं-आग्नेय ( इग्नियस ) शैल , अवसादी ( सेडिमेंद्री ) शैल एवं कायांतरित ( मेटामोरफ़िक ) शैल ।
+muKya_1	1	-	-	2:mod	-	-	-	-
+rUpa_1	2	-	-	8:krvn	-	-	-	-
+SEla	4	male	-	8:k1	-	-	-	-
+wIna	5	numex	pl	6:card	-	-	-	-
+prakAra_1	6	-	-	8:rhh	-	-	-	-
+ho_1	8	-	-	13:rvks	-	-	-	-
+hEM-Agneya	9	-	-	13:mod	-	-	-	-
+igniyasa	11	-	-	9:mod	-	-	-	-
+SEla	13	male	-	-	-	-	-	27:op1
+avasAxI	15	-	-	19:mod	-	-	-	-
+sedimeMxrI	17	-	-	15:re	-	-	-	-
+SEla	19	male	-	-	-	-	-	27:op2
+kAyAMwariwa	21	-	-	-	-	-	-	27:op3
+metAmoraPZika	23	-	-	21:re	-	-	-	-
+SEla	25	male	-	0:main	-	-	-	-
+[conj_1]	27	-	-	25:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0029>
+#द्रवित मैग्मा ठंडा होकर ठोस हो जाता है ।
+xraviwa_1	1	-	-	2:mod	-	-	-	-
+mEgmA_1	2	-	-	4:k1	-	-	-	-
+TaMdA_1	3	-	-	-	-	-	-	10:kriyAmUla
+ho_1	4	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	6:rpk	-	-	-	-
+Tosa_1	5	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_ho_1	6	-	-	-	-	[shade:ja_1]	-	11:verbalizer
+[cp_2]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0030>
+#इस प्रकार बने शैल को आग्नेय शैल कहते हैं ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	3:k1	-	-	-	-
+bana_1	3	-	-	4:rvks	-	-	-	-
+SEla	4	male	-	8:k2	-	-	-	-
+Agneya_1	6	-	-	7:mod	-	-	-	-
+SEla_1	7	-	-	8:k2s	-	-	-	-
+kaha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=Geo_ncert_7stnd_2ch_0031>
+#इन्हें प्राथमिक शैल भी कहते हैं ।
+$wyax	1	-	pl	5:k2	-	proximal	-	-
+prAWamika_1	2	-	-	3:mod	-	-	-	-
+SEla_1	3	-	-	5:k2s	-	BI	-	-
+kaha_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0032>
+#आग्नेय शैल दो प्रकार की होती हैं : अंतभेर्दी शैल एवं बर्हिभेदी शैल ।
+Agneya_1	1	-	-	2:mod	-	-	-	-
+SEla	2	male	-	6:k1	-	-	-	-
+xo	3	numex	-	4:card	-	-	-	-
+prakAra_1	4	-	-	6:rhh	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+aMwaBerxI_1	9	-	-	10:mod	-	-	-	-
+SEla	10	male	-	-	-	-	-	15:op1
+barhiBexI_1	12	-	-	-	-	-	-	15:op2
+SEla	13	male	-	6:k1	-	-	-	-
+[conj_1]	15	-	-	13:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0033H>
+#इग्नियस ।
+igniyasa_1-wA_hE_1	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0033>
+#लैटिन शब्द इग्निस , जिसका अर्थ है अग्नि ।
+lEtina	1	male	-	3:mod	-	-	-	-
+Sabxa	2	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	7:k1	-	-	-	-
+ignisa	3	-	-	-	-	-	-	10:inside
+$yax	5	-	-	6:r6	-	-	-	-
+arWa_1	6	-	-	7:k1	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+agni_1	8	-	-	7:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0034H>
+#सेडिमेद्री ।
+sedimexrI	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0034>
+#लैटिन शब्द सेडिमेटंम , जिसका अर्थ है स्थिर ।
+lEtina	1	male	-	3:mod	-	-	-	-
+Sabxa	2	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	7:k1	-	-	-	-
+sedimetaMma	3	-	-	-	-	-	-	10:inside
+$yax	5	-	-	6:r6	-	-	-	-
+arWa_1	6	-	-	7:k1	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+sWira_1	8	-	-	7:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0035H>
+#मेटामोरफ़िक ।
+metAmoraPZika	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0035>
+#ग्रीक शब्द मेटामोरफोस , जिसका अर्थ है रूप परिवर्तन ।
+grIka	1	male	-	2:mod	-	-	-	-
+Sabxa_1	2	-	-	3:mod	-	-	-	-
+metAmoraPosa	3	-	-	0:ccof	-	-	-	-
+$yax	5	-	-	6:r6	-	-	-	-
+arWa_1	6	-	-	7:k1	-	-	-	-
+hE_1	7	-	-	0:re	-	-	-	-
+rUpa_1	8	-	-	0:krvn	-	-	-	-
+parivarwana_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0036>
+#क्या आप ज्वालामुखी से निकलने वाले लावा की कल्पना कर सकते हैं ?
+$kim	1	-	-	10:krvn	-	-	-	-
+$addressee	2	-	-	10:k1	-	respect	-	-
+jvAlAmuKI_1	3	-	-	5:k5	-	-	-	-
+nikala_1	5	-	pl	7:mod	-	-	-	-
+lAvA_1	7	-	-	9:k2	-	-	-	-
+kalpanA_1	9	-	-	-	-	-	-	14:kriyAmUla
+kara_1-yA_saka_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0037>
+#वास्तव में आग की तरह लाल द्रवित मैग्मा ही लावा है जो पृथ्वी के आंतरिक भाग से निकलकर सतह पर आता है ।
+vAswava_1	1	-	-	11:k7p	-	-	-	-
+Aga_1	3	-	-	11:rv	-	-	-	-
+lAla_1	6	-	-	8:mod	-	-	-	-
+xraviwa_1	7	-	-	6:mod	-	-	-	-
+mEgmA_1	8	-	-	10:mod	-	hI	-	-
+lAvA_1	10	-	-	11:k1	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+$yax	12	-	-	21:k1	-	-	-	-
+pqWvI	13	female	-	16:r6	-	-	-	-
+AMwarika_1	15	-	-	16:mod	-	-	-	-
+BAga_1	16	-	-	18:k5	-	-	-	-
+nikala_1	18	-	-	21:rpk	-	-	-	-
+sawaha_1	19	-	-	21:k7	-	-	-	-
+A_1	21	-	-	10:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0038>
+#जब द्रवित लावा पृथ्वी की सतह पर आता है , यह तेजी से ठंडा होकर ठोस बन जाता है ।
+xraviwa_1	1	-	-	2:mod	-	-	-	-
+lAvA_1	2	-	-	7:k1	-	-	-	-
+pqWvI_1	3	-	-	5:r6	-	-	-	-
+sawaha_1	5	-	-	7:k7	-	-	-	-
+A_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+$wyax	10	-	-	16:k1	-	proximal	-	-
+wejI_1	11	-	-	14:krvn	-	-	-	-
+TaMdA_1	13	-	-	-	-	-	-	20:kriyAmUla
+ho_1	14	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	16:rpk	-	-	-	-
+Tosa_1	15	-	-	-	-	-	-	21:kriyAmUla
+bana_1	16	-	-	-	-	[shade:ja_1]	-	21:verbalizer
+[cp_2]	21	-	-	7:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0039>
+#पर्पटी पर इस प्रकार से बने शैल को बर्हिभेदी आग्नेय शैल कहते हैं ।
+parpatI	1	-	-	6:k7	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+prakAra_1	4	-	-	6:k2	-	-	-	-
+bana_1	6	-	-	7:rvks	-	-	-	-
+SEla	7	male	-	12:k2	-	-	-	-
+barhiBexI	9	-	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	12:k2s	-	-	-	-
+Agneya	10	male	-	-	-	-	-	16:begin
+[ne_2]	16	-	-	12:k2s	-	-	-	-
+SEla	11	male	-	-	-	-	-	16:inside
+kaha_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0040>
+#इनकी संरचना बहुत महीन दानों वाली होती है ।
+$wyax	1	-	pl	2:r6	-	proximal	-	-
+saMracanA_1	2	-	-	7:k1	-	-	-	-
+bahuwa_1	3	-	-	4:intf	-	-	-	-
+mahIna_1	4	-	-	5:mod	-	-	-	-
+xAnA_1	5	-	mawupa	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0041>
+#उदाहरण के लिए - बेसाल्ट ।
+uxAharaNa_1	1	-	-	5:k7a	-	-	-	-
+besAlta_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0042>
+#दक्कन पठार बेसाल्ट शैलों से ही बना है ।
+xakkana	1	-	-	3:mod	-	-	-	-
+paTAra	2	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	4:mod	-	-	-	-
+besAlta	3	-	-	-	-	-	-	10:inside
+SEloM_1	4	-	-	7:k5	-	hI	-	-
+banA_1-0_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0043>
+#द्रवित मैग्मा कभी-कभी भू-पर्पटी के अंदर गहराई में ही ठंडा हो जाता है ।
+xraviwa_1	1	-	-	2:mod	-	-	-	-
+mEgmA_1	2	-	-	11:k1	-	-	-	-
+kaBI_1	3	-	xviwva	11:rh	-	-	-	-
+BU-parpatI	4	-	-	11:k7	-	-	-	-
+aMxara_1	6	-	-	4:k7p	-	-	-	-
+gaharAI_1	7	-	-	11:k7	-	hI	-	-
+TaMdA_1	10	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_ho_1	11	-	-	-	-	[shade:ja_1]	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0044>
+#इस प्रकार बने ठोस शैलों को अंतभेर्दी आग्नेय शैल कहते हैं ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	10:k1	-	-	-	-
+bana_1	3	-	-	5:rvks	-	-	-	-
+Tosa_1	4	-	-	5:mod	-	-	-	-
+SEloM_1	5	-	-	10:k2g	-	-	-	-
+aMwaBerxI_1	7	-	-	9:mod	-	-	-	-
+Agneya	8	male	-	-	-	-	-	13:begin
+[ne_1]	13	-	-	10:k1	-	-	-	-
+SEla	9	male	-	-	-	-	-	13:inside
+kaha_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0045>
+#धीरे - धीरे ठंडा होने के कारण ये बडे दानों का रूप ले लेते हैं ।
+XIre_1	3	-	xviwva	1:pof__redup	-	-	-	-
+TaMdA_1	4	-	-	-	-	-	-	17:kriyAmUla
+ho_1	5	-	pl	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	13:rh	-	-	-	-
+$wyax	8	-	pl	10:dem	-	proximal	-	-
+badA_1	9	-	pl	10:mod	-	-	-	-
+xAnA_1	10	-	pl	12:r6	-	-	-	-
+rUpa_1	12	-	-	-	-	-	-	18:kriyAmUla
+le_1-wA_hE_1	13	-	-	-	-	[shade:le_1]	-	18:verbalizer
+[cp_2]	18	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0046>
+#ग्रेनाइट ऐसे ही शैल का एक उदाहरण है ।
+grenAita_1	1	-	-	8:k1	-	-	-	-
+EsA	2	-	pl	4:dem	-	hI	-	-
+SEla	4	male	-	7:r6	-	-	-	-
+eka_1	6	numex	-	7:card	-	-	-	-
+uxAharaNa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0047>
+#लेई / मसालों तथा दानों का चूर्ण बनाने के लिए जिन अपघर्षण पत्थरों का उपयोग होता है वे ग्रेनाइट के बने होते हैं ।
+leI_1	1	-	-	-	-	-	-	26:op1
+masAlA_1	3	-	pl	-	-	-	-	26:op2
+xAnA_1	5	-	pl	-	-	-	-	26:op3
+cUrNa_1	7	-	-	8:k2	-	-	-	-
+banA_1	8	-	pl	16:rt	-	-	-	-
+$yax	11	-	pl	12:dem	-	-	-	-
+apaGarRaNa_1	12	-	-	16:k1	-	-	-	-
+pawWara_1	13	-	pl	15:r6	-	-	-	-
+upayoga_1	15	-	-	-	-	-	-	25:kriyAmUla
+ho_1-wA_hE_1	16	-	-	-	-	-	-	25:verbalizer
+[cp_1]	25	-	-	0:main	-	-	-	-
+$wyax	18	-	pl	21:k1	-	distal	-	-
+grenAita_1	19	-	-	21:k2	-	-	-	-
+bana_1	21	-	-	16:rc	-	-	-	-
+[conj_1]	26	-	-	7:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0048>
+#जीवाश्म शैलों की परतों में दबे पौधें एवं जंतुओं के अवशेषों को जीवाश्म कहते हैं ।
+jIvASma_1	1	-	-	-	-	-	-	17:mod
+SEloM_1	2	-	-	-	-	-	-	17:head
+[nc_1]	17	-	-	4:r6	-	-	-	-
+parawa_1	4	-	pl	6:k7	-	-	-	-
+xaba_1	6	-	-	7:rvks	-	-	-	-
+pOXeM_1	7	-	-	-	-	-	-	18:op1
+jaMwu_1	9	-	pl	-	-	-	-	18:op2
+avaSeRa_1	11	-	pl	14:k2	-	-	-	-
+jIvASma_1	13	-	-	14:k2s	-	-	-	-
+kaha_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	11:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0049>
+#शैल लुढककर , चटककर तथा एक-दूसरे से टकराकर छोटे-छोटे टुकडों में मृत टूट जाती हैं ।
+SEla	1	male	-	-	-	-	-	17:begin
+[ne_1]	17	-	-	-	-	-	-	18:op1
+luDaka_1	2	-	-	-	-	-	-	17:inside
+cataka_1	4	-	-	-	-	-	-	18:op2
+eka-xUsare	6	-	-	8:k5	-	-	-	-
+takarA_1	8	-	-	13:rpk	-	-	-	-
+Cote_1	9	-	xviwva	10:mod	-	-	-	-
+tukadA_1	10	-	pl	13:k7p	-	-	-	-
+mqwa_1	12	-	-	13:k1s	-	-	-	-
+tUta_1-wA_hE_1	13	-	-	-	-	[shade:ja_1]	-	18:op3
+[conj_1]	18	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0050>
+#इन छोटे कणों को अवसाद कहते हैं ।
+$wyax	1	-	pl	3:dem	-	proximal	-	-
+CotA_1	2	-	pl	3:mod	-	-	-	-
+kaNa_1	3	-	pl	6:k2	-	-	-	-
+avasAxa_1	5	-	-	6:k1	-	-	-	-
+kaha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0051>
+#ये अवसाद हवा , जल आदि के द्वारा एक स्थान से दूसरे स्थान पर पहुँचाकर , जमा कर दिए जाते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+avasAxa_1	2	-	-	18:k1	-	-	-	-
+havA_1	3	-	-	18:k2	-	-	-	-
+jala_1	5	-	-	15:k3	-	Axi	-	-
+eka_1	9	numex	-	10:card	-	-	-	-
+sWAna_1	10	-	-	15:k5	-	-	-	-
+xUsarA_1	12	-	pl	13:nmod__adj	-	-	-	-
+sWAna_1	13	-	-	15:k7p	-	-	-	-
+pahuzcA_1	15	-	-	18:rpk	-	-	-	-
+jamA_1	17	-	-	-	-	-	-	23:kriyAmUla
+kara_1-yA_jA_1	18	-	-	-	-	[shade:xe_1]	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0052>
+#ये अदृढ अवसाद दबकर एवं कठोर होकर शैल की परत बनाते हैं ।
+$wyax	1	-	pl	3:dem	-	proximal	-	-
+axqDa_1	2	-	-	3:mod	-	-	-	-
+avasAxa_1	3	-	-	11:k1	-	-	-	-
+xaba_1	4	-	-	-	-	-	-	15:op1
+kaTora_1	6	-	-	-	-	-	-	14:kriyAmUla
+ho_1	7	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	-	-	-	-	15:op2
+SEla	8	male	-	10:r6	-	-	-	-
+parawa_1	10	-	-	11:k2	-	-	-	-
+banA_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	11:vmod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0053>
+#इस प्रकार की शैलों को अवसादी शैल कहते है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	4:r6	-	-	-	-
+SEloM_1	4	-	-	8:k2	-	-	-	-
+avasAxI_1	6	-	-	7:mod	-	-	-	-
+SEla_1	7	-	-	8:k1	-	-	-	-
+kaha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0054>
+#उदाहरण के लिए , बलुआ पत्थर , रेत के दानों से बनता है ।
+uxAharaNa_1	1	-	-	12:k7a	-	-	-	-
+baluA	5	male	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	12:k1	-	-	-	-
+pawWara_1	6	-	-	-	-	-	-	15:inside
+rewa_1	8	-	-	10:r6	-	-	-	-
+xAnA_1	10	-	pl	12:k5	-	-	-	-
+bana_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0055>
+#इन शैलों में पौधें , जानवरों एवं अन्य सूक्ष्म जीवाणुओं , जो कभी इन शैलों पर रहे हैं , के जीवाश्म भी हो सकते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+SEloM_1	2	-	-	23:k7p	-	-	-	-
+pOXeM_1	4	-	-	-	-	-	-	27:op1
+jAnavara_1	6	-	pl	-	-	-	-	27:op2
+anya_1	8	-	-	10:mod	-	-	-	-
+sUkRma_1	9	-	-	8:mod	-	-	-	-
+jIvANu_1	10	-	pl	-	-	-	-	27:op3
+$yax	12	-	-	17:k1	-	-	-	-
+kaBI	13	-	-	17:k7t	-	-	-	-
+$wyax	14	-	pl	15:dem	-	proximal	-	-
+SEloM_1	15	-	-	17:k7	-	-	-	-
+raha_1	17	-	-	10:rc	-	-	-	-
+jIvASma_1	21	-	-	23:k1	-	BI	-	-
+ho_1-0_saka_hE_1	23	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	21:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0056>
+#आग्नेय एवं अवसादी शैल उच्च ताप एवं दाब के कारण कायांतरित शैलों में परिवर्तित हो सकती हैं ।
+Agneya	1	male	-	-	-	-	-	21:op1
+avasAxI_1	3	-	-	6:mod	-	-	-	-
+SEla	4	male	-	-	-	-	-	19:begin
+[ne_1]	19	-	-	-	-	-	-	21:op2
+ucca_1	5	-	-	6:mod	-	-	-	-
+wApa_1	6	-	-	-	-	-	-	19:inside
+xAba_1	8	-	-	-	-	-	-	21:op3
+kAyAMwariwa_1	11	-	-	12:mod	-	-	-	-
+SEloM_1	12	-	-	-	-	-	-	22:op1
+parivarwiwa_1	14	-	-	-	-	-	-	20:kriyAmUla
+ho_1-0_saka_hE_1	15	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	0:main	-	-	-	-
+[conj_1]	21	-	-	7:ccof	-	-	-	-
+[conj_2]	22	-	-	15:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0057>
+#उदाहरण के लिए , चिकनी मिट्टी स्लेट में एवं चूना पत्थर संगमरमर में परिवर्तित हो जाता है ।
+uxAharaNa_1	1	-	-	9:k7a	-	-	-	-
+cikanA_1	5	-	-	6:mod	-	-	-	-
+mittI_1	6	-	-	-	-	-	-	20:op1
+sleta_1	7	-	-	-	-	-	-	20:op2
+cUnA_1	10	-	-	-	-	-	-	20:op3
+pawWara_1	11	-	-	15:k1	-	-	-	-
+saMgamaramara_1	12	-	-	15:k7	-	-	-	-
+parivarwiwa_1	14	-	-	-	-	-	-	19:kriyAmUla
+ho_1-wA_ho_1	15	-	-	-	-	[shade:ja_1]	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	11:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0058>
+#शैल हमारे लिए बहुत उपयोगी हैं ।
+SEla	1	male	-	6:k1	-	-	-	-
+$speaker	2	-	pl	6:rt	-	-	-	-
+bahuwa_1	4	-	-	5:intf	-	-	-	-
+upayogI_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0059>
+#कठोर शैलों का उपयोग सडक , घर एवं इमारत बनाने के लिए किया जाता है ।
+kaTora_1	1	-	-	2:mod	-	-	-	-
+SEloM_1	2	-	-	4:k2	-	-	-	-
+upayoga_1	4	-	-	-	-	-	-	17:op1
+sadaka_1	5	-	-	-	-	-	-	17:op2
+Gara_1	7	-	-	-	-	-	-	17:op3
+imArawa_1	9	-	-	-	-	-	-	17:op4
+banA_1	10	-	pl	13:rt	-	-	-	-
+kara_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	10:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0060>
+#आप पत्थरों का उपयोग कई खेलों में करते हैं ।
+$addressee	1	-	-	8:k1	-	respect	-	-
+pawWara_1	2	-	pl	4:r6	-	-	-	-
+upayoga_1	4	-	-	-	-	-	-	11:kriyAmUla
+kaI_1	5	-	-	6:quant	-	-	-	-
+Kela_1	6	-	pl	8:k7	-	-	-	-
+kara_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0061>
+#उदाहरण के लिए , सात पत्थर ( पिट्ठ ) , चिबिड्डी ( स्टापू या किट-किट ) , पाँच पत्थर ( गिट्टी ) , आदि ।
+uxAharaNa_1	1	-	-	14:k7a	-	-	-	-
+sAwa	5	numex	-	6:card	-	-	-	-
+pawWara_1	6	-	-	-	-	-	-	26:op1
+pitTa	8	-	-	6:re	-	-	-	-
+cibiddI	11	-	-	-	-	-	-	26:op2
+stApU_1	13	-	-	11:mod	-	-	-	-
+kita_1	15	-	xviwva	23:ccof	-	-	-	-
+pAzca	18	numex	-	19:card	-	-	-	-
+pawWara_1	19	-	-	23:ccof	-	-	-	-
+gittI_1	21	-	-	19:mod	-	-	-	-
+[disjunct_1]	26	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0062>
+#आप अपने दादा-दादी , माता-पिता , पडोसियों आदि से पूछकर कुछ अन्य खेलों की जानकारी प्राप्त करें ।
+$addressee	1	-	-	17:k1	-	respect	-	-
+apanA	2	-	pl	3:r6	-	-	-	-
+xAxA-xAxI	3	-	-	17:k2	-	-	-	-
+mAwA-piwA	5	-	-	17:k1	-	-	-	-
+padosI_1	7	-	pl	10:k5	-	Axi	-	-
+pUCa_1	10	-	-	17:rpk	-	-	-	-
+kuCa_1	11	-	-	13:quant	-	-	-	-
+anya_1	12	-	-	13:mod	-	-	-	-
+Kela_1	13	-	pl	15:r6	-	-	-	-
+jAnakArI_1	15	-	-	17:k2	-	-	-	-
+prApwa_1	16	-	-	-	-	-	-	19:kriyAmUla
+kareM_1-wA_hE_1	17	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0063a>
+#आप अनेक स्मारकों के चित्र एकत्र कीजिए ।
+$addressee	1	-	-	7:k1	-	respect	-	-
+aneka_1	2	-	-	3:quant	-	-	-	-
+smAraka_1	3	-	pl	5:r6	-	-	-	-
+ciwra_1	5	-	-	7:k2	-	-	-	-
+ekawra_1	6	-	-	-	-	-	-	9:kriyAmUla
+kIjie_1-wA_hE_1	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0063b>
+#तथा आप पता यह कीजिए ।
+$addressee	1	-	-	4:k1	-	respect	-	-
+pawA_1	2	-	-	-	-	-	-	6:kriyAmUla
+$wyax	3	-	-	4:k2	-	proximal	-	-
+kIjie_1-wA_hE_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0063c>
+#कि वे किन शैलों से बनी हैं ।
+$wyax	1	-	pl	5:k1	-	distal	-	-
+$kim	2	-	pl	3:mod__wq	-	-	-	-
+SEloM_1	3	-	-	5:rh	-	-	-	-
+bana_1-yA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0064>
+#दो चित्र आप के लिए एकत्रित किए गए हैं ।
+xo	1	numex	-	2:card	-	-	-	-
+ciwra_1	2	-	-	7:k2	-	-	-	-
+$addressee	3	-	-	7:rt	-	respect	-	-
+ekawriwa_1	6	-	-	-	-	-	-	11:kriyAmUla
+kara_1-yA_gae_hE_1	7	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0065>
+#लालकिला , लाल बलुआ पत्थर से बना है ।
+lAlakilA	1	-	-	7:k1	-	-	-	-
+lAla	3	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	5:mod	-	-	-	-
+baluA	4	male	-	-	-	-	-	10:inside
+pawWara_1	5	-	-	7:k3	-	-	-	-
+banA_1-0_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+	<sent_id=Geo_ncert_7stnd_2ch_0066>
+#ताजमहल , सफ़ेद संगमरमर से बना है ।
+wAjamahala	1	male	-	-	-	-	-	9:begin
+[ne_1]	9	place	-	6:k1	-	-	-	-
+saPZexa_1	3	-	-	4:mod	-	-	-	-
+saMgamaramara_1	4	-	-	6:k3	-	-	-	-
+banA_1-0_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0067a>
+#आपको जानकर आश्चर्य यह होगा ।
+$addressee	1	-	-	2:k2	-	respect	-	-
+jAna_1	2	-	-	5:rpk	-	-	-	-
+AScarya_1	3	-	-	5:k1	-	-	-	-
+$wyax	4	-	-	5:k1	-	proximal	-	-
+ho_1-gA_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0067b>
+#कि किन्हीं निश्चित दिशाओं में एक प्रकार की शैल चक्रीय तरीके से एक-दूसरे में परिवर्तित हो जाते हैं ।
+koI_1	1	-	pl	15:k1	-	-	-	-
+niSciwa_1	2	-	-	3:mod	-	-	-	-
+xiSA_1	3	-	pl	15:k7	-	-	-	-
+eka_1	5	numex	-	6:card	-	-	-	-
+prakAra_1	6	-	-	10:r6	-	-	-	-
+SEla	8	male	-	-	-	-	-	19:begin
+[ne_1]	19	-	-	15:rh	-	-	-	-
+cakrIya_1	9	-	-	10:mod	-	-	-	-
+warIkA_1	10	-	pl	-	-	-	-	19:inside
+eka-xUsare	12	-	-	15:k7	-	-	-	-
+parivarwiwa_1	14	-	-	-	-	-	-	20:kriyAmUla
+ho_1-wA_hE_1	15	-	-	-	-	[shade:ja_1]	-	20:verbalizer
+[cp_1]	20	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0068>
+#एक शैल से दूसरे शैल में परिवर्तन होने की इस प्रक्रिया को शैल चक्र कहते हैं ।
+eka_1	1	numex	-	2:card	-	-	-	-
+SEla	2	male	-	8:k2g	-	-	-	-
+xUsarA_1	4	-	pl	5:nmod__adj	-	-	-	-
+SEla	5	male	-	8:k7p	-	-	-	-
+parivarwana_1	7	-	-	-	-	-	-	19:kriyAmUla
+ho_1	8	-	pl	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	11:r6	-	-	-	-
+$wyax	10	-	-	11:dem	-	proximal	-	-
+prakriyA_1	11	-	-	15:k2	-	-	-	-
+SEla	13	male	-	-	-	-	-	18:begin
+[ne_1]	18	-	-	15:k2s	-	-	-	-
+cakra	14	male	-	-	-	-	-	18:inside
+kaha_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0069a>
+#आप यह जानते हैं ।
+$addressee	1	-	-	3:k1	-	respect	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+jAna_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0069b>
+#कि द्रवित मैग्मा ठंडा होकर ठोस आग्नेय शैल बन जाता है ।
+xraviwa_1	1	-	-	2:mod	-	-	-	-
+mEgmA_1	2	-	-	4:k1	-	-	-	-
+TaMdA_1	3	-	-	-	-	-	-	12:kriyAmUla
+ho_1	4	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	8:rpk	-	-	-	-
+Tosa_1	5	-	-	6:mod	-	-	-	-
+Agneya_1	6	-	-	7:mod	-	-	-	-
+SEla	7	male	-	8:k1	-	-	-	-
+bana_1-wA_hE_1	8	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0070>
+#ये आग्नेय शैल छोटे - छोटे टुकडे में टूटकर एक स्थान से दूसरे स्थान पर स्थानांतरित होकर अवसादी शैल का निर्माण करते हैं ।
+$wyax	1	-	pl	7:dem	-	proximal	-	-
+Agneya_1	2	-	-	-	-	-	-	25:mod
+SEla	3	male	-	-	-	-	-	26:begin
+[ne_1]	26	-	-	9:k7	-	-	-	-
+CotA_1	6	-	xviwva	4:pof__redup	-	-	-	-
+tukadA_1	7	-	pl	-	-	-	-	26:inside
+tUta_1	9	-	-	11:rvks	-	-	-	-
+eka_1	10	numex	-	11:card	-	-	-	-
+sWAna_1	11	-	-	17:k5	-	-	-	-
+xUsarA_1	13	-	pl	14:nmod__adj	-	-	-	-
+sWAna_1	14	-	-	17:k7p	-	-	-	-
+sWAnAMwariwa_1	16	-	-	-	-	-	-	27:kriyAmUla
+ho_1	17	-	-	-	-	-	-	27:verbalizer
+[cp_1]	27	-	-	22:rpk	-	-	-	-
+avasAxI_1	18	-	-	19:mod	-	-	-	-
+SEla	19	male	-	21:k2	-	-	-	-
+nirmANa_1	21	-	-	-	-	-	-	28:kriyAmUla
+kara_1-wA_hE_1	22	-	-	-	-	-	-	28:verbalizer
+[cp_2]	28	-	-	0:main	-	-	-	-
+%affirmative
+[nc_1]	25	-	-	9:k7	-	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0071>
+#ताप एवं दाब के कारण ये आग्नेय एवं अवसादी शैल कायांतरित शैल में बदल जाते हैं ।
+wApa_1	1	-	-	-	-	-	-	19:op1
+xAba_1	3	-	-	-	-	-	-	19:op2
+$wyax	6	-	pl	-	-	proximal	-	19:op3
+Agneya_1	7	-	-	8:ccof	-	-	-	-
+avasAxI_1	9	-	-	8:ccof	-	-	-	-
+SEla	10	male	-	-	-	-	-	18:begin
+[ne_1]	18	-	-	14:k7	-	-	-	-
+kAyAMwariwa_1	11	-	-	-	-	-	-	20:op1
+SEla	12	male	-	-	-	-	-	18:inside
+baxala_1-wA_hE_1	14	-	-	0:main	-	[shade:ja_1]	-	-
+[conj_1]	19	-	-	14:k1	-	-	-	-
+[conj_2]	20	-	-	12:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0072>
+#अत्यधिक ताप एवं दाब के कारण कायांतरित शैल पुनः पिघलकर द्रवित मैग्मा बन जाती है ।
+awyaXika_1	1	-	-	2:quant	-	-	-	-
+wApa_1	2	-	-	-	-	-	-	18:op1
+xAba_1	4	-	-	-	-	-	-	18:op2
+kAyAMwariwa_1	7	-	-	8:mod	-	-	-	-
+SEla	8	male	-	13:k1	-	-	-	-
+punaH_1	9	-	-	-	-	-	-	17:kriyAmUla
+piGala_1	10	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	13:rpk	-	-	-	-
+xraviwa_1	11	-	-	12:mod	-	-	-	-
+mEgmA_1	12	-	-	13:k1s	-	-	-	-
+bana_1-wA_hE_1	13	-	-	0:main	-	[shade:ja_1]	-	-
+[conj_1]	18	-	-	13:rh	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0073>
+#यह द्रवित मैग्मा पुनः ठंडा होकर ठोस आग्नेय शैल में परिवर्तित हो जाता है ।
+$wyax	1	-	-	12:k1	-	proximal	-	-
+xraviwa_1	2	-	-	3:mod	-	-	-	-
+mEgmA_1	3	-	-	12:k1	-	-	-	-
+punaH_1	4	-	-	6:krvn	-	-	-	-
+TaMdA_1	5	-	-	-	-	-	-	17:kriyAmUla
+ho_1	6	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	12:rpk	-	-	-	-
+Tosa_1	7	-	-	9:mod	-	-	-	-
+Agneya_1	8	-	-	-	-	-	-	16:mod
+SEla	9	male	-	-	-	-	-	16:head
+[nc_1]	16	-	-	12:k7	-	-	-	-
+parivarwiwa_1	11	-	-	-	-	-	-	18:kriyAmUla
+ho_1-wA_ho_1	12	-	-	-	-	[shade:ja_1]	-	18:verbalizer
+[cp_2]	18	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0074>
+#आपके राज्य में कौन-से खनिज पाए जाते हैं ?
+$addressee	1	-	-	2:r6	-	respect	-	-
+rAjya_1	2	-	-	6:k7p	-	-	-	-
+kOna-se	4	-	-	5:mod__wq	-	-	-	-
+Kanija_1	5	-	-	6:k2	-	-	-	-
+pA_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0075>
+#अपनी कक्षा में दिखाने के लिए कुछ नमूने एकत्र कीजिए ।
+apanA	1	-	-	2:r6	-	-	-	-
+kakRA_1	2	-	-	4:k7	-	-	-	-
+xiKA_1	4	-	pl	10:rt	-	-	-	-
+kuCa_1	7	-	-	8:quant	-	-	-	-
+namUnA_1	8	-	pl	10:k2	-	-	-	-
+ekawra_1	9	-	-	-	-	-	-	12:kriyAmUla
+kIjie_1-wA_hE_1	10	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0076>
+#शैल विभिन्न खनिजों से बनी होती हैं ।
+SEla	1	male	-	5:k1	-	-	-	-
+viBinna_1	2	-	-	3:mod	-	-	-	-
+KanijoM_1	3	-	-	5:ras-k1	-	-	-	-
+bana_1-yA_ho_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0077>
+#खनिज प्राकृतिक रूप में पाए जाने वाले पदार्थ हैं जिनका निश्चित भौतिक गुणधर्म एवं निश्चित रासायनिक मिश्रण होता है ।
+Kanija	1	male	-	-	-	-	-	21:begin
+[ne_1]	21	-	-	5:k7	-	-	-	-
+prAkqwika_1	2	-	-	3:mod	-	-	-	-
+rUpa_1	3	-	-	-	-	-	-	21:inside
+pA_1	5	-	-	8:mod	-	-	-	-
+paxArWa_1	8	-	-	9:k1	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+$yax	10	-	pl	13:r6	-	-	-	-
+niSciwa_1	11	-	-	13:mod	-	-	-	-
+BOwika_1	12	-	-	11:mod	-	-	-	-
+guNaXarma_1	13	-	-	-	-	-	-	22:op1
+niSciwa_1	15	-	-	17:mod	-	-	-	-
+rAsAyanika_1	16	-	-	15:mod	-	-	-	-
+miSraNa_1	17	-	-	-	-	-	-	22:op2
+ho_1	18	-	-	9:rc	-	-	-	-
+[conj_1]	22	-	-	18:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0078>
+#खनिज मानव जाति के लिए बहुत महत्त्वपूर्ण हैं ।
+Kanija	1	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	8:rt	-	-	-	-
+mAnava_1	2	-	-	-	-	-	-	11:mod
+jAwi_1	3	-	-	-	-	-	-	11:head
+[nc_1]	11	-	-	8:rt	-	-	-	-
+bahuwa_1	6	-	-	7:intf	-	-	-	-
+mahawwvapUrNa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0079>
+#कुछ का उपयोग ईंधन की तरह होता है जैसे-कोयला , प्राकृतिक गैस एवं पेट्रोलियम ।
+kuCa	1	-	-	3:k2	-	-	-	-
+upayoga_1	3	-	-	7:k1	-	-	-	-
+IMXana_1	4	-	-	7:rv	-	-	-	-
+ho_1-wA_hE_1	7	-	-	-	-	-	-	16:op1
+jEse-koyalA	9	-	-	-	-	-	-	16:op2
+prAkqwika_1	11	-	-	12:mod	-	-	-	-
+gEsa_1	12	-	-	-	-	-	-	16:op3
+petroliyama_1	14	-	-	-	-	-	-	16:op4
+[conj_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0080>
+#इनका उपयोग उद्योगों , औषधि एवं उर्वरक में भी होता है जैसे लोहा , एल्यूमिनियम , सोना , यूरेनियम , आदि ।
+$wyax	1	-	pl	2:r6	-	proximal	-	-
+upayoga_1	2	-	-	10:k1	-	-	-	-
+uxyogoM_1	3	-	-	-	-	-	-	23:op1
+ORaXi_1	5	-	-	-	-	-	-	23:op2
+urvaraka_1	7	-	-	-	-	BI	-	23:op3
+ho_1	10	-	-	12:ccof	-	-	-	-
+lohA_1	13	-	-	0:k3	-	-	-	-
+elyUminiyama_1	15	-	-	17:ccof	-	-	-	-
+sonA_1	17	-	-	0:main	-	Axi	-	-
+yUreniyama_1	19	-	-	21:ccof	-	-	-	-
+[conj_1]	23	-	-	10:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0081>
+#आप निम्न प्रश्नों के उत्तर दीजिए ।
+$addressee	1	-	-	6:k1	-	respect	-	-
+nimna_1	2	-	-	3:mod	-	-	-	-
+praSna_1	3	-	pl	5:r6	-	-	-	-
+uwwara_1	5	-	-	6:k2	-	-	-	-
+xe_1-e_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0082>
+#पृथ्वी की तीन परतें क्या हैं ?
+pqWvI	1	female	-	4:r6	-	-	-	-
+wIna	3	numex	pl	4:card	-	-	-	-
+parawa_1	4	-	pl	6:k1	-	-	-	-
+$kim	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0083>
+#शैल क्या है ?
+SEla	1	male	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0084>
+#आप तीन प्रकार की शैलों के नाम लिखें ।
+$addressee	1	-	-	8:k1	-	respect	-	-
+wIna	2	numex	pl	3:card	-	-	-	-
+prakAra_1	3	-	-	5:r6	-	-	-	-
+SEloM_1	5	-	-	7:r6	-	-	-	-
+nAma_1	7	-	-	8:k2	-	-	-	-
+liKa_1-e_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0085>
+#बहिर्भेदी एवं अंतर्भेदी शैल का निर्माण कैसे होता है ?
+bahirBexI	1	-	-	-	-	-	-	12:op1
+aMwarBexI	3	-	-	-	-	-	-	11:begin
+[ne_1]	11	-	-	-	-	-	-	12:op2
+SEla	4	male	-	-	-	-	-	11:inside
+nirmANa_1	6	-	-	8:k1	-	-	-	-
+$kim	7	-	pl	8:krvn	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	6:k2	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0086>
+#शैल चक्र से आप क्या समझते हैं ?
+SEla	1	male	-	-	-	-	-	9:begin
+[ne_1]	9	-	-	6:k5	-	-	-	-
+cakra	2	male	-	-	-	-	-	9:inside
+$addressee	4	-	-	6:k1	-	respect	-	-
+$kim	5	-	-	6:krvn	-	-	-	-
+samaJa_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0087>
+#शैलों के क्या उपयोग हैं ?
+SEloM_1	1	-	-	4:r6	-	-	-	-
+$kim	3	-	-	4:mod__wq	-	-	-	-
+upayoga_1	4	-	-	5:k1	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0088>
+#आप सही उत्तर चिह्नित कीजिए ।
+$addressee	1	-	-	5:k1	-	respect	-	-
+saha_1	2	-	-	3:mod	-	-	-	-
+uwwara_1	3	-	-	5:k2	-	-	-	-
+cihniwa_1	4	-	-	-	-	-	-	7:kriyAmUla
+kIjie_1-wA_hE_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0089>
+#सोना , पेट्रोलियम एवं कोयला किसके उदाहरण हैं ?
+sonA_1	1	-	-	-	-	-	-	10:op1
+petroliyama	3	male	-	-	-	-	-	10:op2
+koyalA_1	5	-	-	-	-	-	-	10:op3
+$kim	6	-	-	7:r6	-	-	-	-
+uxAharaNa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	8:k1	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0090>
+#शैल , जिसमें जीवाश्म होते हैं ।
+SEla	1	male	-	0:main	-	-	-	-
+$yax	3	-	-	5:k7	-	-	-	-
+jIvASma_1	4	-	-	5:k1	-	-	-	-
+ho_1	5	-	pl	1:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0091>
+#पृथ्वी की सबसे पतली परत है ।
+pqWvI	1	female	-	5:r6	-	-	-	-
+pawalA_1	4	-	superl	5:mod	-	-	-	-
+parawa_1	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0092>
+#निम्नलिखित स्तंभों को मिलाकर सही जोडे बनाइए ।
+nimnaliKiwa_1	1	-	-	2:mod	-	-	-	-
+swaMBa_1	2	-	pl	4:k2	-	-	-	-
+milA_1	4	-	-	6:rpk	-	-	-	-
+saha_1	5	-	-	-	-	-	-	9:kriyAmUla
+joda_1-subj_banA_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0093>
+#कारण बताइए ।
+kAraNa_1	1	-	-	2:k2	-	-	-	-
+bawA_1-o_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0094>
+#हम पृथ्वी के केंद्र तक नहीं जा सकते हैं ।
+$speaker	1	-	pl	7:k1	-	-	-	-
+pqWvI	2	female	-	4:r6	-	-	-	-
+keMxra_1	4	-	-	7:k2p	-	-	-	-
+nahIM_1	6	-	-	7:neg	-	-	-	-
+jA_1-0_saka_hE_1	7	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0095>
+#अवसादी शैल अवसाद से बनती है ।
+avasAxI_1	1	-	-	3:mod	-	-	-	-
+SEla	2	male	-	-	-	-	-	8:begin
+[ne_1]	8	-	-	5:rh	-	-	-	-
+avasAxa_1	3	-	-	-	-	-	-	8:inside
+bana_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0096>
+#चूना पत्थर संगमरमर में बदलता है ।
+cUnA_1	1	-	-	5:k1	-	-	-	-
+pawWara_1	2	-	-	5:k1	-	-	-	-
+saMgamaramara_1	3	-	-	5:k7p	-	-	-	-
+baxala_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0097>
+#आओ खेलें ।
+Kela_1-e_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0098>
+#आप निम्न वस्तुओं में उपयोग किए गए खनिजों की पहचान करें ।
+$addressee	1	-	-	11:k1	-	respect	-	-
+nimna_1	2	-	-	3:mod	-	-	-	-
+vaswu_1	3	-	pl	6:k7	-	-	-	-
+upayoga_1	5	-	-	-	-	-	-	13:kriyAmUla
+kara_1	6	-	pl	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	8:rbks	-	-	-	-
+KanijoM_1	8	-	-	10:k2	-	-	-	-
+pahacAna_1	10	-	-	-	-	-	-	14:kriyAmUla
+kareM_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_2]	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_2ch_0099>
+#आप विभिन्न खनिजों से बनी कुछ अन्य वस्तुओं के चित्र बनाएँ ।
+$addressee	1	-	-	11:k1	-	respect	-	-
+viBinna_1	2	-	-	3:mod	-	-	-	-
+KanijoM_1	3	-	-	5:ras-k1	-	-	-	-
+bana_1	5	-	-	8:rvks	-	-	-	-
+kuCa_1	6	-	-	8:quant	-	-	-	-
+anya_1	7	-	-	8:mod	-	-	-	-
+vaswu_1	8	-	pl	10:r6	-	-	-	-
+ciwra_1	10	-	-	11:k2	-	-	-	-
+banA_1-e_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+
+

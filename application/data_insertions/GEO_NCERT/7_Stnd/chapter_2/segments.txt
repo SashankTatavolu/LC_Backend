@@ -1,0 +1,110 @@
+Geo_ncert_7stnd_2ch_0001	हमारी पृथ्वी के अंदर।	hamArI pqWvI ke aMxara.	Inside Our Earth
+Geo_ncert_7stnd_2ch_0002	हमारी पृथ्वी एक गतिशील ग्रह है।	hamArI pqWvI eka gawiSIla graha hE.	The earth, our homeland is a dynamic planet.
+Geo_ncert_7stnd_2ch_0003	इसके अंदर एवं बाहर निरंतर परिवर्तन होता रहता है।	isake aMxara evaM bAhara niraMwara parivarwana howA rahawA hE.	It is constantly undergoing changes inside and outside.
+Geo_ncert_7stnd_2ch_0004a	क्या आपने कभी यह सोचा है।	kyA Apane kaBI yaha socA hE.	Have you ever wondered what lies in the interior of the earth?
+Geo_ncert_7stnd_2ch_0004b	कि पृथ्वी के आंतरिक भाग में क्या है?	ki pqWvI ke AMwarika BAga meM kyA hE?	Have you ever wondered what lies in the interior of the earth?
+Geo_ncert_7stnd_2ch_0005	पृथ्वी किन पदार्थों से बनी है?	pqWvI kina paxArWoM se banI hE?	What is the earth made up of?
+Geo_ncert_7stnd_2ch_0006	पृथ्वी का आंतरिक भाग एक प्याज की तरह पृथ्वी भी एक के ऊपर एक संकेंद्री परतों से बनी है।	pqWvI kA AMwarika BAga eka pyAja kI waraha pqWvI BI eka ke Upara eka saMkeMxrI parawoM se banI hE.	Just like an onion, the earth is made up of several concentric layers with one inside another.
+Geo_ncert_7stnd_2ch_0007	पृथ्वी की सतह की सबसे ऊपरी परत को पर्पटी कहते हैं।	pqWvI kI sawaha kI sabase UparI parawa ko parpatI kahawe hEM.	The uppermost layer over the earth’s surface is called the crust.
+Geo_ncert_7stnd_2ch_0008	यह सबसे पतली परत होती है।	yaha sabase pawalI parawa howI hE.	It is the thinnest of all the layers.
+Geo_ncert_7stnd_2ch_0009	यह महाद्वीपीय संहति में 35 किलोमीटर एवं समुद्री सतह में केवल 5 किलोमीटर तक है।	yaha mahAxvIpIya saMhawi meM 35 kilomItara evaM samuxrI sawaha meM kevala 5 kilomItara waka hE.	It is about 35 km. on the continental masses and only 5 km. on the ocean floors.
+Geo_ncert_7stnd_2ch_0010	महाद्वीपीय संहति मुख्य रूप से सिलिका एवं ऐलुमिना जैसे खनिजों से बनी है।	mahAxvIpIya saMhawi muKya rUpa se silikA evaM EluminA jEse KanijoM se banI hE.	The main mineral constituents of the continental mass are silica and alumina.
+Geo_ncert_7stnd_2ch_0011	इसलिए इसे सिएल (सि-सिलिका तथा एल-एलुमिना) कहा जाता है।	isalie ise siela (si-silikA waWA ela-eluminA) kahA jAwA hE.	It is thus called sial (si-silica and al- alumina).
+Geo_ncert_7stnd_2ch_0012	महासागर की पर्पटी मुख्यतः सिलिका एवं मैग्नीशियम की बनी है; ।	mahAsAgara kI parpatI muKyawaH silikA evaM mEgnISiyama kI banI hE; .	The oceanic crust mainly consists of silica and magnesium.
+Geo_ncert_7stnd_2ch_0013	इसलिए इसे सिमै (सि-सिलिका तथा मै-मैग्नीशियम) कहा जाता है।	isalie ise simE (si-silikA waWA mE-mEgnISiyama) kahA jAwA hE.	It is therefore called sima (si-silica and ma-magnesium).
+Geo_ncert_7stnd_2ch_0014	पर्पटी के ठीक नीचे मैंटल होता है जो 2900 किलोमीटर की गहराई तक फैला होता है।	parpatI ke TIka nIce mEMtala howA hE jo 2900 kilomItara kI gaharAI waka PElA howA hE.	Just beneath the crust is the mantle which extends up to a depth of 2900 km. below the crust
+Geo_ncert_7stnd_2ch_0015	इसकी सबसे आंतरिक परत क्रोड है, जिसकी त्रिज्या लगभग 3500 किलामीटर है।	isakI sabase AMwarika parawa kroda hE, jisakI wrijyA lagaBaga 3500 kilAmItara hE.	The innermost layer is the core with a radius of about 3500 km.
+Geo_ncert_7stnd_2ch_0016a	यह मुख्यतः निकल एवं लोहे की बनी होती है ।	yaha muKyawaH nikala evaM lohe kI banI howI hE .	It is mainly made up of nickel and iron and is called nife (ni – nickel and fe – ferrous i.e. iron).
+Geo_ncert_7stnd_2ch_0016b	तथा इसे निफ़े (नि-निकिल तथा फ़े-फ़ेरस) कहते हैं।	waWA ise niPZe (ni-nikila waWA PZe-PZerasa) kahawe hEM.	It is mainly made up of nickel and iron and is called nife (ni – nickel and fe – ferrous i.e. iron).
+Geo_ncert_7stnd_2ch_0017	केंद्रीय क्रोड का तापमान एवं दाब काफी उच्च होता है।	keMxrIya kroda kA wApamAna evaM xAba kAPI ucca howA hE.	The central core has very high temperature and pressure.
+Geo_ncert_7stnd_2ch_0018a	विश्व की सबसे गहरी खान दक्षिण अफ़्रीका में स्थित है ।	viSva kI sabase gaharI KAna xakRiNa aPZrIkA meM sWiwa hE .	The deepest mine in the world, is in South Africa. It is about 4 km. deep.
+Geo_ncert_7stnd_2ch_0018b	तथा इसकी गहराई लगभग 4 किलोमीटर है।	waWA isakI gaharAI lagaBaga 4 kilomItara hE.	The deepest mine in the world, is in South Africa. It is about 4 km. deep.
+Geo_ncert_7stnd_2ch_0019	तेल की खोज में इंजीनियर 6 किलोमीटर गहराई तक खोद चुके हैं।	wela kI Koja meM iMjIniyara 6 kilomItara gaharAI waka Koxa cuke hEM.	In search for oil engineers have dug a hole about 6 km. deep.
+Geo_ncert_7stnd_2ch_0020	पृथ्वी के केंद्र तक पहुँचने के लिए (जो बिलकुल असंभव है) आपको समुद्र की सतह पर 6000 किलोमीटर गहराई तक खोदना होगा !	pqWvI ke keMxra waka pahuzcane ke lie (jo bilakula asaMBava hE) Apako samuxra kI sawaha para 6000 kilomItara gaharAI waka KoxanA hogA !	To reach to the centre of the earth (which is not possible!) you will have to dig a hole 6000 km. deep on the ocean floor.
+Geo_ncert_7stnd_2ch_0021	पृथ्वी के आयतन का केवल 1 प्रतिशत हिस्सा ही पर्पटी है।	pqWvI ke Ayawana kA kevala 1 prawiSawa hissA hI parpatI hE.	The crust forms only 1 per cent of the volume of the earth.
+Geo_ncert_7stnd_2ch_0022	84 प्रतिशत मैटंल एवं 15 प्रतिशत हिस्सा क्रोड है।	84 prawiSawa mEtaMla evaM 15 prawiSawa hissA kroda hE.	84 per cent consists of the mantle and 15 per cent makes the core.
+Geo_ncert_7stnd_2ch_0023	पृथ्वी की त्रिज्या 6371 किलोमीटर है।	pqWvI kI wrijyA 6371 kilomItara hE.	The radius of the earth is 6371 km.
+Geo_ncert_7stnd_2ch_0024	शैल एवं खनिज।	SEla evaM Kanija.	ROCKS AND MINERALS
+Geo_ncert_7stnd_2ch_0025	पृथ्वी की पर्पटी अनेक प्रकार के शैलों से बनी है।	pqWvI kI parpatI aneka prakAra ke SEloM se banI hE.	The earth’s crust is made up of various types of rocks.
+Geo_ncert_7stnd_2ch_0026	पृथ्वी की पर्पटी बनाने वाले खनिज पदार्थ के किसी भी प्राकृतिक पिंड को शैल कहते हैं।	pqWvI kI parpatI banAne vAle Kanija paxArWa ke kisI BI prAkqwika piMda ko SEla kahawe hEM.	Any natural mass of mineral matter that makes up the earth’s crust is called a rock.
+Geo_ncert_7stnd_2ch_0027	शैल विभिन्न रंग, आकार एवं गठन की हो सकती हैं।	SEla viBinna raMga, AkAra evaM gaTana kI ho sakawI hEM.	Rocks can be of different colour, size and texture.
+Geo_ncert_7stnd_2ch_0028	मुख्य रूप से शैल तीन प्रकार की होती हैं-आग्नेय (इग्नियस) शैल,अवसादी (सेडिमेंद्री )शैल एवं कायांतरित (मेटामोरफ़िक) शैल।	muKya rUpa se SEla wIna prakAra kI howI hEM-Agneya (igniyasa) SEla,avasAxI (sedimeMxrI )SEla evaM kAyAMwariwa (metAmoraPZika) SEla.	There are three major types of rocks: igneous rocks, sedimentary rocks and metamorphic rocks.
+Geo_ncert_7stnd_2ch_0029	द्रवित मैग्मा ठंडा होकर ठोस हो जाता है।	xraviwa mEgmA TaMdA hokara Tosa ho jAwA hE.	When the molten magma cools, it becomes solid.
+Geo_ncert_7stnd_2ch_0030	इस प्रकार बने शैल को आग्नेय शैल कहते हैं।	isa prakAra bane SEla ko Agneya SEla kahawe hEM.	Rocks thus formed are called igneous rocks.
+Geo_ncert_7stnd_2ch_0031	इन्हें प्राथमिक शैल भी कहते हैं।	inheM prAWamika SEla BI kahawe hEM.	They are also called primary rocks.
+Geo_ncert_7stnd_2ch_0032	आग्नेय शैल दो प्रकार की होती हैं: अंतभेर्दी शैल एवं बर्हिभेदी शैल।	Agneya SEla xo prakAra kI howI hEM: aMwaBerxI SEla evaM barhiBexI SEla.	There are two types of igneous rocks: intrusive rocks and extrusive rocks.
+"Geo_ncert_7stnd_2ch_0033
+H"	इग्नियस ।	igniyasa .	Igneous: Latin word Ignis meaning fire.
+Geo_ncert_7stnd_2ch_0033	लैटिन शब्द इग्निस, जिसका अर्थ है अग्नि।	lEtina Sabxa ignisa, jisakA arWa hE agni.	Igneous: Latin word Ignis meaning fire.
+Geo_ncert_7stnd_2ch_0034H	सेडिमेद्री ।	sedimexrI .	Sedimentary: Latin word sedimentum meaning settle down.
+Geo_ncert_7stnd_2ch_0034	लैटिन शब्द सेडिमेटंम, जिसका अर्थ है स्थिर।	lEtina Sabxa sedimetaMma, jisakA arWa hE sWira.	Sedimentary: Latin word sedimentum meaning settle down.
+Geo_ncert_7stnd_2ch_0035H	मेटामोरफ़िक ।	metAmoraPZika .	Metamorphic: Greek word metamorphose meaning change of form.
+Geo_ncert_7stnd_2ch_0035	ग्रीक शब्द मेटामोरफोस, जिसका अर्थ है रूप परिवर्तन।	grIka Sabxa metAmoraPosa, jisakA arWa hE rUpa parivarwana.	Metamorphic: Greek word metamorphose meaning change of form.
+Geo_ncert_7stnd_2ch_0036	क्या आप ज्वालामुखी से निकलने वाले लावा की कल्पना कर सकते हैं?	kyA Apa jvAlAmuKI se nikalane vAle lAvA kI kalpanA kara sakawe hEM?	Can you imagine lava coming out from the volcanoes?
+Geo_ncert_7stnd_2ch_0037	वास्तव में आग की तरह लाल द्रवित मैग्मा ही लावा है जो पृथ्वी के आंतरिक भाग से निकलकर सतह पर आता है।	vAswava meM Aga kI waraha lAla xraviwa mEgmA hI lAvA hE jo pqWvI ke AMwarika BAga se nikalakara sawaha para AwA hE.	Lava is actually fiery red molten magma coming out from the interior of the earth on its surface.
+Geo_ncert_7stnd_2ch_0038	जब द्रवित लावा पृथ्वी की सतह पर आता है, यह तेजी से ठंडा होकर ठोस बन जाता है।	jaba xraviwa lAvA pqWvI kI sawaha para AwA hE, yaha wejI se TaMdA hokara Tosa bana jAwA hE.	When this molten lava comes on the earth’s surface, it rapidly cools down and becomes solid.
+Geo_ncert_7stnd_2ch_0039	पर्पटी पर इस प्रकार से बने शैल को बर्हिभेदी आग्नेय शैल कहते हैं।	parpatI para isa prakAra se bane SEla ko barhiBexI Agneya SEla kahawe hEM.	Rocks formed in such a way on the crust are called extrusive igneous rocks.
+Geo_ncert_7stnd_2ch_0040	इनकी संरचना बहुत महीन दानों वाली होती है।	inakI saMracanA bahuwa mahIna xAnoM vAlI howI hE.	They have a very fine grained structure.
+Geo_ncert_7stnd_2ch_0041	उदाहरण के लिए - बेसाल्ट।	uxAharaNa ke lie - besAlta.	For example, basalt.
+Geo_ncert_7stnd_2ch_0042	दक्कन पठार बेसाल्ट शैलों से ही बना है।	xakkana paTAra besAlta SEloM se hI banA hE.	The Deccan plateau is made up of basalt rocks.
+Geo_ncert_7stnd_2ch_0043	द्रवित मैग्मा कभी-कभी भू-पर्पटी के अंदर गहराई में ही ठंडा हो जाता है।	xraviwa mEgmA kaBI-kaBI BU-parpatI ke aMxara gaharAI meM hI TaMdA ho jAwA hE.	Sometimes the molten magma cools down deep inside the earth’s crust.
+Geo_ncert_7stnd_2ch_0044	इस प्रकार बने ठोस शैलों को अंतभेर्दी आग्नेय शैल कहते हैं।	isa prakAra bane Tosa SEloM ko aMwaBerxI Agneya SEla kahawe hEM.	Solid rocks so formed are called intrusive igneous rocks.
+Geo_ncert_7stnd_2ch_0045	धीरे- धीरे ठंडा होने के कारण ये बडे दानों का रूप ले लेते हैं।	XIre- XIre TaMdA hone ke kAraNa ye bade xAnoM kA rUpa le lewe hEM.	Since they cool down slowly they form large grains.
+Geo_ncert_7stnd_2ch_0046	ग्रेनाइट ऐसे ही शैल का एक उदाहरण है।	grenAita Ese hI SEla kA eka uxAharaNa hE.	Granite is an example of such a rock.
+Geo_ncert_7stnd_2ch_0047	लेई/ मसालों तथा दानों का चूर्ण बनाने के लिए जिन अपघर्षण पत्थरों का उपयोग होता है वे ग्रेनाइट के बने होते हैं।	leI/ masAloM waWA xAnoM kA cUrNa banAne ke lie jina apaGarRaNa pawWaroM kA upayoga howA hE ve grenAita ke bane howe hEM.	Grinding stones used to prepare paste/powder of spices and grains are made of granite.
+Geo_ncert_7stnd_2ch_0048	जीवाश्म शैलों की परतों में दबे पौधें एवं जंतुओं के अवशेषों को जीवाश्म कहते हैं।	jIvASma SEloM kI parawoM meM xabe pOXeM evaM jaMwuoM ke avaSeRoM ko jIvASma kahawe hEM.	Fossils: The remains of the dead plants and animals trapped in the layers of rocks are called fossils.
+Geo_ncert_7stnd_2ch_0049	शैल लुढककर, चटककर तथा एक-दूसरे से टकराकर छोटे-छोटे टुकडों में मृत टूट जाती हैं।	SEla luDakakara, catakakara waWA eka-xUsare se takarAkara Cote-Cote tukadoM meM mqwa tUta jAwI hEM.	Rocks roll down, crack, and hit each other and are broken down into small fragments
+Geo_ncert_7stnd_2ch_0050	इन छोटे कणों को अवसाद कहते हैं।	ina Cote kaNoM ko avasAxa kahawe hEM.	These smaller particles are called sediments.
+Geo_ncert_7stnd_2ch_0051	ये अवसाद हवा, जल आदि के द्वारा एक स्थान से दूसरे स्थान पर पहुँचाकर, जमा कर दिए जाते हैं।	ye avasAxa havA, jala Axi ke xvArA eka sWAna se xUsare sWAna para pahuzcAkara, jamA kara xie jAwe hEM.	These sediments are transported and deposited by wind, water, etc.
+Geo_ncert_7stnd_2ch_0052	ये अदृढ अवसाद दबकर एवं कठोर होकर शैल की परत बनाते हैं।	ye axqDa avasAxa xabakara evaM kaTora hokara SEla kI parawa banAwe hEM.	These loose sediments are compressed and hardened to form layers of rocks.
+Geo_ncert_7stnd_2ch_0053	इस प्रकार की शैलों को अवसादी शैल कहते है।	isa prakAra kI SEloM ko avasAxI SEla kahawe hE.	These types of rocks are called sedimentary rocks.
+Geo_ncert_7stnd_2ch_0054	उदाहरण के लिए, बलुआ पत्थर, रेत के दानों से बनता है।	uxAharaNa ke lie, baluA pawWara, rewa ke xAnoM se banawA hE.	For example, sandstone is made from grains of sand.
+Geo_ncert_7stnd_2ch_0055	इन शैलों में पौधें, जानवरों एवं अन्य सूक्ष्म जीवाणुओं, जो कभी इन शैलों पर रहे हैं, के जीवाश्म भी हो सकते हैं।	ina SEloM meM pOXeM, jAnavaroM evaM anya sUkRma jIvANuoM, jo kaBI ina SEloM para rahe hEM, ke jIvASma BI ho sakawe hEM.	These rocks may also contain fossils of plants, animals and other micro- organisms that once lived on them.
+Geo_ncert_7stnd_2ch_0056	आग्नेय एवं अवसादी शैल उच्च ताप एवं दाब के कारण कायांतरित शैलों में परिवर्तित हो सकती हैं।	Agneya evaM avasAxI SEla ucca wApa evaM xAba ke kAraNa kAyAMwariwa SEloM meM parivarwiwa ho sakawI hEM.	Igneous and sedimentary rocks can change into metamorphic rocks under great heat and pressure
+Geo_ncert_7stnd_2ch_0057	उदाहरण के लिए, चिकनी मिट्टी स्लेट में एवं चूना पत्थर संगमरमर में परिवर्तित हो जाता है।	uxAharaNa ke lie, cikanI mittI sleta meM evaM cUnA pawWara saMgamaramara meM parivarwiwa ho jAwA hE.	For example, clay changes into slate and limestone into marble.
+Geo_ncert_7stnd_2ch_0058	शैल हमारे लिए बहुत उपयोगी हैं।	SEla hamAre lie bahuwa upayogI hEM.	Rocks are very useful to us.
+Geo_ncert_7stnd_2ch_0059	कठोर शैलों का उपयोग सडक, घर एवं इमारत बनाने के लिए किया जाता है।	kaTora SEloM kA upayoga sadaka, Gara evaM imArawa banAne ke lie kiyA jAwA hE.	The hard rocks are used for making roads, houses and buildings.
+Geo_ncert_7stnd_2ch_0060	आप पत्थरों का उपयोग कई खेलों में करते हैं।	Apa pawWaroM kA upayoga kaI KeloM meM karawe hEM.	You use stones in many games.
+Geo_ncert_7stnd_2ch_0061	उदाहरण के लिए, सात पत्थर (पिट्ठ) , चिबिड्डी (स्टापू या किट-किट), पाँच पत्थर (गिट्टी), आदि।	uxAharaNa ke lie, sAwa pawWara (pitTa) , cibiddI (stApU yA kita-kita), pAzca pawWara (gittI), Axi.	For example, seven stones (pitthoo), hop- scotch (stapu/kit kit), five stones (gitti).
+Geo_ncert_7stnd_2ch_0062	आप अपने दादा-दादी, माता-पिता, पडोसियों आदि से पूछकर कुछ अन्य खेलों की जानकारी प्राप्त करें।	Apa apane xAxA-xAxI, mAwA-piwA, padosiyoM Axi se pUCakara kuCa anya KeloM kI jAnakArI prApwa kareM.	Find out some more such games by asking your grand parents, parents, neighbours, etc.
+Geo_ncert_7stnd_2ch_0063a	आप अनेक स्मारकों के चित्र एकत्र कीजिए ।	Apa aneka smArakoM ke ciwra ekawra kIjie .	Collect pictures of some monuments and find out which are the rocks used to build them.
+Geo_ncert_7stnd_2ch_0063b	तथा आप पता यह कीजिए।	waWA Apa pawA yaha kIjie.	Collect pictures of some monuments and find out which are the rocks used to build them.
+Geo_ncert_7stnd_2ch_0063c	कि वे किन शैलों से बनी हैं।	ki ve kina SEloM se banI hEM.	Collect pictures of some monuments and find out which are the rocks used to build them.
+Geo_ncert_7stnd_2ch_0064	दो चित्र आप के लिए एकत्रित किए गए हैं।	xo ciwra Apa ke lie ekawriwa kie gae hEM.	Two pictures have been collected for you.
+Geo_ncert_7stnd_2ch_0065	लालकिला, लाल बलुआ पत्थर से बना है।	lAlakilA, lAla baluA pawWara se banA hE.	The Red Fort is made of red sandstone
+Geo_ncert_7stnd_2ch_0066	ताजमहल, सफ़ेद संगमरमर से बना है।	wAjamahala, saPZexa saMgamaramara se banA hE.	The Taj Mahal is made of white marble
+Geo_ncert_7stnd_2ch_0067a	आपको जानकर आश्चर्य यह होगा।	Apako jAnakara AScarya yaha hogA.	You will be surprised to know that one type of rock changes to another type under certain conditions in a cyclic manner.
+Geo_ncert_7stnd_2ch_0067b	कि किन्हीं निश्चित दिशाओं में एक प्रकार की शैल चक्रीय तरीके से एक-दूसरे में परिवर्तित हो जाते हैं।	ki kinhIM niSciwa xiSAoM meM eka prakAra kI SEla cakrIya warIke se eka-xUsare meM parivarwiwa ho jAwe hEM.	You will be surprised to know that one type of rock changes to another type under certain conditions in a cyclic manner.
+Geo_ncert_7stnd_2ch_0068	एक शैल से दूसरे शैल में परिवर्तन होने की इस प्रक्रिया को शैल चक्र कहते हैं।	eka SEla se xUsare SEla meM parivarwana hone kI isa prakriyA ko SEla cakra kahawe hEM.	This process of transformation of the rock from one to another is known as the rock cycle
+Geo_ncert_7stnd_2ch_0069a	आप यह जानते हैं।	Apa yaha jAnawe hEM.	You have already learnt when the molten magma cools; it solidifies to become igneous rock.
+Geo_ncert_7stnd_2ch_0069b	कि द्रवित मैग्मा ठंडा होकर ठोस आग्नेय शैल बन जाता है।	ki xraviwa mEgmA TaMdA hokara Tosa Agneya SEla bana jAwA hE.	You have already learnt when the molten magma cools; it solidifies to become igneous rock.
+Geo_ncert_7stnd_2ch_0070	ये आग्नेय शैल छोटे- छोटे टुकडे में टूटकर एक स्थान से दूसरे स्थान पर स्थानांतरित होकर अवसादी शैल का निर्माण करते हैं।	ye Agneya SEla Cote- Cote tukade meM tUtakara eka sWAna se xUsare sWAna para sWAnAMwariwa hokara avasAxI SEla kA nirmANa karawe hEM.	These igneous rocks are broken down into small particles that are transported and deposited to form sedimentary rocks.
+Geo_ncert_7stnd_2ch_0071	ताप एवं दाब के कारण ये आग्नेय एवं अवसादी शैल कायांतरित शैल में बदल जाते हैं।	wApa evaM xAba ke kAraNa ye Agneya evaM avasAxI SEla kAyAMwariwa SEla meM baxala jAwe hEM.	When the igneous and sedimentary rocks are subjected to heat and pressure they change into metamorphic rocks.
+Geo_ncert_7stnd_2ch_0072	अत्यधिक ताप एवं दाब के कारण कायांतरित शैल पुनः पिघलकर द्रवित मैग्मा बन जाती है।	awyaXika wApa evaM xAba ke kAraNa kAyAMwariwa SEla punaH piGalakara xraviwa mEgmA bana jAwI hE.	The metamorphic rocks which are still under great heat and pressure melt down to form molten magma
+Geo_ncert_7stnd_2ch_0073	यह द्रवित मैग्मा पुनः ठंडा होकर ठोस आग्नेय शैल में परिवर्तित हो जाता है।	yaha xraviwa mEgmA punaH TaMdA hokara Tosa Agneya SEla meM parivarwiwa ho jAwA hE.	This molten magma again can cool down and solidify into igneous rocks.
+Geo_ncert_7stnd_2ch_0074	आपके राज्य में कौन-से खनिज पाए जाते हैं?	Apake rAjya meM kOna-se Kanija pAe jAwe hEM?	What are the minerals found in your state?
+Geo_ncert_7stnd_2ch_0075	अपनी कक्षा में दिखाने के लिए कुछ नमूने एकत्र कीजिए।	apanI kakRA meM xiKAne ke lie kuCa namUne ekawra kIjie.	Collect some samples to show in your class.
+Geo_ncert_7stnd_2ch_0076	शैल विभिन्न खनिजों से बनी होती हैं।	SEla viBinna KanijoM se banI howI hEM.	Rocks are made up of different minerals.
+Geo_ncert_7stnd_2ch_0077	खनिज प्राकृतिक रूप में पाए जाने वाले पदार्थ हैं जिनका निश्चित भौतिक गुणधर्म एवं निश्चित रासायनिक मिश्रण होता है।	Kanija prAkqwika rUpa meM pAe jAne vAle paxArWa hEM jinakA niSciwa BOwika guNaXarma evaM niSciwa rAsAyanika miSraNa howA hE.	Minerals are naturally occurring substances which have certain physical properties and definite chemical composition.
+Geo_ncert_7stnd_2ch_0078	खनिज मानव जाति के लिए बहुत महत्त्वपूर्ण हैं।	Kanija mAnava jAwi ke lie bahuwa mahawwvapUrNa hEM.	Minerals are very important to humankind.
+Geo_ncert_7stnd_2ch_0079	कुछ का उपयोग ईंधन की तरह होता है जैसे-कोयला, प्राकृतिक गैस एवं पेट्रोलियम।	kuCa kA upayoga IMXana kI waraha howA hE jEse-koyalA, prAkqwika gEsa evaM petroliyama.	Some are used as fuels. For example, coal, natural gas and petroleum.
+Geo_ncert_7stnd_2ch_0080	इनका उपयोग उद्योगों, औषधि एवं उर्वरक में भी होता है जैसे लोहा, एल्यूमिनियम, सोना, यूरेनियम, आदि।	inakA upayoga uxyogoM, ORaXi evaM urvaraka meM BI howA hE jEse lohA, elyUminiyama, sonA, yUreniyama, Axi.	They are also used in industries – iron, aluminium, gold, uranium, etc, in medicine, in fertilisers, etc.
+Geo_ncert_7stnd_2ch_0081	आप निम्न प्रश्नों के उत्तर दीजिए।	Apa nimna praSnoM ke uwwara xIjie.	Answer the following questions.
+Geo_ncert_7stnd_2ch_0082	पृथ्वी की तीन परतें क्या हैं?	pqWvI kI wIna paraweM kyA hEM?	What are the three layers of the earth?
+Geo_ncert_7stnd_2ch_0083	शैल क्या है?	SEla kyA hE?	What is a rock?
+Geo_ncert_7stnd_2ch_0084	आप तीन प्रकार की शैलों के नाम लिखें।	Apa wIna prakAra kI SEloM ke nAma liKeM.	Name three types of rocks.
+Geo_ncert_7stnd_2ch_0085	बहिर्भेदी एवं अंतर्भेदी शैल का निर्माण कैसे होता है?	bahirBexI evaM aMwarBexI SEla kA nirmANa kEse howA hE?	How are extrusive and intrusive rocks formed?
+Geo_ncert_7stnd_2ch_0086	शैल चक्र से आप क्या समझते हैं?	SEla cakra se Apa kyA samaJawe hEM?	What do you mean by a rock cycle?
+Geo_ncert_7stnd_2ch_0087	शैलों के क्या उपयोग हैं?	SEloM ke kyA upayoga hEM?	What are the uses of rocks?
+Geo_ncert_7stnd_2ch_0088	आप सही उत्तर चिह्नित कीजिए।	Apa sahI uwwara cihniwa kIjie.	Tick the correct answer.
+Geo_ncert_7stnd_2ch_0089	सोना, पेट्रोलियम एवं कोयला किसके उदाहरण हैं?	sonA, petroliyama evaM koyalA kisake uxAharaNa hEM?	Gold, petroleum and coal are examples of
+Geo_ncert_7stnd_2ch_0090	शैल, जिसमें जीवाश्म होते हैं।	SEla, jisameM jIvASma howe hEM.	Rocks which contain fossils are
+Geo_ncert_7stnd_2ch_0091	पृथ्वी की सबसे पतली परत है।	pqWvI kI sabase pawalI parawa hE.	The thinnest layer of the earth is
+Geo_ncert_7stnd_2ch_0092	निम्नलिखित स्तंभों को मिलाकर सही जोडे बनाइए।	nimnaliKiwa swaMBoM ko milAkara sahI jode banAie.	Match the following.
+Geo_ncert_7stnd_2ch_0093	कारण बताइए।	kAraNa bawAie.	Give reasons.
+Geo_ncert_7stnd_2ch_0094	हम पृथ्वी के केंद्र तक नहीं जा सकते हैं।	hama pqWvI ke keMxra waka nahIM jA sakawe hEM.	We cannot go to the centre of the earth.
+Geo_ncert_7stnd_2ch_0095	अवसादी शैल अवसाद से बनती है।	avasAxI SEla avasAxa se banawI hE.	Sedimentary rocks are formed from sediments.
+Geo_ncert_7stnd_2ch_0096	चूना पत्थर संगमरमर में बदलता है।	cUnA pawWara saMgamaramara meM baxalawA hE.	Limestone is changed into marble.
+Geo_ncert_7stnd_2ch_0097	आओ खेलें।	Ao KeleM.	For fun.
+Geo_ncert_7stnd_2ch_0098	आप निम्न वस्तुओं में उपयोग किए गए खनिजों की पहचान करें।	Apa nimna vaswuoM meM upayoga kie gae KanijoM kI pahacAna kareM.	What are the minerals most commonly used in the following objects?
+Geo_ncert_7stnd_2ch_0099	आप विभिन्न खनिजों से बनी कुछ अन्य वस्तुओं के चित्र बनाएँ।	Apa viBinna KanijoM se banI kuCa anya vaswuoM ke ciwra banAez.	Identify some more objects made up of different minerals.

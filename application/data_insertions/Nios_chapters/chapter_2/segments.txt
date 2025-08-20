@@ -1,0 +1,1000 @@
+Geo_nios_2ch_0001	संभवतः पृथ्वी ही पूरे ब्रह्मांड का एक ऐसा ज्ञात ग्रह है जिस पर विकसित जीवन पाया जाता है ।	saMBavawaH pqWvI hI pUre brahmAMda kA eka EsA jFAwa graha hE jisa para vikasiwa jIvana pAyA jAwA hE .	The earth is the only known planet with developed life in the universe.
+Geo_nios_2ch_0002	अन्य आकाशीय पिण्डों की भाँति पृथ्वी की आकृति भी गोलाकार है ।	anya AkASIya piNdoM kI BAzwi pqWvI kI Akqwi BI golAkAra hE .	Like most of the celestial bodies, the earth is spherical in shape.
+Geo_nios_2ch_0003	आप यह भी जानते हैं कि स्रोतों से गर्म जल और ज्वालामुखियों से अत्यंत गर्म लावा पृथ्वी के भीतरी भागों से निकलकर धरातल पर पहुंचता है ।	Apa yaha BI jAnawe hEM ki srowoM se garma jala Ora jvAlAmuKiyoM se awyaMwa garma lAvA pqWvI ke BIwarI BAgoM se nikalakara XarAwala para pahuMcawA hE .	You also know that hot water and molten lava eject out from the earth’s interior.
+Geo_nios_2ch_0004	इससे स्पष्ट होता है कि धरातल के नीचे तापमान बहुत ऊँचा है ।	isase spaRta howA hE ki XarAwala ke nIce wApamAna bahuwa UzcA hE .	This indicates that the temperature below the earth’s surface is very high.
+Geo_nios_2ch_0005	संसार में खनन कार्य 5 किलोमीटर से भी कम गहराई तक ही सीमित है ।	saMsAra meM Kanana kArya 5 kilomItara se BI kama gaharAI waka hI sImiwa hE .	World’s deepest mining is limited only to the depth of less than 5 kilometers.
+Geo_nios_2ch_0006	जैसा कि हम जानते हैं, स्थलाकृतियों का स्वरूप सदैव एक जैसा नहीं रहता ।	jEsA ki hama jAnawe hEM, sWalAkqwiyoM kA svarUpa saxEva eka jEsA nahIM rahawA .	As we know that the land features seldom retain any fixed form.
+Geo_nios_2ch_0007	उसका रूप लगातार बदलता रहता है ।	usakA rUpa lagAwAra baxalawA rahawA hE .	Their shape is constantly changing.
+Geo_nios_2ch_0008	बाह्य शक्तियों के एक समूह में वे शक्तियाँ सम्मलित हैं जो शैलों को कमजोर कर देती हैं, विखंडित कर देती हैं ।	bAhya SakwiyoM ke eka samUha meM ve SakwiyAz sammaliwa hEM jo SEloM ko kamajora kara xewI hEM, viKaMdiwa kara xewI hEM .	One group of exogenetic forces includes those which weaken and disintegrate the rocks at their original location.
+Geo_nios_2ch_0009	दूसरे प्रकार की शक्तियाँ टूटी-फूटी शैलों को ऊँचे भू भागों से हटाकर नीचे के भू भागों में जमा करती रहती हैं ।	xUsare prakAra kI SakwiyAz tUtI-PUtI SEloM ko Uzce BU BAgoM se hatAkara nIce ke BU BAgoM meM jamA karawI rahawI hEM .	The second group consists of endogenetic forces which remove the disintegrated rocks from high lands and deposit them in the Low lands.
+Geo_nios_2ch_0010a	ये दोनों प्रक्रिया ही शैलों की टूट फूट ।	ye xonoM prakriyA hI SEloM kI tUta PUta .	These two processes have been responsible for disintegrating rocks and shaping new landforms.
+Geo_nios_2ch_0010b	और नई स्थलाकृतियों के निर्माण के लिए जिम्मेदार हैं ।	Ora naI sWalAkqwiyoM ke nirmANa ke lie jimmexAra hEM .	These two processes have been responsible for disintegrating rocks and shaping new landforms.
+Geo_nios_2ch_0011	हमारे लिए अत्यंत महत्वपूर्ण मृदा का निर्माण भी एक सीमा तक इन्हीं प्रक्रियाओं द्वारा होता है ।	hamAre lie awyaMwa mahawvapUrNa mqxA kA nirmANa BI eka sImA waka inhIM prakriyAoM xvArA howA hE .	They are also partly responsible for the formation of soil, which is very important for us.
+Geo_nios_2ch_0012	इस पाठ में हम पृथ्वी के भूगर्भ और उसके ऊपरी भाग-भूपर्पटी के पदार्थों का अध्ययन करेंगे ।	isa pATa meM hama pqWvI ke BUgarBa Ora usake UparI BAga-BUparpatI ke paxArWoM kA aXyayana kareMge .	In this lesson, we will study about the earth’s interior and the materials that form the upper portion of the earth’s crust.
+Geo_nios_2ch_0013	हम अपक्षय और उसके प्रकार, तल संतुलन की प्रक्रिया और मृदा के निर्माण तथा उसके महत्व के विषय में भी अध्ययन करेंगे ।	hama apakRaya Ora usake prakAra, wala saMwulana kI prakriyA Ora mqxA ke nirmANa waWA usake mahawva ke viRaya meM BI aXyayana kareMge .	You will also learn about, weathering and its types, the process of gradation and the significance and formation of soils.
+Geo_nios_2ch_0014	इस पाठ का अध्ययन करने के पश्चात् आप पृथ्वी के आन्तरिक भाग या भूगर्भ के संबंध में प्रत्यक्ष प्रेक्षण करने की सीमाओं को समझा सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa pqWvI ke Anwarika BAga yA BUgarBa ke saMbaMXa meM prawyakRa prekRaNa karane kI sImAoM ko samaJA sakeMge .	After studying this lesson, you will be able to explain the limitations of direct observations of the earth’s interior;
+Geo_nios_2ch_0015	इस पाठ का अध्ययन करने के पश्चात् आप भूगर्भ की विभिन्न परतों की तुलना उनकी मोटाई, तापमान, घनत्व और दबाव के संदर्भ में कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa BUgarBa kI viBinna parawoM kI wulanA unakI motAI, wApamAna, Ganawva Ora xabAva ke saMxarBa meM kara sakeMge .	After studying this lesson, you will be able to compare the different layers of the earth’s interior with reference to thickness, temperature, density and pressure;
+Geo_nios_2ch_0016	इस पाठ का अध्ययन करने के पश्चात् आप शैल और खनिजों में अन्तर कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa SEla Ora KanijoM meM anwara kara sakeMge .	After studying this lesson, you will be able to distinguish between rock and mineral;
+Geo_nios_2ch_0017	Geo_nios_2ch_0017	इस पाठ का अध्ययन करने के पश्चात् आप रचना के आधार पर शैलों का वर्गीकरण कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa racanA ke AXAra para SEloM kA vargIkaraNa kara sakeMge .	After studying this lesson, you will be able to classify rocks according to their mode of formation;
+Geo_nios_2ch_0018	Geo_nios_2ch_0018	इस पाठ का अध्ययन करने के पश्चात् आप शैलों का आर्थिक महत्व बता सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa SEloM kA ArWika mahawva bawA sakeMge .	After studying this lesson, you will be able to describe the economic significance of rocks;
+Geo_nios_2ch_0019a	इस पाठ का अध्ययन करने के पश्चात् आप अपक्षय शब्द की व्याख्या कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa apakRaya Sabxa kI vyAKyA kara sakeMge .	After studying this lesson, you will be able to explain the term weathering and describe its types with suitable examples;
+Geo_nios_2ch_0019b	और उपयुक्त उदाहरणों द्वारा उसके प्रकारों का वर्णन कर सकेंगे ।	Ora upayukwa uxAharaNoM xvArA usake prakAroM kA varNana kara sakeMge .	After studying this lesson, you will be able to explain the term weathering and describe its types with suitable examples;
+Geo_nios_2ch_0020	इस पाठ का अध्ययन करने के पश्चात् आप धरातल के स्वरूप को बदलने वाली तल संतुलन की विभिन्न प्रक्रियाओं की व्याख्या कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa XarAwala ke svarUpa ko baxalane vAlI wala saMwulana kI viBinna prakriyAoM kI vyAKyA kara sakeMge .	After studying this lesson, you will be able to explain the various gradational processes changing the face of the land;
+Geo_nios_2ch_0021	इस पाठ का अध्ययन करने के पश्चात् आप निम्नीकरण और अधिवृद्धि में अन्तर कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa nimnIkaraNa Ora aXivqxXi meM anwara kara sakeMge .	After studying this lesson, you will be able to differentiate between degradation and aggradations;
+Geo_nios_2ch_0022	इस पाठ का अध्ययन करने के पश्चात् आप मृदा निर्माण और अपक्षय के बीच सम्बन्ध स्थापित कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa mqxA nirmANa Ora apakRaya ke bIca sambanXa sWApiwa kara sakeMge .	After studying this lesson, you will be able to relate weathering with soilformation
+Geo_nios_2ch_0023	इस पाठ का अध्ययन करने के पश्चात् आप मृदा निर्माण में सहायक विभिन्न कारकों की व्याख्या कर सकेंगे ।	isa pATa kA aXyayana karane ke paScAw Apa mqxA nirmANa meM sahAyaka viBinna kArakoM kI vyAKyA kara sakeMge .	After studying this lesson, you will be able to explain the various factors contributing to soil formation;
+Geo_nios_2ch_0024a	पृथ्वी के आन्तरिक भाग को प्रत्यक्ष रूप से देखना सम्भव नहीं है; ।	pqWvI ke Anwarika BAga ko prawyakRa rUpa se xeKanA samBava nahIM hE; .	It is not possible to know about the earth’s interior by direct observations because of its huge size and the changing nature of its internal composition.
+Geo_nios_2ch_0024b	क्योंकि यह बहुत बडा गोला है और इसके भूगर्भीय पदार्थों की बनावट गहराई बढने के साथ बदलती जाती है ।	kyoMki yaha bahuwa badA golA hE Ora isake BUgarBIya paxArWoM kI banAvata gaharAI baDane ke sAWa baxalawI jAwI hE .	It is not possible to know about the earth’s interior by direct observations because of its huge size and the changing nature of its internal composition.
+Geo_nios_2ch_0025	मनुष्य ने खनन एवम वेधन क्रियाओं द्वारा इसके कुछ ही किलोमीटर तक के आन्तरिक भाग को प्रत्यक्ष रूप से देखा है ।	manuRya ne Kanana evama veXana kriyAoM xvArA isake kuCa hI kilomItara waka ke Anwarika BAga ko prawyakRa rUpa se xeKA hE .	Through mining and drilling operations we have been able to observe the earth’s interior directly only up to a depth of few kilometers.
+Geo_nios_2ch_0026	गहराई के साथ तापमान में तेजी से वृद्धि के कारण अधिक गहराइयों तक खनन और वेधन कार्य करना संभव नहीं है ।	gaharAI ke sAWa wApamAna meM wejI se vqxXi ke kAraNa aXika gaharAiyoM waka Kanana Ora veXana kArya karanA saMBava nahIM hE .	The rapid increase in temperature below the earth’s surface is mainly responsible for setting a limit to direct observation inside the earth.
+Geo_nios_2ch_0027	भूगर्भ में इतना अधिक ऊँचा तापमान है कि वह वेधन में प्रयोग किए जाने वाले किसी भी प्रकार के यंत्र को पिघला सकता है ।	BUgarBa meM iwanA aXika UzcA wApamAna hE ki vaha veXana meM prayoga kie jAne vAle kisI BI prakAra ke yaMwra ko piGalA sakawA hE .	The temperature in the earth’s interior is so high that it can even melt any tool used for drilling.
+Geo_nios_2ch_0028	अतः वेधन कार्य कम गहराइयों तक ही सीमित है ।	awaH veXana kArya kama gaharAiyoM waka hI sImiwa hE .	This fact also restricts deep drilling,
+Geo_nios_2ch_0029	इसलिए पृथ्वी के गर्भ के विषय में प्रत्यक्ष जानकारी के मिलने में कई कठिनाइयाँ आती हैं ।	isalie pqWvI ke garBa ke viRaya meM prawyakRa jAnakArI ke milane meM kaI kaTinAiyAz AwI hEM .	thus causing hindrance to direct observation of the materials of the earth’s interior.
+Geo_nios_2ch_0030	पृथ्वी के विशाल आकार और गइराई के साथ बढते तापमान ने भूगर्भ की प्रत्यक्ष जानकारी की सीमाएँ निश्चित कर दी है ।	pqWvI ke viSAla AkAra Ora gairAI ke sAWa baDawe wApamAna ne BUgarBa kI prawyakRa jAnakArI kI sImAez niSciwa kara xI hE .	The huge size of the earth and increasing temperature with depth has set a limit to direct observation of the earth’s interior.
+Geo_nios_2ch_0031	पृथ्वी की आन्तरिक परतों का वर्गीकरण और उनकी मोटाइयों को चित्र संख्या 2.1 में दर्शाया गया है ।	pqWvI kI Anwarika parawoM kA vargIkaraNa Ora unakI motAiyoM ko ciwra saMKyA 2.1 meM xarSAyA gayA hE .	The above diagram shows the concentric layers of the earth’s interior.
+Geo_nios_2ch_0032	पृथ्वी की सबसे अधिक गहराई वाली परत को क्रोड कहते हैं ।	pqWvI kI sabase aXika gaharAI vAlI parawa ko kroda kahawe hEM .	The innermost layer surrounding the earth's centre is called core
+Geo_nios_2ch_0033	यह सबसे अधिक घनत्व वाली परत है ।	yaha sabase aXika Ganawva vAlI parawa hE .	Core is the most dense layer ofthe earth with ,
+Geo_nios_2ch_0034	इसका घनत्व 11.0 से भी अधिक है ।	isakA Ganawva 11.0 se BI aXika hE .	Its density range from 9.5 to 14.5 and sometimes even higher.
+Geo_nios_2ch_0035	यह लोहा और निकिल धातुओं से बनी है ।	yaha lohA Ora nikila XAwuoM se banI hE .	It is composed mainly of the iron and nickel
+Geo_nios_2ch_0036	इसीलिये क्रोड को निफे (निकिल+फेरम, लोहा) कहते हैं ।	isIliye kroda ko niPe (nikila+Perama, lohA) kahawe hEM .	thus commonly known as Nife. (Nickel+Ferrum).
+Geo_nios_2ch_0037	क्रोड को पुनः दो परतों में बाँट सकते हैं ।	kroda ko punaH xo parawoM meM bAzta sakawe hEM .	Core consists of two sub-layers.
+Geo_nios_2ch_0038	इसकी भीतरी परत ठोस है जिसे चित्र सी2 से दिखाया गया है ।	isakI BIwarI parawa Tosa hE jise ciwra sI2 se xiKAyA gayA hE .	The inner one is solid (C₂ of fig. 2.1)
+Geo_nios_2ch_0039	दूसरी परत अर्द्ध तरल है जिसे चित्र सी1 से दिखाया गया है ।	xUsarI parawa arxXa warala hE jise ciwra sI1 se xiKAyA gayA hE .	and the outer one is semi- liquid (C of fig. 2.1).
+Geo_nios_2ch_0040	जो परत क्रोड को घेरे हुए है, उसे मैंटल कहते हैं ।	jo parawa kroda ko Gere hue hE, use mEMtala kahawe hEM .	The layer surrounding the core is known as mantle,
+Geo_nios_2ch_0041	यह परत मुख्यतः सिलीका और मैगनीशियम से बनी है ।	yaha parawa muKyawaH silIkA Ora mEganISiyama se banI hE .	Major constituent elements of mantle are magnesium and silicon,
+Geo_nios_2ch_0042	इसलिए इस परत को सीमा (सिलीका + मैगनीशियम) भी कहते हैं ।	isalie isa parawa ko sImA (silIkA + mEganISiyama) BI kahawe hEM .	hence, this layer is termed as Sima (Si1ica+Magnesium).
+Geo_nios_2ch_0043	इसका घनत्व 3.1 से 5.1 तक है ।	isakA Ganawva 3.1 se 5.1 waka hE .	The density of this layer varies from 3.3 to 5.7.
+Geo_nios_2ch_0044	मैंटल पृथ्वी की सबसे ऊपरी परत से घिरा है ।	mEMtala pqWvI kI sabase UparI parawa se GirA hE .	Mantle is surrounded by the outermost layer of the earth
+Geo_nios_2ch_0045	इसे स्थलमण्डल कहते हैं, जिसका घनत्व 2.75 से 2.90 है ।	ise sWalamaNdala kahawe hEM, jisakA Ganawva 2.75 se 2.90 hE .	known as lithosphere and its density varies from 2.70 to 2.95.
+Geo_nios_2ch_0046	स्थलमण्डल के प्रमुख निर्माणकारी तत्व सिलीका (सि) एल्यूमीनियम (एल) हैं ।	sWalamaNdala ke pramuKa nirmANakArI wawva silIkA (si) elyUmIniyama (ela) hEM .	Major constituent elements of lithosphere are silica (Si) and aluminium(AI),
+Geo_nios_2ch_0047	इसलिए इस परत की स्याल(सिलीका + एल्यूमीनियम) भी कहते हैं ।	isalie isa parawa kI syAla(silIkA + elyUmIniyama) BI kahawe hEM .	thus this layer is termed as Sial (Silica+Aluminium).
+Geo_nios_2ch_0048	स्थलमण्डल के ऊपरी भाग को भूपर्पटी कहते हैं ।	sWalamaNdala ke UparI BAga ko BUparpatI kahawe hEM .	The outermost part ofthe lithosphere in known as crust
+Geo_nios_2ch_0049	पृथ्वी के आन्तरिक भाग की तीन प्रमुख संकेन्द्रीय परते हैं - क्रोड, मैंटल और स्थलमंडल ।	pqWvI ke Anwarika BAga kI wIna pramuKa saMkenxrIya parawe hEM - kroda, mEMtala Ora sWalamaMdala .	Core, mantle and crust are the three main concentric layers ofthe earth's interior.
+Geo_nios_2ch_0050	क्रोड सबसे आन्तरिक परत है ।	kroda sabase Anwarika parawa hE .	Core is the innermost layer
+Geo_nios_2ch_0051	यह पृथ्वी की सबसे अधिक घनत्व वाली परत है ।	yaha pqWvI kI sabase aXika Ganawva vAlI parawa hE .	and has the highest density.
+Geo_nios_2ch_0052	इसका निर्माण निकिल और लौह तत्वों से हुआ है ।	isakA nirmANa nikila Ora lOha wawvoM se huA hE .	It is made up mainly of nickel and iron.
+Geo_nios_2ch_0053	क्रोड और स्थलमण्डल के बीच की परत मैंटल है ।	kroda Ora sWalamaNdala ke bIca kI parawa mEMtala hE .	Mantle is the layer lying between the core and lithosphere.
+Geo_nios_2ch_0054	इसके प्रमुख निर्माणकारी तत्व सिलीका और मैगनीशियम हैं ।	isake pramuKa nirmANakArI wawva silIkA Ora mEganISiyama hEM .	Its major constituents are silicon and magnesium.
+Geo_nios_2ch_0055	स्थलमण्डल पृथ्वी की सबसे ऊपरी परत है, जिसमें सिलीका और एल्यूमिनियम तत्वों की अधिकता है ।	sWalamaNdala pqWvI kI sabase UparI parawa hE, jisameM silIkA Ora elyUminiyama wawvoM kI aXikawA hE .	Crust is the outermost layer ofthe earth and is mainly composed of silicon and aluminium
+Geo_nios_2ch_0056	पृथ्वी के भूगर्भ की प्रत्यक्ष जानकारी में कौन सा कारक प्रमुख रूप से बाधक है? ।	pqWvI ke BUgarBa kI prawyakRa jAnakArI meM kOna sA kAraka pramuKa rUpa se bAXaka hE? .	Give the most important factor limiting direct observation of the earths interior
+Geo_nios_2ch_0057	भूगर्भ की तीन परतों के नाम बताइए ।	BUgarBa kI wIna parawoM ke nAma bawAie .	Name the three layers of the earth's
+Geo_nios_2ch_0058	पृथ्वी की सबसे आन्तरिक परत का नाम बताइये ।	pqWvI kI sabase Anwarika parawa kA nAma bawAiye .	Name the innermost layer of the earth.
+Geo_nios_2ch_0059	क्रोड का घनत्व कितना है? ।	kroda kA Ganawva kiwanA hE? .	What is the density of the core?
+Geo_nios_2ch_0060	भूपर्पटी पृथ्वी की किस परत में शामिल है? ।	BUparpatI pqWvI kI kisa parawa meM SAmila hE? .	Which layer includes the earth's crust?
+Geo_nios_2ch_0061	पृथ्वी की सबसे पतली परत कौन-सी है? ।	pqWvI kI sabase pawalI parawa kOna-sI hE? .	Name the thinnest layer of the earth
+Geo_nios_2ch_0062	भूगर्भ का तापमान, दबाव तथा घनत्व ।	BUgarBa kA wApamAna, xabAva waWA Ganawva .	TEMPERATURE,PRESSURE AND DENSITY OF THE EARTH'S INTERIOR
+Geo_nios_2ch_0063	तापमान: गहरी खानों और गहरे कूपों से जानकारी मिलती है कि पृथ्वी के भीतर गहराई बढने के साथ तापमान बढता है ।	wApamAna: gaharI KAnoM Ora gahare kUpoM se jAnakArI milawI hE ki pqWvI ke BIwara gaharAI baDane ke sAWa wApamAna baDawA hE .	Temperature :Rise in temperature with increase in depth is observed in mines and deep wells.
+Geo_nios_2ch_0064	यह बात ज्वालामुखी के उद्गारों में पृथ्वी के अन्दर से निकले अत्यन्त गर्म लावा से भी सिद्ध होती है कि भूगर्भ की ओर तापमान बढता जाता है ।	yaha bAwa jvAlAmuKI ke uxgAroM meM pqWvI ke anxara se nikale awyanwa garma lAvA se BI sixXa howI hE ki BUgarBa kI ora wApamAna baDawA jAwA hE .	These evidences along with molten lava erupted from the earth’s interior, support that temperature increases towards the centre of the earth.
+Geo_nios_2ch_0065	विभिन्न प्रमाणों से स्पष्ट होता है कि भूगर्भ में धरातल से केन्द्र की ओर तापमान बढने की दर एक समान नहीं है ।	viBinna pramANoM se spaRta howA hE ki BUgarBa meM XarAwala se kenxra kI ora wApamAna baDane kI xara eka samAna nahIM hE .	The different observations show that the rate of increase of temperature is not uniform from the surface towards the earth’s centre.
+Geo_nios_2ch_0066	Geo_nios_2ch_0066a	कहीं पर यह तेज है ।	kahIM para yaha weja hE .	It is faster at some places than at others.
+Geo_nios_2ch_0066	Geo_nios_2ch_0066b	और कहीं पर धीमी ।	Ora kahIM para XImI .	It is faster at some places than at others.
+Geo_nios_2ch_0067	प्रारम्भ में तापमान बढने की औसत दर प्रत्येक 32 मीटर की गइराई पर 1⁰ सेल्सियस है ।	prAramBa meM wApamAna baDane kI Osawa xara prawyeka 32 mItara kI gairAI para 1 selsiyasa hE .	In the beginning this increase is at an average rate of 1º C for every 32 metres increase in depth.
+Geo_nios_2ch_0068a	तापमान की इस स्थिर वृद्धि के आधार पर 10 किलोमीटर की गहराई में तापमान धरातल की अपेक्षा 300⁰ से. अधिक होना चाहिये ।	wApamAna kI isa sWira vqxXi ke AXAra para 10 kilomItara kI gaharAI meM wApamAna XarAwala kI apekRA 300 se. aXika honA cAhiye .	At such a constant rate of increase in temperature, at 10 km depth, the temperature will be approximately 3000C and at 40 km depth it will be 12000C
+Geo_nios_2ch_0068b	और 40 किलोमीटर की गहराई में इसे 1200⁰ से. होना चाहिये ।	Ora 40 kilomItara kI gaharAI meM ise 1200 se. honA cAhiye .	At such a constant rate of increase in temperature, at 10 km depth, the temperature will be approximately 3000C and at 40 km depth it will be 12000C
+Geo_nios_2ch_0069	तापमान की इस वृद्धि दर के अनुसार भूगर्भ के सभी पदार्थ पिघली हुई अवस्था में होने चाहिये ।	wApamAna kI isa vqxXi xara ke anusAra BUgarBa ke saBI paxArWa piGalI huI avasWA meM hone cAhiye .	At this rate, earth’s interior should be in a molten state.
+Geo_nios_2ch_0070	परन्तु वास्तव में ऐसा नहीं है ।	paranwu vAswava meM EsA nahIM hE .	Yet it is not so
+Geo_nios_2ch_0071	चट्टानें जितनी अधिक गहराई में होंगी उनके पिघलने का तापमान-बिन्दु उतना ही ऊँचा होगा ।	cattAneM jiwanI aXika gaharAI meM hoMgI unake piGalane kA wApamAna-binxu uwanA hI UzcA hogA .	The rocks buried under the pressure of several km thickness of overlying rocks melt at higher temperature than similar rocks at the surface
+Geo_nios_2ch_0072	इसका कारण यह है कि भूगर्भ में नीचे दबी शैलों पर ऊपर की शैलों का इतना अधिक दाब होता है जिससे उनके पिघलने का तापमान-बिन्दु धरातल की तुलना में बहुत अधिक हो जाता है ।	isakA kAraNa yaha hE ki BUgarBa meM nIce xabI SEloM para Upara kI SEloM kA iwanA aXika xAba howA hE jisase unake piGalane kA wApamAna-binxu XarAwala kI wulanA meM bahuwa aXika ho jAwA hE .	NO English Translation
+Geo_nios_2ch_0073	उदाहरण के लिये बैसाल्टी लावा शैल धरातल पर 1250⁰ से. पर पिघलती है परन्तु वही शैल भूगर्भ में 32 किलोमीटर की गहराई पर 1400⁰ से. तापमान पर पिघलेगी ।	uxAharaNa ke liye bEsAltI lAvA SEla XarAwala para 1250 se. para piGalawI hE paranwu vahI SEla BUgarBa meM 32 kilomItara kI gaharAI para 1400 se. wApamAna para piGalegI .	A basaltic lava rock which melts at 12500C at the surface will melt at 14000C at 32 km depth
+Geo_nios_2ch_0074	भूकम्प की तरंगों के व्यवहार से भी यह बात सिद्ध होती है ।	BUkampa kI waraMgoM ke vyavahAra se BI yaha bAwa sixXa howI hE .	The behaviour of earthquake waves is another evidence for this phenomenon.
+Geo_nios_2ch_0075	उनसे इस बात की भी पुष्टि होती है कि भूगर्भ में तापमान के बदलने के साथ पदार्थों की संरचना में भी परिवर्तन आता है ।	unase isa bAwa kI BI puRti howI hE ki BUgarBa meM wApamAna ke baxalane ke sAWa paxArWoM kI saMracanA meM BI parivarwana AwA hE .	They further confirm that the composition of different layers is as variable as is the rate of change of temperature.
+Geo_nios_2ch_0076	भूगर्भ के ऊपरी 100 किलोमीटर में तापमान के बढने की दर 12⁰ से. प्रति किलोमीटर है ।	BUgarBa ke UparI 100 kilomItara meM wApamAna ke baDane kI xara 12 se. prawi kilomItara hE .	While in the upper 100 km, the increase in temperature is at the rate of 12°C per km,
+Geo_nios_2ch_0077a	अगले 300 किलोमीटर में यह वृद्धि-दर 20⁰ से. प्रति किलोमीटर है ।	agale 300 kilomItara meM yaha vqxXi-xara 20 se. prawi kilomItara hE .	in the next 300 km it is 20°C per km but is only 100C per km below it.
+Geo_nios_2ch_0077b	और इसके बाद यह वृद्धि-दर केवल 10⁰ से. प्रति किलोमीटर रह जाती है ।	Ora isake bAxa yaha vqxXi-xara kevala 10 se. prawi kilomItara raha jAwI hE .	in the next 300 km it is 20°C per km but is only 100C per km below it.
+Geo_nios_2ch_0078	इससे स्पष्ट होता है कि धरातल के नीचे तापमान के बढने की दर पृथ्वी के केन्द्र की ओर घटती जाती है, इस गणना के अनुसार पृथ्वी के केन्द्र का तापमान लगभग 4000⁰ से 5000⁰ से. के बीच है ।	isase spaRta howA hE ki XarAwala ke nIce wApamAna ke baDane kI xara pqWvI ke kenxra kI ora GatawI jAwI hE, isa gaNanA ke anusAra pqWvI ke kenxra kA wApamAna lagaBaga 4000 se 5000 se. ke bIca hE .	The temperature at the centre is estimated to lie somewhere between 3000°C and 50000C.
+Geo_nios_2ch_0079	भूगर्भ में इतना ऊँचा तापमान उच्च दाब के फलस्वरूप हुई रासायनिक प्रक्रियाओं और रेडियोधर्मी तत्वों के विखंडन के कारण ही संभव है ।	BUgarBa meM iwanA UzcA wApamAna ucca xAba ke PalasvarUpa huI rAsAyanika prakriyAoM Ora rediyoXarmI wawvoM ke viKaMdana ke kAraNa hI saMBava hE .	The temperature at the centre is estimated to lie somewhere between 3000°C and 50000C. Such a high temperature inside the earth may be due to chemical reactions under high pressure conditions and disintegration of radio active elements.
+Geo_nios_2ch_0080	दबाव - भूगर्भ में ऊपरी परतों के बहुत अधिक भार के कारण पृथ्वी के सतह से केन्द्र की ओर जाने पर दबाव भी निरन्तर बढता जाता है ।	xabAva - BUgarBa meM UparI parawoM ke bahuwa aXika BAra ke kAraNa pqWvI ke sawaha se kenxra kI ora jAne para xabAva BI niranwara baDawA jAwA hE .	Pressure:The pressure also increases from the surface towards the centre of the earth due to huge weight of the overlying rocks.
+Geo_nios_2ch_0081	पृथ्वी के केन्द्र पर अत्यधिक दबाव है ।	pqWvI ke kenxra para awyaXika xabAva hE .	Therefore in deeper portions, the pressure is tremendously high.
+Geo_nios_2ch_0082	यह दबाव समुद्र तल पर वायुमंडल के दाब से 30-40 लाख गुना अधिक है ।	yaha xabAva samuxra wala para vAyumaMdala ke xAba se 30-40 lAKa gunA aXika hE .	The pressure near the centre is considered to be 3 to 4 million times the pressure of atmosphere at sea level.
+Geo_nios_2ch_0083	केन्द्र पर उच्च तापमान होने के कारण यहां पाये जाने वाले पदार्थों को द्रव रूप में होना स्वाभाविक है, परन्तु इस ऊपरी भारी दबाव के कारण यह द्रव रूप ठोस का आचरण करता है ।	kenxra para ucca wApamAna hone ke kAraNa yahAM pAye jAne vAle paxArWoM ko xrava rUpa meM honA svABAvika hE, paranwu isa UparI BArI xabAva ke kAraNa yaha xrava rUpa Tosa kA AcaraNa karawA hE .	At high temperature, the material beneath will melt towards the central part of the earth. This molten material under tremendous pressure conditions acquires the property of a solid
+Geo_nios_2ch_0084	सम्भवतः इसका स्वरूप प्लास्टिक नुमा है ।	samBavawaH isakA svarUpa plAstika numA hE .	It is probably in a plastic state.
+Geo_nios_2ch_0085	घनत्व - पृथ्वी के केन्द्र की ओर निरन्तर दबाव के बढने और भारी पदार्थों के होने के कारण उसकी परतों का घनत्व भी बढता जाता है ।	Ganawva - pqWvI ke kenxra kI ora niranwara xabAva ke baDane Ora BArI paxArWoM ke hone ke kAraNa usakI parawoM kA Ganawva BI baDawA jAwA hE .	Density: Due to increase in pressure and presence of heavier materials towards the earth’s centers, the density of earth’s layers also goes on increasing.
+Geo_nios_2ch_0086	अतः सबसे गहरे भागों में अत्यधिक घनत्व वाले पदार्थों का होना स्वाभाविक है ।	awaH sabase gahare BAgoM meM awyaXika Ganawva vAle paxArWoM kA honA svABAvika hE .	Obviously the materials of the innermost part of the earth are very dense as already stated.
+Geo_nios_2ch_0087	इस बारे में अनुच्छेद 2.2 में पहले ही चर्चा की जा चुकी है ।	isa bAre meM anucCexa 2.2 meM pahale hI carcA kI jA cukI hE .	NO English Translation
+Geo_nios_2ch_0088	पृथ्वी के केन्द्र का तापमान कितना है? ।	pqWvI ke kenxra kA wApamAna kiwanA hE? .	What is the temperature at the centre of the earth?
+Geo_nios_2ch_0089	पृथ्वी के केन्द्र का दाब कितना है? ।	pqWvI ke kenxra kA xAba kiwanA hE? .	How much is the pressure at the earth’s centre?
+Geo_nios_2ch_0090	पृथ्वी के केन्द्र की ओर जाने पर घनत्व क्यों बढता जाता है? ।	pqWvI ke kenxra kI ora jAne para Ganawva kyoM baDawA jAwA hE? .	Why does the density increase towards the centre of the earth?
+Geo_nios_2ch_0091	स्थलमंडल का सबसे ऊपर भाग भूपर्पटी कहलाता है ।	sWalamaMdala kA sabase Upara BAga BUparpatI kahalAwA hE .	The outermost part of lithosphere is called crust.
+Geo_nios_2ch_0092a	यह पृथ्वी का सबसे महत्वपूर्ण भाग है; ।	yaha pqWvI kA sabase mahawvapUrNa BAga hE; .	This is the most significant part of the earth because it is occupied by humans.
+Geo_nios_2ch_0092b	क्योंकि इसकी ऊपरी सतह पर मानव रहते हैं ।	kyoMki isakI UparI sawaha para mAnava rahawe hEM .	This is the most significant part of the earth because it is occupied by humans.
+Geo_nios_2ch_0093	जिन पदार्थों से भूपर्पटी बनी है, उन्हें शैल कहते हैं ।	jina paxArWoM se BUparpatI banI hE, unheM SEla kahawe hEM .	The material of the crust is made up of rocks.
+Geo_nios_2ch_0094	शैलें विभिन्न प्रकार की होती हैं ।	SEleM viBinna prakAra kI howI hEM .	The rocks are of different types.
+Geo_nios_2ch_0095	शैलें ग्रेनाइट की तरह कठोर, चीका मिट्टी की तरह मुलायम अथवा बजरी के समान बिखरी होती है ।	SEleM grenAita kI waraha kaTora, cIkA mittI kI waraha mulAyama aWavA bajarI ke samAna biKarI howI hE .	They are hard like granite, soft like clay and loose like gravel.
+Geo_nios_2ch_0096	शैलें विभिन्न रंग, भार और कठोरता लिए होती है ।	SEleM viBinna raMga, BAra Ora kaTorawA lie howI hE .	Rocks have a great variety of colour, weight and hardness.
+Geo_nios_2ch_0097	शैलें खनिजों से बनी हैं ।	SEleM KanijoM se banI hEM .	Rocks are composed of minerals.
+Geo_nios_2ch_0098	वे एक या एक से अधिक खनिजों का मिश्रण हैं ।	ve eka yA eka se aXika KanijoM kA miSraNa hEM .	They are aggregates or physical mixture of one or more minerals.
+Geo_nios_2ch_0099	दूसरी ओर खनिज एक या एक से अधिक तत्वों के निश्चित अनुपात में मिलने से बने हैं ।	xUsarI ora Kanija eka yA eka se aXika wawvoM ke niSciwa anupAwa meM milane se bane hEM .	Minerals on the other hand are made up of two or more elements in a definite ratio.
+Geo_nios_2ch_0100	खनिजों में एक निश्चित रासायनिक संगठन होता है ।	KanijoM meM eka niSciwa rAsAyanika saMgaTana howA hE .	They have a definite chemical composition.
+Geo_nios_2ch_0101	भूपर्पटी 2000 से भी अधिक खनिजों से बनी है, परन्तु इनमें से केवल 6 खनिजों की अधिकता है ।	BUparpatI 2000 se BI aXika KanijoM se banI hE, paranwu inameM se kevala 6 KanijoM kI aXikawA hE .	Crust is made up of more than 2000 minerals, but out of these, 6 are the most abundant
+Geo_nios_2ch_0102	इन्हीं का पृथ्वी की ऊपरी परत के निर्माण में विशेष योग है ।	inhIM kA pqWvI kI UparI parawa ke nirmANa meM viSeRa yoga hE .	and contribute the maximum to this uppermost part of the earth.
+Geo_nios_2ch_0103	इन 6 खनिजों के नाम - फेल्सपार, क्वार्ट्ज, पाइराक्सीन, एम्फीबोल, अभ्रक और ओलीबीन हैं ।	ina 6 KanijoM ke nAma - PelsapAra, kvArtja, pAirAksIna, emPIbola, aBraka Ora olIbIna hEM .	These are feldspar,quartz, pyroxenes, amphiboles, mica and olivine.
+Geo_nios_2ch_0104	ग्रेनाइट एक कठोर शैल है ।	grenAita eka kaTora SEla hE .	Granite is a rock
+Geo_nios_2ch_0105	इसके निर्माणकारी खनिज क्वार्टज, फेल्सपार और अभ्रक हैं ।	isake nirmANakArI Kanija kvArtaja, PelsapAra Ora aBraka hEM .	Its constituent minerals bound together are quartz, feldspar and mica which make it a hard rock.
+Geo_nios_2ch_0106	इन खनिजों के अनुपात में भिन्नता होने से ग्रेनाइट के रंग और उसकी कठोरता में अन्तर आ जाता है ।	ina KanijoM ke anupAwa meM BinnawA hone se grenAita ke raMga Ora usakI kaTorawA meM anwara A jAwA hE .	Change in the ratio of these minerals give rise to granites of different colours and hardness.
+Geo_nios_2ch_0107	जिन खनिजों में धात्विक अंश होता है, उन्हें धात्त्विक खनिज कहते हैं ।	jina KanijoM meM XAwvika aMSa howA hE, unheM XAwwvika Kanija kahawe hEM .	The minerals containing metals are called metallic minerals.
+Geo_nios_2ch_0108	हैमेटाइट एक प्रमुख लौह-अयस्क है ।	hEmetAita eka pramuKa lOha-ayaska hE .	Haematite, a major iron ore
+Geo_nios_2ch_0109	यह धात्विक खनिज है ।	yaha XAwvika Kanija hE .	It is a metallic mineral.
+Geo_nios_2ch_0110	अयस्क धात्विक खनिज होते हैं, जिनसे धातुओं का निकालना लाभकारी होता है ।	ayaska XAwvika Kanija howe hEM, jinase XAwuoM kA nikAlanA lABakArI howA hE .	Ores are metallic minerals which can be profitably mined.
+Geo_nios_2ch_0111	शैलों का निर्माण खनिजों से हुआ है ।	SEloM kA nirmANa KanijoM se huA hE .	Rocks are of immense economic importance to us.
+Geo_nios_2ch_0112	इनका मानव जीवन में बहुत अधिक महत्व है ।	inakA mAnava jIvana meM bahuwa aXika mahawva hE .	NO English Translation
+Geo_nios_2ch_0113	शैलें अपने गुण, कणों के आकार और उनके बनने की प्रक्रिया के आधार पर विभिन्न प्रकार की होती हैं ।	SEleM apane guNa, kaNoM ke AkAra Ora unake banane kI prakriyA ke AXAra para viBinna prakAra kI howI hEM .	Rocks differ in their properties, size of particles and mode of formation.
+Geo_nios_2ch_0114	निर्माण क्रिया की दृष्टि से शैलों के तीन वर्ग हैं:- आग्नेय,अवसादी और रूपान्तरित ।	nirmANa kriyA kI xqRti se SEloM ke wIna varga hEM:- Agneya,avasAxI Ora rUpAnwariwa .	On the basis of mode of formation rocks may be grouped into three types:Igneous Sedimentary and Metamorphic
+Geo_nios_2ch_0115	’’इंगनियस‘‘ अंग्रेजी भाषा का शब्द है ।	iMganiyasa aMgrejI BARA kA Sabxa hE .	NO English Translation
+Geo_nios_2ch_0116	यह लैटिन भाषा के ’’इंग्निस‘‘ शब्द से बना है ।	yaha lEtina BARA ke iMgnisa Sabxa se banA hE .	The word igneous is derived from the Latin word ‘ignis’
+Geo_nios_2ch_0117	’’इंग्निस‘‘ शब्द का अर्थ अग्नि से है ।	iMgnisa Sabxa kA arWa agni se hE .	It has meaning fire.
+Geo_nios_2ch_0118	इससे इन शैलों की उत्पत्ति स्पष्ट होती है अर्थात वह शैल जिनकी उत्पत्ति अग्नि से हुई है, उन्हें आग्नेय शैल कहते हैं ।	isase ina SEloM kI uwpawwi spaRta howI hE arWAwa vaha SEla jinakI uwpawwi agni se huI hE, unheM Agneya SEla kahawe hEM .	Igneous rocks are formed by the cooling of highly heated molten fluid material, known as magma.
+Geo_nios_2ch_0119	आग्नेय शैलें अति तप्त चट्टानी तरल पदार्थ, जिसे मैग्मा कहते हैं, के ठण्डे होकर जमने से बनती हैं ।	Agneya SEleM awi wapwa cattAnI warala paxArWa, jise mEgmA kahawe hEM, ke TaNde hokara jamane se banawI hEM .	The word magma is derived from a Greek word which means ‘dough’. It requires a greater quantity of heat to melt the rocks under overlying pressure than at the surface.
+Geo_nios_2ch_0120	भूगर्भ में मैग्मा के बनने की निश्चित गहराई की हमें जानकारी नहीं है ।	BUgarBa meM mEgmA ke banane kI niSciwa gaharAI kI hameM jAnakArI nahIM hE .	We do not know the exact depths at which magma forms
+Geo_nios_2ch_0121	यह सम्भवतः विभिन्न गहराइयों पर बनता है जो 40 किलोमीटर से अधिक नहीं होती ।	yaha samBavawaH viBinna gaharAiyoM para banawA hE jo 40 kilomItara se aXika nahIM howI .	but probably it is formed at different depths not exceeding 40 km.
+Geo_nios_2ch_0122a	शैलों के पिघलने से आयतन में वृद्धि होती हैं, जिसके कारण भूपर्पटी टूटती है ।	SEloM ke piGalane se Ayawana meM vqxXi howI hEM, jisake kAraNa BUparpatI tUtawI hE .	Molten rocks produce an increase in volume which is responsible for causing fractures or cracks in the crust.
+Geo_nios_2ch_0122b	या उसमें दरारें पडती हैं ।	yA usameM xarAreM padawI hEM .	Molten rocks produce an increase in volume which is responsible for causing fractures or cracks in the crust.
+Geo_nios_2ch_0123	इन खुले छिद्रों या मुखों के सहारे ऊपर से पडने वाले दबाव में कमी आती है ।	ina Kule CixroM yA muKoM ke sahAre Upara se padane vAle xabAva meM kamI AwI hE .	The overlying pressure gets weakened along these openings,
+Geo_nios_2ch_0124	इससे मैग्मा बाहर निकलता है ।	isase mEgmA bAhara nikalawA hE .	thus forcing out the magma through them.
+Geo_nios_2ch_0125a	ऐसा न हो ।	EsA na ho .	Otherwise it can’t escape due to great overlying pressure.
+Geo_nios_2ch_0125b	तो ऊपर से पडने वाला अत्यधिक दाब मैग्मा को बाहर जाने नहीं देगा ।	wo Upara se padane vAlA awyaXika xAba mEgmA ko bAhara jAne nahIM xegA .	Otherwise it can’t escape due to great overlying pressure.
+Geo_nios_2ch_0126a	मैग्मा धरातल पर निकलता है ।	mEgmA XarAwala para nikalawA hE .	When magma is ejected to the surface, it is called lava.
+Geo_nios_2ch_0126b	तो उसे लावा कहते हैं ।	wo use lAvA kahawe hEM .	When magma is ejected to the surface, it is called lava.
+Geo_nios_2ch_0127a	पिघला हुआ मैग्मा, भूगर्भ में या पृथ्वी की सतह पर ठंडा होकर ठोस रूप धारण करता है ।	piGalA huA mEgmA, BUgarBa meM yA pqWvI kI sawaha para TaMdA hokara Tosa rUpa XAraNa karawA hE .	Igneous rocks are formed from solidified molten magma below or on the earth’s surface.
+Geo_nios_2ch_0127b	तो आग्नेय शैलों का निर्माण होता है ।	wo Agneya SEloM kA nirmANa howA hE .	Igneous rocks are formed from solidified molten magma below or on the earth’s surface.
+Geo_nios_2ch_0128a	पृथ्वी की प्रारम्भिक भूपर्पटी आग्नेय शैलों से बनी है ।	pqWvI kI prAramBika BUparpatI Agneya SEloM se banI hE .	As they comprise the earth’s first crust and all other rocks are derived from them
+Geo_nios_2ch_0128b	अतः अन्य सभी शैलों का निर्माण आग्नेय शैलों से ही हुआ है ।	awaH anya saBI SEloM kA nirmANa Agneya SEloM se hI huA hE .	As they comprise the earth’s first crust and all other rocks are derived from them
+Geo_nios_2ch_0129	इसी कारण आग्नेय शैलों को जनक या मूल शैल भी कहते हैं ।	isI kAraNa Agneya SEloM ko janaka yA mUla SEla BI kahawe hEM .	these are called the parent of all rocks or the ‘primary rocks’.
+Geo_nios_2ch_0130	भूगर्भ के सबसे ऊपरी 16 किलोमीटर की मोटाई में आग्नेय शैलों का भाग लगभग 95 प्रतिशत है ।	BUgarBa ke sabase UparI 16 kilomItara kI motAI meM Agneya SEloM kA BAga lagaBaga 95 prawiSawa hE .	About 95% of the volume of outermost 16 km of the earth is composed of them.
+Geo_nios_2ch_0131	आग्नेय शैलें सामान्यतया कठोर, भारी, विशालकाय और रबेदार होती हैं ।	Agneya SEleM sAmAnyawayA kaTora, BArI, viSAlakAya Ora rabexAra howI hEM .	These are largely hard and massive because of their magmatic origin and are crystalline in appearances.
+Geo_nios_2ch_0132	निर्माण-स्थल के आधार पर आग्नेय शैलों को दो वर्गों में बाँटा गया है ।	nirmANa-sWala ke AXAra para Agneya SEloM ko xo vargoM meM bAztA gayA hE .	On the basis of their mode of occurrence, igneous rocks can be classified as :
+Geo_nios_2ch_0133	बाह्य या बहिर्भेदी (ज्वालामुखी) और आन्तरिक या अन्तर्भेदी आग्नेय शैल ।	bAhya yA bahirBexI (jvAlAmuKI) Ora Anwarika yA anwarBexI Agneya SEla .	extrusive or volcanic rocks and intrusive rocks.
+Geo_nios_2ch_0134	बाह्य आग्नेय शैलें धरातल पर लावा के ठण्डा होकर जमने से बनी है ।	bAhya Agneya SEleM XarAwala para lAvA ke TaNdA hokara jamane se banI hE .	Extrusive igneous rocks are formed by cooling of lava on the earth’s surface.
+Geo_nios_2ch_0135	इन शैलों की रचना में लावा बहुत जल्दी ठण्डा हो जाता है ।	ina SEloM kI racanA meM lAvA bahuwa jalxI TaNdA ho jAwA hE .	As lava cools very rapidly on coming out of the hot interior of the earth,
+Geo_nios_2ch_0136	लावा के जल्दी ठण्डा होने से इनमें छोटे आकार के रवे बनते हैं ।	lAvA ke jalxI TaNdA hone se inameM Cote AkAra ke rave banawe hEM .	the mineral crystals forming these rocks are very fine.
+Geo_nios_2ch_0137	इन्हें ज्वालामुखी शैल भी कहते हैं ।	inheM jvAlAmuKI SEla BI kahawe hEM .	These rocks are also called volcanic rocks.
+Geo_nios_2ch_0138	गेब्रो और बैसाल्ट बाह्य आग्नेय शैलों के सामान्य उदाहरण हैं ।	gebro Ora bEsAlta bAhya Agneya SEloM ke sAmAnya uxAharaNa hEM .	Gabbro and basalt are very common examples of such rocks.
+Geo_nios_2ch_0139	ये शैलें ज्वालामुखी क्षेत्रों में पाई जाती हैं ।	ye SEleM jvAlAmuKI kRewroM meM pAI jAwI hEM .	These rocks are found in volcanic areas.
+Geo_nios_2ch_0140	भारत के दक्कन पठार की ’’रेगुर‘‘ अथवा काली मिट्टी लावा से बनी है ।	BArawa ke xakkana paTAra kI regura aWavA kAlI mittI lAvA se banI hE .	Deccan plateau’s regur soil in India is derived from lava.
+Geo_nios_2ch_0141	आन्तरिक आग्नेय शैलों की रचना मैग्मा के धरातल के नीचे जमने से होती है ।	Anwarika Agneya SEloM kI racanA mEgmA ke XarAwala ke nIce jamane se howI hE .	Intrusive igneous rocks are formed when magma solidifies below the earth’s surface.
+Geo_nios_2ch_0142	धरातल के नीचे मैग्मा धीरे-धीरे ठण्डा होता है ।	XarAwala ke nIce mEgmA XIre-XIre TaNdA howA hE .	The rate of cooling below the earth’ s surface is very slow
+Geo_nios_2ch_0143	अतः इन शैलों में बड आकार के रवे बनते हैं ।	awaH ina SEloM meM bada AkAra ke rave banawe hEM .	which gives rise to formation of large crystals in the rocks.
+Geo_nios_2ch_0144	अधिक गहराई में पाई जाने वाली आन्तरिक शैलों को पातालीय आग्नेय शैल कहते हैं ।	aXika gaharAI meM pAI jAne vAlI Anwarika SEloM ko pAwAlIya Agneya SEla kahawe hEM .	Deep seated intrusive rocks are termed as plutonic rocks and shallow depth intrusive rocks are termed as hypabyssal.
+Geo_nios_2ch_0145	ग्रेनाइट और डोलाराइट आन्तरिक आग्नेय शैलों के सामान्य उदाहरण हैं ।	grenAita Ora dolArAita Anwarika Agneya SEloM ke sAmAnya uxAharaNa hEM .	Granite and dolerite are common examples of intrusive rocks.
+Geo_nios_2ch_0146	दक्कन पठार और हिमालय क्षेत्र में ग्रेनाइट शैलों के विस्तृत भूखण्ड देखे जा सकते हैं ।	xakkana paTAra Ora himAlaya kRewra meM grenAita SEloM ke viswqwa BUKaNda xeKe jA sakawe hEM .	The huge blocks of coarse graniticrocks are found both in the Himalaya and the Decean Plateau.
+Geo_nios_2ch_0147	आन्तरिक आग्नेय शैलों की आकृति कई प्रकार की होती है ।	Anwarika Agneya SEloM kI Akqwi kaI prakAra kI howI hE .	NO English Translation
+Geo_nios_2ch_0148	चित्र 2.2 से स्पष्ट होता है कि भूपर्पटी में मैग्मा के ठण्डा होने पर विभिन्न आकृतियों में आग्नेय शैल बनती है ।	ciwra 2.2 se spaRta howA hE ki BUparpatI meM mEgmA ke TaNdA hone para viBinna AkqwiyoM meM Agneya SEla banawI hE .	Let us look at the Fig. 2.2. It illustrates that magma, on cooling, produces rocks of different shapes and sizes,
+Geo_nios_2ch_0149	ये आकृतियाँ शैलों में प्राप्त स्थान तथा मैग्मा के दवाब पर निर्भर करती है ।	ye AkqwiyAz SEloM meM prApwa sWAna waWA mEgmA ke xavAba para nirBara karawI hE .	depending on the space available after it forces itself into the crust.
+Geo_nios_2ch_0150	बैथोलिथ, सिल और डाइक, इसके उदाहरण हैं ।	bEWoliWa, sila Ora dAika, isake uxAharaNa hEM .	Common forms of instrusive igneous rocks are batholiths, sills and dykes etc.
+Geo_nios_2ch_0151	बैथोलिथ बडे आन्तरिक आग्नेय चट्टानी पिंड हैं ।	bEWoliWa bade Anwarika Agneya cattAnI piMda hEM .	Batholiths are huge masses of solidified magma
+Geo_nios_2ch_0152	इनका आकार कुछ सौ किलोमीटर से हजारों किलोमीटर तक होता है ।	inakA AkAra kuCa sO kilomItara se hajAroM kilomItara waka howA hE .	They vary in size some are as much as several hundred kilometers across and thousands of kilometers thick.
+Geo_nios_2ch_0153	यह विश्व के बडे पर्वत-समूहों के स्थूल क्रोड हैं ।	yaha viSva ke bade parvawa-samUhoM ke sWUla kroda hEM .	They generally form the core of the major mountains, as shown in this diagram.
+Geo_nios_2ch_0154	लाखों वर्षों के अपरदन के कारण कभी-कभी उनकी असमान गुम्बदनुमा छत धरातल पर दिखाई देने लगती है ।	lAKoM varRoM ke aparaxana ke kAraNa kaBI-kaBI unakI asamAna gumbaxanumA Cawa XarAwala para xiKAI xene lagawI hE .	Their irregular dome shaped roofs sometimes appear on the surface after erosion of millions of years.
+Geo_nios_2ch_0155	पूर्ववर्ती शैलों के बीच मैग्मा के समानान्तर तहों के रूप में जमने के स्वरूप को सिल कहते हैं ।	pUrvavarwI SEloM ke bIca mEgmA ke samAnAnwara wahoM ke rUpa meM jamane ke svarUpa ko sila kahawe hEM .	Sill is the horizontal intrusion of solidified magma between the layers of pre-existing rocks.
+Geo_nios_2ch_0156	डाइक शैलों के बीच मैग्मा का लम्बवत जमाव है. इनकी लम्बाई कुछ एक मीटर से लेकर कई किलोमीटर तथा चौडाई कुछ एक सेन्टीमीटर से लेकर सैंकडों मीटर तक हो सकती है ।	dAika SEloM ke bIca mEgmA kA lambavawa jamAva hE. inakI lambAI kuCa eka mItara se lekara kaI kilomItara waWA cOdAI kuCa eka sentImItara se lekara sEMkadoM mItara waka ho sakawI hE .	Dyke is similarly a more or less vertical formation from few metres to several kilometers in length and from few centimeter to hundreds of metres in thickness.
+Geo_nios_2ch_0157	रासायनिक गुणों के आधार पर आग्नेय शैलों को दो वर्गों में विभाजित किया जा सकता है - अम्लीय और क्षारीय शैल ।	rAsAyanika guNoM ke AXAra para Agneya SEloM ko xo vargoM meM viBAjiwa kiyA jA sakawA hE - amlIya Ora kRArIya SEla .	On the basis of chemical properties, igneous rocks are classified into acidic and basic rocks.
+Geo_nios_2ch_0158	ये क्रमशः अम्लीय और क्षारीय लावा के जमने से बनती है ।	ye kramaSaH amlIya Ora kRArIya lAvA ke jamane se banawI hE .	These are formed as a result of solidification of acidic or basic lava.
+Geo_nios_2ch_0159	अम्लीय आग्नेय शैलों में सिलीका की मात्रा 65 प्रतिशत होती है ।	amlIya Agneya SEloM meM silIkA kI mAwrA 65 prawiSawa howI hE .	Acidic igneous rocks are composed of 65% or more of silica.
+Geo_nios_2ch_0160	इनका रंग बहुत हल्का होता है ।	inakA raMga bahuwa halkA howA hE .	These rocks are light coloured,
+Geo_nios_2ch_0161	ये कठोर और मजबूत शैल है ।	ye kaTora Ora majabUwa SEla hE .	hard and very strong.
+Geo_nios_2ch_0162	ग्रेनाइट इसी प्रकार की शैल का उदाहरण है ।	grenAita isI prakAra kI SEla kA uxAharaNa hE .	Granite is an example of an acidic rock.
+Geo_nios_2ch_0163	क्षारीय आग्नेय शैलों में सिलीका की मात्रा अम्लीय शैलों से कम पाई जाती है ।	kRArIya Agneya SEloM meM silIkA kI mAwrA amlIya SEloM se kama pAI jAwI hE .	NO English Translation
+Geo_nios_2ch_0164	इनमें सिलीका की मात्रा 55 प्रतिशत से कम होती है ।	inameM silIkA kI mAwrA 55 prawiSawa se kama howI hE .	Basic igneous rocks contain less than 55% of silica
+Geo_nios_2ch_0165	ऐसी शैलों में लोहा और मैगनीशियम की अधिकता है ।	EsI SEloM meM lohA Ora mEganISiyama kI aXikawA hE .	and have more of iron and magnesium.
+Geo_nios_2ch_0166	इनका रंग गहरा और काला होता है ।	inakA raMga gaharA Ora kAlA howA hE .	These rocks are dark coloured
+Geo_nios_2ch_0167	इन पर ऋतु अपक्षय का बहुत प्रभाव पडता है ।	ina para qwu apakRaya kA bahuwa praBAva padawA hE .	and weak enough for weathering.
+Geo_nios_2ch_0168	गैब्रो, बैसाल्ट तथा डोलेराइट क्षारीय शैलों के उदाहरण है ।	gEbro, bEsAlta waWA dolerAita kRArIya SEloM ke uxAharaNa hE .	Gabbro, basalt and dolerite are examples of basic rocks.
+Geo_nios_2ch_0169	आग्नेय शैल तप्त द्रवित पदार्थ मैग्मा अथवा लावा के ठण्डा होकर जमने से बनी है ।	Agneya SEla wapwa xraviwa paxArWa mEgmA aWavA lAvA ke TaNdA hokara jamane se banI hE .	Igneous rocks are formed by the solidification of hot molten material called magma or lava.
+Geo_nios_2ch_0170	बाह्य आग्नेय शैल धरातल पर लावा के ठण्डा होकर जमने से बनी है ।	bAhya Agneya SEla XarAwala para lAvA ke TaNdA hokara jamane se banI hE .	Extrusive igneous rocks are formed by cooling of lava on the earth’s surface
+Geo_nios_2ch_0171	बैसाल्ट और गैब्रो इसके उदाहरण हैं ।	bEsAlta Ora gEbro isake uxAharaNa hEM .	e.g. basalt, gabbro.
+Geo_nios_2ch_0172	आन्तरिक आग्नेय शैल धरातल के नीचे मैग्मा के जमने से बनी है ।	Anwarika Agneya SEla XarAwala ke nIce mEgmA ke jamane se banI hE .	Instrusive igneous rocks are formed by solidification of magma below the earth’s surface,
+Geo_nios_2ch_0173	ग्रेनाइट इसका उदाहरण है ।	grenAita isakA uxAharaNa hE .	e.g. granite.
+Geo_nios_2ch_0174	खनिज की परिभाषा लिखिये ।	Kanija kI pariBARA liKiye .	Define the term mineral
+Geo_nios_2ch_0175	भूपर्पटी में पाये जाने वाले प्रमुख तीन खनिजों के नाम बताइए ।	BUparpatI meM pAye jAne vAle pramuKa wIna KanijoM ke nAma bawAie .	Give the names of any three minerals which are found extensively on the earth’s crust.
+Geo_nios_2ch_0176	निम्नलिखित प्रत्येक के लिए एक-एक शब्द दीजिए ।	nimnaliKiwa prawyeka ke lie eka-eka Sabxa xIjie .	Give a term for each of the following
+Geo_nios_2ch_0177	अधिक गहराई में प्राप्त आन्तरिक आग्नेय शैल ।	aXika gaharAI meM prApwa Anwarika Agneya SEla .	Deep seated intrusive igneous rock.
+Geo_nios_2ch_0178	पृथ्वी के धरातल पर पहुँचने वाला गर्म तप्त तरल पदार्थ ।	pqWvI ke XarAwala para pahuzcane vAlA garma wapwa warala paxArWa .	A hot sticky molten material erupted on the earth’s surface.
+Geo_nios_2ch_0179	डाइक और सिल की रचना कैसे होती है? ।	dAika Ora sila kI racanA kEse howI hE? .	How are dykes and sills formed?
+Geo_nios_2ch_0180	निम्नलिखित में से कौन सी आन्तरिक आग्नेय शैल का उदाहरण है? ।	nimnaliKiwa meM se kOna sI Anwarika Agneya SEla kA uxAharaNa hE? .	Which one of the following is an example of intrusive igenous rock?
+Geo_nios_2ch_0181	इन शैलों की रचना अवसादों के निरन्तर जमाव से होती है ।	ina SEloM kI racanA avasAxoM ke niranwara jamAva se howI hE .	These rocks are formed by successive deposition of sediments.
+Geo_nios_2ch_0182	ये अवसाद किसी भी पूर्ववर्ती शैल - आग्नेय, रूपान्तरित या अवसादी शैलों का अपरदित मलवा हो सकता है ।	ye avasAxa kisI BI pUrvavarwI SEla - Agneya, rUpAnwariwa yA avasAxI SEloM kA aparaxiwa malavA ho sakawA hE .	These sediments may be the debris eroded from any previously existing rock which may be igneous rock, metamorphic or old sedimentary rock.
+Geo_nios_2ch_0183	अवसादों का जमाव परतों के रूप में होता है ।	avasAxoM kA jamAva parawoM ke rUpa meM howA hE .	Sedimentary rocks have layered or stratified structure.
+Geo_nios_2ch_0184	इसलिए इन शैलों को परतदार शैल भी कहते हैं ।	isalie ina SEloM ko parawaxAra SEla BI kahawe hEM .	So these rocks are also called stratified rocks.
+Geo_nios_2ch_0185	इन शैलों की मोटाई कुछ मि. मी. से लेकर कई मीटर तक होती है ।	ina SEloM kI motAI kuCa mi. mI. se lekara kaI mItara waka howI hE .	The thickness of strata varies from few millimeters to several metres.
+Geo_nios_2ch_0186	इन शैलों की परतों के बीच में जीवाश्म भी मिलते हैं ।	ina SEloM kI parawoM ke bIca meM jIvASma BI milawe hEM .	Generally, these rocks have some type of fossil between their strata.
+Geo_nios_2ch_0187	जीवाश्म प्रागैतिहासिक काल के पशु और पौधों के अवशेष हैं ।	jIvASma prAgEwihAsika kAla ke paSu Ora pOXoM ke avaSeRa hEM .	Fossil is the solid part or an impression of a prehistoric animal or plant embedded in strata of sedimentary rocks.
+Geo_nios_2ch_0188	ये अवशेष अवसादी शैलों की परतों में दबकर भार पडने के कारण ठोस रूप धारण कर लेते हैं ।	ye avaSeRa avasAxI SEloM kI parawoM meM xabakara BAra padane ke kAraNa Tosa rUpa XAraNa kara lewe hEM .	Fossil is the solid part
+Geo_nios_2ch_0189	धरातल पर अधिकतर अवसादी शैलों का विस्तार मिलता है, परन्तु ये शैलें कम गइराई तक ही मिलती हैं ।	XarAwala para aXikawara avasAxI SEloM kA viswAra milawA hE, paranwu ye SEleM kama gairAI waka hI milawI hEM .	Sedimentary rocks are widely spread on the earth surface but to a shallow depth.
+Geo_nios_2ch_0190a	शैलों से पहले अनेकों कण टूटते हैं ।	SEloM se pahale anekoM kaNa tUtawe hEM .	The individual rock particles are first broken from rocks and then transported by running water, ocean currents, glaciers or even by wind from one place to another.
+Geo_nios_2ch_0190b	और फिर उन टूटे कणों को परिवहन के कारक बहता-जल, समुद्री लहरें, हिमानी, पवन आदि एक स्थान से दूसरे स्थान पर ले जाते हैं ।	Ora Pira una tUte kaNoM ko parivahana ke kAraka bahawA-jala, samuxrI lahareM, himAnI, pavana Axi eka sWAna se xUsare sWAna para le jAwe hEM .	The individual rock particles are first broken from rocks and then transported by running water, ocean currents, glaciers or even by wind from one place to another.
+Geo_nios_2ch_0191a	परिवहन के कारकों में इन कणों को ढोने की शक्ति में कमी आती है ।	parivahana ke kArakoM meM ina kaNoM ko Done kI Sakwi meM kamI AwI hE .	It may settle in calmer waters of lakes or oceans or at places where the transporting agent has no longer enough energy to carry them farther.
+Geo_nios_2ch_0191b	तो वे समुद्र, झील या नदी के शांत जल में अथवा अन्यत्र उपयुक्त स्थानों पर जमा हो जाते हैं ।	wo ve samuxra, JIla yA naxI ke SAMwa jala meM aWavA anyawra upayukwa sWAnoM para jamA ho jAwe hEM .	It may settle in calmer waters of lakes or oceans or at places where the transporting agent has no longer enough energy to carry them farther.
+Geo_nios_2ch_0192	ढोकर लाये गये शैलों के कणों के किसी स्थान पर जमा होने की प्रक्रिया को अवसादन या निक्षेपण कहते हैं ।	Dokara lAye gaye SEloM ke kaNoM ke kisI sWAna para jamA hone kI prakriyA ko avasAxana yA nikRepaNa kahawe hEM .	These are identified as riverine, lacustrine (formed by lake), glacial or aeolian (formed by wind) sedimentary rocks with reference to their deposition near rivers, lakes, glacier or deserts respectively.
+Geo_nios_2ch_0193	अवसादी शैलों का नाम अवसाद ढोने वाले कारकों और उनके जमाव स्थल के संदर्भ में रखा जाता है ।	avasAxI SEloM kA nAma avasAxa Done vAle kArakoM Ora unake jamAva sWala ke saMxarBa meM raKA jAwA hE .	The sediments are often loose, unconsolidated, soft rock material, in the beginning like sand and clay, but in course of time they get hardened to a compact material by excessive pressure and cementation to form sedimentary rocks.
+Geo_nios_2ch_0194	जैसे नदी-नदीकृत शैल,झील-सरोवरी शैल, समुद्र-समुद्रकृत शैल, मरुस्थल-पवनकृत शैल, हिमानी-हिमानीकृत शैल, आदि ।	jEse naxI-naxIkqwa SEla,JIla-sarovarI SEla, samuxra-samuxrakqwa SEla, marusWala-pavanakqwa SEla, himAnI-himAnIkqwa SEla, Axi .	Sandstone, shale, limestone and dolomite are examples of sedimentary rocks.
+Geo_nios_2ch_0195	अवसाद प्रायः बारीक कणों से निर्मित मुलायम परत होती हैं ।	avasAxa prAyaH bArIka kaNoM se nirmiwa mulAyama parawa howI hEM .	No English Translation
+Geo_nios_2ch_0196	प्रारम्भ में ये बालू मिट्टी के रूप में होते हैं ।	prAramBa meM ye bAlU mittI ke rUpa meM howe hEM .	No English Translation
+Geo_nios_2ch_0197a	कालान्तर में यही पदार्थ भारी दवाब के कारण संयुक्त रूप धारण कर ठोस बन जाते हैं ।	kAlAnwara meM yahI paxArWa BArI xavAba ke kAraNa saMyukwa rUpa XAraNa kara Tosa bana jAwe hEM .	Sediments of different sizes may get bound by cementing material under suitable conditions.
+Geo_nios_2ch_0197b	और अवसादी शैलों का निर्माण करते हैं ।	Ora avasAxI SEloM kA nirmANa karawe hEM .	Sediments of different sizes may get bound by cementing material under suitable conditions.
+Geo_nios_2ch_0198	प्रारम्भ में अवसादी शैलों का जमाव क्षैतिज रूप में होता है ।	prAramBa meM avasAxI SEloM kA jamAva kREwija rUpa meM howA hE .	The deposition of sediments in the beginning is generally horizontal
+Geo_nios_2ch_0199	बाद में चलकर भूपर्पटी में हुई हलचलों के कारण झुकाव पैदा हो जाते हैं ।	bAxa meM calakara BUparpatI meM huI halacaloM ke kAraNa JukAva pExA ho jAwe hEM .	but it may get tilted afterwards due to movements in the earth’s crust.
+Geo_nios_2ch_0200	बलुआ पत्थर, शैल, चूना पत्थर और डोलोमाइट अवसादी शैलें हैं ।	baluA pawWara, SEla, cUnA pawWara Ora dolomAita avasAxI SEleM hEM .	No English Translation
+Geo_nios_2ch_0201	परिवहन के विभिन्न कारक जैसे बहता जल, पवन या हिमानी अवसादों को अलग-अलग आकारों में छाँटते रहते हैं ।	parivahana ke viBinna kAraka jEse bahawA jala, pavana yA himAnI avasAxoM ko alaga-alaga AkAroM meM CAztawe rahawe hEM .	No English Translation
+Geo_nios_2ch_0202	विभिन्न आकार के अवसाद अनुकूल परिस्थितियाँ पाकर एक दूसरे से जुड जाते हैं ।	viBinna AkAra ke avasAxa anukUla parisWiwiyAz pAkara eka xUsare se juda jAwe hEM .	No English Translation
+Geo_nios_2ch_0203	कांगलोमरेट इस प्रकार की अवसादी शैल का उदाहरण है ।	kAMgalomareta isa prakAra kI avasAxI SEla kA uxAharaNa hE .	Conglomerate is an example of such a sedimentary rock.
+Geo_nios_2ch_0204	इस प्रकार की प्रक्रिया से बनी शैलों को भौतिक अवसादी शैल कहते हैं ।	isa prakAra kI prakriyA se banI SEloM ko BOwika avasAxI SEla kahawe hEM .	This type of formation of consolidated material is termed as mechanically formed sedimentary rock.
+Geo_nios_2ch_0205	पेड-पौधों अथवा जानवरों से प्राप्त जैवीय पदार्थों के एकीकरण से बनी अवसादी शैलें जैविक मूल की शैल होती है ।	peda-pOXoM aWavA jAnavaroM se prApwa jEvIya paxArWoM ke ekIkaraNa se banI avasAxI SEleM jEvika mUla kI SEla howI hE .	The consolidation of organic matter derived from plants and animals forms sedimentary rocks of organic origin.
+Geo_nios_2ch_0206	कोयला और चूना पत्थर जैविक मूल की अवसादी शैलें हैं ।	koyalA Ora cUnA pawWara jEvika mUla kI avasAxI SEleM hEM .	Coal and limestone are organic sedimentary rocks.
+Geo_nios_2ch_0207	अवसादों की रचना रासायनिक प्रक्रिया से भी संभव है ।	avasAxoM kI racanA rAsAyanika prakriyA se BI saMBava hE .	The sediments may also result from chemical reaction.
+Geo_nios_2ch_0208	जल अपनी घुलन क्रिया के द्वारा शैलों से बहुत सारे रासायनिक तत्व ग्रहण कर अवसाद के रूप में जमा करता रहता है ।	jala apanI Gulana kriyA ke xvArA SEloM se bahuwa sAre rAsAyanika wawva grahaNa kara avasAxa ke rUpa meM jamA karawA rahawA hE .	Direct precipitation of minerals from their solution in water may give rise to sedimentary rocks of chemical origin.
+Geo_nios_2ch_0209	यही अवसाद कालान्तर में शैल बन जाता हैं ।	yahI avasAxa kAlAnwara meM SEla bana jAwA hEM .	No English Translation
+Geo_nios_2ch_0210	सेंधा नमक, जिप्सम, शोरा आदि सब इसी प्रकार की शैलें है ।	seMXA namaka, jipsama, SorA Axi saba isI prakAra kI SEleM hE .	Gypsum, rocksalt and nitre are examples of such sedimentary rocks.
+Geo_nios_2ch_0211	संसार के विशालकाय बलित पर्वतों जैसे हिमालय, एण्डीज आदि की रचना शैलों से हुई है ।	saMsAra ke viSAlakAya baliwa parvawoM jEse himAlaya, eNdIja Axi kI racanA SEloM se huI hE .	Huge folded mountains of the world like Himalayas, Andes etc. are made up of sedimentary rocks
+Geo_nios_2ch_0212	संसार के सभी जलोढ निक्षेप भी अवसादों के एकीकृत रूप हैं ।	saMsAra ke saBI jaloDa nikRepa BI avasAxoM ke ekIkqwa rUpa hEM .	All the alluvial deposits of the world are also due to sedimentary accumulations
+Geo_nios_2ch_0213	अतः सभी नदी द्रोणियों विशेषकर उनके मैदान तथा डेल्टा अवसादों के जमाव से बने हैं ।	awaH saBI naxI xroNiyoM viSeRakara unake mExAna waWA deltA avasAxoM ke jamAva se bane hEM .	All river basins, particularly their plains and deltas are good examples of sedimentary accumulations.
+Geo_nios_2ch_0214	इनमें सिंधु-गंगा का मैदान और गंगा-ब्रह्मपुत्रा का डेल्टा सबसे उत्तम उदाहरण है ।	inameM siMXu-gaMgA kA mExAna Ora gaMgA-brahmapuwrA kA deltA sabase uwwama uxAharaNa hE .	e.g. IndoGangetic plain and Ganga-Brahmaputra delta
+Geo_nios_2ch_0215	अवसादी शैलों की रचना अवसादों के एक के ऊपर एक जमा होने के परिणाम स्वरूप होती है ।	avasAxI SEloM kI racanA avasAxoM ke eka ke Upara eka jamA hone ke pariNAma svarUpa howI hE .	Sedimentary rocks are formed by the successive deposition of sediments.
+Geo_nios_2ch_0216	जीवाश्म प्रागैतिहासिक काल के पेड-पौधों अथवा पशुओं के अवशेष हैं, जो अवसादी शैलों की परतों के बीच में दबकर ठोस रूप धारण कर चुके हैं ।	jIvASma prAgEwihAsika kAla ke peda-pOXoM aWavA paSuoM ke avaSeRa hEM, jo avasAxI SEloM kI parawoM ke bIca meM xabakara Tosa rUpa XAraNa kara cuke hEM .	Fossil is the solid part or an impression of a prehistoric animal or plant embedded in sedimentary rocks in which they are buried.
+Geo_nios_2ch_0217	पर्वतीय प्रदेशों में अधिकांश शैलों में परिवर्तन के प्रमाण मिलते हैं ।	parvawIya praxeSoM meM aXikAMSa SEloM meM parivarwana ke pramANa milawe hEM .	Most rocks in mountainous regions show an evidence of change.
+Geo_nios_2ch_0218	ये सभी शैलों कालान्तर में रूपान्तरित हो जाती हैं ।	ye saBI SEloM kAlAnwara meM rUpAnwariwa ho jAwI hEM .	All these in course of time become metamorphic or changed forms of rocks.
+Geo_nios_2ch_0219	अवसादी अथवा आग्नेय शैलों पर अत्याधिक ताप से या दाब पडने के कारण रूपान्तरित शैलें बनती हैं ।	avasAxI aWavA Agneya SEloM para awyAXika wApa se yA xAba padane ke kAraNa rUpAnwariwa SEleM banawI hEM .	Metamorphic rocks are formed under the influence of heat or pressure on sedimentary or igneous rocks.
+Geo_nios_2ch_0220	उच्च ताप और उच्च दाब, पूर्ववर्ती शैलों के रंग, कठोरता, गठन तथा खनिज संघटन में परिवर्तन कर देते हैं ।	ucca wApa Ora ucca xAba, pUrvavarwI SEloM ke raMga, kaTorawA, gaTana waWA Kanija saMGatana meM parivarwana kara xewe hEM .	Tremendous pressure and high temperature change the colour, hardness, structure and composition of all types of pre-existing rocks.
+Geo_nios_2ch_0221	जहाँ शैलें गर्म-द्रवित मैग्मा के संपर्क में आती हैं, वहाँ उनकी रचना में परिवर्तन आ जाता है ।	jahAz SEleM garma-xraviwa mEgmA ke saMparka meM AwI hEM, vahAz unakI racanA meM parivarwana A jAwA hE .	No English Translation
+Geo_nios_2ch_0222	इस परिवर्तन की प्रक्रिया को रूपान्तरण और कायांतरण कहते हैं ।	isa parivarwana kI prakriyA ko rUpAnwaraNa Ora kAyAMwaraNa kahawe hEM .	The process which bring about the change is known as Metamorphism
+Geo_nios_2ch_0223	इस प्रक्रिया द्वारा बनी शैल को रूपांतरित शैल कहते हैं ।	isa prakriyA xvArA banI SEla ko rUpAMwariwa SEla kahawe hEM .	and the ultimate products, formed due to operation of such processes are defined as the Metamorphic rocks.
+Geo_nios_2ch_0224a	भूपर्पटी में मौजूद अत्यधिक ऊष्मा के प्रभाव से अवसादी और आग्नेय शैलों के खनिजों में रवों का पुनर्निर्माण अथवा रूप में परिवर्तन होता है ।	BUparpatI meM mOjUxa awyaXika URmA ke praBAva se avasAxI Ora Agneya SEloM ke KanijoM meM ravoM kA punarnirmANa aWavA rUpa meM parivarwana howA hE .	Temperature, pressure stress and access of chemically reactive substances are the main agents, which are responsible for metamorphism.
+Geo_nios_2ch_0224b	तो उसे तापीय रूपान्तरण अथवा संस्पर्शीय रूपान्तरण कहते हैं ।	wo use wApIya rUpAnwaraNa aWavA saMsparSIya rUpAnwaraNa kahawe hEM .	Temperature, pressure stress and access of chemically reactive substances are the main agents, which are responsible for metamorphism.
+Geo_nios_2ch_0225a	द्रवित मैग्मा अथवा लावा शैलों के संपर्क में आता है ।	xraviwa mEgmA aWavA lAvA SEloM ke saMparka meM AwA hE .	When molten magma or lava comes in contact with surrounding rocks, it bakes them and changes them into metamorphic rocks.
+Geo_nios_2ch_0225b	तो शैलों के मूल रूप में परिवर्तन ला देता हैं ।	wo SEloM ke mUla rUpa meM parivarwana lA xewA hEM .	When molten magma or lava comes in contact with surrounding rocks, it bakes them and changes them into metamorphic rocks.
+Geo_nios_2ch_0226	इसी प्रकार भारी दबाव के कारण शैलों में परिवर्तन होता है ।	isI prakAra BArI xabAva ke kAraNa SEloM meM parivarwana howA hE .	Heat causes the minerals to recrystallise in the rock.
+Geo_nios_2ch_0227	दबाव के कारण हुए परिवर्तन को गतिक या प्रादेशिक रूपान्तरण कहते हैं ।	xabAva ke kAraNa hue parivarwana ko gawika yA prAxeSika rUpAnwaraNa kahawe hEM .	The process of change by heat is called thermal or contact metamorphism.
+Geo_nios_2ch_0228	स्लेट, नीस-शीस्ट, संगमरमर और हीरा रूपान्तरित शैलों के उदाहरण हैं ।	sleta, nIsa-SIsta, saMgamaramara Ora hIrA rUpAnwariwa SEloM ke uxAharaNa hEM .	Slate, gneiss, schist, marble and diamond are good examples of metamorphic rocks.
+Geo_nios_2ch_0229	रूपान्तरित शैल अपनी मूल शैलों से अधिक कठोर और मजबूत होती हैं ।	rUpAnwariwa SEla apanI mUla SEloM se aXika kaTora Ora majabUwa howI hEM .	Metamorphic rocks are hard and tough in comparison to the parent rocks from which they are formed.
+Geo_nios_2ch_0230	तालिका 2.1 में रूपान्तरित शैल और उनकी मूल शैलों के उदाहरण दिए हुए हैं ।	wAlikA 2.1 meM rUpAnwariwa SEla Ora unakI mUla SEloM ke uxAharaNa xie hue hEM .	Examples of metamorphic rocks are given in the table 2.1 with their parent rock from which they have been formed.
+Geo_nios_2ch_0231	इस तालिका का ध्यान से अध्ययन करिए ।	isa wAlikA kA XyAna se aXyayana karie .	No English Translation
+Geo_nios_2ch_0232	संसार में विभिन्न प्रकार की रूपान्तरित शैलें पाई जाती हैं ।	saMsAra meM viBinna prakAra kI rUpAnwariwa SEleM pAI jAwI hEM .	Different types of metamorphic rocks are found all over the world.
+Geo_nios_2ch_0233	भारत में संगमरमर राजस्थान, बिहार और मध्य प्रदेश में मिलता है ।	BArawa meM saMgamaramara rAjasWAna, bihAra Ora maXya praxeSa meM milawA hE .	In India, marble is found in Rajasthan, Bihar and Madhya Pradesh, whereas slates are available in plenty in Orissa, Andhra Pradesh and Haryana.
+Geo_nios_2ch_0234	हिमाचल प्रदेश के कांगडा और कुमायूँ क्षेत्र में विभिन्न रंगों की स्लेट मिलती है ।	himAcala praxeSa ke kAMgadA Ora kumAyUz kRewra meM viBinna raMgoM kI sleta milawI hE .	In Kangra and Kumaun regions of Himalaya, slates of different colours are found.
+Geo_nios_2ch_0235	रूपान्तरित शैल की रचना अवसादी, आग्नेय या पूर्ववर्ती रूपान्तरित शैलों पर भारी ताप और दाब के प्रभाव के कारण होती है ।	rUpAnwariwa SEla kI racanA avasAxI, Agneya yA pUrvavarwI rUpAnwariwa SEloM para BArI wApa Ora xAba ke praBAva ke kAraNa howI hE .	Metamorphic rocks are formed by the effect of heat or pressure on sedimentary or igneous or even metamorphic rocks.
+Geo_nios_2ch_0236	तापीय रूपान्तरण वह प्रक्रिया है, जिसमें भारी ताप के कारण शैलों में परिवर्तन होता है ।	wApIya rUpAnwaraNa vaha prakriyA hE, jisameM BArI wApa ke kAraNa SEloM meM parivarwana howA hE .	Thermal metamorphism is the process by which a rock under-goes change as a result of great heat.
+Geo_nios_2ch_0237	गतिक रूपान्तरण शैलों का वह बदला स्वरूप है जो पृथ्वी की हलचलों के समय भारी दवाब के कारण होता है ।	gawika rUpAnwaraNa SEloM kA vaha baxalA svarUpa hE jo pqWvI kI halacaloM ke samaya BArI xavAba ke kAraNa howA hE .	Dynamic metamorphism is the modification of rock, by tremendous pressure during extensive earth movements.
+Geo_nios_2ch_0238	शैलों का आर्थिक महत्व ।	SEloM kA ArWika mahawva .	ECONOMIC SIGNIFICANCE OF ROCKS
+Geo_nios_2ch_0239	मनुष्य पृथ्वी तल पर विविध क्रियाकलाप लम्बे समय से कर रहा है ।	manuRya pqWvI wala para viviXa kriyAkalApa lambe samaya se kara rahA hE .	Man has been interacting with the surface of the earth since long.
+Geo_nios_2ch_0240	समय और तकनीकी विकास के साथ वह शैलों और खनिजों का विविध उपयोग करता रहा है ।	samaya Ora wakanIkI vikAsa ke sAWa vaha SEloM Ora KanijoM kA viviXa upayoga karawA rahA hE .	With time and advancement in technology he is making different uses of rocks and minerals.
+Geo_nios_2ch_0241	वैज्ञानिक और तकनीकी ज्ञान जैसे-जैसे बढता गया वैसे-वैसे ही मनुष्य की सुख-सुविधाओं के लिए शैलों और खनिजों की उपयोगिता बढती गई ।	vEjFAnika Ora wakanIkI jFAna jEse-jEse baDawA gayA vEse-vEse hI manuRya kI suKa-suviXAoM ke lie SEloM Ora KanijoM kI upayogiwA baDawI gaI .	No English Translation
+Geo_nios_2ch_0242	शैलों के महत्व के संबंध में संक्षिप्त जानकारी नीचे दी गई है ।	SEloM ke mahawva ke saMbaMXa meM saMkRipwa jAnakArI nIce xI gaI hE .	The importance of rocks is given below:
+Geo_nios_2ch_0243	मृदा शैलों से प्राप्त होती है ।	mqxA SEloM se prApwa howI hE .	Soils are derived from rocks.
+Geo_nios_2ch_0244	मृदा से मानव के लिये भोजन मिलता है, इसके साथ ही विभिन्न कृषि उत्पादों से उद्योग-धंधों के लिए कच्चा माल भी प्राप्त होता है ।	mqxA se mAnava ke liye Bojana milawA hE, isake sAWa hI viBinna kqRi uwpAxoM se uxyoga-XaMXoM ke lie kaccA mAla BI prApwa howA hE .	Soils provide suitability for that agricultural products that provide food for mention and provide raw material for many industries.
+Geo_nios_2ch_0245	भवन निर्माणकारी सामग्री शैलों से प्रत्यक्ष और परोक्ष रूप से प्राप्त होती है ।	Bavana nirmANakArI sAmagrI SEloM se prawyakRa Ora parokRa rUpa se prApwa howI hE .	Rocks are the source of types of building material directly or indirectly.
+Geo_nios_2ch_0246	ग्रेनाइट, नीस, बलुआ पत्थर, संगमरमर और स्लेट आदि का मकान बनाने में भारी मात्रा में उपयोग होता है ।	grenAita, nIsa, baluA pawWara, saMgamaramara Ora sleta Axi kA makAna banAne meM BArI mAwrA meM upayoga howA hE .	Granite, gneiss, sandstone, marble and slates are extensively used in the construction of buildings.
+Geo_nios_2ch_0247	ताजमहल सफेद संगमरमर से बना है ।	wAjamahala saPexa saMgamaramara se banA hE .	Tajmahal is made of white marble
+Geo_nios_2ch_0248	दिल्ली और आगरा का लाल किला लाल बलुआ पत्थर से बने हैं ।	xillI Ora AgarA kA lAla kilA lAla baluA pawWara se bane hEM .	Red Forts of Delhi and Agra, are made of red sandstone.
+Geo_nios_2ch_0249	भारत और विदेशों में भी स्लेट का उपयोग छतों के निर्माण में किया जाता है ।	BArawa Ora vixeSoM meM BI sleta kA upayoga CawoM ke nirmANa meM kiyA jAwA hE .	Slates are used for roof purposes in different parts of India.
+Geo_nios_2ch_0250	खनिजों के स्रोत खनिज आधुनिक सभ्यता की आधारशिला हैं ।	KanijoM ke srowa Kanija AXunika saByawA kI AXAraSilA hEM .	Minerals are the foundation of the modern civilization.
+Geo_nios_2ch_0251	धात्विक खनिजों में मूल्यवान सोना, प्लैटिनम, चांदी, तांबा से लेकर एल्यूमीनियम और लोहा मिलता है ।	XAwvika KanijoM meM mUlyavAna sonA, plEtinama, cAMxI, wAMbA se lekara elyUmIniyama Ora lohA milawA hE .	Metallic minerals provide all metals ranging from very precious gold, platinum, silver, copper to aluminium and iron.
+Geo_nios_2ch_0252	ये धात्विक खनिज विभिन्न प्रकार की शैलों में पाये जाते हैं ।	ye XAwvika Kanija viBinna prakAra kI SEloM meM pAye jAwe hEM .	These metals are obtained from different rocks.
+Geo_nios_2ch_0253	कच्चामाल कई शैलों और खनिजों का उपयोग विभिन्न प्रकार के उद्योगों के लिए कच्चे माल के रूप में होता है ।	kaccAmAla kaI SEloM Ora KanijoM kA upayoga viBinna prakAra ke uxyogoM ke lie kacce mAla ke rUpa meM howA hE .	Raw Material: Certain rocks and minerals are used as raw material for many industries.
+Geo_nios_2ch_0254	सीमेंट उद्योग तथा चूना भट्टियों में कई प्रकार की शैलों और खनिजों का उपयोग तैयार माल प्राप्त करने के लिए किया जा रहा है ।	sImeMta uxyoga waWA cUnA BattiyoM meM kaI prakAra kI SEloM Ora KanijoM kA upayoga wEyAra mAla prApwa karane ke lie kiyA jA rahA hE .	In cement industry and limestone kilns different type of rocks and minerals are used for production of finished goods.
+Geo_nios_2ch_0255	ग्रेफाइट का उपयोग सुरमा और पेंसिल निर्माण उद्योग में किया जाता है ।	grePAita kA upayoga suramA Ora peMsila nirmANa uxyoga meM kiyA jAwA hE .	Graphite is used in crucible and pencil manufacturing as raw materials.
+Geo_nios_2ch_0256	मूल्यवान पत्थर विभिन्न प्रकार की रूपांतरित तथा आग्नेय शैलों से प्राप्त होते हैं ।	mUlyavAna pawWara viBinna prakAra kI rUpAMwariwa waWA Agneya SEloM se prApwa howe hEM .	Precious stones and metals are obtained from different metamorphic or igneous rocks.
+Geo_nios_2ch_0257	हीरा बहुत ही मूल्यवान पत्थर है ।	hIrA bahuwa hI mUlyavAna pawWara hE .	Diamond is a precious stone.
+Geo_nios_2ch_0258	उसका उपयोग जवाहरात बनाने में होता है ।	usakA upayoga javAharAwa banAne meM howA hE .	It is used in jewelry and is a metamorphic rock.
+Geo_nios_2ch_0259	इसी प्रकार दूसरे मूल्यवान पत्थर पन्ना, नीलम आदि भी विभिन्न प्रकार के शैलों से प्राप्त होते हैं ।	isI prakAra xUsare mUlyavAna pawWara pannA, nIlama Axi BI viBinna prakAra ke SEloM se prApwa howe hEM .	Similarly other precious stones like gems, rubies and sapphires are obtained from different type of rocks.
+Geo_nios_2ch_0260	ईंधन कोयला, पेट्रोलियम और प्राकृतिक गैस महत्वपूर्ण खनिज ईंधन हैं ।	IMXana koyalA, petroliyama Ora prAkqwika gEsa mahawvapUrNa Kanija IMXana hEM .	Fuel in the form of coal, petroleum, natural gas and nuclear minerals.
+Geo_nios_2ch_0261	परमाणु ऊर्जा भी ईंधन के रूप में हमें विभिन्न प्रकार की शैलों से मिलती है ।	paramANu UrjA BI IMXana ke rUpa meM hameM viBinna prakAra kI SEloM se milawI hE .	Fuels are derived from different rocks.
+Geo_nios_2ch_0262	उर्वरक भी शैलों से प्राप्त किये जाते हैं ।	urvaraka BI SEloM se prApwa kiye jAwe hEM .	Fertilizers are also derived from some rocks.
+Geo_nios_2ch_0263	फास्फेट उर्वरक फास्फेट नामक खनिज से मिलता है ।	PAsPeta urvaraka PAsPeta nAmaka Kanija se milawA hE .	Phosphatic fertilizers are obtained from phosphorite
+Geo_nios_2ch_0264	संसार के कुछ भागों में फास्फेट खनिज अधिक मात्रा में पाया जाता है ।	saMsAra ke kuCa BAgoM meM PAsPeta Kanija aXika mAwrA meM pAyA jAwA hE .	Phosphate mineral found in abundance in some parts of the world.
+Geo_nios_2ch_0265	शैल और खनिज आर्थिक दृष्टि से बहुत ही महत्वपूर्ण हैं ।	SEla Ora Kanija ArWika xqRti se bahuwa hI mahawvapUrNa hEM .	Rocks and minerals are the main source of all metals,
+Geo_nios_2ch_0266	ये सभी प्रकार की धातुओं, मूल्यवान पत्थर, उद्योगों के लिए माल और ईंधन के स्रोत हैं ।	ye saBI prakAra kI XAwuoM, mUlyavAna pawWara, uxyogoM ke lie mAla Ora IMXana ke srowa hEM .	precious stones, solid fuel and raw materials for industries.
+Geo_nios_2ch_0267	शैल क्या हैं? ।	SEla kyA hEM? .	What are rocks?
+Geo_nios_2ch_0268	शैलों का वर्गीकरण कीजिए ।	SEloM kA vargIkaraNa kIjie .	Classify rocks.
+Geo_nios_2ch_0269	निम्नलिखित प्रत्येक के लिए एक-एक पारिभाषिक शब्द दीजिए ।	nimnaliKiwa prawyeka ke lie eka-eka pAriBARika Sabxa xIjie .	Give single term for each of the following
+Geo_nios_2ch_0270	अत्यधिक दाब के कारण रूपान्तरित शैलों के बनने की प्रक्रिया ।	awyaXika xAba ke kAraNa rUpAnwariwa SEloM ke banane kI prakriyA .	Process of the formation of metamorphic rock due to pressure.
+Geo_nios_2ch_0271	वह शैल जिसमें परतें होती हैं ।	vaha SEla jisameM paraweM howI hEM .	Rocks which contain strata.
+Geo_nios_2ch_0272	अवसादी और अग्नेय शैल पर ताप और दबाव के प्रभाव से बनने वाले शैल ।	avasAxI Ora agneya SEla para wApa Ora xabAva ke praBAva se banane vAle SEla .	Rocks formed by the effect of heat or pressure on sedimentary or igneous rocks.
+Geo_nios_2ch_0273	झील में अवसादों के जमाव से बनी अवसादी शैल ।	JIla meM avasAxoM ke jamAva se banI avasAxI SEla .	Sedimentary rocks deposited in lakes
+Geo_nios_2ch_0274	सही उत्तर पर ठीक का निशान लगाइए ।	sahI uwwara para TIka kA niSAna lagAie .	Tick the correct answer;
+Geo_nios_2ch_0275	अवसादी शैल का उदाहरण है ।	avasAxI SEla kA uxAharaNa hE .	An example of sedimentary rock is
+Geo_nios_2ch_0276	अपक्षय क्या है? ।	apakRaya kyA hE? .	WHAT IS WEATHERING?
+Geo_nios_2ch_0277	धरातलीय शैलों का विघटन मुख्य रूप से मौसम के तत्वों के प्रभाव का ही परिणाम है ।	XarAwalIya SEloM kA viGatana muKya rUpa se mOsama ke wawvoM ke praBAva kA hI pariNAma hE .	Weathering is the general term applied to the combined action of all processes that cause rock to disintegrate physically and decompose chemically.
+Geo_nios_2ch_0278	तापमान, वर्षा, पाला, कोहरा और बर्फ मौसम के प्रमुख तत्व हैं ।	wApamAna, varRA, pAlA, koharA Ora barPa mOsama ke pramuKa wawva hEM .	Among these elements temperature, rainfall, frost, fog and ice are the important ones.
+Geo_nios_2ch_0279	धरातल की शैलें जैसे ही मौसम के तत्वों के संपर्क में आती हैं, वैसे ही उनका अपक्षय प्रारम्भ हो जाता है ।	XarAwala kI SEleM jEse hI mOsama ke wawvoM ke saMparka meM AwI hEM, vEse hI unakA apakRaya prAramBa ho jAwA hE .	Weathering begins as soon as rocks come in contact with one or more than one elements of weather on the surface of the earth
+Geo_nios_2ch_0280	अपक्षय एक स्थानीय प्रक्रिया है ।	apakRaya eka sWAnIya prakriyA hE .	No English Translation
+Geo_nios_2ch_0281	इसमें शैलों का विघटन और अपघटन मूल स्थान पर ही होता है ।	isameM SEloM kA viGatana Ora apaGatana mUla sWAna para hI howA hE .	No English Translation
+Geo_nios_2ch_0282	विघटन तापमान में परिवर्तन और पाले के प्रभाव से होता है ।	viGatana wApamAna meM parivarwana Ora pAle ke praBAva se howA hE .	No English Translation
+Geo_nios_2ch_0283	इस प्रक्रिया में शैलें टुकडों में बिखर जाती हैं ।	isa prakriyA meM SEleM tukadoM meM biKara jAwI hEM .	No English Translation
+Geo_nios_2ch_0284	अपघटन की प्रक्रिया में शैलों के अंदर रासायनिक परिवर्तन होते हैं ।	apaGatana kI prakriyA meM SEloM ke aMxara rAsAyanika parivarwana howe hEM .	No English Translation
+Geo_nios_2ch_0285	शैलों में विभिन्न प्रकार के खनिजों के कण एक दूसरे के साथ दृढता से गुंधे होते हैं ।	SEloM meM viBinna prakAra ke KanijoM ke kaNa eka xUsare ke sAWa xqDawA se guMXe howe hEM .	No English Translation
+Geo_nios_2ch_0286	लेकिन पानी में घुलकर कुछ खनिज कण अलग हो जाते हैं ।	lekina pAnI meM Gulakara kuCa Kanija kaNa alaga ho jAwe hEM .	No English Translation
+Geo_nios_2ch_0287	कुछ खनिजों का स्वरूप बदल जाता है ।	kuCa KanijoM kA svarUpa baxala jAwA hE .	No English Translation
+Geo_nios_2ch_0288	प्रकृति में विघटन और अपघटन की प्रक्रियाएँ साथ-साथ चलती रहती हैं ।	prakqwi meM viGatana Ora apaGatana kI prakriyAez sAWa-sAWa calawI rahawI hEM .	In nature, generally both the disintegrationand decomposition act together at the same time and assist each other.
+Geo_nios_2ch_0289	अपक्षय पेड पौधों की जडों और कुछ जीव जन्तुओं के बिल बनाने के कारण भी होता है ।	apakRaya peda pOXoM kI jadoM Ora kuCa jIva janwuoM ke bila banAne ke kAraNa BI howA hE .	No English Translation
+Geo_nios_2ch_0290	हमें यह बात सदैव ध्यान में रखनी चाहिए कि अपक्षयित पदार्थ अपने मूल स्थान पर ही पडे रहते हैं ।	hameM yaha bAwa saxEva XyAna meM raKanI cAhie ki apakRayiwa paxArWa apane mUla sWAna para hI pade rahawe hEM .	We must remember that the weathered material (i.e. disintegrated and decomposed) lie in situ (i.e. at its original position).
+Geo_nios_2ch_0291	यह बात अलग है कि गुरुत्वाकर्षण के कारण अपक्षियत पदार्थ ऊपर से नीचे की ओर खिसक जाते हैं ।	yaha bAwa alaga hE ki guruwvAkarRaNa ke kAraNa apakRiyawa paxArWa Upara se nIce kI ora Kisaka jAwe hEM .	In this process no transportation or movement of material is involved other than its falling down under the force of gravity.
+Geo_nios_2ch_0292a	शैलें अपने संघटन में बिना किसी रासायनिक परिवर्तन के छोटे-छोटे टुकडों में टूट जाती हैं ।	SEleM apane saMGatana meM binA kisI rAsAyanika parivarwana ke Cote-Cote tukadoM meM tUta jAwI hEM .	When the rocks are broken up into smaller fragments without any chemical change in their composition, it is called physical weathering.
+Geo_nios_2ch_0292b	तो इसे भौतिक अपक्षय कहते हैं ।	wo ise BOwika apakRaya kahawe hEM .	When the rocks are broken up into smaller fragments without any chemical change in their composition, it is called physical weathering.
+Geo_nios_2ch_0293	भौतिक अपक्षय अधिकतम शुष्क और ठंडी जलवायु वाले क्षेत्रों में होता है ।	BOwika apakRaya aXikawama SuRka Ora TaMdI jalavAyu vAle kRewroM meM howA hE .	The term mechanical weathering is also used for physical weathering
+Geo_nios_2ch_0294	भौतिक अपक्षय विभिन्न प्रकार के क्षेत्रों में अलग-अलग ढंग से होता है ।	BOwika apakRaya viBinna prakAra ke kRewroM meM alaga-alaga DaMga se howA hE .	Physical weathering takes place in different ways in different types of areas.
+Geo_nios_2ch_0295	इनके कुछ उदाहरण निम्न है ।	inake kuCa uxAharaNa nimna hE .	They have been explained here with examples.
+Geo_nios_2ch_0296	हम सभी जानते हैं कि गर्मी के कारण शैलें फैलती हैं और सर्दी के कारण सिकुडती हैं ।	hama saBI jAnawe hEM ki garmI ke kAraNa SEleM PElawI hEM Ora sarxI ke kAraNa sikudawI hEM .	We all know that the successive heating and cooling causes expansion and contraction of the rocks.
+Geo_nios_2ch_0297	गर्म मरुस्थलीय प्रदेशों में दिन में तापमान बहुत ऊँचा हो जाता है ।	garma marusWalIya praxeSoM meM xina meM wApamAna bahuwa UzcA ho jAwA hE .	In hot desert regions, day temperatures are very high
+Geo_nios_2ch_0298	इसके विपरीत रातें बहुत ठंडी होती हैं ।	isake viparIwa rAweM bahuwa TaMdI howI hEM .	while nights are very cold.
+Geo_nios_2ch_0299a	दैनिक ताप परिसर के अधिक होने के कारण शैलें बार-बार फैलती ।	xEnika wApa parisara ke aXika hone ke kAraNa SEleM bAra-bAra PElawI .	This high diurnal range of temperature causes successive expansion and contraction of the rocks.
+Geo_nios_2ch_0299b	और सिकुडती रहती हैं ।	Ora sikudawI rahawI hEM .	This high diurnal range of temperature causes successive expansion and contraction of the rocks.
+Geo_nios_2ch_0300	इससे उनकी दरारें और जोड चैडे होते जाते हैं ।	isase unakI xarAreM Ora joda cEde howe jAwe hEM .	Rocks tend to enlarge the joints.
+Geo_nios_2ch_0301	अन्ततः शैलेंछोटे-छोटे टुकडों में टूट जाती हैं ।	anwawaH SEleMCote-Cote tukadoM meM tUta jAwI hEM .	Finally the rocks disintegrate into smaller blocks.
+Geo_nios_2ch_0302	इस प्रक्रिया को पिंड विच्छेदन कहते हैं ।	isa prakriyA ko piMda vicCexana kahawe hEM .	This process is known as block disintegration.
+Geo_nios_2ch_0303	ताप की कुचालक होती हैं ।	wApa kI kucAlaka howI hEM .	Rocks are generally poor conductors of heat.
+Geo_nios_2ch_0304	अधिक गर्मी के कारण शैलों की बाहरी परतें जल्दी से फैल जाती हैं ।	aXika garmI ke kAraNa SEloM kI bAharI paraweM jalxI se PEla jAwI hEM .	As a result of intense heating the outer layers of the rock expand rapidly.
+Geo_nios_2ch_0305	लेकिन भीतरी परतें गर्मी से लगभग अप्रभावित रहती हैं ।	lekina BIwarI paraweM garmI se lagaBaga apraBAviwa rahawI hEM .	The inner layers remain almost unaffected by heat.
+Geo_nios_2ch_0306	बार-बार फैलने और सिकुडने से शैलों की बाहरी परतें शैल के मुख्य भाग से अलग हो जाती हैं ।	bAra-bAra PElane Ora sikudane se SEloM kI bAharI paraweM SEla ke muKya BAga se alaga ho jAwI hEM .	Due to successive expansion and contraction, the outer layer of the rock subsequently peels off from the main mass of the rock in the form of concentric shells.
+Geo_nios_2ch_0307	इस प्रक्रिया में शैलों की परतें, प्याज के छिलकों की तरह ही उतरती चली जाती हैं ।	isa prakriyA meM SEloM kI paraweM, pyAja ke CilakoM kI waraha hI uwarawI calI jAwI hEM .	The peeling of rocks in layers by this process is very similar to the peeling of successive layers of an onion.
+Geo_nios_2ch_0308	इसे अपशल्कन की प्रक्रिया कहते हैं ।	ise apaSalkana kI prakriyA kahawe hEM .	The process is called exfoliation.
+Geo_nios_2ch_0309	बिहार के सिंहभूम जिले में डोलामाइट शैलों के गोलाकार पिंडों का निर्माण इसी प्रक्रिया के द्वारा हुआ है ।	bihAra ke siMhaBUma jile meM dolAmAita SEloM ke golAkAra piMdoM kA nirmANa isI prakriyA ke xvArA huA hE .	Almost all rounded forms of dolerite blocks of rocks in Singhbhum district of Bihar are due to this process.
+Geo_nios_2ch_0310	महाबलीपुरम में ग्रेनाइट के गुंबद विशेष रूप से कृष्ण की लडडू तथा जबलपुर के पास मदन महल की पहाडियों के ग्रेनाइट के गुंबद, अपशल्कन के अच्छे उदाहरण हैं ।	mahAbalIpurama meM grenAita ke guMbaxa viSeRa rUpa se kqRNa kI ladadU waWA jabalapura ke pAsa maxana mahala kI pahAdiyoM ke grenAita ke guMbaxa, apaSalkana ke acCe uxAharaNa hEM .	Granite domes of Mahabalipuram, particularly ‘Krishna Ka Laddu’ and those near Jabalpur on Madan Mahal Hill are good examples, of exfoliation.
+Geo_nios_2ch_0311	बहुत ठंडे पर्वतीय प्रदेशों में शैलों की दरारों और जोडों में भरा जल बार-बार जमताऔर पिघलता है ।	bahuwa TaMde parvawIya praxeSoM meM SEloM kI xarAroM Ora jodoM meM BarA jala bAra-bAra jamawAOra piGalawA hE .	One of the most important physical weathering processes in cold climates is frost action, the alternate freezing and melting of water inside the joints of the rocks, splits them into fragments.
+Geo_nios_2ch_0312a	ऐसा इसलिए होता है कि पानी बर्फ के रूप में जम जाता है ।	EsA isalie howA hE ki pAnI barPa ke rUpa meM jama jAwA hE .	This is because conversion of water into ice increases the volume of water by 10 percent.
+Geo_nios_2ch_0312b	तो उसका आयतन दस प्रतिशत बढ जाता है ।	wo usakA Ayawana xasa prawiSawa baDa jAwA hE .	This is because conversion of water into ice increases the volume of water by 10 percent.
+Geo_nios_2ch_0313	ठंडे प्रदेशों में इस प्रक्रिया के द्वारा शैलें छोटे-छोटे टुकडों और कणों में बिखर जाती हैं ।	TaMde praxeSoM meM isa prakriyA ke xvArA SEleM Cote-Cote tukadoM Ora kaNoM meM biKara jAwI hEM .	In cold regions rocks are disintegrated into small particles through this process.
+Geo_nios_2ch_0314	इसे तुषारी अपक्षय कहते हैं ।	ise wuRArI apakRaya kahawe hEM .	It is called frost action.
+Geo_nios_2ch_0315	संघटन में रासायनिक परिवर्तन के बिना शैलों का छोटे-छोटे टुकडों में टूटना भौतिक अपक्षय कहलाता है ।	saMGatana meM rAsAyanika parivarwana ke binA SEloM kA Cote-Cote tukadoM meM tUtanA BOwika apakRaya kahalAwA hE .	Disintegration of rocks into smaller fragments without any change in their chemical composition is called mechanical weathering.
+Geo_nios_2ch_0316	शैलों के जल्दी-जल्दी फैलने और सिकुडने से उनमें जोड और दरारें पड जाती हैं ।	SEloM ke jalxI-jalxI PElane Ora sikudane se unameM joda Ora xarAreM pada jAwI hEM .	The rapid heating and cooling of the rocks creates a series of joints and cracks .
+Geo_nios_2ch_0317	वे छोटे-छोटे पिंडों में टूट जाती हैं ।	ve Cote-Cote piMdoM meM tUta jAwI hEM .	This tends to breaking up into smaller blocks.
+Geo_nios_2ch_0318	यह प्रक्रिया पिंड विच्छेदन कहलाती है ।	yaha prakriyA piMda vicCexana kahalAwI hE .	This process is known as block disintegration.
+Geo_nios_2ch_0319	अपक्षय की वह प्रक्रिया जिसमें तापमान की भिन्नता के कारण शैलों की बाहरी परतें प्याज के छिलकों की तरह उतर जाती हैं, अपशल्कन कहलाती हैं ।	apakRaya kI vaha prakriyA jisameM wApamAna kI BinnawA ke kAraNa SEloM kI bAharI paraweM pyAja ke CilakoM kI waraha uwara jAwI hEM, apaSalkana kahalAwI hEM .	A weathering process by which the outer layers of the rock peel out in concentric cells due to difference of temperature in the outer layers is called exfoliation.
+Geo_nios_2ch_0320	बहुत ठंडे प्रदेशों में दरारों और जोडों में भरे जल के जमने से उनका टूटना तुषारी अपक्षय कहलाता है ।	bahuwa TaMde praxeSoM meM xarAroM Ora jodoM meM Bare jala ke jamane se unakA tUtanA wuRArI apakRaya kahalAwA hE .	Breaking up of rocks due to freezing of water in the rock joints and cracks, in very cold regions, is called frost action.
+Geo_nios_2ch_0321	अपक्षय के तीन प्रकारों के नाम बताइए ।	apakRaya ke wIna prakAroM ke nAma bawAie .	Name three types of weathering
+Geo_nios_2ch_0322	भौतिक अपक्षय किन क्षेत्रों में अधिक होता है? ।	BOwika apakRaya kina kRewroM meM aXika howA hE? .	In which areas is mechanical weathering more pronounced?
+Geo_nios_2ch_0323	प्रत्येक कथन के लिए पारिभाषिक शब्द लिखिए ।	prawyeka kaWana ke lie pAriBARika Sabxa liKie .	Give appropriate technical terms for each of the following statements:
+Geo_nios_2ch_0324a	शैलों की परतों का प्याज के छिलकों की तरह उतरना शैलों की दरारों और जोडों में भरे जल के बारी-बारी से जमने और पिघलने से उनका चैडा होना ।	SEloM kI parawoM kA pyAja ke CilakoM kI waraha uwaranA SEloM kI xarAroM Ora jodoM meM Bare jala ke bArI-bArI se jamane Ora piGalane se unakA cEdA honA .	Peeling of successive layers of rocks like the layers of an onion widening of joints and cracks due to alternative freezing and melting of water in them
+Geo_nios_2ch_0324b	और शैलों का टूटना ।	Ora SEloM kA tUtanA .	Peeling of successive layers of rocks like the layers of an onion widening of joints and cracks due to alternative freezing and melting of water in them
+Geo_nios_2ch_0325	रासायनिक संघटन में बिना किसी परिवर्तन के शैलों का टूटना ।	rAsAyanika saMGatana meM binA kisI parivarwana ke SEloM kA tUtanA .	Disintegration of rocks without any change in their chemical composition
+Geo_nios_2ch_0326a	रासायनिक क्रिया द्वारा नए यौगिकों के बनने ।	rAsAyanika kriyA xvArA nae yOgikoM ke banane .	Chemical change in the rocks through formation of new compounds or formation of new substances is called chemical weathering.
+Geo_nios_2ch_0326b	या नए तत्वों के निर्माण के कारण शैलों में होने वाले परिवर्तन को रासायनिक अपक्षय कहते हैं ।	yA nae wawvoM ke nirmANa ke kAraNa SEloM meM hone vAle parivarwana ko rAsAyanika apakRaya kahawe hEM .	Chemical change in the rocks through formation of new compounds or formation of new substances is called chemical weathering.
+Geo_nios_2ch_0327	जल, ऑक्सीजन और कार्बन-डाइऑक्साइड रासायनिक अपक्षय के प्रमुख कारक हैं ।	jala, oYksIjana Ora kArbana-dAioYksAida rAsAyanika apakRaya ke pramuKa kAraka hEM .	Chemical processes include oxidation, hydrolysis, and acid solution.
+Geo_nios_2ch_0328	रासायनिक प्रक्रिया द्वारा जल और वायुमंडलीय गैसों की मदद से शैलों के अपघटन को रासायनिक अपक्षय कहते हैं ।	rAsAyanika prakriyA xvArA jala Ora vAyumaMdalIya gEsoM kI maxaxa se SEloM ke apaGatana ko rAsAyanika apakRaya kahawe hEM .	Decomposition of rocks by chemical processes with the help of water and atmospheric gases is called chemical weathering.
+Geo_nios_2ch_0329	इस प्रक्रिया में वायुमंडलीय आक्सीजन की शैलों पर होने वाली प्रतिक्रिया से आक्साइड के बनने को आक्सीकरण कहते हैं ।	isa prakriyA meM vAyumaMdalIya AksIjana kI SEloM para hone vAlI prawikriyA se AksAida ke banane ko AksIkaraNa kahawe hEM .	This is the process in which atmospheric oxygen reacts with the rock to produce oxides and the process is called oxidation.
+Geo_nios_2ch_0330	इस प्रक्रिया का सबसे अधिक प्रभाव लौह खनिजों पर देखा जाता है ।	isa prakriyA kA sabase aXika praBAva lOha KanijoM para xeKA jAwA hE .	Greatest impact of this process is observed on ferrous minerals.
+Geo_nios_2ch_0331	आर्द्र वायु में विद्यमान आक्सीजन शैलों के लौह कणों को सबसे अधिक प्रभावित करती है ।	Arxra vAyu meM vixyamAna AksIjana SEloM ke lOha kaNoM ko sabase aXika praBAviwa karawI hE .	Oxygen present in humid air reacts with iron grains in the rocks to form a yellow or red oxide of iron.
+Geo_nios_2ch_0332	इसे लोहे पर जंग लगना कहते हैं ।	ise lohe para jaMga laganA kahawe hEM .	This is called rusting of the iron.
+Geo_nios_2ch_0333	कालान्तर में यह ‘जंग’ शैलों को पूरी तरह से अपघटित कर देता है ।	kAlAnwara meM yaha jaMga SEloM ko pUrI waraha se apaGatiwa kara xewA hE .	Rust decomposes rocks completely with passage of time.
+Geo_nios_2ch_0334	इस प्रक्रिया से विभिन्न प्रकार के कार्बोनेट बनते हैं ।	isa prakriyA se viBinna prakAra ke kArboneta banawe hEM .	This is the process by which various types of carbonates are formed.
+Geo_nios_2ch_0335	इनमें से कुछ पानी में घुलनशील होते हैं ।	inameM se kuCa pAnI meM GulanaSIla howe hEM .	Some of these carbonates are soluble in water.
+Geo_nios_2ch_0336a	उदाहरण के लिए कार्बन-डाइ-आक्साइड युक्त वर्षा का जल चूने की प्रवेश्य (भेद्य) शैलों से होकर गुजरता है ।	uxAharaNa ke lie kArbana-dAi-AksAida yukwa varRA kA jala cUne kI praveSya (Bexya) SEloM se hokara gujarawA hE .	For example, when rain water containing carbon dioxide passes through pervious limestone rocks, the rock joints enlarge due to the action of carbonic acid.
+Geo_nios_2ch_0336b	तो शैलों के जोड कार्बोनिक अम्ल की क्रिया से चैडे हो जाते हैं ।	wo SEloM ke joda kArbonika amla kI kriyA se cEde ho jAwe hEM .	For example, when rain water containing carbon dioxide passes through pervious limestone rocks, the rock joints enlarge due to the action of carbonic acid.
+Geo_nios_2ch_0337	धीरे-धीरे इन जोडों की चैडाई बढती जाती है ।	XIre-XIre ina jodoM kI cEdAI baDawI jAwI hE .	The joints enlarge in size.
+Geo_nios_2ch_0338	और चूना पानी में घुलकर बह जाता है ।	Ora cUnA pAnI meM Gulakara baha jAwA hE .	And lime is removed in solution.
+Geo_nios_2ch_0339	शैलों के इस प्रकार के अपघटन को कार्बोनेटीकरण कहते हैं ।	SEloM ke isa prakAra ke apaGatana ko kArbonetIkaraNa kahawe hEM .	This type of breakdown of rocks is called carbonation.
+Geo_nios_2ch_0340	इस प्रक्रिया से शैलों के खनिजों में जल अवशोषित हो जाता है ।	isa prakriyA se SEloM ke KanijoM meM jala avaSoRiwa ho jAwA hE .	This is the process by which water is absorbed by the minerals of the rock.
+Geo_nios_2ch_0341a	जल के अवशोषण से शैलों का आयतन बढ जाता है ।	jala ke avaSoRaNa se SEloM kA Ayawana baDa jAwA hE .	Due to the absorption of water by the rock, its volume increases and the grains lose their shape.
+Geo_nios_2ch_0341b	तथा उनके कणों की आकृति बदल जाती है ।	waWA unake kaNoM kI Akqwi baxala jAwI hE .	Due to the absorption of water by the rock, its volume increases and the grains lose their shape.
+Geo_nios_2ch_0342	उदाहरण के लिए जलयोजन के द्वारा फेल्सपार नाम के खनिज केओलिन मृदा में बदल जाते हैं ।	uxAharaNa ke lie jalayojana ke xvArA PelsapAra nAma ke Kanija keolina mqxA meM baxala jAwe hEM .	Feldspar, for example, is changed into kaolin through hydration.
+Geo_nios_2ch_0343	जबलपुर के निकट विंध्याचल की पहाडियों पर केओलिन मृदा का निर्माण इसी प्रक्रिया द्वारा हुआ है ।	jabalapura ke nikata viMXyAcala kI pahAdiyoM para keolina mqxA kA nirmANa isI prakriyA xvArA huA hE .	Kaolin on Vindhyan Hills near Jabalpur has been formed in this manner.
+Geo_nios_2ch_0344	इस प्रक्रिया में कुछ खनिज पानी में घुल जाते हैं ।	isa prakriyA meM kuCa Kanija pAnI meM Gula jAwe hEM .	This is the process in which some of the minerals get dissolved in water.
+Geo_nios_2ch_0345	वे पानी में घुलकर बह जाते हैं ।	ve pAnI meM Gulakara baha jAwe hEM .	They are therefore removed in solution.
+Geo_nios_2ch_0346	सेंधा नमक और जिप्सम इसी प्रक्रिया द्वारा बहा लिया जाता है ।	seMXA namaka Ora jipsama isI prakriyA xvArA bahA liyA jAwA hE .	Rock salt and gypsum are removed by this process.
+Geo_nios_2ch_0347	रासायनिक अपक्षय में आक्सीकरण, कार्बोनेटीकरण, जलयोजन और घोलन की प्रक्रियाएँ शामिल हैं ।	rAsAyanika apakRaya meM AksIkaraNa, kArbonetIkaraNa, jalayojana Ora Golana kI prakriyAez SAmila hEM .	Chemical weathering involves the process of oxidation, carbonation, hydration-and solution.
+Geo_nios_2ch_0348	किन प्रदेशों में रासायनिक अपक्षय अधिक प्रभावशाली होता है? ।	kina praxeSoM meM rAsAyanika apakRaya aXika praBAvaSAlI howA hE? .	In which region is chemical weathering more effective?
+Geo_nios_2ch_0349	किस प्रक्रिया में जिप्सम पानी में घुल जाता है? ।	kisa prakriyA meM jipsama pAnI meM Gula jAwA hE? .	Which process is involved when gypsum gets dissolved in water?
+Geo_nios_2ch_0350	रासायनिक अपक्षय की किस क्रिया के द्वारा लोहे पर ‘जंग’ लगता है ।	rAsAyanika apakRaya kI kisa kriyA ke xvArA lohe para jaMga lagawA hE .	Which process of chemical weathering causes rusting of iron?
+Geo_nios_2ch_0351	चूने की शैलों के प्रदेशों में प्रमुख रूप से किस प्रकार की रासायनिक प्रक्रिया होती है? ।	cUne kI SEloM ke praxeSoM meM pramuKa rUpa se kisa prakAra kI rAsAyanika prakriyA howI hE? .	Which, chemical action is predominant in limestone region?
+Geo_nios_2ch_0352	जैविक अपक्षय वनस्पति, जीव जन्तुओं और मनुष्यों के द्वारा होता है ।	jEvika apakRaya vanaspawi, jIva janwuoM Ora manuRyoM ke xvArA howA hE .	Biotic weathering is carried out by plants, animals and man.
+Geo_nios_2ch_0353	पेड-पौधों के द्वारा शेलों में भौतिक और रासायनिक दोनों ही प्रकार का अपक्षय होता है ।	peda-pOXoM ke xvArA SeloM meM BOwika Ora rAsAyanika xonoM hI prakAra kA apakRaya howA hE .	Plants contribute to both mechanical and chemical weathering.
+Geo_nios_2ch_0354	पेड-पौधों की जडें शैलों के जोडों में धुस जाती हैं ।	peda-pOXoM kI jadeM SEloM ke jodoM meM Xusa jAwI hEM .	The roots of the plants penetrate into the joints of the rocks.
+Geo_nios_2ch_0355	समय के साथ जडें लंबी और मोटी होती जाती हैं ।	samaya ke sAWa jadeM laMbI Ora motI howI jAwI hEM .	They grow longer and thicker. .
+Geo_nios_2ch_0356a	इस तरह शैलों के जोडों पर उनका दबाव निरंतर बढता जाता है ।	isa waraha SEloM ke jodoM para unakA xabAva niraMwara baDawA jAwA hE .	In this manner they exert pressure on the rocks and the rock joints are thereby enlarged and break into smaller fragments
+Geo_nios_2ch_0356b	और अन्ततः वे टूटकर छोटे-छोटे टुकडों में बिखर जाती हैं ।	Ora anwawaH ve tUtakara Cote-Cote tukadoM meM biKara jAwI hEM .	In this manner they exert pressure on the rocks and the rock joints are thereby enlarged and break into smaller fragments
+Geo_nios_2ch_0357	बिल बनाकर रहने वाले जीव जैसे, केंचुए, चूहे, खरगोश, दीमक और चीटियाँ शैलों कोतोडते-फोडते हैं ।	bila banAkara rahane vAle jIva jEse, keMcue, cUhe, KaragoSa, xImaka Ora cItiyAz SEloM kowodawe-Podawe hEM .	Burrowing animals like earthworms, rats, rabbits, termites and ants breakdown the rocks.
+Geo_nios_2ch_0358a	विघटित शैलें आसानी से अपरदित हो जाती हैं ।	viGatiwa SEleM AsAnI se aparaxiwa ho jAwI hEM .	These disintegrated rocks can easily be eroded or removed by wind etc.
+Geo_nios_2ch_0358b	और पवनें इन्हें उडाकर ले जाती हैं ।	Ora pavaneM inheM udAkara le jAwI hEM .	These disintegrated rocks can easily be eroded or removed by wind etc.
+Geo_nios_2ch_0359	जानवरों के खुरों से मिट्टी उखड जाती है ।	jAnavaroM ke KuroM se mittI uKada jAwI hE .	Hooves of animals break the soil and thus assist soil erosion.
+Geo_nios_2ch_0360	केंचुओं और दीमक का कार्य विशेष रूप से महत्वपूर्ण है ।	keMcuoM Ora xImaka kA kArya viSeRa rUpa se mahawvapUrNa hE .	The role of earthworms and termites is of special significance.
+Geo_nios_2ch_0361	वैज्ञानिकों के अनुसार एक एकड भूमि में डेढ लाख केंचुए हो सकते हैं ।	vEjFAnikoM ke anusAra eka ekada BUmi meM deDa lAKa keMcue ho sakawe hEM .	According to scientists, there is a possibility of occurrence of about 1,50,000 earthworms in an acre.
+Geo_nios_2ch_0362	ये एक वर्ष में 10-15 टन शैलों को उपजाऊ मृदा में बदल कर धरातल पर ला सकते हैं ।	ye eka varRa meM 10-15 tana SEloM ko upajAU mqxA meM baxala kara XarAwala para lA sakawe hEM .	They can convert 10 to 15 tonnes of rock mass into good soil and bring it to the surface.
+Geo_nios_2ch_0363	विभिन्न प्रकार की शैलों के अपक्षय में मनुष्य का बहुत बडा हाथ होता है ।	viBinna prakAra kI SEloM ke apakRaya meM manuRya kA bahuwa badA hAWa howA hE .	Human beings play a very important role in weathering of various rocks.
+Geo_nios_2ch_0364	कृषि, भवन, और सडक निर्माण जैसी अनेक क्रियाओं के द्वारा मनुष्य शैलों की काफी तोड-फोड करता है ।	kqRi, Bavana, Ora sadaka nirmANa jEsI aneka kriyAoM ke xvArA manuRya SEloM kI kAPI woda-Poda karawA hE .	Man breaks a large amount of rocks in the course of his activities, like agriculture, construction of houses, roads etc.
+Geo_nios_2ch_0365a	मनुष्य की खनन क्रिया के द्वारा शैलें कमजोर होकर ढीली पड जाती हैं ।	manuRya kI Kanana kriyA ke xvArA SEleM kamajora hokara DIlI pada jAwI hEM .	He quarries for mining minerals, thus helps in weathering by breaking, weakening and loosening the rocks.
+Geo_nios_2ch_0365b	और अन्ततः टूट-फूट जाती हैं ।	Ora anwawaH tUta-PUta jAwI hEM .	He quarries for mining minerals, thus helps in weathering by breaking, weakening and loosening the rocks.
+Geo_nios_2ch_0366	पेडे-पौधे, जीवजन्तु और मनुष्य जैसे जैविक कारक भौतिक और रासायनिक दोनों ही प्रकार का अपक्षय करते हैं ।	pede-pOXe, jIvajanwu Ora manuRya jEse jEvika kAraka BOwika Ora rAsAyanika xonoM hI prakAra kA apakRaya karawe hEM .	Biotic agents like plants, animals and man also contribute to physical and chemical weathering.
+Geo_nios_2ch_0367	अपक्षय द्वारा कौन सा महत्वपूर्ण पदार्थ बनता है? ।	apakRaya xvArA kOna sA mahawvapUrNa paxArWa banawA hE? .	Which important matter is formed by weathering?
+Geo_nios_2ch_0368	मृदा में ह्यूमस कहाँ से आता है? ।	mqxA meM hyUmasa kahAz se AwA hE? .	Where does humus in soils come from?
+Geo_nios_2ch_0369	मनुष्य की ऐसी दो क्रियाएँ बताइए, जिनसे अपक्षय होता है ।	manuRya kI EsI xo kriyAez bawAie, jinase apakRaya howA hE .	Give examples of two activities of man helping in weathering.
+Geo_nios_2ch_0370	अपक्षय की प्रक्रियाओं के विषय में पढकर हम यह जान गए हैं कि इनके द्वारा विभिन्न प्रकार की स्थलाकृतियों का निर्माण होता है ।	apakRaya kI prakriyAoM ke viRaya meM paDakara hama yaha jAna gae hEM ki inake xvArA viBinna prakAra kI sWalAkqwiyoM kA nirmANa howA hE .	We have studied the process of weathering and have learnt how different types of land features are produced in areas of different types of climate through this process.
+Geo_nios_2ch_0371	मृदा निर्माण में अपक्षय की भूमिका अत्यन्त महत्वपूर्ण हैं, मृदा कृषि का आधार है ।	mqxA nirmANa meM apakRaya kI BUmikA awyanwa mahawvapUrNa hEM, mqxA kqRi kA AXAra hE .	Weathering also plays an important role in formation of soil which provides basis for agriculture
+Geo_nios_2ch_0372	कृषि से सारे संसार को भोजन मिलता है ।	kqRi se sAre saMsAra ko Bojana milawA hE .	world’s food supply.
+Geo_nios_2ch_0373	भौतिक अपक्षय धरातलीय शैलों को विघटित करके, उन्हें बारीक चूर्ण में बदल देता है ।	BOwika apakRaya XarAwalIya SEloM ko viGatiwa karake, unheM bArIka cUrNa meM baxala xewA hE .	Mechanical weathering of the surface rocks disintegrates the rock and converts it into a fine powder.
+Geo_nios_2ch_0374	जल इन छोटे-छोटे शैल कणों को परतों के रूप में बिछा देता है ।	jala ina Cote-Cote SEla kaNoM ko parawoM ke rUpa meM biCA xewA hE .	These small particles are deposited in layers with the help of water.
+Geo_nios_2ch_0375	जैविक अपक्षय से ह्यूमस बनता है ।	jEvika apakRaya se hyUmasa banawA hE .	biotic weathering produces humus.
+Geo_nios_2ch_0376	यह जैव पदार्थ पेड-पौधों और जीवजन्तुओं के क्रिया-कलापों से बनता है, जो मृदा के निर्माण में सहायता करता है ।	yaha jEva paxArWa peda-pOXoM Ora jIvajanwuoM ke kriyA-kalApoM se banawA hE, jo mqxA ke nirmANa meM sahAyawA karawA hE .	This organic matter is formed through the action of plants and animals which helps in the formation of soil.
+Geo_nios_2ch_0377	अपक्षय की भिन्न-भिन्न प्रक्रियाओं के द्वारा भिन्न-भिन्न रंगों और गुणों वाली मृदाओं का निर्माण होता है ।	apakRaya kI Binna-Binna prakriyAoM ke xvArA Binna-Binna raMgoM Ora guNoM vAlI mqxAoM kA nirmANa howA hE .	Various processes of weathering help in giving different colours and properties of soil.
+Geo_nios_2ch_0378	शैलों के विघटन के अलावा अपक्षय का मृदा के निर्माण में महत्वपूर्ण योगदान है ।	SEloM ke viGatana ke alAvA apakRaya kA mqxA ke nirmANa meM mahawvapUrNa yogaxAna hE .	The process of weathering contributes significantly to soil formation besides disintegrated of rocks.
+Geo_nios_2ch_0379	बाह्य शक्तियाँ भूमि को समतल बनाने के लिए निरंतर कार्य कर रही हैं ।	bAhya SakwiyAz BUmi ko samawala banAne ke lie niraMwara kArya kara rahI hEM .	Exogenetic forces are constantly working to bring about leveling or the gradation of land.
+Geo_nios_2ch_0380	ये शक्तियाँ अपरदन और निक्षेपण के बीच एक संतुलन की अवस्था स्थापित करने का प्रयत्न करती रहती हैं ।	ye SakwiyAz aparaxana Ora nikRepaNa ke bIca eka saMwulana kI avasWA sWApiwa karane kA prayawna karawI rahawI hEM .	They attempt to achieve a condition of balance between erosion and deposition which mean a graded position.
+Geo_nios_2ch_0381	उपर्युक्त शक्तियों की इस प्रक्रिया को तल संतुलन की प्रक्रिया कहते हैं ।	uparyukwa SakwiyoM kI isa prakriyA ko wala saMwulana kI prakriyA kahawe hEM .	The above forces operate through the process called the process of gradation.
+Geo_nios_2ch_0382	नदियाँ, हिमानियाँ, पवनें, समुद्री लहरें तथा भूमिगत जल, तल संतुलन के कारक हैं ।	naxiyAz, himAniyAz, pavaneM, samuxrI lahareM waWA BUmigawa jala, wala saMwulana ke kAraka hEM .	Agents of gradation like rivers, glaciers winds, sea waves and underground water perform their task.
+Geo_nios_2ch_0383	ये कारक निरंतर अपक्षय, अपरदन और निक्षेपण करने में लगे रहते हैं ।	ye kAraka niraMwara apakRaya, aparaxana Ora nikRepaNa karane meM lage rahawe hEM .	With the help of the triple action of weathering, erosion and deposition.
+Geo_nios_2ch_0384	धरातल के ऊँचे भागों को घिसकर नीचा करने का काम अपरदन के द्वारा होता है ।	XarAwala ke Uzce BAgoM ko Gisakara nIcA karane kA kAma aparaxana ke xvArA howA hE .	The leveling down of elevated portions of the earth’s surface is done by erosion.
+Geo_nios_2ch_0385	तल संतुलन के बाह्यकारक अपरदित पदार्थों को ले जाकर गड्ढों या नीचे स्थानों में भरते रहते हैं ।	wala saMwulana ke bAhyakAraka aparaxiwa paxArWoM ko le jAkara gadDoM yA nIce sWAnoM meM Barawe rahawe hEM .	The filling up of depressions is done by deposition of the eroded material transported by the external agents of gradation as spoken earlier.
+Geo_nios_2ch_0386a	धरातल के किसी भाग को हम तभी लक्षण विहीन मैदान कहेंगे ।	XarAwala ke kisI BAga ko hama waBI lakRaNa vihIna mExAna kaheMge .	No English Translation
+Geo_nios_2ch_0386b	जब बाह्य शक्तियाँ वहाँ अपरदन और निक्षेपण कार्य करना बंद कर दें ।	jaba bAhya SakwiyAz vahAz aparaxana Ora nikRepaNa kArya karanA baMxa kara xeM .	No English Translation
+Geo_nios_2ch_0387a	लेकिन ऐसे भाग कभी स्थायी नहीं होते; ।	lekina Ese BAga kaBI sWAyI nahIM howe; .	No English Translation
+Geo_nios_2ch_0387b	क्योंकि बाह्य और आंतरिक दोनों ही प्रकार की शक्तियाँ कभी भी एक दूसरे के कार्य को पूरा नहीं होने देती ।	kyoMki bAhya Ora AMwarika xonoM hI prakAra kI SakwiyAz kaBI BI eka xUsare ke kArya ko pUrA nahIM hone xewI .	No English Translation
+Geo_nios_2ch_0388	हम पढ चुके हैं कि आंतरिक शक्तियाँ धरातल पर प्रमुख स्थलाकृतियों का निर्माण करती हैं ।	hama paDa cuke hEM ki AMwarika SakwiyAz XarAwala para pramuKa sWalAkqwiyoM kA nirmANa karawI hEM .	We have studied that the endogenetic forces of the earth give rise to major landforms on the earth surface
+Geo_nios_2ch_0389	तथा बाह्य शक्तियाँ उन्हें समतल करने में लगी रहती हैं ।	waWA bAhya SakwiyAz unheM samawala karane meM lagI rahawI hEM .	and the exogenetic forces level them down.
+Geo_nios_2ch_0390	तल संतुलन के कार्य को दो भागों में बाँटा जा सकता है ।	wala saMwulana ke kArya ko xo BAgoM meM bAztA jA sakawA hE .	The work of gradation has two components
+Geo_nios_2ch_0391	अपरदन की प्रक्रिया के द्वारा शैलों को घिसकर, खुरचकर या काटकर उनको मूल स्थानों से हटा दिया जाता है ।	aparaxana kI prakriyA ke xvArA SEloM ko Gisakara, Kuracakara yA kAtakara unako mUla sWAnoM se hatA xiyA jAwA hE .	When rocks are removed by scraping, scratching and cutting as a result of the process of erosion.
+Geo_nios_2ch_0392	इससे ऊँचे स्थान धीरे-धीरे नीचे होते जाते हैं ।	isase Uzce sWAna XIre-XIre nIce howe jAwe hEM .	Thereby lowering the elevation of the land.
+Geo_nios_2ch_0393	इस प्रक्रिया को निम्नीकरण कहते हैं ।	isa prakriyA ko nimnIkaraNa kahawe hEM .	It is called degradation.
+Geo_nios_2ch_0394	निम्नीकरण में सबसे पहले तो अपक्षय का कार्य आता है जिसमें घिसे हुए और खुरचे हुए शैल पदार्थ गुरुत्वाकर्षण शक्ति से नीचे की ओर खिसक जाते हैं ।	nimnIkaraNa meM sabase pahale wo apakRaya kA kArya AwA hE jisameM Gise hue Ora Kurace hue SEla paxArWa guruwvAkarRaNa Sakwi se nIce kI ora Kisaka jAwe hEM .	first of all includes the work of weathering that is the movement of scarped and scratched material aided by the great force of gravity.
+Geo_nios_2ch_0395	इस प्रक्रिया में तल संतुलन का कोई कारक शैल पदार्थों को मूल स्थान से हटाकर ले जाता है ।	isa prakriyA meM wala saMwulana kA koI kAraka SEla paxArWoM ko mUla sWAna se hatAkara le jAwA hE .	It also includes the work of erosion implying the transportation of the rock material by an agent of gradation.
+Geo_nios_2ch_0396	शैल पदार्थों के परिवहन की गति की वृद्धि के साथ-साथ अपरदन और परिवहन की क्षमता भी बढती-जाती है ।	SEla paxArWoM ke parivahana kI gawi kI vqxXi ke sAWa-sAWa aparaxana Ora parivahana kI kRamawA BI baDawI-jAwI hE .	The increase in the movement of rock- debris increases both its erosional and transportational capacities.
+Geo_nios_2ch_0397	निचले क्षेत्रों या गड्ढों में अपरदित पदार्थों के जमा होने को निक्षेपण कहते हैं ।	nicale kRewroM yA gadDoM meM aparaxiwa paxArWoM ke jamA hone ko nikRepaNa kahawe hEM .	Filling up of low-lying areas of depression by eroded material is called deposition
+Geo_nios_2ch_0398a	निक्षेपण तब शुरू होता है ।	nikRepaNa waba SurU howA hE .	Deposition starts when the agents of gradation lose their force or have obstruction in their way.
+Geo_nios_2ch_0398b	जब तल संतुलन के कारकों की शक्ति घट जाती है ।	jaba wala saMwulana ke kArakoM kI Sakwi Gata jAwI hE .	Deposition starts when the agents of gradation lose their force or have obstruction in their way.
+Geo_nios_2ch_0398c	या उनके मार्ग में कोई अवरोध आ जाता है ।	yA unake mArga meM koI avaroXa A jAwA hE .	Deposition starts when the agents of gradation lose their force or have obstruction in their way.
+Geo_nios_2ch_0399	रिणामस्वरूप अपरदित पदार्थ गड्ढों में जमा हो जाते हैं ।	riNAmasvarUpa aparaxiwa paxArWa gadDoM meM jamA ho jAwe hEM .	As a result eroded material is deposited in depressions
+Geo_nios_2ch_0400a	इससे नई स्थलाकृतियों का निर्माण होता है ।	isase naI sWalAkqwiyoM kA nirmANa howA hE .	which not only creates new landforms but also modifies the existing ones
+Geo_nios_2ch_0400b	तथा पहले से विद्यमान स्थालाकृतियों का स्वरूप बदल जाता है ।	waWA pahale se vixyamAna sWAlAkqwiyoM kA svarUpa baxala jAwA hE .	which not only creates new landforms but also modifies the existing ones
+Geo_nios_2ch_0401	ऊपर के चित्र को ध्यान से देखिए ।	Upara ke ciwra ko XyAna se xeKie .	Let us now look at the figure.
+Geo_nios_2ch_0402	इसमें तल संतुलन की पूरी प्रक्रिया समझाई गई है ।	isameM wala saMwulana kI pUrI prakriyA samaJAI gaI hE .	It explains the total process of gradation and its two components-degradation and aggradation.
+Geo_nios_2ch_0403	इसी चित्र में इस प्रक्रिया के दोनों अंगों - निम्नीकरण और अधिवृद्धि को भी समझाया गया है ।	isI ciwra meM isa prakriyA ke xonoM aMgoM - nimnIkaraNa Ora aXivqxXi ko BI samaJAyA gayA hE .	It shows the elevated portions continuously being lowered by weathering and erosion.
+Geo_nios_2ch_0404	इस चित्र में दिखाया गया है कि अपक्षय और अपरदन ऊँचे भागों को निरंतर नीचे कर रहें हैं ।	isa ciwra meM xiKAyA gayA hE ki apakRaya Ora aparaxana Uzce BAgoM ko niraMwara nIce kara raheM hEM .	The debris consisting of the eroded material is transported and deposited in the low lying areas.
+Geo_nios_2ch_0405	परिवहन की प्रक्रिया के द्वारा अपरदित पदार्थों को मूल स्थानों से हटाकर नीचे क्षेत्रों में जमा किया जा रहा है ।	parivahana kI prakriyA ke xvArA aparaxiwa paxArWoM ko mUla sWAnoM se hatAkara nIce kRewroM meM jamA kiyA jA rahA hE .	The surface of the lower areas on the other hand is raised through deposition of this debris.
+Geo_nios_2ch_0406	निचले क्षेत्रों का तल अपरदित पदार्थों के निक्षेपण से ऊँचा उठा रहा है ।	nicale kRewroM kA wala aparaxiwa paxArWoM ke nikRepaNa se UzcA uTA rahA hE .	Finally, the position of a uniform or near uniform level is achieved.
+Geo_nios_2ch_0407	अन्ततः एक भाग का तल चैरस या लगभग चैरस हो जाता है ।	anwawaH eka BAga kA wala cErasa yA lagaBaga cErasa ho jAwA hE .	No English Translation
+Geo_nios_2ch_0408	तल संतुलन की प्रक्रिया किसी अकेले कारक के द्वारा पूरी नहीं होती है ।	wala saMwulana kI prakriyA kisI akele kAraka ke xvArA pUrI nahIM howI hE .	The process of gradation is not performed by a single agent.
+Geo_nios_2ch_0409	यह अलग बात है कि किसी क्षेत्र में या किसी समय तल संतुलन का कोई एक कारक अधिक क्रियाशील हो सकता है ।	yaha alaga bAwa hE ki kisI kRewra meM yA kisI samaya wala saMwulana kA koI eka kAraka aXika kriyASIla ho sakawA hE .	It is rather a result of the work of all agents of gradation acting simultaneously.
+Geo_nios_2ch_0410	धरातल के चैरस होने को तल संतुलन कहते हैं ।	XarAwala ke cErasa hone ko wala saMwulana kahawe hEM .	Levelling and smoothening of land surface is called gradation
+Geo_nios_2ch_0411	इसमें निम्नीकरण और अधिवृद्धि दोनों ही प्रक्रियाएँ सम्मिलित हैं ।	isameM nimnIkaraNa Ora aXivqxXi xonoM hI prakriyAez sammiliwa hEM .	includes both degradation and aggradation.
+Geo_nios_2ch_0412a	अपरदन के द्वारा धरातल के घिसने को निम्नीकरण कहते हैं ।	aparaxana ke xvArA XarAwala ke Gisane ko nimnIkaraNa kahawe hEM .	The weathering of the land surface by erosion is called degradation and raising or filling up of depressions by deposition is called aggradation.
+Geo_nios_2ch_0412b	तथा गड्ढों को भरकर ऊँचा करने की प्रक्रिया को अधिवृद्धि कहते हैं ।	waWA gadDoM ko Barakara UzcA karane kI prakriyA ko aXivqxXi kahawe hEM .	The weathering of the land surface by erosion is called degradation and raising or filling up of depressions by deposition is called aggradation.
+Geo_nios_2ch_0413	कौन सी प्रक्रिया धरातल को समतल या चैरस करती है? ।	kOna sI prakriyA XarAwala ko samawala yA cErasa karawI hE? .	Which process is involved in the levelling of the earth’s surface?
+Geo_nios_2ch_0414	तल संतुलन की दो प्रक्रियाएँ कौन सी हैं? ।	wala saMwulana kI xo prakriyAez kOna sI hEM? .	Which two processes constitute gradation?
+Geo_nios_2ch_0415	नक्षेपण द्वारा गढडों को भरकर ऊँचा करने वाली प्रक्रिया के लिए किस पारिभाषिक शब्द का प्रयोग किया जाता है ।	nakRepaNa xvArA gaDadoM ko Barakara UzcA karane vAlI prakriyA ke lie kisa pAriBARika Sabxa kA prayoga kiyA jAwA hE .	Which term is used for raising or filling up of depressions by depositing?
+Geo_nios_2ch_0416	निम्नीकरण किसे कहते हैं? ।	nimnIkaraNa kise kahawe hEM? .	What is degradation?
+Geo_nios_2ch_0417	मृदा, जैव तथा अजैव पदार्थों की एक परिवर्तनशील और विकासशील पतली परत है, जो भूपृष्ठ को ढके हुए है ।	mqxA, jEva waWA ajEva paxArWoM kI eka parivarwanaSIla Ora vikAsaSIla pawalI parawa hE, jo BUpqRTa ko Dake hue hE .	Soil is the uppermost layer of the land surface that plants use and depend on for nutrients, water and physical support.
+Geo_nios_2ch_0418	यह वानस्पतिक आवरण को बनाए रखने में मदद देती है ।	yaha vAnaspawika AvaraNa ko banAe raKane meM maxaxa xewI hE .	No English Translation
+Geo_nios_2ch_0419	इसमें विभिन्न परतें होती हैं, जो मूल शैल में भौतिक, रासायनिक और जैविक अपक्षय की प्रक्रियाओं द्वारा बनती हैं ।	isameM viBinna paraweM howI hEM, jo mUla SEla meM BOwika, rAsAyanika Ora jEvika apakRaya kI prakriyAoM xvArA banawI hEM .	No English Translation
+Geo_nios_2ch_0420	मृदा निर्माण को नियन्त्रित करने वाले पाँच कारकों में मूल शैल, उच्चावच, समय,जलवायु तथा जैविक तत्व शामिल हैं ।	mqxA nirmANa ko niyanwriwa karane vAle pAzca kArakoM meM mUla SEla, uccAvaca, samaya,jalavAyu waWA jEvika wawva SAmila hEM .	The five factors, which control the formation of soil are parent rock, relief, time, climate and plant and animal organisms.
+Geo_nios_2ch_0421	पहले तीन कारकों को निष्क्रिय कारक तथा अन्तिम दो कारकों को क्रियाशील कारक कहते हैं ।	pahale wIna kArakoM ko niRkriya kAraka waWA anwima xo kArakoM ko kriyASIla kAraka kahawe hEM .	The former three are called the passive factors while the later two are the active factors.
+Geo_nios_2ch_0422a	आधारी शैल तथा तलवायु मृदा निर्माण के दो महत्वपूर्ण कारक हैं ।	AXArI SEla waWA walavAyu mqxA nirmANa ke xo mahawvapUrNa kAraka hEM .	The parent material and climate are the most important because these two affect the other factors.
+Geo_nios_2ch_0422b	क्योंकि ये अन्य कारकों को प्रभावित करते हैं ।	kyoMki ye anya kArakoM ko praBAviwa karawe hEM .	The parent material and climate are the most important because these two affect the other factors.
+Geo_nios_2ch_0423	मूल शैलः-मृदा अपने नीचे स्थित विभिन्न खनिजों से युक्त शैल या मूल शैल 7 पदार्थों से निर्मित होती है ।	mUla SElaH-mqxA apane nIce sWiwa viBinna KanijoM se yukwa SEla yA mUla SEla 7 paxArWoM se nirmiwa howI hE .	A soil is derived from the underlying rock or the parent rock material containing different minerals.
+Geo_nios_2ch_0424a	मूल शैल छोटे-छोटे टुकडों में टूट जाती है ।	mUla SEla Cote-Cote tukadoM meM tUta jAwI hE .	The parent rock gets broken into tiny pieces and is decomposed slowly by physical and, chemical weathering.
+Geo_nios_2ch_0424b	तथा भौतिक, रासायनिक और जैविक प्रक्रियाओं द्वारा अपघटित हो जाती है ।	waWA BOwika, rAsAyanika Ora jEvika prakriyAoM xvArA apaGatiwa ho jAwI hE .	The parent rock gets broken into tiny pieces and is decomposed slowly by physical and, chemical weathering.
+Geo_nios_2ch_0425	इससे मृदा के अजैव खनिज कणों का निर्माण होता है ।	isase mqxA ke ajEva Kanija kaNoM kA nirmANa howA hE .	It furnishes inorganic mineral particles of the soil.
+Geo_nios_2ch_0426	मूल शैल मृदा निर्माण में लगने वाले समय, उसके रासायनिक संघटन, रंग, गठन, बनावट खनिज अंश तथा उर्वरता को भी प्रभावित करती है ।	mUla SEla mqxA nirmANa meM lagane vAle samaya, usake rAsAyanika saMGatana, raMga, gaTana, banAvata Kanija aMSa waWA urvarawA ko BI praBAviwa karawI hE .	The parent rock also influences the rate of soil formation, the chemical composition, colour, texture, structure, mineral content and fertility.
+Geo_nios_2ch_0427	उच्चावच:-किसी क्षेत्र की स्थलाकृति मूल शैल पदार्थों के अपरदन की मात्रातथा वहां बहने वाले जल की गति को प्रभावित करती हैं ।	uccAvaca:-kisI kRewra kI sWalAkqwi mUla SEla paxArWoM ke aparaxana kI mAwrAwaWA vahAM bahane vAle jala kI gawi ko praBAviwa karawI hEM .	Topography of an area affects the degree of erosion of the parent rock material and the rate of surface run off of water.Steep slopes aresubjected to more rapid run-off of surface water than the gentle slopes.
+Geo_nios_2ch_0428	इस प्रकार मृदा निर्माण में सहायक प्रक्रियाएँ प्रत्यक्ष या परोक्ष रूप में उच्चावच से प्रभावित होती हैं ।	isa prakAra mqxA nirmANa meM sahAyaka prakriyAez prawyakRa yA parokRa rUpa meM uccAvaca se praBAviwa howI hEM .	Thus, the relief affects directly and indirectly the processes involved in soil formation.
+Geo_nios_2ch_0429	इसलिए तीव्र ढालों वाले क्षेत्रों की भूमि में पानी का रिसाव कम होता है, जिससे मृदा निर्माण की प्रक्रिया धीमी हो जाती है ।	isalie wIvra DAloM vAle kRewroM kI BUmi meM pAnI kA risAva kama howA hE, jisase mqxA nirmANa kI prakriyA XImI ho jAwI hE .	Therefore, there is less infiltration of water on steeper slopes, which retards soil forming processes.
+Geo_nios_2ch_0430	तीव्र ढालों पर अपरदन अधिक तेजी से होता है ।	wIvra DAloM para aparaxana aXika wejI se howA hE .	In addition, rapid run-off on steep slopes often erodes their surface faster than soil can develop.
+Geo_nios_2ch_0431	यही कारण है कि पर्वतीय क्षेत्रों में पतली परत वाली कम उपजाऊ मृदा का निर्माणा होता है ।	yahI kAraNa hE ki parvawIya kRewroM meM pawalI parawa vAlI kama upajAU mqxA kA nirmANA howA hE .	It is because of this that the mountainous topography develops coarse, thin and infertile soil.
+Geo_nios_2ch_0432	मैदानी क्षेत्रों में पूर्ण विकसित उपजाऊ मृदा का निर्माण होता है ।	mExAnI kRewroM meM pUrNa vikasiwa upajAU mqxA kA nirmANa howA hE .	Plain areas have rich well developed fertile soils.
+Geo_nios_2ch_0433	मृदा का निर्माण बहुत धीरे-धीरे होता है ।	mqxA kA nirmANa bahuwa XIre-XIre howA hE .	The soil forming process is very slow.
+Geo_nios_2ch_0434a	पूर्ण रूप से विकसित मृदा का निर्माण तभी होता है; ।	pUrNa rUpa se vikasiwa mqxA kA nirmANa waBI howA hE; .	A well developed soil results as an end product of physical, chemical and biological processes operating collectively for a very long period of time.
+Geo_nios_2ch_0434b	जब भौतिक, रासायनिक और जैविक प्रक्रियाएँ बहुत लंबे समय तक कार्य करती हैं ।	jaba BOwika, rAsAyanika Ora jEvika prakriyAez bahuwa laMbe samaya waka kArya karawI hEM .	A well developed soil results as an end product of physical, chemical and biological processes operating collectively for a very long period of time.
+Geo_nios_2ch_0435	जलवायु न केवल समय की लंबी अवधि में मूल शैल पदार्थों के कारण मृदा में उत्पन्न अन्तरों को कम करती है; अपितु मृदा में होने वाली जैविक प्रक्रियाओं को भी प्रभावित करती है ।	jalavAyu na kevala samaya kI laMbI avaXi meM mUla SEla paxArWoM ke kAraNa mqxA meM uwpanna anwaroM ko kama karawI hE; apiwu mqxA meM hone vAlI jEvika prakriyAoM ko BI praBAviwa karawI hE .	It is by far the most important factor in the sense that over a long period of time it not only tends to reduce the difference caused by the parent material but also influences biological activities within the soil.
+Geo_nios_2ch_0436	इस कारण एक प्रकार की जलवायु वाले प्रदेशों में दो विभिन्न प्रकार के मूल शैल पदार्थों के द्वारा एक ही प्रकार की मृदा का निर्माण होता है ।	isa kAraNa eka prakAra kI jalavAyu vAle praxeSoM meM xo viBinna prakAra ke mUla SEla paxArWoM ke xvArA eka hI prakAra kI mqxA kA nirmANa howA hE .	Due to this factor two different parent materials may develop the same type of soil in one type of climatic region.
+Geo_nios_2ch_0437	उदाहरण के लिए राजस्थान की शुष्क मरुस्थलीय जलवायु में बलुआ पत्थर और ग्रेनाइट से एक ही प्रकार की बलुई मृदा का निर्माण हुआ है ।	uxAharaNa ke lie rAjasWAna kI SuRka marusWalIya jalavAyu meM baluA pawWara Ora grenAita se eka hI prakAra kI baluI mqxA kA nirmANa huA hE .	For example, granite and sandstone have developed into sandy soil in dry Rajasthan desert.
+Geo_nios_2ch_0438	इसके विपरीत दो भिन्न जलवायु प्रदेशों में एक ही प्रकार के मूल शैल पदार्थों से दो भिन्न प्रकार की मृदाओं का विकास होता है ।	isake viparIwa xo Binna jalavAyu praxeSoM meM eka hI prakAra ke mUla SEla paxArWoM se xo Binna prakAra kI mqxAoM kA vikAsa howA hE .	On the other hand, two different types of soils may develop from the same parent material in two climatic regions
+Geo_nios_2ch_0439	उदाहरण के लिए रवेदार ग्रेनाइट शैल पदार्थों से मानसूनी जलवायु प्रदेशों में जहाँ लेटेराइट मृदा का निर्माण हुआ है, वहीं उपार्द्र प्रदेशों में लेटेराइट से भिन्न मृदाओं का निर्माण हुआ है ।	uxAharaNa ke lie ravexAra grenAita SEla paxArWoM se mAnasUnI jalavAyu praxeSoM meM jahAz leterAita mqxA kA nirmANa huA hE, vahIM upArxra praxeSoM meM leterAita se Binna mqxAoM kA nirmANa huA hE .	For example, the crystalline granites have developed laterite soils in monsoon regions and non laterite soils in sub humid regions.
+Geo_nios_2ch_0440	किसी प्रदेश में अपक्षय की प्रक्रिया, इसके प्रभाव तथा वनस्पति और जीवों के प्रकार का सीधा संबंध ऋतुओं के अनुसार बदलते तापमान तथा इसके वितरण और वर्षण के साथ है ।	kisI praxeSa meM apakRaya kI prakriyA, isake praBAva waWA vanaspawi Ora jIvoM ke prakAra kA sIXA saMbaMXa qwuoM ke anusAra baxalawe wApamAna waWA isake viwaraNa Ora varRaNa ke sAWa hE .	The process of weathering, its effectiveness and the type of plant and animal organisms in a region are directly linked with the seasonal change of temperature and distribution and nature of precipitation.
+Geo_nios_2ch_0441	इस प्रकार जलवायु मृदा निर्माण में एक महत्वपूर्ण भूमिका निभाती है ।	isa prakAra jalavAyu mqxA nirmANa meM eka mahawvapUrNa BUmikA niBAwI hE .	Hence, climate plays an important role in soil forming processes.
+Geo_nios_2ch_0442	मूल शैल पदार्थों पर विकसित मृदा की गुणवत्ता में वहाँ के पेड-पौधे तथा जीवजन्तुओं की सक्रिय भूमिका होती हैं ।	mUla SEla paxArWoM para vikasiwa mqxA kI guNavawwA meM vahAz ke peda-pOXe waWA jIvajanwuoM kI sakriya BUmikA howI hEM .	Plants and animals play an active role in transforming parent materials into a mature soil.
+Geo_nios_2ch_0443	मृत पेड-पौधों तथा जीवजन्तुओं से मृदा का जैविक अंश बनता है ।	mqwa peda-pOXoM waWA jIvajanwuoM se mqxA kA jEvika aMSa banawA hE .	Dead plants and animals contribute to the organic content of the soil.
+Geo_nios_2ch_0444	अपघटन व जैविक प्रक्रियाओं के सहयोग से जैव पदार्थ ह्यूमस के रूप में बदल जाते हैं ।	apaGatana va jEvika prakriyAoM ke sahayoga se jEva paxArWa hyUmasa ke rUpa meM baxala jAwe hEM .	The process of decay, added by bacterial action, transforms organic matter into humus.
+Geo_nios_2ch_0445	ह्यूमस से ही मृदा उपजाऊ बनती है ।	hyUmasa se hI mqxA upajAU banawI hE .	Humus is responsible for the fertility of the soil.
+Geo_nios_2ch_0446	इसके द्वारा मृदा की जल धारण करने की क्षमता में वृद्धि होती है ।	isake xvArA mqxA kI jala XAraNa karane kI kRamawA meM vqxXi howI hE .	It also enhances water retention capacity of the soil.
+Geo_nios_2ch_0447	मृदा इसी जैविक पदार्थ के द्वारा वनस्पति का पोषण करती है ।	mqxA isI jEvika paxArWa ke xvArA vanaspawi kA poRaNa karawI hE .	This organic material helps the soil to support plant life.
+Geo_nios_2ch_0448	इसके बदले में वनस्पति का आवरण मृदा की ऊपरी उपजाऊ परत की अपरदन से रक्षा करती है ।	isake baxale meM vanaspawi kA AvaraNa mqxA kI UparI upajAU parawa kI aparaxana se rakRA karawI hE .	The plant cover in turn protects rich upper layer of the soil from erosion
+Geo_nios_2ch_0449a	वनस्पति का आवरण वर्षा के जल को बहने से रोकता है ।	vanaspawi kA AvaraNa varRA ke jala ko bahane se rokawA hE .	By increasing the proportion of rainfall entering into the soil rather than running off the surface.
+Geo_nios_2ch_0449b	और उसे मृदा की निचली परतों में रिसने के लिए मजबूर करता है ।	Ora use mqxA kI nicalI parawoM meM risane ke lie majabUra karawA hE .	By increasing the proportion of rainfall entering into the soil rather than running off the surface.
+Geo_nios_2ch_0450	इस आवरण से मृदा की नमी का वाष्पीकरण भी कम होता है ।	isa AvaraNa se mqxA kI namI kA vARpIkaraNa BI kama howA hE .	It also prevents greater evaporation of soil moisture by its thick canopy,
+Geo_nios_2ch_0451	इस प्रकार उपजाऊ और विकसित मृदा बनने में सहायता मिलती है ।	isa prakAra upajAU Ora vikasiwa mqxA banane meM sahAyawA milawI hE .	thus allowing soil to mature and become fertile.
+Geo_nios_2ch_0452	जलवायु तथा वनस्पति व जीवजन्तु मृदा निर्माण के क्रियाशील कारक हैं ।	jalavAyu waWA vanaspawi va jIvajanwu mqxA nirmANa ke kriyASIla kAraka hEM .	The climate, plant and animal organisms are the active factors of soil formation.
+Geo_nios_2ch_0453	मूल शैल पदार्थ, उच्चावच और समय मृदा निर्माण के निष्क्रिय कारक हैं ।	mUla SEla paxArWa, uccAvaca Ora samaya mqxA nirmANa ke niRkriya kAraka hEM .	The parent material, relief and time are the passive factors of soil formation.
+Geo_nios_2ch_0454	मृदा परिच्छेदिका मृदा की विभिन्न परतों के विन्यास को कहते हैं ।	mqxA paricCexikA mqxA kI viBinna parawoM ke vinyAsa ko kahawe hEM .	Soil profile is the arrangement of the soil into layer like horizons.
+Geo_nios_2ch_0455	ये परतें भौतिक रासायनिक और जैविक तत्वों के आधार पर एक दूसरे से भिन्न होती हैं ।	ye paraweM BOwika rAsAyanika Ora jEvika wawvoM ke AXAra para eka xUsare se Binna howI hEM .	These are physically, chemically and biologically different from each other
+Geo_nios_2ch_0456	पवन बहुत बडी मात्रा में बालू और मृदा के महीन कणों कोमरूस्थलीय प्रदेशों से उडाकर निकटवर्ती खेती वाली भूमियों पर बिछाते रहते हैं ।	pavana bahuwa badI mAwrA meM bAlU Ora mqxA ke mahIna kaNoM komarUsWalIya praxeSoM se udAkara nikatavarwI KewI vAlI BUmiyoM para biCAwe rahawe hEM .	Winds carry away vast quantity of fine soil particles and sand from deserts and spread it over adjoining cultivated land.
+Geo_nios_2ch_0457	इस प्रकार ये इन भूमियों की उर्वरता को नष्ट करते हैं ।	isa prakAra ye ina BUmiyoM kI urvarawA ko naRta karawe hEM .	This type of land destroy their fertility.
+Geo_nios_2ch_0458	इस प्रकार के अपरदन को पवन अपरदन कहते हैं ।	isa prakAra ke aparaxana ko pavana aparaxana kahawe hEM .	This type of erosion is known as wind erosion.
+Geo_nios_2ch_0459	इस प्रकार का अपरदन संसार के मरूस्थलों तथा उनके निकटवर्ती प्रदेशों में हो रहा है ।	isa prakAra kA aparaxana saMsAra ke marUsWaloM waWA unake nikatavarwI praxeSoM meM ho rahA hE .	It takes place in and around all desert regions of the world.
+Geo_nios_2ch_0460	भारत में थार मरूस्थल एक लाख वर्ग किलोमीटर से भी अधिक क्षेत्र को घेरे हुए है ।	BArawa meM WAra marUsWala eka lAKa varga kilomItara se BI aXika kRewra ko Gere hue hE .	In India, over one lakh kilometers of land is under Thar Desert.
+Geo_nios_2ch_0461	थार मरूस्थल का विस्तार राजस्थान, गुजरात, हरियाणा और पंजाब में है ।	WAra marUsWala kA viswAra rAjasWAna, gujarAwa, hariyANA Ora paMjAba meM hE .	It spread over parts of Gujarat, Haryana, Punjab and Rajasthan states.
+Geo_nios_2ch_0462	ये पवन अपरदन से अत्याधिक प्रभावित हैं ।	ye pavana aparaxana se awyAXika praBAviwa hEM .	These areas are subject to intense wind erosion.
+Geo_nios_2ch_0463a	जल एक परत के रूप में बहता है ।	jala eka parawa ke rUpa meM bahawA hE .	Water when moves as a sheet takes away thin layers of soil.
+Geo_nios_2ch_0463b	तो मृदा की पतलीपरतों को अपने साथ बहा ले जाता है ।	wo mqxA kI pawalIparawoM ko apane sAWa bahA le jAwA hE .	Water when moves as a sheet takes away thin layers of soil.
+Geo_nios_2ch_0464	इस प्रकार के अपरदन को परतदार अपरदन कहते हैं ।	isa prakAra ke aparaxana ko parawaxAra aparaxana kahawe hEM .	This type of erosion is called sheet erosion.
+Geo_nios_2ch_0465	इस प्रकार का अपरदन सामान्यतः नदी घाटियों तथा बाढ से प्रभावित क्षेत्रों में होता है ।	isa prakAra kA aparaxana sAmAnyawaH naxI GAtiyoM waWA bADa se praBAviwa kRewroM meM howA hE .	Such type of erosion is most common along the river beds and areas affected by floods.
+Geo_nios_2ch_0466a	इस प्रकार के अपरदन से लंबे समय में मृदा की ऊपरी परत हट जाती है ।	isa prakAra ke aparaxana se laMbe samaya meM mqxA kI UparI parawa hata jAwI hE .	In the long run, the soil is completely exhausted due to removal of top soil and becomes infertile
+Geo_nios_2ch_0466b	और मृदा अनुपजाऊ हो जाती है ।	Ora mqxA anupajAU ho jAwI hE .	In the long run, the soil is completely exhausted due to removal of top soil and becomes infertile
+Geo_nios_2ch_0467	मृदा का बहते हुए जल के द्वारा निष्कासन नदिका अपरदन कहलाता है ।	mqxA kA bahawe hue jala ke xvArA niRkAsana naxikA aparaxana kahalAwA hE .	The removal of surface material usually soil, by the action of running water.
+Geo_nios_2ch_0468a	इस प्रक्रिया के अंतर्गत बहुत सी छुद्र सरिताएँ वर्षा ऋतु में बन जाती है ।	isa prakriyA ke aMwargawa bahuwa sI Cuxra sariwAez varRA qwu meM bana jAwI hE .	The processes create numerous tiny channels (rills) a few centimeters in depth.
+Geo_nios_2ch_0468b	तथा इनकी गहराई केवल कुछ सेंटीमीटर होती है ।	waWA inakI gaharAI kevala kuCa seMtImItara howI hE .	The processes create numerous tiny channels (rills) a few centimeters in depth.
+Geo_nios_2ch_0469	प्रराकृतिक शक्तियों या मानव-क्रियाओं से मृदा के आवरण के हटने को मृदा अपरदन कहते हैं ।	prarAkqwika SakwiyoM yA mAnava-kriyAoM se mqxA ke AvaraNa ke hatane ko mqxA aparaxana kahawe hEM .	The removal of soil material naturally or by human action is called soil erosion.
+Geo_nios_2ch_0470	मृदा अपरदन चार प्रकार का होता है - पवन अपरदन, परतदार अपरदन नदिका अपरदन तथा अवनालिका अपरदन ।	mqxA aparaxana cAra prakAra kA howA hE - pavana aparaxana, parawaxAra aparaxana naxikA aparaxana waWA avanAlikA aparaxana .	Soil erosion is of four types : wind erosion, sheet erosion, rill erosion, gully erosion.
+Geo_nios_2ch_0471	मृदा अपरदन को प्रभावित करने वाले कारक हैं - जल प्रवाह की मात्रा तथा गति, ढाल का स्वरूप, मृदाओं का गठन और बनावट तथा पवनों की बारंबारता और गति ।	mqxA aparaxana ko praBAviwa karane vAle kAraka hEM - jala pravAha kI mAwrA waWA gawi, DAla kA svarUpa, mqxAoM kA gaTana Ora banAvata waWA pavanoM kI bAraMbArawA Ora gawi .	Factors influencing soil erosion are velocity and amount of surface run off, nature of slope, texture and structure of soils and frequency and speed of winds.
+Geo_nios_2ch_0472	मृदा संरक्षण की विधियाँ हैं - वनों की रक्षा, वृक्षारोपण, बंध बनाना, भूमि उद्धार, बाढ नियंत्राण, अत्यधिक चराई पर रोक, पट्टीदार व सीढीदार कृषि, समोच्चरेखीय जुताई तथा शस्यार्वतन ।	mqxA saMrakRaNa kI viXiyAz hEM - vanoM kI rakRA, vqkRAropaNa, baMXa banAnA, BUmi uxXAra, bADa niyaMwrANa, awyaXika carAI para roka, pattIxAra va sIDIxAra kqRi, samoccareKIya juwAI waWA SasyArvawana .	Soil conservation methods include protection of forests, afforestation, bunding, reclamation of lands; controlling floods, over grazing; terracing, strip farming, contour ploughing and crop rotation.
+Geo_nios_2ch_0473	पृथ्वी एक विशाल गोलाकार ठोस पिण्ड हैं ।	pqWvI eka viSAla golAkAra Tosa piNda hEM .	Earth is a spherical body.
+Geo_nios_2ch_0474	भूगर्भ को प्रत्यक्ष रूप से कुछ ही किलोमीटर की गहराई तक देखा जा सकता है ।	BUgarBa ko prawyakRa rUpa se kuCa hI kilomItara kI gaharAI waka xeKA jA sakawA hE .	The direct observations into its interior are limited to a depth of a few kilometers.
+Geo_nios_2ch_0475	पृथ्वी के धरातल से केन्द्र की ओर जाने पर तापमान, दबाव तथा घनत्व बढते जाते हैं ।	pqWvI ke XarAwala se kenxra kI ora jAne para wApamAna, xabAva waWA Ganawva baDawe jAwe hEM .	Temperature, pressure and density increase from the earth’s surface to its centre.
+Geo_nios_2ch_0476	भूगर्भ को तीन परतों में बांटा गया है- स्थलमंडल, मैंटल और क्रोड ।	BUgarBa ko wIna parawoM meM bAMtA gayA hE- sWalamaMdala, mEMtala Ora kroda .	Earth’s interior is divided into three concentric layers; Crust, mantle and core.
+Geo_nios_2ch_0477	भूपर्पटी का निर्माण जिन पदार्थों से हुआ है, उन्हें शैल कहते हैं ।	BUparpatI kA nirmANa jina paxArWoM se huA hE, unheM SEla kahawe hEM .	The material of the crust is composed of rocks.
+Geo_nios_2ch_0478	शैल एक या एक से अधिक खनिजों का मिश्रण है ।	SEla eka yA eka se aXika KanijoM kA miSraNa hE .	Rock is composed of one or more minerals.
+Geo_nios_2ch_0479	खनिज विभिन्न तत्वों से बने हैं ।	Kanija viBinna wawvoM se bane hEM .	Minerals have a definite chemical composition.
+Geo_nios_2ch_0480	निर्माण क्रिया के आधार पर शैलों को तीन वर्गों में बांटा गया है - आग्नेय, अवसादी और रूपांतरित. आग्नेय शैल द्रवित लावा अथवा मैग्मा के जमने से बनी हैं ।	nirmANa kriyA ke AXAra para SEloM ko wIna vargoM meM bAMtA gayA hE - Agneya, avasAxI Ora rUpAMwariwa. Agneya SEla xraviwa lAvA aWavA mEgmA ke jamane se banI hEM .	On the basis of their mode of formation, rocks are classified into three types - igneous, sedimentary and metamorphic Igneous rocks are formed by the solidification of molten lava or magma.
+Geo_nios_2ch_0481	ग्रेनाइट, बैसाल्ट और ग्रैबो आग्नेय शैल के उदाहरण हैं ।	grenAita, bEsAlta Ora grEbo Agneya SEla ke uxAharaNa hEM .	Granite, basalt and gabbro are examples of igneous rocks.
+Geo_nios_2ch_0482a	द्रवित पदार्थ धरातल के नीचे गहराइयों में जमता है ।	xraviwa paxArWa XarAwala ke nIce gaharAiyoM meM jamawA hE .	Molten material solidified beneath the earth’s surface to form intrusive and above the earth surface to form extrusive igneous rocks.
+Geo_nios_2ch_0482b	तो उसे आंतरिक आग्नेय शैल और धरातल के ऊपर जमने वाले स्वरूप को बाह्य आग्नेय शैल कहते हैं ।	wo use AMwarika Agneya SEla Ora XarAwala ke Upara jamane vAle svarUpa ko bAhya Agneya SEla kahawe hEM .	Molten material solidified beneath the earth’s surface to form intrusive and above the earth surface to form extrusive igneous rocks.
+Geo_nios_2ch_0483	इससे मूल्यवान वस्तुएँ, पत्थर तथा भवन निर्माणकारी पदार्थ, ईंधन आदि मिलते हैं ।	isase mUlyavAna vaswuez, pawWara waWA Bavana nirmANakArI paxArWa, IMXana Axi milawe hEM .	They provide precious metals and stones, building material and fuel etc. for our use.
+Geo_nios_2ch_0484	शैलों का मानव जीवन में बहुत उपयोग है ।	SEloM kA mAnava jIvana meM bahuwa upayoga hE .	Rocks are of immense use to us.
+Geo_nios_2ch_0485	मृदा अपरदन एक प्राकृतिक प्रक्रिया है, जिसम मृदा आवरण का विनाश तथा कटाव शामिल है ।	mqxA aparaxana eka prAkqwika prakriyA hE, jisama mqxA AvaraNa kA vinASa waWA katAva SAmila hE .	Soil erosion is a natural process of destruction and removal of soil material from its place.
+Geo_nios_2ch_0486	बहता जल, पवनें, समुद्री लहरें तथा हिमानियाँ अपरदन के प्रमुख कारक हैं ।	bahawA jala, pavaneM, samuxrI lahareM waWA himAniyAz aparaxana ke pramuKa kAraka hEM .	Running water, winds, sea waves and glaciers are the most active agents of erosion.
+Geo_nios_2ch_0487	मृदा अपरदन के कई प्रकार हैं, जैसे पवन अपरदन, परतदार अपरदन तथा अवनालिका अपरदन ।	mqxA aparaxana ke kaI prakAra hEM, jEse pavana aparaxana, parawaxAra aparaxana waWA avanAlikA aparaxana .	Erosion of soils takes place in four ways wind erosion, sheet erosion, rill erosion and gully erosion.
+Geo_nios_2ch_0488	मृदा आवरण का हटाया जाना पानी की मात्रा व गति, ढाल के स्वरूप, मृदा के गठन व बनावट, पवनों की आवृति तथा वर्षण के स्वरूप पर निर्भर करता है ।	mqxA AvaraNa kA hatAyA jAnA pAnI kI mAwrA va gawi, DAla ke svarUpa, mqxA ke gaTana va banAvata, pavanoM kI Avqwi waWA varRaNa ke svarUpa para nirBara karawA hE .	Removal of soil cover depends on velocity and speed of water, nature of slope, texture and structure of soils, frequency of dust storms and nature of precipitation.
+Geo_nios_2ch_0489	मानव भी अपने कुकृत्यों के द्वारा प्राकृतिक शक्तियों को सहयोग देकर, मृदा अपरदन की समस्या में वृद्धि कर रहा है ।	mAnava BI apane kukqwyoM ke xvArA prAkqwika SakwiyoM ko sahayoga xekara, mqxA aparaxana kI samasyA meM vqxXi kara rahA hE .	Man through his misdeeds, has also helped natural forces in increasing the problem of soil erosion.
+Geo_nios_2ch_0490	मृदा संरक्षण से तात्पर्य उन विधियों से है, जिनके द्वारा मृदा अपरदन रोका जा सकता है ।	mqxA saMrakRaNa se wAwparya una viXiyoM se hE, jinake xvArA mqxA aparaxana rokA jA sakawA hE .	Methods to prevent soils from being eroded constitute soil conservation.
+Geo_nios_2ch_0491a	इन विधियों में वनों की रक्षा, वृक्षारोपण, समोच्चरेखीय जुताई, सीढीदार व पट्टीदार कृषि, बंध बनाना ।	ina viXiyoM meM vanoM kI rakRA, vqkRAropaNa, samoccareKIya juwAI, sIDIxAra va pattIxAra kqRi, baMXa banAnA .	These methods are protection of forests, afforestation, contour ploughing, terrace and strip farming, bunding, flood control, etc
+Geo_nios_2ch_0491b	तथा बाढ नियंत्रण आदि शामिल हैं ।	waWA bADa niyaMwraNa Axi SAmila hEM .	These methods are protection of forests, afforestation, contour ploughing, terrace and strip farming, bunding, flood control, etc
+Geo_nios_2ch_0492	भूगर्भ के संबंध में जानकारी के लिए प्रत्यक्ष विधियों की सीमाएं क्या हैं ? ।	BUgarBa ke saMbaMXa meM jAnakArI ke lie prawyakRa viXiyoM kI sImAeM kyA hEM ? .	What are the limitations of direct methods in the determination of the earth’s interior?
+Geo_nios_2ch_0493	भूगर्भ को प्रदर्शित करने वाला आरेख बनाइए, जिसमें प्रत्येक परत का घनत्व और उसकी गहराई अंकित कीजिए ।	BUgarBa ko praxarSiwa karane vAlA AreKa banAie, jisameM prawyeka parawa kA Ganawva Ora usakI gaharAI aMkiwa kIjie .	Draw and label a diagram showing earth’s interior and its density and depth of each layer.
+Geo_nios_2ch_0494	उदाहरण सहित शैल और खनिजों में अंतर स्पष्ट कीजिए ।	uxAharaNa sahiwa SEla Ora KanijoM meM aMwara spaRta kIjie .	Distinguish between a rock and a mineral with suitable examples
+Geo_nios_2ch_0495	रचना के आधार पर शैलों का वर्गीकरण कीजिए ।	racanA ke AXAra para SEloM kA vargIkaraNa kIjie .	Discuss the classification of various types of rocks on the basis of their mode of formation.
+Geo_nios_2ch_0496	उपयुक्त उदाहरण के साथ उत्तर दीजिए ।	upayukwa uxAharaNa ke sAWa uwwara xIjie .	Support your answer with examples.
+Geo_nios_2ch_0497	शैल और खनिजों का आर्थिक महत्व क्या है ? ।	SEla Ora KanijoM kA ArWika mahawva kyA hE ? .	Explain in brief the economic significance of rocks and minerals
+Geo_nios_2ch_0498	संक्षेप में वर्णन कीजिए ।	saMkRepa meM varNana kIjie .	No English Translation
+Geo_nios_2ch_0499	रूपांतरित और अवसादी शैलों की निर्माण-क्रिया की तुलना कीजिए ।	rUpAMwariwa Ora avasAxI SEloM kI nirmANa-kriyA kI wulanA kIjie .	Compare the processes of formation of metamorphic and sedimentary rocks.
+Geo_nios_2ch_0500	अपक्षय किसे कहते हैं? ।	apakRaya kise kahawe hEM? .	What is weathering?
+Geo_nios_2ch_0501	अपक्षय के विभिन्न प्रकारों के नाम लिखिए ।	apakRaya ke viBinna prakAroM ke nAma liKie .	Name the different types of weathering.
+Geo_nios_2ch_0502	रासायनिक अपक्षय कैसे होता है? ।	rAsAyanika apakRaya kEse howA hE? .	How does chemical weathering take place?
+Geo_nios_2ch_0503	निम्नलिखित जोडों में अंतर बताइये ।	nimnaliKiwa jodoM meM aMwara bawAiye .	Differentiate between
+Geo_nios_2ch_0504	तल-संतुलन की प्रक्रिया को समझाइये ।	wala-saMwulana kI prakriyA ko samaJAiye .	Explain the process of gradation.
+Geo_nios_2ch_0505	मनुष्य अपक्षय का महत्वपूर्ण कारक कैसे है ? ।	manuRya apakRaya kA mahawvapUrNa kAraka kEse hE ? .	How does man become an important agent of weathering
+Geo_nios_2ch_0506	अपक्षय की निम्नलिखित प्रक्रियाओं को सामान्य आरेख बनाकर समझाइये ।	apakRaya kI nimnaliKiwa prakriyAoM ko sAmAnya AreKa banAkara samaJAiye .	Explain the following processes of weathering by drawing simple diagrams:
+Geo_nios_2ch_0507	वृक्षों की जडों द्वारा अपक्षय ।	vqkRoM kI jadoM xvArA apakRaya .	By plant action
+Geo_nios_2ch_0508a	मृदा परिच्छेदिका का संक्षिप्त विवरण लिखिए ।	mqxA paricCexikA kA saMkRipwa vivaraNa liKie .	Give a brief account of soil profile. Illustrate your answers with a diagram
+Geo_nios_2ch_0508b	तथा उपयुक्त आरेख भी बनाइये ।	waWA upayukwa AreKa BI banAiye .	Give a brief account of soil profile. Illustrate your answers with a diagram
+Geo_nios_2ch_0509	मृदा के निर्माण में सहायक विभिन्न कारकों की विवेचना कीजिए ।	mqxA ke nirmANa meM sahAyaka viBinna kArakoM kI vivecanA kIjie .	Discuss various factors responsible for soil formation.
+Geo_nios_2ch_0510	मृदा अपरदन किसे कहते हैं? ।	mqxA aparaxana kise kahawe hEM? .	What is soil erosion ?
+Geo_nios_2ch_0511	मृदा अपरदन के विभिन्न प्रकारों की व्याख्या कीजिए ।	mqxA aparaxana ke viBinna prakAroM kI vyAKyA kIjie .	Explain the different ways in which soil is eroded.
+Geo_nios_2ch_0512	मृदा के संरक्षण में प्रयोग की जाने वाली विभिन्न विधियों का विवरण दीजिए ।	mqxA ke saMrakRaNa meM prayoga kI jAne vAlI viBinna viXiyoM kA vivaraNa xIjie .	Discuss the various methods being used to conserve soil.
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

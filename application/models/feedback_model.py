@@ -11,6 +11,7 @@ class Feedback(db.Model):
 
     id = db.Column(db.Integer, primary_key=True)
     segment_id = db.Column(db.Integer, db.ForeignKey('segments.segment_id'), nullable=False)
+    concept_index = db.Column(db.Integer, nullable=True)  
     user_id = db.Column(db.Integer, nullable=False)
     has_error = db.Column(db.Boolean, nullable=False, default=False)
     error_details = db.Column(db.Text)
@@ -21,6 +22,7 @@ class Feedback(db.Model):
         return {
             'id': self.id,
             'segment_id': self.segment_id,
+            'concept_index': self.concept_index, 
             'user_id': self.user_id,
             'has_error': self.has_error,
             'error_details': self.error_details,

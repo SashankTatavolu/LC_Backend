@@ -1,0 +1,118 @@
+<sent_id=01_001_1>								
+#The ascetic Vālmīki put the following question direct to nārada, the chief of hermits, the foremost of those skilled in expression, who remains (ever) engaged in penance and self-study (the study of the Vedas and Vedāngas).								
+penance_1	1	-	-	-	-	-	-	4:op1
+self-study_1	2	-	-	-	-	-	-	4:op2
+[xvanxva_1]	4	-	-	-	-	-	-	5:mod
+engage_1	3	-	-	-	-	-	-	5:head
+[7-tat_1]	5	-	-	11:mod	-	-	-	-
+ascetic_1	6	-	-	13:mod	-	-	-	-
+scripture_1	7	-	-	-	-	-	-	9:mod
+know_1	8	-	pl	-	-	-	-	9:head
+[upa-tat_1]	9	-	-	10:rn	-	-	-	-
+greatest_1	10	-	-	11:mod	-	-	-	-
+nAraxa	11	per/male	-	12:k2	-	-	-	-
+ask_1	12	-	-	0:main	-	-	-	-
+vAlamIki	13	per/male	-	12:k1	-	-	-	-
+sage_1	14	-	-	-	-	-	-	16:mod
+foremost_1	15	-	-	-	-	-	-	16:head
+[7-tat_2]	16	-	-	11:mod	-	-	-	-
+%affirmative								
+</sent_id>								
+								
+<sent_id=01_002_1>								
+#Who can possibly be full of virtues in this world at present?								
+$kim	1	-	-	6:k1	-	nu_1	-	-
+$wyax	2	-	-	4:mod	-	proximal	-	-
+present_1	3	-	-	6:k7t	-	-	-	-
+world_1	4	-	-	6:k7p	-	-	-	-
+quality_1	5	-	mawupa	1:k1s	-	-	-	-
+be_1	6	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_002_2>								
+#Who is possessed of prowess and knows what is right? Who is conscious of services done, truthful of speech and firm of resolve?								
+$kim	1	-	-	15:k1	-	ca_1	-	-
+powerful_1	2	-	-	-	-	-	-	13:समुच्चितः
+duty_1	3	-	-	-	-	-	-	5:mod
+knower_1	4	-	-	-	-	-	-	5:head
+[upa-tat_1]	5	-	-	-	-	-	-	13:समुच्चितः
+done_1	6	-	-	-	-	-	-	8:mod
+knower_1	7	-	-	-	-	-	-	8:head
+[upa-tat_2]	8	-	-	-	-	-	-	13:समुच्चितः
+truth_1	9	-	-	-	-	-	-	11:comp1
+speech_1	10	-	-	-	-	-	-	11:comp2
+[bahu_1]	11	-	-	-	-	-	-	13:समुच्चितः
+firm_1	12	-	-	-	-	-	-	14:comp1
+resolve_1	13	-	-	-	-	-	-	14:comp2
+[bahu_2]	14	-	-	1:k1s	-	-	-	-
+be_1	15	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_1>								
+#Who is possesssed of right conduct?								
+conduct_1	1	-	-	3:rask1	-	ca_1	-	-
+$kim	2	-	-	4:k1	-	-	-	-
+possessed_1	3	-	-	2:k1s	-	-	-	-
+be_1	4	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_2>								
+#Who is friendly to all living beings?								
+all_1	1	-	-	-	-	-	-	3:mod
+being_1	2	-	pl	-	-	-	-	3:head
+[compound_type_1]	3	-	-	6:k7p	-	-	-	-
+$kim	4	-	-	6:k1	-	-	-	-
+benefit_1	5	-	-	4:k1s	-	-	-	-
+be_1-awi_4	6	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_3>								
+#Who is a man of knowledge?								
+scholar_1	1	-	-	2:k1s	-	-	-	-
+$kim	2	-	-	3:k1	-	-	-	-
+be_1	3	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_4>								
+#Who is powerful?								
+$kim	1	-	-	3:k1	-	-	-	-
+competent_1	2	-	-	1:k1s	-	ca_1	-	-
+be_1	3	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_5>								
+#Who has a singularly lovable appearance?								
+$kim	1	-	-	7:k1	-	ca_1	-	-
+one_1	2	-	-	-	-	-	-	5:comp1
+dear_1	3	-	-	-	-	-	-	5:comp2
+[genitive_bahuvrihi_1]	5	-	-	-	-	-	-	6:mod
+appearance_1	4	-	-	-	-	-	-	6:head
+[karmaXAraya_1]	6	-	-	1:k1s	-	-	-	-
+be_1	7	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_004_1>								
+#Who has subdued his self?								
+sight_2	1	-	mawupa	2:k1s	-	-	-	-
+$kim	2	-	-	3:k1	-	-	-	-
+be_1	3	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_004_2>								
+#Who has conquered anger and who is possessed of spledour ?								
+conquered_1	1	-	-	-	-	-	-	3:comp1
+anger_1	2	-	-	-	-	-	-	3:comp2
+[bahu_1]	3	-	-	-	-	-	-	4:समुच्चितः
+splendour_1	4	-	mawupa	5:k1s	-	-	-	-
+$kim	5	-	-	6:k1	-	-	-	-
+be_1	6	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								

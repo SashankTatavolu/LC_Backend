@@ -1,0 +1,1751 @@
+<sent_id=Geo_ncert_7stnd_9ch_0001>
+#रेगिस्तान में जीवन ।
+regiswAna_1	1	-	-	3:k7p	-	-	-	-
+jIvana_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0002a>
+#अध्याय 5 में आप यह पढ चुके हैं ।
+aXyAya	1	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	6:k7	-	-	-	-
+5	2	numex	-	-	-	-	-	10:inside
+$addressee	4	-	-	6:k1	-	respect	-	-
+$wyax	5	-	-	6:k2	-	proximal	-	-
+paDa_1-subj_hE_1	6	-	-	0:main	-	[shade:cuka_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0002b>
+#कि पेड-पौधे , पशुओं एवं मनुष्यों के लिए जल ही जीवन है ।
+peda-pOXe	1	-	-	-	-	-	-	13:op1
+paSu_1	3	-	pl	-	-	-	-	13:op2
+manuRya_1	5	-	pl	-	-	-	-	13:op3
+jala_1	8	-	-	-	-	hI	-	13:op4
+jIvana_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	11:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0003>
+#जहाँ पीने के लिए जल न हो , मवेशियों को चरने के लिए घास न हो एवं फसलों के उगने के लिए जल न हो , ऐसे स्थान पर किसी भी जीव के लिए जीवन कठिन ही होगा ।
+jahAz	1	-	-	7:k7p	-	-	-	-
+pI_1	2	-	pl	7:rt	-	-	-	-
+jala_1	5	-	-	-	-	-	-	40:kriyAmUla
+na_1	6	-	-	7:neg	-	-	-	-
+ho_1	7	-	-	-	-	-	-	40:verbalizer
+[cp_1]	40	-	-	-	-	-	-	43:op1
+maveSI_1	9	-	pl	11:k2	-	-	-	-
+cara_1	11	-	pl	16:rt	-	-	-	-
+GAsa_1	14	-	-	16:k1	-	-	-	-
+na_1	15	-	-	16:neg	-	-	-	-
+ho_1	16	-	-	-	-	-	-	43:op2
+Pasala_1	18	-	pl	20:k1	-	-	-	-
+uga_1	20	-	pl	25:rt	-	-	-	-
+jala_1	23	-	-	-	-	-	-	41:kriyAmUla
+na_1	24	-	-	25:neg	-	-	-	-
+ho_1	25	-	-	-	-	-	-	41:verbalizer
+[cp_2]	41	-	-	-	-	-	-	43:op3
+EsA	27	-	pl	28:dem	-	-	-	-
+sWAna_1	28	-	-	38:k7p	-	-	-	-
+kisI	30	-	-	32:mod	-	BI	-	-
+jIva_1	32	-	-	38:rt	-	-	-	-
+jIvana_1	35	-	-	36:mod	-	-	-	-
+kaTina_1	36	-	-	-	-	hI	-	42:kriyAmUla
+ho_1-gA_1	38	-	-	-	-	-	-	42:verbalizer
+[cp_3]	42	-	-	0:main	-	-	-	-
+[conj_1]	43	-	-	38:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0004>
+#अब हम विश्व के उन स्थानों के बारे में पढेंगे जहाँ लोग अत्यधिक कष्टकारी तापमान में भी जीना सीख चुके हैं ।
+aba	1	-	-	10:k7t	-	-	-	-
+$speaker	2	-	pl	10:k1	-	-	-	-
+viSva_1	3	-	-	6:r6	-	-	-	-
+$wyax	5	-	pl	6:dem	-	distal	-	-
+sWAna_1	6	-	pl	10:k7	-	-	-	-
+paDa_1	10	-	pl	19:vmod	-	-	-	-
+jahAz	11	-	-	12:dem	-	-	-	-
+loga_1	12	-	-	19:k1	-	-	-	-
+awyaXika_1	13	-	-	14:intf	-	-	-	-
+kaRtakArI_1	14	-	-	15:mod	-	-	-	-
+wApamAna_1	15	-	-	18:k7	-	BI	-	-
+jI_1	18	-	-	19:k2	-	-	-	-
+sIKa_1-subj_hE_1	19	-	-	0:main	-	[shade:cuka_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0005a>
+#इनमें से कुछ स्थान आग की तरह गर्म हैं ।
+$wyax	1	-	pl	9:k5	-	proximal	-	-
+kuCa_1	3	-	-	4:quant	-	-	-	-
+sWAna_1	4	-	-	9:k1	-	-	-	-
+Aga_1	5	-	-	9:rv	-	-	-	-
+garma_1	8	-	-	9:k1s	-	-	-	-
+hE_1-pres	9	-	-	0:main	Geo_ncert_7stnd_9ch_0005b.9:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0005b>
+#तो कुछ बर्फ़ की तरह ठंडे हैं ।
+kuCa_1	1	-	-	2:quant	-	-	-	-
+barPZa_1	2	-	-	6:rv	-	-	-	-
+TaMdA_1	5	-	pl	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0006>
+#ये विश्व के रेगिस्तानी क्षेत्र हैं ।
+$wyax	1	-	pl	6:k1	-	proximal	-	-
+viSva_1	2	-	-	5:r6	-	-	-	-
+regiswAnI_1	4	-	-	5:mod	-	-	-	-
+kRewra_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0007>
+#इन क्षेत्रों में कम वर्षा , विरल वनस्पति एवं चरम तापमान होते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+kRewra_1	2	-	pl	12:k7p	-	-	-	-
+varRA_1	5	-	-	-	-	-	-	15:op1
+virala_1	7	-	-	8:mod	-	-	-	-
+vanaspawi_1	8	-	-	-	-	-	-	15:op2
+carama_1	10	-	-	11:mod	-	-	-	-
+wApamAna_1	11	-	-	-	-	-	-	15:op3
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	12:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0008>
+#तापमान के आधार पर रेगिस्तान गर्म या ठंडे हो सकते हैं ।
+wApamAna_1	1	-	-	3:r6	-	-	-	-
+AXAra_1	3	-	-	9:k7	-	-	-	-
+regiswAna_1	5	-	-	9:k1	-	-	-	-
+garma_1	6	-	-	-	-	-	-	13:op1
+TaMdA_1	8	-	pl	-	-	-	-	13:op2
+ho_1-0_saka_hE_1	9	-	-	0:main	-	-	-	-
+[disjunct_1]	13	-	-	9:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0009>
+#इन स्थानों में जहाँ कहीं भी थोडा-बहुत जल उपलब्ध होता है , लोग वहाँ कृषि करने के लिए बस जाते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+sWAna_1	2	-	pl	10:k7p	-	-	-	-
+jahAz	4	-	-	10:k7p	-	-	-	-
+kaha	5	-	pl	10:k7t	-	BI	-	-
+WodA-bahuwa	7	-	-	8:quant	-	-	-	-
+jala_1	8	-	-	10:k1	-	-	-	-
+upalabXa_1	9	-	-	-	-	-	-	23:kriyAmUla
+ho_1	10	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	13:rc	-	-	-	-
+loga_1	13	-	-	20:k1	-	-	-	-
+vahAz	14	-	pl	16:k7p	-	-	-	-
+kqRi_1	15	-	-	-	-	-	-	24:kriyAmUla
+kara_1	16	-	pl	-	-	-	-	24:verbalizer
+[cp_2]	24	-	-	19:rt	-	-	-	-
+basa_1	19	-	pl	20:vmod	-	[shade:ja_1]	-	-
+jA_1-wA_hE_1	20	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0010>
+#गर्म रेगिस्तान-सहारा ।
+garma_1	1	-	-	-	-	-	-	4:kriyAmUla
+-_1	2	-	-	-	-	-	-	4:verbalizer
+[cp_1]	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0011>
+#विश्व एवं अफ़्रीका महाद्वीप के मानचित्र को देखिए ।
+viSva	1	male	-	-	-	-	-	10:op1
+aPZrIkA	3	-	-	-	-	-	-	10:op2
+mahAxvIpa_1	4	-	-	6:r6	-	-	-	-
+mAnaciwra_1	6	-	-	8:k2	-	-	-	-
+xeKa_1-e_1	8	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	8:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0012>
+#उत्तरी अफ़्रीका के बडे भू-भाग पर फैले सहारा के रेगिस्तान का पता लगाएँ ।
+uwwarI_1	1	-	-	2:mod	-	-	-	-
+aPZrIkA	2	-	-	5:r6	-	-	-	-
+badA_1	4	-	pl	5:mod	-	-	-	-
+BU-BAga	5	-	-	7:k7p	-	-	-	-
+PEla_1	7	-	-	8:rvks	-	-	-	-
+sahArA_1	8	-	-	10:r6	-	-	-	-
+regiswAna_1	10	-	-	12:k2	-	-	-	-
+pawA_1	12	-	-	-	-	-	-	15:kriyAmUla
+lagA_1-e_1	13	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0013>
+#यह विश्व का सबसे बडा रेगिस्तान है ।
+$wyax	1	-	-	7:k1	-	proximal	-	-
+viSva_1	2	-	-	6:r6	-	-	-	-
+badA_1	5	-	superl	6:mod	-	-	-	-
+regiswAna_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0014>
+#यह लगभग 8.54 लाख वर्ग किलोमीटर के क्षेत्र में फैला हुआ है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+8.54	3	-	-	4:mod	-	-	-	-
+lAKa	4	numex	-	-	-	-	-	14:count
+varga_1	5	-	-	-	-	-	-	14:unit
+kilomItara_1	6	-	-	8:r6	-	-	-	-
+kRewra_1	8	-	-	10:k7p	-	-	-	-
+PElA_1-0_ho_hE_1	10	-	-	0:main	-	lagaBaga	-	-
+[meas_1]	14	-	-	10:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0015a>
+#क्या आपको याद यह है ।
+$kim	1	-	-	5:krvn	-	-	-	-
+$addressee	2	-	-	5:k4a	-	respect	-	-
+yAxa_1	3	-	-	5:k1	-	-	-	-
+$wyax	4	-	-	5:k1s	-	proximal	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0015b>
+#कि भारत का क्षेत्रफल 32.8 लाख वर्ग किलोमीटर है ?
+BArawa	1	male	-	3:r6	-	-	-	-
+kRewraPala_1	3	-	-	8:k1	-	-	-	-
+32.8	4	-	-	5:mod	-	-	-	-
+lAKa	5	numex	-	-	-	-	-	10:count
+varga_1	6	-	-	-	-	-	-	10:unit
+kilomItara_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+[meas_1]	10	-	-	7:mod	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0016>
+#सहारा रेगिस्तान ग्यारह देशों से घिरा हुआ है ।
+sahArA_1	1	-	-	6:k1	-	-	-	-
+regiswAna	2	male	-	4:mod	-	-	-	-
+gyAraha	3	numex	-	4:card	-	-	-	-
+xeSa_1	4	-	pl	6:k5	-	-	-	-
+Gira_1-yA_ho_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0017>
+#ये देश हैं-अल्जीरिया , चाड , मिस्त्र , लीबिया , माली , मौरितानिया , मोरक्को , नाइजर , सूडान , ट्यूनिशिया एवं पश्चिमी सहारा ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+xeSa_1	2	-	-	3:k1	-	-	-	-
+-_1	3	-	-	-	-	-	-	26:op1
+cAda	5	-	-	-	-	-	-	26:op2
+miswra	7	-	-	-	-	-	-	26:op3
+lIbiyA	9	-	-	-	-	-	-	26:op4
+mAlI	11	male	-	-	-	-	-	26:op5
+mOriwAniyA	13	-	-	0:main	-	-	-	26:op6
+morakko	15	-	-	0:main	-	-	-	26:op7
+nAijara	17	-	-	0:main	-	-	-	26:op8
+sUdAna	19	-	-	0:main	-	-	-	26:op9
+tyUniSiyA	21	-	-	0:main	-	-	-	26:op10
+paScimI_1	23	-	-	24:mod	-	-	-	-
+sahArA_1	24	-	-	0:main	-	-	-	26:op11
+[conj_1]	26	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0018>
+#रेगिस्तान के बारे में सोचते समय आपके मस्तिष्क में तुरंत ही रेत का दृश्य उभरता है ।
+regiswAna_1	1	-	-	5:k7	-	-	-	-
+soca_1	5	-	pl	6:rvks	-	-	-	-
+samaya_1	6	-	-	15:k1	-	-	-	-
+$addressee	7	-	-	8:r6	-	respect	-	-
+maswiRka_1	8	-	-	15:k7	-	-	-	-
+wuraMwa_1	10	-	-	15:krvn	-	hI	-	-
+rewa_1	12	-	-	14:r6	-	-	-	-
+xqSya_1	14	-	-	15:k1	-	-	-	-
+uBara_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0019>
+#परंतु सहारा मरुस्थल बालू की विशाल परतों से ढँका हुआ ही नहीं वरन् वहाँ बजरी के मैदान और नग्न चट्टानी सतह वाले उत्थित पठार भी पाए जाते हैं ।
+sahArA_1	1	-	-	8:k1	-	-	-	-
+marusWala_1	2	-	-	3:mod	-	-	-	-
+bAlU	3	female	-	6:r6	-	-	-	-
+viSAla_1	5	-	-	6:mod	-	-	-	-
+parawa_1	6	-	pl	8:k5	-	-	-	-
+Dazka_1	8	-	-	12:ccof	-	-	-	-
+nahIM_1	11	-	-	12:ccof	-	-	-	-
+vahAz	13	-	pl	25:k7p	-	-	-	-
+bajarA_1	14	-	-	16:r6	-	-	-	-
+mExAna_1	16	-	-	-	-	-	-	29:op1
+nagna_1	18	-	-	20:mod	-	-	-	-
+cattAnI_1	19	-	-	18:mod	-	-	-	-
+sawaha_1	20	-	mawupa	-	-	-	-	29:op2
+uwWiwa_1	22	-	-	23:mod	-	-	-	-
+paTAra_1	23	-	-	25:k2	-	BI	-	-
+pA_1	25	-	-	12:ccof	-	-	-	-
+[conj_1]	29	-	-	23:r6	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0020>
+#ये चट्टानी सतहें कुछ स्थानों पर 2500 मीटर से भी अधिक ऊँची हैं ।
+$wyax	1	-	pl	3:dem	-	proximal	-	-
+cattAnI_1	2	-	-	3:mod	-	-	-	-
+sawaheM_1	3	-	-	13:k1	-	-	-	-
+kuCa_1	4	-	-	5:quant	-	-	-	-
+sWAna_1	5	-	pl	13:k7p	-	-	-	-
+2500	7	meas	-	-	-	-	-	15:count
+mItara_1	8	-	-	-	-	BI	-	15:unit
+UzcA_1	12	-	compermore	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	0:main	-	-	-	-
+[meas_1]	15	-	-	11:intf	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0021>
+#जलवायु ।
+jalavAyu_1	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0022>
+#सहारा रेगिस्तान की जलवायु अत्यधिक गर्म एवं शुष्क है ।
+sahArA	1	male	-	-	-	-	-	11:begin
+[ne_1]	11	-	-	4:r6	-	-	-	-
+regiswAna_1	2	-	-	-	-	-	-	11:inside
+jalavAyu_1	4	-	-	9:k1	-	-	-	-
+awyaXika_1	5	-	-	6:intf	-	-	-	-
+garma_1	6	-	-	-	-	-	-	12:op1
+SuRka_1	8	-	-	-	-	-	-	12:op2
+hE_1-pres	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	9:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0023>
+#यहाँ की वर्षा ऋतु अल्पकाल के लिए होती है ।
+yahAz	1	-	-	3:r6	-	-	-	-
+varRA_1	3	-	-	8:k1	-	-	-	-
+qwu_1	4	-	-	8:k1	-	-	-	-
+alpakAla_1	5	-	-	8:rt	-	-	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0024>
+#यहाँ आकाश बादल रहित एवं निर्मल होता है ।
+yahAz	1	-	-	7:k7p	-	-	-	-
+AkASa	2	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	4:intf	-	-	-	-
+bAxala	3	male	-	-	-	-	-	10:inside
+rahiwa_1	4	-	-	-	-	-	-	11:op1
+nirmala_1	6	-	-	-	-	-	-	11:op2
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+[conj_1]	11	-	-	7:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0025>
+#यहाँ नमी संचय होने की अपेक्षा तेजी से वाष्पित हो जाती है ।
+yahAz	1	-	-	10:k7p	-	-	-	-
+namI_1	2	-	-	4:k1	-	-	-	-
+saMcaya_1	3	-	-	-	-	-	-	14:kriyAmUla
+ho_1	4	-	pl	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	6:r6	-	-	-	-
+apekRA_1	6	-	-	10:k1	-	-	-	-
+wejI_1	7	-	-	10:krvn	-	-	-	-
+vARpiwa_1	9	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_ho_1	10	-	-	-	-	[shade:ja_1]	-	15:verbalizer
+[cp_2]	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0026>
+#दिन अविश्वसनीय रूप से गर्म होते हैं ।
+xina_1	1	-	-	6:k7t	-	-	-	-
+aviSvasanIya_1	2	-	-	3:mod	-	-	-	-
+rUpa_1	3	-	-	6:krvn	-	-	-	-
+garma_1	5	-	-	-	-	-	-	9:kriyAmUla
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0027>
+#दिन के समय तापमान 50°सेल्सियस से ऊपर पहुँच जाता है , जिससे रेत एवं नग्न चट्टानें अत्यधिक गर्म हो जाती हैं ।
+xina_1	1	-	-	8:k7t	-	-	-	-
+wApamAna_1	4	-	-	8:k1	-	-	-	-
+50°selsiyasa	5	numex	-	8:k7	-	-	-	-
+Upara_1	7	-	-	5:k7p	-	-	-	-
+pahuzca_1-wA_hE_1	8	-	-	0:main	-	[shade:ja_1]	-	-
+$yax	12	-	-	19:rh	-	-	-	-
+rewa_1	13	-	-	-	-	-	-	23:op1
+nagna_1	15	-	-	16:mod	-	-	-	-
+cattAna_1	16	-	pl	-	-	-	-	23:op2
+awyaXika_1	17	-	-	18:quant	-	-	-	-
+garma_1	18	-	-	19:k1s	-	-	-	-
+hE_1	19	-	-	8:rc	-	-	-	-
+[conj_1]	23	-	-	19:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0028>
+#इनके ताप का विकिरण होने से चारों तरफ़ सब कुछ गर्म हो जाता है ।
+$wyax	1	-	pl	2:r6	-	proximal	-	-
+wApa_1	2	-	-	4:r6	-	-	-	-
+vikiraNa_1	4	-	-	5:k1	-	-	-	-
+ho_1	5	-	pl	12:rh	-	-	-	-
+cAra	7	numex	pl	8:card	-	-	-	-
+waraPZa_1	8	-	-	12:rd	-	-	-	-
+saba_1	9	-	-	10:mod	-	-	-	-
+kuCa_1	10	-	-	12:k1	-	-	-	-
+garma_1	11	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_ho_1	12	-	-	-	-	[shade:ja_1]	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0029a>
+#रातें अत्यधिक ठंडी होती हैं ।
+rAwa_1	1	-	pl	4:k1	-	-	-	-
+awyaXika_1	2	-	-	3:k2	-	-	-	-
+TaMdA_1	3	-	-	-	-	-	-	7:kriyAmUla
+ho_1-wA_hE_1	4	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0029b>
+#तथा तापमान गिरकर हिमांक बिंदु , लगभग 0°सेल्सियस तक पहुँच जाता है ।
+wApamAna_1	1	-	-	2:k1	-	-	-	-
+gira_1	2	-	-	9:rpk	-	-	-	-
+himAMka_1	3	-	-	4:mod	-	-	-	-
+biMxu_1	4	-	-	9:k1	-	-	-	-
+0°selsiyasa	7	-	-	9:k7	-	lagaBaga	-	-
+pahuzca_1-wA_hE_1	9	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0030>
+#वनस्पतिजात एवं प्राणिजात ।
+vanaspawijAwa_1	1	-	-	-	-	-	-	5:op1
+prANijAwa_1	3	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0031>
+#सहारा रेगिस्तान की वनस्पतियों में कैक्टस , खजूर के पेड एवं ऐकेशिया पाए जाते हैं ।
+sahArA	1	male	-	-	-	-	-	17:begin
+[ne_1]	17	-	-	4:r6	-	-	-	-
+regiswAna_1	2	-	-	-	-	-	-	17:inside
+vanaspawi_1	4	-	pl	13:k7	-	-	-	-
+kEktasa_1	6	-	-	-	-	-	-	18:op1
+KajUra_1	8	-	-	10:r6	-	-	-	-
+peda_1	10	-	-	-	-	-	-	18:op2
+EkeSiyA_1	12	-	-	-	-	-	-	18:op3
+pA_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	13:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0032>
+#यहाँ कुछ स्थानों पर मरूद्यान-खजूर के पेडों से घिरे हरित द्वीप पाए जाते हैं ।
+yahAz	1	-	-	12:k7p	-	-	-	-
+kuCa_1	2	-	-	3:quant	-	-	-	-
+sWAna_1	3	-	pl	12:k7p	-	-	-	-
+marUxyAna-KajUra	5	-	-	7:r6	-	-	-	-
+peda_1	7	-	pl	9:k2	-	-	-	-
+Gira_1	9	-	-	11:rvks	-	-	-	-
+hariwa_1	10	-	-	11:mod	-	-	-	-
+xvIpa_1	11	-	-	12:k2	-	-	-	-
+pA_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0033>
+#ऊँट , लकडबग्घा , सियार , लोमडी , बिच्छू , साँपों की विभिन्न जातियाँ एवं छिपकलियाँ यहाँ के प्रमुख जीव-जंतु हैं ।
+Uzta_1	1	-	-	-	-	-	-	23:op1
+lakadabagGA_1	3	-	-	-	-	-	-	23:op2
+siyAra_1	5	-	-	-	-	-	-	23:op3
+lomadI_1	7	-	-	-	-	-	-	23:op4
+bicCU_1	9	-	-	-	-	-	-	23:op5
+sAzpa_1	11	-	pl	14:r6	-	-	-	-
+viBinna_1	13	-	-	14:mod	-	-	-	-
+jAwi_1	14	-	pl	21:k1	-	-	-	23:op6
+CipakalI_1	16	-	pl	21:k1	-	-	-	23:op7
+yahAz	17	-	-	20:r6	-	-	-	-
+pramuKa_1	19	-	-	20:mod	-	-	-	-
+jIva-jaMwu	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	21:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0034>
+#सहारा रेगिस्तान की कष्टकारी जलवायु में भी विभिन्न समुदायों के लोग निवास करते हैं , जो भिन्न-भिन्न क्रियाकलापों में भाग लेते हैं ।
+sahArA	1	male	-	-	-	-	-	24:begin
+[ne_1]	24	-	-	5:r6	-	-	-	-
+regiswAna_1	2	-	-	-	-	-	-	24:inside
+kaRtakArI_1	4	-	-	5:mod	-	-	-	-
+jalavAyu_1	5	-	-	13:k7p	-	BI	-	-
+viBinna_1	8	-	-	9:mod	-	-	-	-
+samuxAya_1	9	-	pl	11:r6	-	-	-	-
+loga_1	11	-	-	13:k1	-	-	-	-
+nivAsa_1	12	-	-	-	-	-	-	25:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	25:verbalizer
+[cp_1]	25	-	-	0:main	-	-	-	-
+$yax	16	-	-	21:k1	-	-	-	-
+Binna_1	17	-	xviwva	18:mod	-	-	-	-
+kriyAkalApoM_1	18	-	-	21:k7	-	-	-	-
+BAga_1	20	-	-	-	-	-	-	26:kriyAmUla
+le_1	21	-	pl	-	-	-	-	26:verbalizer
+[cp_2]	26	-	-	13:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0035>
+#इनमें बेदुईन एवं तुआरेग भी शामिल हैं ।
+$wyax	1	-	pl	7:k7	-	proximal	-	-
+bexuIna	2	-	-	-	-	-	-	9:op1
+wuArega_1	4	-	-	-	-	BI	-	9:op2
+SAmila_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	7:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0036>
+#चलवासी जनजाति वाले ये लोग बकरी , भेड , ऊँट एवं घोडे जैसे पशुध्न को पालते हैं ।
+calavAsI_1	1	-	-	-	-	-	-	19:mod
+janajAwi_1	2	-	mawupa	-	-	-	-	19:head
+[nc_1]	19	-	-	5:mod	-	-	-	-
+$wyax	4	-	pl	5:dem	-	proximal	-	-
+loga_1	5	-	-	16:k1	-	-	-	-
+bakarA_1	6	-	-	-	-	-	-	20:op1
+Beda_1	8	-	-	-	-	-	-	20:op2
+Uzta_1	10	-	-	-	-	-	-	20:op3
+GodA_1	12	-	pl	-	-	-	-	20:op4
+paSuXna_1	14	-	-	16:k2	-	-	-	-
+pAla_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	14:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0037a>
+#इन पशुओं से इन लोगों को दूध मिलता है , इनकी खाल से ये पेटी , जूते , पानी की बोतल बनाने के लिए चमडा प्राप्त करते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+paSu_1	2	-	pl	8:rh	-	-	-	-
+$wyax	4	-	pl	5:dem	-	proximal	-	-
+loga_1	5	-	pl	8:k4	-	-	-	-
+xUXa_1	7	-	-	8:k1	-	-	-	-
+mila_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+$wyax	11	-	pl	12:r6	-	proximal	-	-
+KAla_1	12	-	-	27:k3	-	-	-	-
+$wyax	14	-	pl	15:dem	-	proximal	-	-
+petI_1	15	-	-	27:k1	-	-	-	-
+jUwA_1	17	-	pl	27:k1	-	-	-	-
+pAnI_1	19	-	-	21:r6	-	-	-	-
+bowala_1	21	-	-	22:k2	-	-	-	-
+banA_1	22	-	pl	27:rt	-	-	-	-
+camadA_1	25	-	-	27:k2	-	-	-	-
+prApwa_1	26	-	-	-	-	-	-	30:kriyAmUla
+kara_1	27	-	pl	-	-	-	-	30:verbalizer
+[cp_1]	30	-	-	8:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0037b>
+#तथा पशुओं के बालों का उपयोग चटाई , कालीन , कपडे एवं कंबल बनाने के लिए होता है ।
+paSu_1	1	-	pl	3:r6	-	-	-	-
+bAla_1	3	-	pl	5:k2	-	-	-	-
+upayoga_1	5	-	-	-	-	-	-	19:op1
+catAI_1	6	-	-	-	-	-	-	19:op2
+kAlIna_1	8	-	-	-	-	-	-	19:op3
+kapadA_1	10	-	pl	-	-	-	-	19:op4
+kaMbala_1	12	-	-	-	-	-	-	19:op5
+banA_1	13	-	pl	16:rt	-	-	-	-
+ho_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	13:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0038>
+#धूल भरी आँधियों एवं गर्म वायु से बचने के लिए ये लोग भारी वस्त्र पहनते हैं ।
+XUla_1	1	-	-	2:k2	-	-	-	-
+Bara_1	2	-	-	3:rvks	-	-	-	-
+AzXI_1	3	-	pl	-	-	-	-	18:op1
+garma_1	5	-	-	6:mod	-	-	-	-
+vAyu_1	6	-	-	-	-	-	-	18:op2
+baca_1	8	-	pl	15:rt	-	-	-	-
+$wyax	11	-	pl	12:dem	-	proximal	-	-
+loga_1	12	-	-	15:k1	-	-	-	-
+BArI_1	13	-	-	14:mod	-	-	-	-
+vaswra_1	14	-	-	15:k2	-	-	-	-
+pahana_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	8:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0039>
+#सहारा में मरूद्यान एवं मिस्त्र में नील घाटी लोगों को निवास में मदद करती है ।
+sahArA_1	1	-	-	0:k7	-	-	-	-
+marUxyAna_1	3	-	-	-	-	-	-	19:op1
+miswra	5	-	-	-	-	-	-	18:whole
+nIla	7	female	-	8:mod	-	-	-	-
+GAtI_1	8	-	-	14:k1	-	-	-	-
+loga_1	9	-	pl	14:k4	-	-	-	-
+nivAsa_1	11	-	-	-	-	-	-	18:part
+maxaxa_1	13	-	-	-	-	-	-	17:kriyAmUla
+kara_1-wA_hE_1	14	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	-	-	-	-	19:op2
+[spatial_1]	18	-	-	14:k7p	-	-	-	-
+[conj_1]	19	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0040>
+#यहाँ जल की उपलब्ध्ता होने से लोग खजूर के पेड उगाते हैं ।
+yahAz	1	-	-	11:k7p	-	-	-	-
+jala_1	2	-	-	4:k1	-	-	-	-
+upalabXwA_1	4	-	-	-	-	-	-	14:kriyAmUla
+ho_1	5	-	pl	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	11:rh	-	-	-	-
+loga_1	7	-	-	11:k1	-	-	-	-
+KajUra_1	8	-	-	10:r6	-	-	-	-
+peda_1	10	-	-	11:k2	-	-	-	-
+ugA_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0041>
+#यहाँ चावल , गेहूँ , जौ एवं सेम जैसी फसलें भी उगाई जाती हैं ।
+yahAz	1	-	-	12:k7p	-	-	-	-
+cAvala_1	2	-	-	-	-	-	-	16:op1
+gehUz_1	4	-	-	-	-	-	-	16:op2
+jO_1	6	-	-	-	-	-	-	16:op3
+sema_1	8	-	-	-	-	-	-	16:op4
+Pasala_1	10	-	pl	12:k2	-	BI	-	-
+ugA_1-yA_jA_wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	10:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0042>
+#मिस्त्र में उगाए जाने वाली कपास पूरे विश्व में प्रसिद्ध है ।
+miswra	1	-	-	3:k7p	-	-	-	-
+ugA_1	3	-	-	6:mod	-	-	-	-
+kapAsa_1	6	-	-	11:k1	-	-	-	-
+pUrA_1	7	-	pl	8:mod	-	-	-	-
+viSva_1	8	-	-	11:k7p	-	-	-	-
+prasixXa_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0043>
+#तेल की खोज संपूर्ण विश्व में अत्यधिक माँग वाले , इस उत्पाद का अल्जीरिया , लीबिया एवं मिस्त्र में होने के कारण सहारा रेगिस्तान में तेजी से परिवर्तन हो रहा है ।
+wela_1	1	-	-	3:r6	-	-	-	-
+Koja_1	3	-	-	-	-	-	-	33:op1
+saMpUrNa_1	4	-	-	5:mod	-	-	-	-
+viSva_1	5	-	-	20:k7p	-	-	-	-
+awyaXika_1	7	-	-	8:quant	-	-	-	-
+mAzga_1	8	-	mawupa	-	-	-	-	33:op2
+$wyax	11	-	-	12:dem	-	proximal	-	-
+uwpAxa_1	12	-	-	14:r6	-	-	-	-
+aljIriyA	14	-	-	-	-	-	-	33:op3
+lIbiyA	16	-	-	-	-	-	-	33:op4
+miswra	18	-	-	-	-	-	-	33:op5
+ho_1	20	-	pl	29:rh	-	-	-	-
+sahArA_1	23	-	-	29:k1	-	-	-	-
+regiswAna_1	24	-	-	29:k7p	-	-	-	-
+wejI_1	26	-	-	29:krvn	-	-	-	-
+parivarwana_1	28	-	-	29:k1	-	-	-	-
+ho_1-nA_raha_ho_1	29	-	-	0:main	-	-	-	-
+[conj_1]	33	-	-	20:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0044>
+#इस क्षेत्र में प्राप्त अन्य महत्वपूर्ण खनिजों में लोहा , पफॉस्पफोरस , मैंगनीज एवं यूरेनियम सम्मिलित हैं ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kRewra_1	2	-	-	4:intf	-	-	-	-
+prApwa_1	4	-	-	7:mod	-	-	-	-
+anya_1	5	-	-	7:mod	-	-	-	-
+mahawvapUrNa_1	6	-	-	5:mod	-	-	-	-
+KanijoM_1	7	-	-	17:k7	-	-	-	-
+lohA_1	9	-	-	-	-	-	-	19:op1
+paPOYspaPorasa_1	11	-	-	-	-	-	-	19:op2
+mEMganIja_1	13	-	-	-	-	-	-	19:op3
+yUreniyama	15	male	-	-	-	-	-	19:op4
+sammiliwa_1	16	-	-	17:k1s	-	-	-	-
+hE_1-pres	17	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	17:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0045>
+#सहारा की सांस्कृतिक जीवनशैली में भी परिवर्तन आ रहा है ।
+sahArA_1	1	-	-	4:r6	-	-	-	-
+sAMskqwika_1	3	-	-	4:mod	-	-	-	-
+jIvanaSElI_1	4	-	-	8:k7	-	BI	-	-
+parivarwana_1	7	-	-	8:k1	-	-	-	-
+A_1-0_raha_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0046>
+#आज यहाँ मस्जिदों से ऊँचे काँच की खिडकियों वाले भवन तथा ऊँटों के प्राचीन मार्ग के स्थान पर सुपर महामार्ग बन गए हैं ।
+Aja_1	1	-	-	21:k7t	-	-	-	-
+yahAz	2	-	-	21:k7p	-	-	-	-
+masjixa_1	3	-	pl	21:k3	-	-	-	-
+UzcA_1	5	-	pl	6:mod	-	-	-	-
+kAzca_1	6	-	-	8:r6	-	-	-	-
+KidakI_1	8	-	mawupa	10:mod	-	-	-	-
+Bavana_1	10	-	-	-	-	-	-	26:op1
+Uzta_1	12	-	pl	-	-	-	-	26:op2
+prAcIna_1	14	-	-	15:mod	-	-	-	-
+mArga_1	15	-	-	17:r6	-	-	-	-
+sWAna_1	17	-	-	21:k7p	-	-	-	-
+supara_1	19	-	-	-	-	-	-	25:mod
+mahAmArga_1	20	-	-	-	-	-	-	25:head
+[nc_1]	25	-	-	21:k1	-	-	-	-
+bana_1-0_gae_hE_1	21	-	-	0:main	-	-	-	-
+[conj_1]	26	-	-	15:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0047>
+#नमक के व्यापार में ऊँटों का स्थान ट्रक ले रहे हैं ।
+namaka_1	1	-	-	3:r6	-	-	-	-
+vyApAra_1	3	-	-	9:k7	-	-	-	-
+Uzta_1	5	-	pl	7:r6	-	-	-	-
+sWAna_1	7	-	-	9:k2	-	-	-	-
+traka_1	8	-	-	9:k2	-	-	-	-
+le_1-subj_raha_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0048>
+#तुआरेग लोग विदेशी पर्यटकों के लिए मार्गदर्शक का काम कर रहे हैं ।
+wuArega	1	-	-	2:mod	-	-	-	-
+loga_1	2	-	-	10:k1	-	-	-	-
+vixeSI_1	3	-	-	4:mod	-	-	-	-
+paryataka_1	4	-	pl	10:rt	-	-	-	-
+mArgaxarSaka_1	7	-	-	9:k2	-	-	-	-
+kAma_1	9	-	-	10:k2	-	-	-	-
+kara_1-0_raha_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0049>
+#आज अनेक चलवासी जनजाति के लोग शहरी जीवन की ओर जा रहे हैं , जहाँ वे तेल एवं गैस के कार्यों में नौकरी ढूँढते हैं ।
+Aja_1	1	-	-	11:k7t	-	-	-	-
+aneka_1	2	-	-	4:quant	-	-	-	-
+calavAsI	3	-	-	-	-	-	-	27:begin
+[ne_1]	27	-	-	6:r6	-	-	-	-
+janajAwi_1	4	-	-	-	-	-	-	27:inside
+loga_1	6	-	-	11:k1	-	-	-	-
+SaharI_1	7	-	-	8:mod	-	-	-	-
+jIvana_1	8	-	-	11:rd	-	-	-	-
+ora_1	10	-	-	8:k7p	-	-	-	-
+jA_1-0_raha_hE_1	11	-	-	0:main	-	-	-	-
+jahAz	15	-	-	24:k7p	-	-	-	-
+$wyax	16	-	pl	24:k1	-	distal	-	-
+wela_1	17	-	-	-	-	-	-	28:op1
+gEsa_1	19	-	-	-	-	-	-	28:op2
+kArya_1	21	-	pl	24:k7	-	-	-	-
+nOkarI_1	23	-	-	24:k2	-	-	-	-
+DUzDa_1	24	-	pl	11:rc	-	-	-	-
+[conj_1]	28	-	-	21:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0050>
+#ठंडा रेगिस्तान-लद्दाख ।
+TaMdA_1	1	-	-	-	-	-	-	4:kriyAmUla
+-_1	2	-	-	-	-	-	-	4:verbalizer
+[cp_1]	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+
+<sent_id=Geo_ncert_7stnd_9ch_0051>
+#जम्मू एवं कश्मीर के पूर्व में बृहत् हिमालय में स्थित लद्दाख एक ठंडा रेगिस्तान है ।
+jammU	1	male	-	-	-	-	-	17:begin
+[ne_1]	17	place	-	3:pof__cn	-	-	-	-
+evaM	2	-	-	-	-	-	-	20:begin
+[ne_4]	20	-	-	15:k7t	-	-	-	-
+kaSmIra	3	male	-	-	-	-	-	20:inside
+pUrva_1	5	-	-	3:k7p	-	-	-	-
+bqhaw_1	7	-	-	8:mod	-	-	-	-
+himAlaya	8	male	-	10:intf	-	-	-	-
+sWiwa_1	10	-	-	11:mod	-	-	-	-
+laxxAKa	11	-	-	-	-	-	-	19:begin
+[ne_3]	19	place	-	15:k1	-	-	-	-
+eka_1	12	numex	-	14:card	-	-	-	-
+TaMdA_1	13	-	-	14:mod	-	-	-	-
+regiswAna_1	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+%affirmative
+[ne_2]	18	place	-	15:k7t	-	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0052>
+#इसके उत्तर में काराकोरम पर्वत श्रेणियाँ एवं दक्षिण में जास्कर पर्वत स्थित है ।
+$wyax	1	-	-	2:r6	-	proximal	-	-
+uwwara	2	male	-	0:k7	-	-	-	-
+kArAkorama	4	-	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	6:mod	-	-	-	-
+parvawa_1	5	-	-	-	-	-	-	15:inside
+SreNI	6	female	-	-	-	-	-	17:op1
+xakRiNa	8	male	-	13:k7p	-	-	-	-
+jAskara	10	-	-	-	-	-	-	16:begin
+[ne_2]	16	-	-	13:k1	-	-	-	-
+parvawa_1	11	-	-	-	-	-	-	16:inside
+sWiwa_1	12	-	-	13:k1s	-	-	-	-
+hE_1-pres	13	-	-	-	-	-	-	17:op2
+[conj_1]	17	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0053>
+#लद्दाख से होकर अनेक नदियाँ बहती हैं , जिनमें सिंधु नदी प्रमुख है ।
+laxxAKa	1	-	-	-	-	-	-	15:begin
+[ne_1]	15	place	-	3:k5	-	-	-	-
+ho_1	3	-	-	6:rpk	-	-	-	-
+aneka_1	4	-	-	5:quant	-	-	-	-
+naxI_1	5	-	pl	6:k1	-	-	-	-
+baha_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+$yax	9	-	pl	13:k7	-	-	-	-
+siMXu	10	male	-	-	-	-	-	16:begin
+[ne_2]	16	-	-	13:k1	-	-	-	-
+naxI_1	11	-	pl	-	-	-	-	16:inside
+pramuKa_1	12	-	-	13:k1s	-	-	-	-
+hE_1	13	-	pl	6:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0054>
+#ये नदियाँ गहरी घाटियों एवं महाखड्ड ( गॉर्ज ) का निर्माण करती हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+naxI_1	2	-	pl	12:k1	-	-	-	-
+gaharA_1	3	-	-	4:mod	-	-	-	-
+GAtI_1	4	-	pl	-	-	-	-	16:op1
+mahAKadda_1	6	-	-	-	-	-	-	16:op2
+gOYrja	8	-	-	6:re	-	-	-	-
+nirmANa_1	11	-	-	-	-	-	-	15:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	11:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0055>
+#लद्दाख में अनेक हिमानियाँ हैं जैसे - गैंग्री हिमानी ।
+laxxAKa	1	-	-	-	-	-	-	11:begin
+[ne_1]	11	place	-	5:k7p	-	-	-	-
+aneka_1	3	-	-	4:quant	-	-	-	-
+himAniyAz_1	4	-	-	5:k1	-	-	-	-
+hE_1	5	-	pl	9:rvks	-	-	-	-
+jEsA_1	6	-	pl	8:mod	-	-	-	-
+gEMgrI_1	8	-	-	9:mod	-	-	-	-
+himAnI	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0056>
+#लद्दाख की उँचाई कारगिल में लगभग 3000 मीटर से लेकर काराकोरम में 8000 मीटर से भी अधिक पाई जाती है ।
+laxxAKa	1	-	-	-	-	-	-	22:begin
+[ne_1]	22	place	-	3:r6	-	-	-	-
+uzcAI_1	3	-	-	18:k1	-	-	-	-
+kAragila	4	-	-	-	-	-	-	25:whole
+3000	7	meas	-	-	-	lagaBaga	-	23:count
+mItara_1	8	-	-	-	-	-	-	23:unit
+le_1	10	-	-	18:rpk	-	-	-	-
+kArAkorama	11	-	-	-	-	-	-	25:part
+8000	13	meas	-	-	-	-	-	24:count
+mItara_1	14	-	-	-	-	BI	-	24:unit
+pA_1-yA_jA_wA_hE_1	18	-	-	0:main	-	-	-	-
+[meas_1]	23	-	-	10:k5	-	-	-	-
+[meas_2]	24	-	-	17:intf	-	-	-	-
+[spatial_1]	25	-	-	18:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0057>
+#अधिक ऊँचाई के कारण यहाँ की जलवायु अत्यधिक शीतल एवं शुष्क होती है ।
+UzcAI_1	2	-	-	12:rh	-	-	-	-
+yahAz	5	-	-	7:r6	-	-	-	-
+jalavAyu_1	7	-	-	12:k1	-	-	-	-
+awyaXika_1	8	-	-	9:intf	-	-	-	-
+SIwala_1	9	-	-	-	-	-	-	15:kriyAmUla
+SuRka_1	11	-	-	-	-	-	-	17:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	17:verbalizer
+[cp_3]	17	-	-	-	-	-	-	18:op2
+[conj_1]	18	-	-	12:pof	-	-	-	-
+%affirmative
+[cp_1]	15	-	-	-	-	-	-	18:op1
+[cp_2]	16	-	-	0:main	-	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0058>
+#इस ऊँचाई पर वायु परत पतली होती है जिससे सूर्य की गर्मी की अत्यधिक तीव्रता महसूस होती है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+UzcAI_1	2	-	-	7:k7p	-	-	-	-
+vAyu_1	4	-	-	-	-	-	-	20:mod
+parawa_1	5	-	-	-	-	-	-	20:head
+[nc_1]	20	-	-	7:k1	-	-	-	-
+pawalA_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	17:rh	-	-	-	-
+sUrya_1	10	-	-	12:r6	-	-	-	-
+garmI_1	12	-	-	15:r6	-	-	-	-
+awyaXika_1	14	-	-	15:quant	-	-	-	-
+wIvrawA_1	15	-	-	17:k1	-	-	-	-
+mahasUsa_1	16	-	-	-	-	-	-	21:kriyAmUla
+ho_1	17	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	7:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0059a>
+#ग्रीष्म ऋतु में दिन का तापमान 0°सेल्सियस से कुछ ही अधिक होता है ।
+grIRma	1	male	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	12:k7	-	-	-	-
+qwu_1	2	-	-	-	-	-	-	15:inside
+xina_1	4	-	-	6:r6	-	-	-	-
+wApamAna_1	6	-	-	12:k1	-	-	-	-
+0°selsiyasa	7	numex	-	11:mod	-	-	-	-
+kuCa_1	9	-	-	11:quant	-	hI	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0059b>
+#एवं रात में तापमान शून्य से - 30°सेल्सियस से नीचे चला जाता है ।
+rAwa_1	1	-	-	10:k7t	-	-	-	-
+wApamAna_1	3	-	-	10:k1	-	-	-	-
+SUnya	4	numex	-	10:krvn	-	-	-	-
+30°selsiyasa	7	-	-	10:k5	-	-	-	-
+nIcA_1	9	-	pl	10:k7	-	-	-	-
+calA_1-wA_hE_1	10	-	-	0:main	Geo_ncert_7stnd_9ch_0059a.10:samuccaya	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0060>
+#शीत ऋतु में यह बर्फीला ठंडा हो जाता है , तापमान लगभग हर समय - 40°सेल्सियस से नीचे ही रहता है ।
+SIwa	1	male	-	-	-	-	-	23:begin
+[ne_1]	23	-	-	7:k7	-	-	-	-
+qwu_1	2	-	-	-	-	-	-	23:inside
+$wyax	4	-	-	7:k1	-	proximal	-	-
+barPIlA_1	5	-	-	7:k1	-	-	-	-
+TaMdA_1	6	-	-	-	-	-	-	24:kriyAmUla
+ho_1-wA_ho_1	7	-	-	-	-	[shade:ja_1]	-	24:verbalizer
+[cp_1]	24	-	-	0:main	-	-	-	-
+wApamAna_1	11	-	-	20:k1	-	-	-	-
+hara_1	13	-	-	14:quant	-	lagaBaga	-	-
+samaya_1	14	-	-	16:mod	-	-	-	-
+40°selsiyasa	16	-	-	20:k7p	-	-	-	-
+nIcA_1	18	-	pl	16:k7p	-	hI	-	-
+raha_1	20	-	-	7:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0061a>
+#चूँकि यह हिमालय वेफ वृष्टि-छाया क्षेत्रा में स्थित है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+himAlaya	2	male	-	5:mod	-	-	-	-
+vqRti-CAyA	4	-	-	5:mod	-	-	-	-
+kRewrA_1	5	-	-	8:k7p	-	-	-	-
+sWiwa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	Geo_ncert_7stnd_9ch_0060.8:kAryakAraNa	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0061b>
+#अतः यहाँ वर्षा बहुत ही कम होती है , मुश्किल से 10 सेंटीमीटर प्रति वर्ष ।
+yahAz	1	-	-	6:k7p	-	-	-	-
+varRA_1	2	-	-	6:k1	-	-	-	-
+bahuwa_1	3	-	-	6:vmod	-	hI	-	-
+ho_1-wA_hE_1	6	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	Geo_ncert_7stnd_9ch_0061a.16:pariNAma	-	-	-
+muSkila_1	9	-	-	14:rsp	-	-	-	-
+10	11	meas	-	-	-	-	-	17:count
+seMtImItara_1	12	-	-	-	-	prawi	-	17:unit
+varRa_1	14	-	-	6:rc	-	-	-	-
+[meas_1]	17	-	-	14:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0062>
+#यह क्षेत्र बर्फीली हवाओं एवं तेज जलाने वाले सूर्य ताप का अनुभव करता है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+kRewra_1	2	-	-	13:k1	-	-	-	-
+barPIlA_1	3	-	-	4:mod	-	-	-	-
+havA_1	4	-	pl	-	-	-	-	19:op1
+weja_1	6	-	-	-	-	-	-	17:kriyAmUla
+jalA_1	7	-	pl	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	10:mod	-	-	-	-
+sUrya_1	9	-	-	-	-	-	-	16:mod
+wApa_1	10	-	-	-	-	-	-	16:head
+[nc_1]	16	-	-	-	-	-	-	19:op2
+anuBava_1	12	-	-	-	-	-	-	18:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	18:verbalizer
+[cp_2]	18	-	-	0:main	-	-	-	-
+[conj_1]	19	-	-	12:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0063a>
+#यह जानकर आपको आश्चर्य होगा ।
+$wyax	1	-	-	2:k2	-	proximal	-	-
+jAna_1	2	-	-	5:rpk	-	-	-	-
+$addressee	3	-	-	5:k4a	-	respect	-	-
+AScarya_1	4	-	-	-	-	-	-	7:kriyAmUla
+ho_1-gA_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	Geo_ncert_7stnd_9ch_0063d.7:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0063b>
+#कि यदि आप सूर्य की धूप में इस तरह यह बैठें ।
+$addressee	2	-	-	10:k1	-	respect	-	-
+sUrya_1	3	-	-	5:r6	-	-	-	-
+XUpa_1	5	-	-	10:k7	-	-	-	-
+$wyax	7	-	-	8:dem	-	proximal	-	-
+waraha_1	8	-	-	10:krvn	-	-	-	-
+$wyax	9	-	-	10:k1	-	proximal	-	-
+bETa_1-e_1	10	-	-	-	-	-	-	12:op1
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0063c>
+#कि आपके पैर छाया में हों ।
+$addressee	1	-	-	2:r6	-	respect	-	-
+pEra_1	2	-	-	5:k1	-	-	-	-
+CAyA_1	3	-	-	5:k7	-	-	-	-
+hoM_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0063d>
+#तो आप एक साथ एक समय पर ही ऊष्माघात एवं तुषार-उपघात से ग्रसित हो सकते हैं ।
+$addressee	1	-	-	-	-	respect	-	18:op1
+eka_1	2	numex	-	3:card	-	-	-	-
+sAWa_1	3	-	-	13:k7	-	-	-	-
+eka_1	4	numex	-	5:card	-	-	-	-
+samaya_1	5	-	-	13:k7t	-	hI	-	-
+URmAGAwa	8	-	-	-	-	-	-	18:op2
+wuRAra-upaGAwa	10	-	-	-	-	-	-	18:op3
+grasiwa_1	12	-	-	-	-	-	-	17:kriyAmUla
+ho_1-0_saka_hE_1	13	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	13:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0064>
+#वनस्पतिजात एवं प्राणिजात ।
+vanaspawijAwa_1	1	-	-	-	-	-	-	5:op1
+prANijAwa_1	3	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0065>
+#यहाँ उच्च शुष्कता के कारण वनस्पति विरल है ।
+yahAz	1	-	-	8:k7p	-	-	-	-
+ucca_1	2	-	-	3:mod	-	-	-	-
+SuRkawA_1	3	-	-	8:rh	-	-	-	-
+vanaspawi_1	6	-	-	8:k1	-	-	-	-
+virala_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0066>
+#यहाँ जानवरों के चरने के लिए कहीं-कहीं पर ही घास एवं छोटी झाडियाँ मिलती हैं ।
+yahAz	1	-	-	14:k7p	-	-	-	-
+jAnavara_1	2	-	pl	4:k1	-	-	-	-
+cara_1	4	-	pl	14:rt	-	-	-	-
+kahIM_1	7	-	xviwva	14:k7	-	hI	-	-
+GAsa_1	10	-	-	-	-	-	-	17:op1
+CotA_1	12	-	-	13:mod	-	-	-	-
+JAdI_1	13	-	pl	-	-	-	-	17:op2
+mila_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	14:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0067>
+#घाटी में शरपत ( विलो ) एवं पॉप्लर के उपवन देखे जा सकते हैं ।
+GAtI_1	1	-	-	11:k7p	-	-	-	-
+Sarapawa	3	-	-	-	-	-	-	16:op1
+vilo	5	-	-	3:re	-	-	-	-
+pOYplara	8	-	-	-	-	-	-	16:op2
+upavana_1	10	-	-	11:k2	-	-	-	-
+xeKa_1-0_saka_1	11	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	10:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0068>
+#ग्रीष्म ऋतु में सेब , खुबानी एवं अखरोट जैसे पेड पल्लवित होते हैं ।
+grIRma	1	male	-	-	-	-	-	15:begin
+[ne_1]	15	-	-	12:k7	-	-	-	-
+qwu_1	2	-	-	-	-	-	-	15:inside
+seba_1	4	-	-	-	-	-	-	17:op1
+KubAnI_1	6	-	-	-	-	-	-	17:op2
+aKarota_1	8	-	-	-	-	-	-	17:op3
+peda_1	10	-	-	12:k1	-	-	-	-
+pallaviwa_1	11	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+[conj_1]	17	-	-	10:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0069>
+#लद्दाख में पक्षियों की विभिन्न प्रजातियाँ नजर आती हैं ।
+laxxAKa	1	-	-	-	-	-	-	11:begin
+[ne_1]	11	place	-	8:k7p	-	-	-	-
+pakRI_1	3	-	pl	6:r6	-	-	-	-
+viBinna_1	5	-	-	6:mod	-	-	-	-
+prajAwi_1	6	-	pl	8:k1	-	-	-	-
+najara_1	7	-	-	-	-	-	-	12:kriyAmUla
+A_1-wA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0070>
+#इनमें रॉबिन , रेडस्टार्ट , तिब्बती स्नोकॉक , रैवेन एवं हूप यहाँ पाए जाने वाले सामान्य पक्षी हैं ।
+$wyax	1	-	pl	18:k7	-	proximal	-	-
+rOYbina	2	-	-	-	-	-	-	20:op1
+redastArta	4	-	-	-	-	-	-	20:op2
+wibbawI_1	6	-	-	7:mod	-	-	-	-
+snokOYka_1	7	-	-	-	-	-	-	20:op3
+rEvena_1	9	-	-	-	-	-	-	20:op4
+hUpa_1	11	-	-	-	-	-	-	20:op5
+yahAz	12	-	-	13:k7p	-	-	-	-
+pA_1	13	-	-	17:mod	-	-	-	-
+sAmAnya_1	16	-	-	17:mod	-	-	-	-
+pakRI_1	17	-	-	18:k1	-	-	-	-
+hE_1-pres	18	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	13:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0071>
+#इनमें से कुछ प्रवासी पक्षी हैं ।
+$wyax	1	-	pl	6:k5	-	proximal	-	-
+kuCa_1	3	-	-	5:quant	-	-	-	-
+pravAsI_1	4	-	-	5:mod	-	-	-	-
+pakRI_1	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0072>
+#लद्दाख के पशुओं में जंगली बकरी , जंगली भेड , याक एवं विशेष प्रकार के कुत्ते आदि पाए जाते हैं ।
+laxxAKa	1	-	-	-	-	-	-	22:begin
+[ne_1]	22	place	-	3:r6	-	-	-	-
+paSu_1	3	-	pl	18:k7p	-	-	-	-
+jaMgalA_1	5	-	-	6:mod	-	-	-	-
+bakarA_1	6	-	-	-	-	-	-	23:op1
+jaMgalA_1	8	-	-	9:mod	-	-	-	-
+Beda_1	9	-	-	-	-	-	-	23:op2
+yAka_1	11	-	-	-	-	-	-	23:op3
+viSeRa_1	13	-	-	14:mod	-	-	-	-
+prakAra_1	14	-	-	-	-	-	-	23:op4
+kuwwA_1	16	-	pl	18:k2	-	Axi	-	-
+pA_1-wA_hE_1	18	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	16:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0073>
+#इन पशुओं को दूध , मांस एवं खाल प्राप्त करने के लिए पाला जाता है ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+paSu_1	2	-	pl	-	-	-	-	18:op1
+xUXa_1	4	-	-	-	-	-	-	18:op2
+mAMsa_1	6	-	-	-	-	-	-	18:op3
+KAla_1	8	-	-	-	-	-	-	18:op4
+prApwa_1	9	-	-	-	-	-	-	17:kriyAmUla
+kara_1	10	-	pl	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	13:rt	-	-	-	-
+pAla_1-yA_jA_wA_hE_1	13	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	10:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0074>
+#याक के दूध का उपयोग पनीर एवं मक्खन बनाने के लिए होता है ।
+yAka_1	1	-	-	3:r6	-	-	-	-
+xUXa_1	3	-	-	5:k2	-	-	-	-
+upayoga_1	5	-	-	-	-	-	-	15:op1
+panIra_1	6	-	-	-	-	-	-	15:op2
+makKana_1	8	-	-	-	-	-	-	15:op3
+banA_1	9	-	pl	12:rt	-	-	-	-
+ho_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	9:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0075>
+#भेड एवं बकरी के बालों का उपयोग ऊनी वस्त्र बनाने के लिए किया जाता है ।
+Beda_1	1	-	-	-	-	-	-	18:op1
+bakarA_1	3	-	-	5:r6	-	-	-	-
+bAla_1	5	-	pl	-	-	-	-	18:op2
+upayoga_1	7	-	-	-	-	-	-	17:kriyAmUla
+UnI_1	8	-	-	9:mod	-	-	-	-
+vaswra_1	9	-	-	10:k2	-	-	-	-
+banA_1	10	-	pl	13:rt	-	-	-	-
+kara_1-yA_jA_wA_hE_1	13	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	0:main	-	-	-	-
+[conj_1]	18	-	-	7:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0076>
+#क्या आप लद्दाख एवं तिब्बत तथा मध्य एशिया के निवासियों के बीच कोई समानता पाते हैं ?
+$kim	1	-	-	15:krvn	-	-	-	-
+$addressee	2	-	-	15:k1	-	respect	-	-
+laxxAKa	3	-	-	-	-	-	-	18:begin
+[ne_1]	18	place	-	-	-	-	-	20:op1
+wibbawa	5	male	-	-	-	-	-	20:op2
+maXya	7	-	-	-	-	-	-	19:begin
+[ne_2]	19	-	-	-	-	-	-	20:op3
+eSiyA	8	female	-	-	-	-	-	19:inside
+nivAsiyoM_1	10	-	-	15:k7	-	-	-	-
+bIca_1	12	-	-	10:k7p	-	-	-	-
+koI	13	-	-	14:mod	-	-	-	-
+samAnawA_1	14	-	-	15:k2	-	-	-	-
+pA_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	6:ccof	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0077>
+#यहाँ के अधिकांश लोग या तो मुसलमान हैं या बौद्ध ।
+yahAz	1	-	-	4:r6	-	-	-	-
+aXikAMSa_1	3	-	-	4:quant	-	-	-	-
+loga_1	4	-	-	-	-	-	-	12:op1
+musalamAna_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	-	-	-	-	12:op2
+bOxXa_1	10	-	-	9:ccof	-	-	-	-
+[disjunct_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0078>
+#वास्तव में लद्दाख क्षेत्र में अनेक बौद्ध मठ अपने परंपरागत ‘गोंपा’ के साथ स्थित हैं ।
+vAswava_1	1	-	-	-	-	-	-	19:whole
+laxxAKa	3	-	-	-	-	-	-	17:begin
+[ne_1]	17	place	-	4:mod	-	-	-	-
+kRewra_1	4	-	-	-	-	-	-	19:part
+aneka_1	6	-	-	8:quant	-	-	-	-
+bOxXa_1	7	-	-	-	-	-	-	18:mod
+maTa_1	8	-	-	-	-	-	-	18:head
+[nc_1]	18	-	-	15:k1	-	-	-	-
+apanA	9	-	pl	11:r6	-	-	-	-
+paraMparAgawa_1	10	-	-	11:mod	-	-	-	-
+‘goMpA’	11	-	-	15:ras-k1	-	-	-	-
+sAWa_1	13	-	-	11:k7p	-	-	-	-
+sWiwa_1	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+[spatial_1]	19	-	-	15:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0079>
+#कुछ प्रसिद्ध मठ हैं - हेमिस , थिकसे , शे एवं लामायुरू ।
+kuCa_1	1	-	-	3:quant	-	-	-	-
+prasixXa_1	2	-	-	3:mod	-	-	-	-
+maTa_1	3	-	-	4:k1	-	-	-	-
+hE_1-pres	4	-	-	-	-	-	-	14:op1
+hemisa	6	-	-	4:k1s	-	-	-	-
+Wikase	8	-	-	-	-	-	-	14:op2
+lAmAyurU	12	-	-	-	-	-	-	14:op3
+[conj_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0080>
+#ग्रीष्म ऋतु में यहाँ के निवासी जौ , आलू , मटर , सेम एवं शलजम की खेती करते हैं ।
+grIRma	1	male	-	-	-	-	-	21:begin
+[ne_1]	21	-	-	18:k7	-	-	-	-
+qwu_1	2	-	-	-	-	-	-	21:inside
+yahAz	4	-	-	6:r6	-	-	-	-
+nivAsI_1	6	-	-	18:k1	-	-	-	-
+jO_1	7	-	-	-	-	-	-	23:op1
+AlU_1	9	-	-	-	-	-	-	23:op2
+matara_1	11	-	-	-	-	-	-	23:op3
+sema_1	13	-	-	-	-	-	-	23:op4
+Salajama_1	15	-	-	-	-	-	-	23:op5
+KewI_1	17	-	-	-	-	-	-	22:kriyAmUla
+kara_1-wA_hE_1	18	-	-	-	-	-	-	22:verbalizer
+[cp_1]	22	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	17:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0081a>
+#शीत ऋतु में जलवायु इतनी कष्टकारी यह होती है ।
+SIwa	1	male	-	-	-	-	-	11:begin
+[ne_1]	11	-	-	8:k7	-	-	-	-
+qwu_1	2	-	-	-	-	-	-	11:inside
+jalavAyu_1	4	-	-	8:k1	-	-	-	-
+iwanA_1	5	-	-	6:quant	-	-	-	-
+kaRtakArI_1	6	-	-	8:k1s	-	-	-	-
+$wyax	7	-	-	8:k1	-	proximal	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0081b>
+#कि लोग धर्मिक अनुष्ठानों एवं उत्सवों में अपने आपको व्यस्त रखते हैं ।
+loga_1	1	-	-	10:k1	-	-	-	-
+Xarmika_1	2	-	-	3:mod	-	-	-	-
+anuRTAnoM_1	3	-	-	-	-	-	-	14:op1
+uwsava_1	5	-	pl	-	-	-	-	14:op2
+apanA	7	-	pl	8:r6	-	-	-	-
+$addressee	8	-	-	-	-	respect	-	14:op3
+vyaswa_1	9	-	-	-	-	-	-	13:kriyAmUla
+raKa_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	10:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0082>
+#यहाँ की महिलाएँ अत्यधिक परिश्रमी होती हैं ।
+yahAz	1	-	-	3:r6	-	-	-	-
+mahilA_1	3	-	pl	6:k1	-	-	-	-
+awyaXika_1	4	-	-	5:intf	-	-	-	-
+pariSramI_1	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0083a>
+#वे केवल घर एवं खेतों में ही काम नहीं करती ।
+$wyax	1	-	pl	10:k1	-	distal	-	-
+Gara_1	3	-	-	-	-	kevala	-	13:op1
+Kewa_1	5	-	pl	-	-	hI	-	13:op2
+kAma_1	8	-	-	-	-	-	-	12:kriyAmUla
+nahIM_1	9	-	-	10:neg	-	-	-	-
+kara_1-wA_1	10	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	10:k7p	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0083b>
+#बल्कि छोटे व्यवसाय एवं दुकानें भी संभालती हैं ।
+CotA_1	1	-	pl	2:mod	-	-	-	-
+vyavasAya_1	2	-	-	-	-	-	-	9:op1
+xukAna_1	4	-	pl	-	-	BI	-	9:op2
+saMBAla_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+[conj_1]	9	-	-	6:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0084>
+#लद्दाख की राजधनी लेह , सडक एवं वायुमार्ग द्वारा भलीभाँति जुडी हुई है ।
+laxxAKa	1	-	-	-	-	-	-	15:begin
+[ne_1]	15	place	-	3:r6	-	-	-	-
+rAjaXanI_1	3	-	-	4:mod	-	-	-	-
+leha	4	-	-	-	-	-	-	16:op1
+sadaka_1	6	-	-	-	-	-	-	16:op2
+vAyumArga_1	8	-	-	-	-	-	-	16:op3
+BalIBAzwi_1	10	-	-	11:krvn	-	-	-	-
+juda_1-yA_ho_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	11:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0085>
+#राष्ट्रीय राजमार्ग-1ए लेह को जोजीला दर्रा होते हुए कश्मीर घाटी से जोडता है ।
+rARtrIya	1	male	-	-	-	-	-	16:begin
+[ne_2]	16	-	-	7:k7p	-	-	-	-
+rAjamArga-1e	2	-	-	-	-	-	-	17:begin
+[ne_3]	17	-	-	7:k7p	-	-	-	-
+leha	3	-	-	-	-	-	-	17:inside
+jojIlA	5	-	-	-	-	-	-	18:begin
+[ne_4]	18	-	-	7:k1	-	-	-	-
+xarrA	6	male	-	-	-	-	-	18:inside
+ho_1	7	-	pl	12:rsk	-	-	-	-
+kaSmIra	9	male	-	-	-	-	-	15:begin
+[ne_1]	15	place	-	10:mod	-	-	-	-
+GAtI_1	10	-	-	12:k5	-	-	-	-
+joda_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0086>
+#क्या आप हिमालय के कुछ अन्य दरों के बारे में बता सकते हैं ?
+$kim	1	-	-	11:krvn	-	-	-	-
+$addressee	2	-	-	11:k1	-	respect	-	-
+himAlaya	3	male	-	7:r6	-	-	-	-
+kuCa_1	5	-	-	7:quant	-	-	-	-
+anya_1	6	-	-	7:mod	-	-	-	-
+xara_1	7	-	pl	11:k7	-	-	-	-
+bawA_1-0_saka_hE_1	11	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0087>
+#यहाँ का मुख्य क्रियाकलाप पर्यटन है , देश-विदेश से अनेक पर्यटक यहाँ पर्यटन के लिए आते हैं ।
+yahAz	1	-	-	4:r6	-	-	-	-
+muKya_1	3	-	-	4:mod	-	-	-	-
+kriyAkalApa_1	4	-	-	6:k1	-	-	-	-
+paryatana_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+xeSa-vixeSa	8	-	-	16:k5	-	-	-	-
+aneka_1	10	-	-	11:quant	-	-	-	-
+paryataka_1	11	-	-	16:k1	-	-	-	-
+yahAz	12	-	-	16:k7p	-	-	-	-
+paryatana_1	13	-	-	16:rt	-	-	-	-
+A_1	16	-	pl	6:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0088>
+#गोंपा-दर्शन , घास के मैदानों व हिमनदों की सैर एवं उत्सवों तथा अनुष्ठानों को देखना यहाँ के प्रमुख पर्यटक आकर्षण हैं ।
+goMpA-xarSana	1	-	-	-	-	-	-	23:op1
+GAsa_1	3	-	-	5:r6	-	-	-	-
+mExAna_1	5	-	pl	-	-	-	-	23:op2
+himanaxoM_1	7	-	-	-	-	-	-	23:op3
+sEra_1	9	-	-	10:ccof	-	-	-	-
+uwsava_1	11	-	pl	10:ccof	-	-	-	-
+anuRTAnoM_1	13	-	-	-	-	-	-	24:op1
+xeKa_1	15	-	-	21:vmod	-	-	-	-
+yahAz	16	-	-	19:r6	-	-	-	-
+pramuKa_1	18	-	-	19:mod	-	-	-	-
+paryataka_1	19	-	-	21:k1	-	-	-	-
+AkarRaNa_1	20	-	-	21:k1s	-	-	-	-
+hE_1-pres	21	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	9:r6	-	-	-	-
+[conj_2]	24	-	-	12:ccof	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0089>
+#आधुनिकीकरण के फलस्वरूप यहाँ के जनजीवन में परिवर्तन आ रहा है ।
+AXunikIkaraNa_1	1	-	-	9:rh	-	-	-	-
+yahAz	4	-	-	6:r6	-	-	-	-
+janajIvana_1	6	-	-	9:k7	-	-	-	-
+parivarwana_1	8	-	-	9:k1	-	-	-	-
+A_1-0_raha_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0090>
+#लेकिन लद्दाख के लोगों ने शताब्दियों से प्रकृति के साथ समन्वय एवं संतुलन करना सीखा है ।
+laxxAKa	1	-	-	-	-	-	-	17:begin
+[ne_1]	17	place	-	3:r6	-	-	-	-
+loga_1	3	-	pl	14:k1	-	-	-	-
+SawAbxI_1	5	-	pl	14:k7t	-	-	-	-
+prakqwi_1	7	-	-	13:ras-k1	-	-	-	-
+sAWa_1	9	-	-	7:k7p	-	-	-	-
+samanvaya_1	10	-	-	-	-	-	-	18:kriyAmUla
+saMwulana_1	12	-	-	-	-	-	-	20:kriyAmUla
+kara_1	13	-	-	-	-	-	-	20:verbalizer
+[cp_3]	20	-	-	-	-	-	-	21:op2
+sIKa_1-yA_hE_1	14	-	-	0:main	Geo_ncert_7stnd_9ch_0089.14:viroXI	-	-	-
+[conj_1]	21	-	-	13:pof	-	-	-	-
+%affirmative
+[cp_1]	18	-	-	-	-	-	-	21:op1
+[cp_2]	19	-	-	14:k2	-	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0091a>
+#जल एवं ईंध्न जैसे संसाध्नों की कमी के कारण ये आवश्यकतानुसार एवं मितव्ययिता से ही इनका उपयोग करते हैं ।
+jala_1	1	-	-	-	-	-	-	22:op1
+IMXna	3	-	-	-	-	-	-	22:op2
+saMsAXnoM_1	5	-	-	7:r6	-	-	-	-
+kamI_1	7	-	-	18:rh	-	-	-	-
+$wyax	10	-	pl	18:k1	-	proximal	-	-
+AvaSyakawAnusAra_1	11	-	-	12:ccof	-	-	-	-
+miwavyayiwA_1	13	-	-	12:ccof	-	hI	-	-
+$wyax	16	-	pl	17:k2	-	proximal	-	-
+upayoga_1	17	-	-	-	-	-	-	21:kriyAmUla
+kara_1-wA_hE_1	18	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	5:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0091b>
+#और कुछ भी व्यर्थ नहीं करते ।
+kuCa	1	-	-	5:k2	-	BI	-	-
+vyarWa_1	3	-	-	-	-	-	-	7:kriyAmUla
+nahIM_1	4	-	-	5:neg	-	-	-	-
+kara_1-wA_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	Geo_ncert_7stnd_9ch_0091a.7:samuccaya	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0092>
+#आप निम्न प्रश्नों के उत्तर दीजिए ।
+$addressee	1	-	-	6:k1	-	respect	-	-
+nimna_1	2	-	-	3:mod	-	-	-	-
+praSna_1	3	-	pl	5:r6	-	-	-	-
+uwwara_1	5	-	-	6:k2	-	-	-	-
+xe_1-e_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0093>
+#विश्व में कौन-से दो प्रकार के रेगिस्तान पाए जाते हैं ?
+viSva_1	1	-	-	8:k7p	-	-	-	-
+kOna-se	3	-	-	5:mod	-	-	-	-
+xo	4	numex	-	5:card	-	-	-	-
+prakAra_1	5	-	-	7:r6	-	-	-	-
+regiswAna_1	7	-	-	8:k2	-	-	-	-
+pA_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0094>
+#सहारा रेगिस्तान किस महाद्वीप में स्थित है ?
+sahArA_1	1	-	-	7:k1	-	-	-	-
+regiswAna_1	2	-	-	7:k1	-	-	-	-
+$kim	3	-	-	4:mod__wq	-	-	-	-
+mahAxvIpa_1	4	-	-	7:k7p	-	-	-	-
+sWiwa_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0095>
+#लद्दाख रेगिस्तान की जलवायुगत परिस्थितियाँ क्या हैं ?
+laxxAKa	1	-	-	-	-	-	-	9:begin
+[ne_1]	9	place	-	2:mod	-	-	-	-
+regiswAna	2	male	-	5:r6	-	-	-	-
+jalavAyugawa_1	4	-	-	5:mod	-	-	-	-
+parisWiwi_1	5	-	pl	7:k1	-	-	-	-
+$kim	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0096>
+#लद्दाख में पर्यटकों के लिए प्रमुख आकर्षण क्या हैं ?
+laxxAKa	1	-	-	-	-	-	-	11:begin
+[ne_1]	11	place	-	9:k7p	-	-	-	-
+paryataka_1	3	-	pl	9:rt	-	-	-	-
+pramuKa_1	6	-	-	7:mod	-	-	-	-
+AkarRaNa_1	7	-	-	9:k1	-	-	-	-
+$kim	8	-	-	9:krvn	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0097>
+#सहारा रेगिस्तान के लोग किस प्रकार के वस्त्र पहनते हैं ?
+sahArA	1	male	-	-	-	-	-	12:begin
+[ne_1]	12	-	-	4:r6	-	-	-	-
+regiswAna_1	2	-	-	-	-	-	-	12:inside
+loga_1	4	-	-	9:k1	-	-	-	-
+$kim	5	-	-	6:mod__wq	-	-	-	-
+prakAra_1	6	-	-	8:r6	-	-	-	-
+vaswra_1	8	-	-	9:k2	-	-	-	-
+pahana_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0098>
+#आप लद्दाख में उगने वाले पेडों के नाम बताएँ ।
+$addressee	1	-	-	9:k1	-	respect	-	-
+laxxAKa	2	-	-	-	-	-	-	11:begin
+[ne_1]	11	place	-	4:k7p	-	-	-	-
+uga_1	4	-	pl	6:mod	-	-	-	-
+peda_1	6	-	pl	8:r6	-	-	-	-
+nAma_1	8	-	-	9:k2	-	-	-	-
+bawA_1-e_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0099>
+#आप सही उत्तर चिह्नित कीजिए ।
+$addressee	1	-	-	5:k1	-	respect	-	-
+saha_1	2	-	-	3:mod	-	-	-	-
+uwwara_1	3	-	-	5:k2	-	-	-	-
+cihniwa_1	4	-	-	-	-	-	-	7:kriyAmUla
+kIjie_1-wA_hE_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0100>
+#सहारा अफ़्रीका के किस भाग में स्थित है ?
+sahArA_1	1	-	-	8:k1	-	-	-	-
+aPZrIkA	2	-	-	5:r6	-	-	-	-
+$kim	4	-	-	5:nmod__adj	-	-	-	-
+BAga_1	5	-	-	8:k7	-	-	-	-
+sWiwa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0101>
+#सहारा किस प्रकार का रेगिस्तान है ?
+sahArA_1	1	-	-	6:k1	-	-	-	-
+$kim	2	-	-	3:mod__wq	-	-	-	-
+prakAra_1	3	-	-	5:r6	-	-	-	-
+regiswAna_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0102>
+#लद्दाख रेगिस्तान के अधिकांश निवासी हैं ।
+laxxAKa	1	-	-	-	-	-	-	8:begin
+[ne_1]	8	place	-	2:mod	-	-	-	-
+regiswAna_1	2	-	-	5:r6	-	-	-	-
+aXikAMSa_1	4	-	-	5:quant	-	-	-	-
+nivAsI_1	5	-	-	6:k1	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0103>
+#रेगिस्तान की विशेषता क्या है ?
+regiswAna_1	1	-	-	3:r6	-	-	-	-
+viSeRawA_1	3	-	-	5:k1	-	-	-	-
+$kim	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0104>
+#लद्दाख में ‘हेमिस’ प्रसिद्ध है ।
+laxxAKa	1	-	-	-	-	-	-	7:begin
+[ne_1]	7	place	-	5:k7p	-	-	-	-
+‘hemisa’	3	-	-	4:mod	-	-	-	-
+prasixXa_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0105>
+#मिस्र निम्नलिखित फसल के लिए प्रसिद्ध है ।
+misra	1	male	-	7:k1	-	-	-	-
+nimnaliKiwa_1	2	-	-	3:mod	-	-	-	-
+Pasala_1	3	-	-	7:rt	-	-	-	-
+prasixXa_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0106>
+#आप निम्नलिखित स्तंभों को मिलाकर सही जोडे बनाइए ।
+$addressee	1	-	-	7:k1	-	respect	-	-
+nimnaliKiwa_1	2	-	-	3:mod	-	-	-	-
+swaMBa_1	3	-	pl	5:k2	-	-	-	-
+milA_1	5	-	-	7:rpk	-	-	-	-
+saha_1	6	-	-	-	-	-	-	10:kriyAmUla
+joda_1-subj_banA_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0107>
+#आप कारण बताइए ।
+$addressee	1	-	-	3:k1	-	respect	-	-
+kAraNa_1	2	-	-	3:k2	-	-	-	-
+bawA_1-o_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0108>
+#रेगिस्तान में अत्यल्प वनस्पति होती है ।
+regiswAna_1	1	-	-	5:k7p	-	-	-	-
+awyalpa_1	3	-	-	4:mod	-	-	-	-
+vanaspawi_1	4	-	-	5:k1	-	-	-	-
+ho_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0109>
+#सहारा रेगिस्तान के लोग भारी वस्त्र पहनते हैं ।
+sahArA	1	male	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	4:r6	-	-	-	-
+regiswAna_1	2	-	-	-	-	-	-	10:inside
+loga_1	4	-	-	7:k1	-	-	-	-
+BArI_1	5	-	-	6:mod	-	-	-	-
+vaswra_1	6	-	-	7:k2	-	-	-	-
+pahana_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0110H>
+#मानचित्र कौशल ।
+mAnaciwra_1	1	-	-	-	-	-	-	4:mod
+kOSala_1	2	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0111>
+#आप अफ़्रीका के मानचित्र पर सहारा रेगिस्तान एवं इसके आस-पास किन्हीं चार देशों को चिह्नित करें ।
+$addressee	1	-	-	0:k1	-	respect	-	-
+aPZrIkA	2	-	-	4:r6	-	-	-	-
+mAnaciwra_1	4	-	-	0:k7	-	-	-	-
+sahArA_1	6	-	-	0:k1	-	-	-	-
+regiswAna	7	male	-	-	-	-	-	19:op1
+$wyax	9	-	-	16:k7	-	proximal	-	-
+Asa-pAsa	10	-	-	9:k7p	-	-	-	-
+koI_1	11	-	pl	13:mod	-	-	-	-
+cAra	12	numex	-	13:card	-	-	-	-
+xeSa_1	13	-	pl	16:k2	-	-	-	-
+cihniwa_1	15	-	-	-	-	-	-	18:kriyAmUla
+kareM_1-wA_hE_1	16	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	-	-	-	-	19:op2
+[conj_1]	19	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_9ch_0112>
+#आप भारत के रूपरेखा मानचित्र पर काराकोरम श्रेणी , जास्कर श्रेणी , लद्दाख एवं जोजिला दर्रा को चिह्नित करें ।
+$addressee	1	-	-	-	-	respect	-	27:op1
+BArawa	2	male	-	5:r6	-	-	-	-
+rUpareKA_1	4	-	-	-	-	-	-	22:mod
+mAnaciwra_1	5	-	-	-	-	-	-	22:head
+[nc_1]	22	-	-	19:k7	-	-	-	-
+kArAkorama	7	-	-	-	-	-	-	23:begin
+[ne_2]	23	-	-	-	-	-	-	27:op2
+SreNI_1	8	-	-	-	-	-	-	23:inside
+jAskara	10	-	-	-	-	-	-	24:begin
+[ne_3]	24	-	-	-	-	-	-	27:op3
+SreNI_1	11	-	-	-	-	-	-	24:inside
+laxxAKa	13	-	-	-	-	-	-	21:begin
+[ne_1]	21	place	-	-	-	-	-	27:op4
+jojilA	15	-	-	-	-	-	-	25:begin
+[ne_4]	25	-	-	-	-	-	-	27:op5
+xarrA	16	male	-	-	-	-	-	25:inside
+cihniwa_1	18	-	-	-	-	-	-	26:kriyAmUla
+kareM_1-wA_hE_1	19	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	19:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+
+

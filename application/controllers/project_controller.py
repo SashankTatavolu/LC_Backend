@@ -79,24 +79,6 @@ def view_projects_by_language(language):
     return jsonify(projects_data), 200
 
 
-@project_blueprint.route('/<int:project_id>/assign_users', methods=['POST'])
-@jwt_required()
-@measure_response_time
-def assign_users_to_project_endpoint(project_id):
-    data = request.get_json()
-    user_ids = data.get('user_ids', [])
-    chapter_id = data.get('chapter_id')
-
-    if not user_ids or not chapter_id:
-        return jsonify({"error": "user_ids and chapter_id are required"}), 400
-
-    success = ProjectService.assign_users_to_project(project_id, user_ids, chapter_id)
-
-    if success:
-        return jsonify({"message": "Users assigned to project and chapter successfully"}), 200
-
-    return jsonify({"error": "Failed to assign users to project and chapter"}), 400
-
 
 @project_blueprint.route('/by_user/<int:user_id>', methods=['GET'])
 @jwt_required()

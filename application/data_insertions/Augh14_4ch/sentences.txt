@@ -1,0 +1,42 @@
+Geo_nios_4ch_0001	We live on an unstable earth.																								
+Geo_nios_4ch_0002	The surface of which is uneven.																								
+Geo_nios_4ch_0003	While travelling , we come across a variety of landforms such as mountains , hills , plateaus , plains , cliffs and ravines.																								
+Geo_nios_4ch_0004	We also come across tilted , broken and twisted layers of rocks which are originally deposited in horizontal forms.																								
+Geo_nios_4ch_0005	You have already studied about different types of rocks , their formation and characteristics.																								
+Geo_nios_4ch_0006	There is a close relationship between rock types and the shape of landforms.																								
+Geo_nios_4ch_0007	But all deformation on the face of the earth are due to the continuous influence of internal and external forces.																								
+Geo_nios_4ch_0008	In this lesson , we will study about the internal forces deriving their strength from earth’s interior and playing their role in shaping what we see on the earth’s crust.																								
+Geo_nios_4ch_0009	After studying this lesson , you will be able to explain the endogenetic forces and the landforms produced by them.																								
+Geo_nios_4ch_0010	After studying this lesson , you will be able to distinguish between sudden and slow movements.																								
+Geo_nios_4ch_0011	After studying this lesson , you will be able to differentiate between vertical and horizontal movement.																								
+Geo_nios_4ch_0012	After studying this lesson , you will be able to differentiate between folding and faulting.																								
+Geo_nios_4ch_0013	After studying this lesson , you will be able to explain the causes of volcanic activity.																								
+Geo_nios_4ch_0014	After studying this lesson , you will be able to describe the different types of volcanoes.																								
+Geo_nios_4ch_0015	After studying this lesson , you will be able to locate on the outline map of the world , important volcanoes and areas affected by earthquakes.																								
+Geo_nios_4ch_0016	After studying this lesson , you will be able to explain the causes of earthquakes and their effects.																								
+Geo_nios_4ch_0017	The variety in the types of land forms on the earth is the end result of two types of forces working simultaneously and continuously both inside and outside on its surface.																								
+Geo_nios_4ch_0018	The forces which originate from within the earth’s crust or inside the earth are called internal or endogenetic forces.																								
+Geo_nios_4ch_0019	The sources providing them energy are the internal heat , chemical reactions taking place within the earth , and the transfer of rock materials on the earth’s surface by external forces.																								
+Geo_nios_4ch_0020	Though we generally hear people using phrase like “as hard as rock” and “as stable as the earth” , but these phrases are not true.																								
+Geo_nios_4ch_0021	Neither the earth is stable nor are the rocks of which its crust is made , are so hard.																								
+Geo_nios_4ch_0022	Since the origin of earth , there have been major changes in the distribution of continents and oceans , the land and the oceans.																								
+Geo_nios_4ch_0023	The earth has experienced innumerable earth movements which have brought about vast changes in its surface.																								
+Geo_nios_4ch_0024	Some of the examples of these movements are submergence of forest in Bombay harbour , the Mahabalipuran temple now standing on the sea and changes in the ground level in Rann of Kuchchh of India.																								
+Geo_nios_4ch_0025	The forces working from inside the earth in turn cause movements in its crust.																								
+Geo_nios_4ch_0026	These movements are called earth movements.																								
+Geo_nios_4ch_0027	Since , these movements pertain to or rise from , the movements of the actual structure of the earth’s crust , they are also called tectonic movements.																								
+Geo_nios_4ch_0028	The word tectonic is derived from the Greek word , “tekton” which means builders.																								
+Geo_nios_4ch_0029	This word is true to its meaning because these are the earth movements which are constructional.																								
+Geo_nios_4ch_0030	And have been responsible for buildings of different types of land forms.																								
+Geo_nios_4ch_0031	From Figures 4.1. ( a ) and 4.1. ( b ) it is quite evident that the physiography of India was entirely different about 60 million years ago.																								
+Geo_nios_4ch_0032	The vast Tethys sea existed in that area where the Himalayan ranges and Indo-Gangetic plain exist.																								
+Geo_nios_4ch_0033	The Tethys sea was gradually filled up by the sediments brought by rivers from the surrounding regions.																								
+Geo_nios_4ch_0034	Later , the sedimentary rocks formed in the beds of this sea gradually emerged in the form of the Himalayas in the north and Indo-Gangetic plain to its south.																								
+Geo_nios_4ch_0035	The Malwa plateau and Deccan traps of India , Columbia and Snake Rivers Plateau of North America , Kimberlay Plateau of Australia and Parana and Patagonian Plateaus of South America were also formed by the solidification of molten lava which had escaped from the earth’s interior to its surface at different geological times.																								
+Geo_nios_4ch_0036	The evidences clearly show that the surface of our earth never remained the same as it is today and neither it will be the same in future.																								
+Geo_nios_4ch_0037	Movements caused by internal or endogenetic forces affecting the earth’s crust are known as Earth Movements.																								
+Geo_nios_4ch_0038	Earth movements are also called tectonic movements as they help in building the relief features on earth’s crust through subsequently or simultaneously undergoing changes.																								
+Geo_nios_4ch_0039	The earth movements are classified on various basis. On the basis of time taken by such movements , they are divided into.																								
+Geo_nios_4ch_0040	Slow Movement The movement which bring about changes on the Earth’s crust very gradually or slowly taking hundreds or thousands of years and which cover a period much longer than a human life span are called slow movements.																								
+Geo_nios_4ch_0041	Which cover a period much longer than a human life span are called slow movements.																								
+Geo_nios_4ch_0042	These movements act on the earth’s crust either vertically or horizontally.																								

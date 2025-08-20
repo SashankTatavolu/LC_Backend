@@ -53,47 +53,135 @@ def send_email(subject, body, to, from_=None):
         traceback.print_exc()
         return False
 
+
+
 @user_blueprint.route('/register', methods=['POST'])
 def register():
     data = request.get_json()
 
-    if not data.get('username') or not data.get('role') or not data.get('password') or not data.get('organization') or not data.get('email'):
-        return jsonify({"error": "username, role, password, email, and organization are required and cannot be empty"}), 400
+    required_fields = ['username', 'role', 'password', 'organization', 'email', 'language']
+    if not all(data.get(field) for field in required_fields):
+        return jsonify({"error": "username, role, password, email, organization, and language are required and cannot be empty"}), 400
 
-    # Ensure role is stored as a list
+    # Check if username already exists
+    if User.query.filter_by(username=data['username']).first():
+        return jsonify({"error": "username", "message": "Username already exists. Please choose a different one."}), 400
+
+    # Check if email already exists
+    if User.query.filter_by(email=data['email']).first():
+        return jsonify({"error": "email", "message": "Email already exists. Please use a different email address."}), 400
+
     if not isinstance(data['role'], list):
         data['role'] = [role.strip() for role in data['role'].split(',')]
 
+    if not isinstance(data['language'], list):
+        data['language'] = [lang.strip() for lang in data['language'].split(',')]
+
+    # Create user but mark as not approved
+    data['is_approved'] = False
     user = UserService.create_user(data)
+
     if user:
-        return jsonify({"message": "User created successfully"}), 201
+        # Notify organization admin(s)
+        admins = User.query.filter_by(organization=user.organization).all()
+
+        for admin in admins:
+            if isinstance(admin.role, list) and any(role.lower() == 'admin' for role in admin.role):
+                subject = f"Approval Needed for New User: {user.username}"
+                approval_link = f"{request.host_url}approve-user/{user.id}"
+                body = f"""
+        Hello {admin.username},
+
+        A new user '{user.username}' has registered under your organization '{user.organization}'.
+
+        Please log in to the platform to review and approve the request from pending user requests dashboard
+        
+        
+        Thanks,
+        Language Corpus Platform
+        """
+                print(f"Sending approval email to: {admin.email}")
+                send_email(subject, body, admin.email)
+        return jsonify({"message": "User created successfully. Awaiting admin approval."}), 201
+
     return jsonify({"error": "Failed to create user"}), 400
+
+
+@user_blueprint.route('/approve-user/<int:user_id>', methods=['GET'])
+@jwt_required(optional=True)
+def approve_user(user_id):
+    user = User.query.get(user_id)
+    if not user:
+        return jsonify({"error": "User not found"}), 404
+
+    user.is_approved = True
+    db.session.commit()
+
+    # Notify user with a more detailed email
+    subject = "Your Account Has Been Approved"
+    body = f"""Hello {user.username},
+
+Your account registration has been approved by the administrator. 
+
+You can now log in to the platform using your credentials:
+- Username: {user.username}
+- Organization: {user.organization}
+
+We look forward to seeing you on the platform!
+
+Best regards,
+The Platform Team
+"""
+    
+    # Send the email
+    if not send_email(subject, body, user.email):
+        print(f"Failed to send approval email to {user.email}")
+        return jsonify({"warning": "User approved but email failed to send"}), 200
+
+    return jsonify({
+        "message": f"User {user.username} approved successfully.",
+        "email_sent": True
+    }), 200
 
 
 @user_blueprint.route('/login', methods=['POST'])
 def login():
     data = request.get_json()
     user = UserService.authenticate_user(data['username'], data['password'])
+    
     if user:
+        if not user.is_approved:
+            return jsonify({"error": "Your account is awaiting admin approval"}), 403
+
         # Ensure 'role' is a proper list
         roles = user.role if isinstance(user.role, list) else [user.role]
-        
-        # Clean up roles if needed (e.g., remove curly braces)
         roles = [role.replace("{", "").replace("}", "") for role in roles]
+        
+        # Ensure 'language' is a proper list
+        languages = user.language if isinstance(user.language, list) else [user.language]
         
         additional_claims = {
             "username": user.username,
-            "role": roles,  # Use the cleaned-up role list
-            "user_id": user.id
+            "role": roles,
+            "user_id": user.id,
+            "language": languages,
+            "organization": user.organization  # Include organization in JWT claims
         }
+
         access_token = create_access_token(
             identity=user.username, 
             additional_claims=additional_claims, 
             expires_delta=timedelta(hours=2)
         )
-        return jsonify(access_token=access_token, role=roles), 200
-    return jsonify({"error": "Invalid credentials"}), 401
 
+        return jsonify({
+            "access_token": access_token,
+            "role": roles,
+            "languages": languages,
+            "organization": user.organization  # Include organization in response
+        }), 200
+    
+    return jsonify({"error": "Invalid credentials"}), 401   
 
 
 @user_blueprint.route('/forgot-password', methods=['POST'])
@@ -188,7 +276,16 @@ def get_all_users():
 @measure_response_time
 def get_users_by_organization(organization):
     users = UserService.get_users_by_organization(organization)
-    users_data = [{"id": user.id, "username": user.username, "role": user.role, "organization": user.organization, "created_at": user.created_at, "updated_at": user.updated_at} for user in users]
+    users_data = [{
+        "id": user.id, 
+        "username": user.username, 
+        "role": user.role, 
+        "organization": user.organization, 
+        "is_approved": user.is_approved,
+        "language": user.language,  # Add language to response
+        "created_at": user.created_at, 
+        "updated_at": user.updated_at
+    } for user in users]
     return jsonify(users_data), 200
 
 @user_blueprint.route('/by_role/<role>', methods=['GET'])
@@ -211,8 +308,9 @@ def get_user_details(user_id):
             "id": user.id,
             "username": user.username,
             "email": user.email,
-            "roles": [user.role],  # Changed from "role" to "roles" as a list
-            "organization": user.organization
+            "roles": user.role,  # Already a list
+            "organization": user.organization,
+            "languages": user.language  # Already a list
         }
 
         if user.role in ['annotator', 'reviewer']:
@@ -221,6 +319,7 @@ def get_user_details(user_id):
             user_data["projects_uploaded"] = user.total_uploaded_projects()
         
         return jsonify(user_data), 200
+
     return jsonify({"error": "User not found"}), 404
 
 
@@ -297,3 +396,34 @@ def update_user(user_id):
     except Exception as e:
         print(f"[Update User Error] {e}")
         return jsonify({"error": "An error occurred while updating user details"}), 500
+
+
+@user_blueprint.route('/delete/<int:user_id>', methods=['DELETE'])
+@jwt_required()
+def delete_user(user_id):
+    try:
+        claims = get_jwt()
+        current_user_roles = claims.get('role', [])
+
+        # Fix role check
+        if not any(role.lower() == 'admin' for role in current_user_roles):
+            return jsonify({"error": "Permission denied. Only admins can delete users."}), 403
+
+        user_to_delete = User.query.get(user_id)
+        if not user_to_delete:
+            return jsonify({"error": "User not found"}), 404
+
+        current_user_id = claims.get('user_id')
+        if user_id == current_user_id:
+            return jsonify({"error": "Cannot delete your own account"}), 400
+
+        db.session.delete(user_to_delete)
+        db.session.commit()
+
+        return jsonify({"message": f"User {user_to_delete.username} deleted successfully"}), 200
+
+    except Exception as e:
+        db.session.rollback()
+        print(f"[Delete User Error] {e}")
+        traceback.print_exc()
+        return jsonify({"error": "Failed to delete user"}), 500

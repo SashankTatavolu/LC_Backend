@@ -1,0 +1,22 @@
+Geo_nios_4ch_0001	We live on an unstable earth.																								
+Geo_nios_4ch_0002	The surface of which is uneven.																								
+Geo_nios_4ch_0003	While travelling , we come across a variety of landforms such as mountains , hills , plateaus , plains , cliffs and ravines.																								
+Geo_nios_4ch_0004	We also come across tilted , broken and twisted layers of rocks which are originally deposited in horizontal forms.																								
+Geo_nios_4ch_0005	You have already studied about different types of rocks , their formation and characteristics.																								
+Geo_nios_4ch_0006	There is a close relationship between rock types and the shape of landforms.																								
+Geo_nios_4ch_0007	But all deformation on the face of the earth are due to the continuous influence of internal and external forces.																								
+Geo_nios_4ch_0008	In this lesson , we will study about the internal forces deriving their strength from earth’s interior and playing their role in shaping what we see on the earth’s crust.																								
+Geo_nios_4ch_0009	After studying this lesson , you will be able to explain the endogenetic forces and the landforms produced by them.																								
+Geo_nios_4ch_0010	After studying this lesson , you will be able to distinguish between sudden and slow movements.																								
+Geo_nios_4ch_0011	After studying this lesson , you will be able to differentiate between vertical and horizontal movement.																								
+Geo_nios_4ch_0012	After studying this lesson , you will be able to differentiate between folding and faulting.																								
+Geo_nios_4ch_0013	After studying this lesson , you will be able to explain the causes of volcanic activity.																								
+Geo_nios_4ch_0014	After studying this lesson , you will be able to describe the different types of volcanoes.																								
+Geo_nios_4ch_0015	After studying this lesson , you will be able to locate on the outline map of the world , important volcanoes and areas affected by earthquakes.																								
+Geo_nios_4ch_0016	After studying this lesson , you will be able to explain the causes of earthquakes and their effects.																								
+Geo_nios_4ch_0017	The variety in the types of land forms on the earth is the end result of two types of forces working simultaneously and continuously both inside and outside on its surface.																								
+Geo_nios_4ch_0018	The forces which originate from within the earth’s crust or inside the earth are called internal or endogenetic forces.																								
+Geo_nios_4ch_0019	The sources providing them energy are the internal heat , chemical reactions taking place within the earth , and the transfer of rock materials on the earth’s surface by external forces.																								
+Geo_nios_4ch_0020a	Though we generally hear people using phrase like “as hard as rock” and “as stable as the earth”.																								
+Geo_nios_4ch_0020b	these phrases are not true.																								
+Geo_nios_4ch_0021	Neither the earth is stable nor are the rocks of which its crust is made , are so hard.																								

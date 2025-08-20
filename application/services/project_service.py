@@ -134,10 +134,12 @@ class ProjectService:
                     owner_id=owner_id
                 )
                 db.session.add(new_project)
-            return new_project
+                db.session.flush()  # <-- Ensures new_project.id is populated while session is open
+                return new_project  # Still attached when returned
         except SQLAlchemyError as e:
             logger.error(f"Failed to create project: {str(e)}")
             return None
+
 
     @staticmethod
     def get_all_projects() -> List[Project]:

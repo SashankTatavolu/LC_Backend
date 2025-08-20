@@ -182,7 +182,10 @@ class SegmentDetailService:
 
         segment_type = segment.segment_type
         
-        for lc in segment.lexical_concepts:
+        
+        lexical_concepts = sorted(segment.lexical_concepts, key=lambda x: x.index)
+        for lc in lexical_concepts:
+
             main_index_relation = "-"
             head_index_relation = "-"
             cxn_index_component_type = "-"
@@ -213,13 +216,7 @@ class SegmentDetailService:
                     else:
                         cxn_index_component_type = f"{con.cxn_index}:{con.component_type}"
 
-            # if lc.domain_terms:
-            #     for dt in lc.domain_terms:
-            #         if dt.domain_term == "-":
-            #             domain_term = "-"
-            #         else:
-            #             domain_term = f"{dt.domain_term}"
-
+        
             rows.append([
                 concept,                    # Concept
                 lc.index,                      # Index
@@ -236,7 +233,7 @@ class SegmentDetailService:
         output = f"<segment_id={segment.segment_index}>\n"
         output += f"#{segment.segment_text}\n"
         output += "\n".join(["\t".join(map(str, row)) for row in rows])
-        output += f"\n{segment_type}\n" 
+        output += f"\n{segment_type}" 
         output += f"</segment_id>"
         return output
 
@@ -311,7 +308,8 @@ class SegmentDetailService:
         # Header for segment metadata
         segment_header = f"<sent_id={segment.segment_index}>\n#{segment.segment_text}\n"
 
-        for lc in segment.lexical_concepts:
+        lexical_concepts = sorted(segment.lexical_concepts, key=lambda x: x.index)
+        for lc in lexical_concepts:
             # Initialize default values for each column
             main_index_relation = "-"
             head_index_relation = "-"
@@ -357,6 +355,7 @@ class SegmentDetailService:
         return output
     
     
+    
     @staticmethod
     def create_segment_details(data):
         segment_id = data.get('segment_id')
@@ -374,7 +373,7 @@ class SegmentDetailService:
                     status=data.get('status', 'pending')
                 )
                 db.session.add(segment)
-                db.session.flush()  # Get segment_id immediately
+                db.session.flush()
             else:
                 # Update existing segment's status
                 segment.status = data.get('status', segment.status)
@@ -384,59 +383,66 @@ class SegmentDetailService:
                 Construction.query.filter_by(segment_id=segment_id).delete()
                 Relational.query.filter_by(segment_id=segment_id).delete()
                 LexicalConceptual.query.filter_by(segment_id=segment_id).delete()
-                # DomainTerm.query.filter_by(segment_id=segment_id).delete()
 
             # Create new LexicalConceptual entries
             for lc_data in data.get('lexico_conceptual', []):
+                # Ensure index is properly handled (convert to int if needed)
+                index = lc_data.get('index')
+                if isinstance(index, str) and index.isdigit():
+                    index = int(index)
+                
                 lexical_concept = LexicalConceptual(
                     segment_id=segment.segment_id,
-                    segment_index=lc_data['segment_index'],
-                    index=lc_data['index'],
-                    concept=lc_data['concept'],
-                    semantic_category=lc_data.get('semantic_category'),
-                    morpho_semantics=lc_data.get('morpho_semantics'),
-                    speakers_view=lc_data.get('speakers_view')
+                    segment_index=lc_data.get('segment_index'),
+                    index=index,
+                    concept=lc_data.get('concept', '-'),
+                    semantic_category=lc_data.get('semantic_category', '-'),
+                    morpho_semantics=lc_data.get('morpho_semantics', '-'),
+                    speakers_view=lc_data.get('speakers_view', '-')
                 )
                 db.session.add(lexical_concept)
                 db.session.flush()
 
-                # Relational entries
-                for rel_data in lc_data.get('relational', []):
+                # Handle relational data (ensure at least one entry exists)
+                relational_list = lc_data.get('relational', [{}])
+                for rel_data in relational_list:
                     relational = Relational(
                         segment_id=segment.segment_id,
-                        segment_index=rel_data['segment_index'],
-                        index=rel_data['index'],
-                        head_relation=rel_data['head_relation'],
-                        head_index=rel_data.get('head_index'),
-                        dep_relation=rel_data.get('dep_relation'),
+                        segment_index=rel_data.get('segment_index'),
+                        index=rel_data.get('index', index),
+                        head_relation=rel_data.get('head_relation', '-'),
+                        head_index=rel_data.get('head_index', '-'),
+                        dep_relation=rel_data.get('dep_relation', '-'),
                         is_main=rel_data.get('is_main', False),
                         concept_id=lexical_concept.lexical_conceptual_id
                     )
                     db.session.add(relational)
 
-                # Construction entries
-                for con_data in lc_data.get('construction', []):
+                # Handle construction data
+                construction_list = lc_data.get('construction', [{}])
+                for con_data in construction_list:
                     construction = Construction(
                         segment_id=segment.segment_id,
-                        segment_index=con_data['segment_index'],
-                        index=con_data['index'],
-                        construction=con_data['construction'],
-                        cxn_index=con_data['cxn_index'],
-                        component_type=con_data['component_type'],
+                        segment_index=con_data.get('segment_index'),
+                        index=con_data.get('index', index),
+                        construction=con_data.get('construction', '-: -'),
+                        cxn_index=con_data.get('cxn_index', '-'),
+                        component_type=con_data.get('component_type', '-'),
                         concept_id=lexical_concept.lexical_conceptual_id
                     )
                     db.session.add(construction)
 
-                # Discourse entries
-                for disc_data in lc_data.get('discourse', []):
+                # Handle discourse data
+                discourse_list = lc_data.get('discourse', [{}])
+                for disc_data in discourse_list:
                     discourse = Discourse(
                         segment_id=segment.segment_id,
-                        segment_index=disc_data['segment_index'],
-                        index=disc_data['index'],
-                        head_index=disc_data.get('head_index'),
-                        relation=disc_data.get('relation'),
+                        segment_index=disc_data.get('segment_index'),
+                        index=disc_data.get('index', index),
+                        head_index=disc_data.get('head_index', '-'),
+                        relation=disc_data.get('relation', '-'),
                         concept_id=lexical_concept.lexical_conceptual_id,
-                        discourse=disc_data['discourse']
+                        discourse=disc_data.get('discourse', '-: -')
                     )
                     db.session.add(discourse)
 
@@ -447,7 +453,8 @@ class SegmentDetailService:
             db.session.rollback()
             print(f"Error in create_segment_details: {str(e)}")
             return None
-    
+        
+        
     @staticmethod
     def get_segment_details_as_dict(segment_id):
         segment = Segment.query.filter_by(segment_id=segment_id).first()
@@ -624,7 +631,7 @@ class SegmentDetailService:
                     ])
                 
                 output += "\n".join(["\t".join(map(str, row)) for row in rows])
-                output += f"\n{segment_type}\n" 
+                output += f"\n{segment_type}" 
                 output += f"\n</segment_id>\n"
         
         return output
@@ -641,6 +648,11 @@ class SegmentDetailService:
         
         return result[0] if result else None    
 
+    @staticmethod
+    def get_segment_id_by_name(segment_name):
+        """Fetch segment ID from the database using its segment_index (since name column doesn't exist)."""
+        segment = db.session.query(Segment).filter_by(segment_index=segment_name).first()
+        return segment.segment_id if segment else None
 
     
     

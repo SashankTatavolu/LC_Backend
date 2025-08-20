@@ -1,0 +1,151 @@
+Geo_nios_1chapter_0001	The proposed course aims at explaining the nature of the subject.																								
+Geo_nios_1chapter_0002a	It throws light on the importance of geography.																								
+Geo_nios_1chapter_0002b	and describes the nature of geography as a subject.																								
+Geo_nios_1chapter_0003a	It attempts to enrich knowledge.																								
+Geo_nios_1chapter_0003b	and illustrate basic concepts as well as technical terms which are building blocks of geographic knowledge.																								
+Geo_nios_1chapter_0004	Effort , however , has been made to develop the concepts in a graded and sequential manner and deepen the interest in the subject.																								
+Geo_nios_1chapter_0005a	Geography is one of the oldest earth science.																								
+Geo_nios_1chapter_0005b	and its roots date back in the works of the early Greek scholars.																								
+Geo_nios_1chapter_0006	The word ‘geography’ was first used by the Greek scholar Eratosthenes in the third century B.C.																								
+Geo_nios_1chapter_0007	Geo “ Earth” and Graphy “ to describe” literal meaning of geography is to describe about the earth’s surfaces.																								
+Geo_nios_1chapter_0008	In other words “Geography is largely the study of the interaction of all physical and human phenomena and landscapes created by such interactions.”.																								
+Geo_nios_1chapter_0009	It is about how , why , and where human and natural activities occur and how these activities are interconnected.																								
+Geo_nios_1chapter_0010	Geography has undergone changes in its approach.																								
+Geo_nios_1chapter_0011	The earlier geographers were descriptive geographers.																								
+Geo_nios_1chapter_0012	Later , geography came to be developed as an analytical science.																								
+Geo_nios_1chapter_0013	Today the discipline is not only concerned with descriptions but also with analysis as well as prediction.																								
+Geo_nios_1chapter_0014	In this lesson you will learn how important geography is in everyday life.																								
+Geo_nios_1chapter_0015	This study will encourage you to understand your own place and spaces with greater interest.																								
+Geo_nios_1chapter_0016	After studying this lesson , you will be able to appreciate the use of Geography in daily life.																								
+Geo_nios_1chapter_0017	After studying this lesson , you will be able to trace development of Geography as a discipline.																								
+Geo_nios_1chapter_0018	After studying this lesson , you will be able to understand man-environment relationships and their impacts on each other.																								
+Geo_nios_1chapter_0019	After studying this lesson , you will be able to illustrate the systematic and regional approaches of Geography.																								
+Geo_nios_1chapter_0020	After studying this lesson , you will be able to understand various analytical techniques in Geography.																								
+Geo_nios_1chapter_0021	After studying this lesson , you will be able to identify the different branches of Geography and its scope.																								
+Geo_nios_1chapter_0022	You must have noticed that the earth’s surface is ever changing.																								
+Geo_nios_1chapter_0023a	In general , the natural phenomena like mountains , rivers , lakes etc. change slowly.																								
+Geo_nios_1chapter_0023b	while the cultural elements like buildings , roads , crops , change fast.																								
+Geo_nios_1chapter_0024	Travelling from one place to another you notice that the trees number and types of trees change from area to area.																								
+Geo_nios_1chapter_0025	All this is because of the continuous interaction between the environment in which we live in and the way we use it.																								
+Geo_nios_1chapter_0027a	Another aspect of geography is to understand the factors or reason behind areal differentiation																								
+Geo_nios_1chapter_0027b	how do social , cultural , economic and demographic factors change our physical landscape and create new or altered landscapes by human interventions.																								
+Geo_nios_1chapter_0028	For example , human settlements are transformation of forest or barren lands for living purpose by human being.																								
+Geo_nios_1chapter_0029	Geography is often thought of as the art of making and studying maps.																								
+Geo_nios_1chapter_0030	Maps give us a much more correct and graphic view of the way the Earth’s surface looks compared to a picture of drawing.																								
+Geo_nios_1chapter_0031	As earlier , even today geographical information about an area is available through reports , travel diaries and gazetteers.																								
+Geo_nios_1chapter_0032	At present maps can be drawn by using satellite images using Geographic Information Systems ( GIS ) tools.																								
+Geo_nios_1chapter_0033	Computers easily convert the information from satellite images into maps to show what changes development can bring about.																								
+Geo_nios_1chapter_0034	Such information is of benefit to the society.																								
+Geo_nios_1chapter_0035	Such mapmakers are in great demand today.																								
+Geo_nios_1chapter_0036	Nowadays geographers , engineers , environmental scientists , city planners , social scientists , and many others learn to use GIS to understand the Earth better.																								
+Geo_nios_1chapter_0037	Geography , not only investigates what is where on the Earth , but also why it is there.																								
+Geo_nios_1chapter_0038	Geographers study the location of the activities.																								
+Geo_nios_1chapter_0039	Carefully identify patterns using maps and find out the reasons for these patterns.																								
+Geo_nios_1chapter_0040	The areas are then described based on the distribution of land forms , population , house type and agriculture.																								
+Geo_nios_1chapter_0041a	They discover the linkages and movements between places																								
+Geo_nios_1chapter_0041b	and movements between places and are able to infer the spatial processes that are working in an area.																								
+Geo_nios_1chapter_0042	Today , all over the world there are problems related to providing food security , health , effective energy use and environmental conservation.																								
+Geo_nios_1chapter_0043	Equally important are equality issues and sustainable development.																								
+Geo_nios_1chapter_0044	All these can be achieved by using our resources in sustainable ways.																								
+Geo_nios_1chapter_0045a	Study of geography is , therefore , necessary to learn more about environmental processes																								
+Geo_nios_1chapter_0045b	and to understand how land use planning can help us to overcome problems.																								
+Geo_nios_1chapter_0046	Geography is a science of space.																								
+Geo_nios_1chapter_0047	Maps are an essential tool of geographers.																								
+Geo_nios_1chapter_0048	Digital Geographical Information system is a new tool for making maps.																								
+Geo_nios_1chapter_0049	Spatial Planning can be done using both maps and the study of geography.																								
+Geo_nios_1chapter_0050	Geography has been defined differently through different periods of its history.																								
+Geo_nios_1chapter_0051	Geographical work in ancient Greece had followed two distinct traditions.																								
+Geo_nios_1chapter_0052a	One was the mathematical tradition which was focused on fixing the location of places on the earth’s surface																								
+Geo_nios_1chapter_0052b	and the other was gathering geographic information through travels and field work.																								
+Geo_nios_1chapter_0053	According to them , the purpose of geography was to provide a description of the physical features and conditions in different parts of the world.																								
+Geo_nios_1chapter_0054	The emergence of regional approach in geography also emphasized the descriptive character of geography.																								
+Geo_nios_1chapter_0055a	According to Humboldt , geography is the science related to nature																								
+Geo_nios_1chapter_0055b	and it studies and describes all material things found on earth.																								
+Geo_nios_1chapter_0056	Another important school of thought defined geography as the study of man-environment relationships.																								
+Geo_nios_1chapter_0057	Geography as a study of the earth’s surface.																								
+Geo_nios_1chapter_0058	Geography as the study of man-environment relationships.																								
+Geo_nios_1chapter_0059	The earliest records illustrate the interests of scholars in understanding the physical domain of the earth by making maps and astronomical measurements.																								
+Geo_nios_1chapter_0060a	The Greeks are given the credit of being the earliest geographers																								
+Geo_nios_1chapter_0060b	prominent among them being Hower , Herodotus , Thales Aristotle and Eratosthenes.																								
+Geo_nios_1chapter_0061	This period starting from the middle of 15th century and continuous with 18th early provides us enormous information about the physical and cultural nature of the world by the travels and explorations of early geographers.																								
+Geo_nios_1chapter_0062	The early seventeenth century witnessed the beginnings of a new scientific geography.																								
+Geo_nios_1chapter_0063	Christopher Columbus and Vasco de gama , Fesdinend Meghellan and Thomas cook were important explorers and travelers among those.																								
+Geo_nios_1chapter_0064	Varenius , Kant , Humboldt and Ritter led the geographers of this period.																								
+Geo_nios_1chapter_0065	They contributed in the development of cartography and discovering new lands , and developing geography into a scientific disciplines.																								
+Geo_nios_1chapter_0066	Ritter and Humboldt are frequently referred to us the founders of modern geography.																								
+Geo_nios_1chapter_0067	Generally , latter half of nineteenth century is considered as a period of modern geography.																								
+Geo_nios_1chapter_0068a	The first modern geographer in true sense was Ratzel																								
+Geo_nios_1chapter_0068b	who built the structure of modern geography on the foundations laid down by classical geographers.																								
+Geo_nios_1chapter_0069	The development of geography during the post Second World War period has been very rapid.																								
+Geo_nios_1chapter_0070	The American and European geographers such as Hartshorne have contributed the maximum during this phase.																								
+Geo_nios_1chapter_0071	Harthshorne described geography as a science dealing with areal differentiation.																								
+Geo_nios_1chapter_0072	The present day geographers look upon regional approach and systematic approach’ as complimentary rather than contradictory.																								
+Geo_nios_1chapter_0073	Geography has now acquired the status of science that explains the arrangements of various natural and cultural features on the earth surface.																								
+Geo_nios_1chapter_0074	Geography is a holistic and interdisciplinary field of study engaged in understanding the changing spatial structure from past to the future.																								
+Geo_nios_1chapter_0075	Thus , the scope of geography is in various disciplines , like armed services , environment management , water resources , disaster management , meteorology and planning and various social sciences. Apart from that , a geographer can help in day to day life like tourism , commuting , housing and health related activities.																								
+Geo_nios_1chapter_0076	Today , geography is the only discipline that brings all natural and human sciences on a common platform to understand the dynamics of the spatial configuration of the earth surface.																								
+Geo_nios_1chapter_0077	There are two main approaches in geography :.																								
+Geo_nios_1chapter_0078	A study of specific natural or human phenomenon that gives rise to certain spatial patterns and structures on the earth surface is called systematic study.																								
+Geo_nios_1chapter_0079	It deals earth systems like atmosphere , the hydrosphere , the lithosphere and biosphere , which encompasser all of earth’s living organisms.																								
+Geo_nios_1chapter_0080	It focusses on various kinds of forests , grasslands , distribution of flora and fauna , human nature relationships and the quality of the living environment and its implications for human welfare.																								
+Geo_nios_1chapter_0081	It describes culture , populations , dynamics of social , economic , and political aspects of space.																								
+Geo_nios_1chapter_0082	It deals with methods and techniques for field studies , qualitative quantitative and cartographic analysis and Geographic Information System and Global positioning system and remote sensing.																								
+Geo_nios_1chapter_0083	Geography has developed in four periods i.e. ancient period , pre-modern period , modern period and recent.																								
+Geo_nios_1chapter_0084	Contribution of Hartshorne is pioneering in the field of geography in recent period.																								
+Geo_nios_1chapter_0085	Geography is a holistic and interdisciplinary field of study engaged in understanding the changing spatial structure at different territorial levels.																								
+Geo_nios_1chapter_0086	Unlike systematic geography , regional geography starts with the spatial imprints of one or all the systematic geographic processes discernible as regions of different sizes.																								
+Geo_nios_1chapter_0087	Regions could be based on a single factor like relief , rainfall , vegetation , per capita income.																								
+Geo_nios_1chapter_0088	They could also be multifactor regions formed by the association of two or more factors.																								
+Geo_nios_1chapter_0089	Administrative units like , states , districts , tehsils also can be treated as regions.																								
+Geo_nios_1chapter_0090	The main sub branches of regional geography are :.																								
+Geo_nios_1chapter_0091	Two main approaches in geography i.e. systematic and regional.																								
+Geo_nios_1chapter_0092	Systematic geography is divided into four branches.																								
+Geo_nios_1chapter_0093	Regional geography has also four branches.																								
+Geo_nios_1chapter_0094	Geographical thinking and concepts affect our daily decisions in a number of ways.																								
+Geo_nios_1chapter_0095	For example when urban master plans are made or rural development strategies are considered , it is importannt to undersatand the physical structure , climatic conditions and availabilities of resources in an area.																								
+Geo_nios_1chapter_0096	The decision to shift industries from city areas would require the extension of industrial land use into farming areas.																								
+Geo_nios_1chapter_0097	This would displace farmers and their source of income.																								
+Geo_nios_1chapter_0098	Similarly construction of a railway line or highway causes ribbon development.																								
+Geo_nios_1chapter_0099	Many economic activities concentrate along such corridors.																								
+Geo_nios_1chapter_0100	Now a days with the need to provide relief material to all affected persons.																								
+Geo_nios_1chapter_0101	after a flood or an earthquake requires a good understanding of the geography of the area.																								
+Geo_nios_1chapter_0102	Distribution of relief is functional and related to the needs of people , according to climate or terrain.																								
+Geo_nios_1chapter_0103	Cartography is concerned with preparation of maps and diagrams to show distribution of geographical phenomena.																								
+Geo_nios_1chapter_0104	Important methods in geography are deductive and inductive in nature.																								
+Geo_nios_1chapter_0105	Various statistical techniques and models are used for regional analysis and to understand spatial distribution and interaction.																								
+Geo_nios_1chapter_0106	Most of us are fascinated with maps.																								
+Geo_nios_1chapter_0107	“Cartography” is the study and practice of making maps and diagrams.																								
+Geo_nios_1chapter_0108	It represents the earth with maps and abstract symbols.																								
+Geo_nios_1chapter_0109	Maps have traditionally been made using pen , ink and paper , but computers have revolutionized cartography.																								
+Geo_nios_1chapter_0110	GIS methods one can prepare maps and diagrams with greater choice and efficiency.																								
+Geo_nios_1chapter_0111	Spatial data is obtained from measurement and other published sources and can be stored in a database , from which it can be extracted for a variety of purposes.																								
+Geo_nios_1chapter_0112	Current trends in this field are moving away from drawing with ink or paper type methods of map making towards the creation of increasingly dynamic , interactive maps that can be manipulated digitally.																								
+Geo_nios_1chapter_0113	Most commercial quality maps are now made with map making software.																								
+Geo_nios_1chapter_0114	Computer aided data management , Geographic Information Systems andGlobal Positioning systems.																								
+Geo_nios_1chapter_0115	Cartography has grown from a collection of drafting techniques into an actual science.																								
+Geo_nios_1chapter_0116	Cartographers must understand which symbols convey information about the Earth most effectively , and make such maps that will encourage everyone to use the maps to find places or use it for their daily work.																								
+Geo_nios_1chapter_0117	A cartographer must learn geodesy and fairly advanced mathematics to understand how the shape of the Earth affects the distortion of map symbols projected onto a flat surface for viewing.																								
+Geo_nios_1chapter_0118	“Geographic Information Systems” deals with the storage of information about the Earth for automatic retrieval by a computer in an accurate manner.																								
+Geo_nios_1chapter_0119	In addition to other sub disciplines of geography , GIS specialists must understand computer science and database systems.																								
+Geo_nios_1chapter_0120	Maps have traditionally been used to explore the Earth and to exploit its resources.																								
+Geo_nios_1chapter_0121	GIS technology , as an expansion of Cartographic science , has enhanced the efficiency and analytic power of traditional mapping.																								
+Geo_nios_1chapter_0122	Now , as the scientific community recognizes the environmental consequences of human activities , GIS technology is becoming an essential tool in the effort to understand the process of global change.																								
+Geo_nios_1chapter_0123	Various map and satellite information sources can combine in ways that recreate the interactions of complex natural systems.																								
+Geo_nios_1chapter_0124	Such visualization can help to predict what will happen to an area if it is repeatedly flooded , or what changes are expected if a particular industry is located or developed in an area.																								
+Geo_nios_1chapter_0125	Ordinance Survey , the NATMO is a premier organization for mapping in India.																								
+Geo_nios_1chapter_0126	Its maps of one million series are well known.																								
+Geo_nios_1chapter_0127	The organization of the Cartographic Unit in 1960s at the French Institute , Pondicherry , brought a significant impact on the development of Geography in India.																								
+Geo_nios_1chapter_0128	Its publication of Vegetation and Soil maps at the scale of 1 : 100000.																								
+Geo_nios_1chapter_0129	It were very well received for their cartographic appreciation and resource mapping.																								
+Geo_nios_1chapter_0130	This Unit was upgraded in 1995 as a Geomatics Laboratory with an emphasis of computer cartography and GIS.																								
+Geo_nios_1chapter_0131	These aspects of geographical techniques deal with numerical methods most commonly found in geography.																								
+Geo_nios_1chapter_0132	In addition to spatial analysis , you are likely to find methods like cluster analysis , discriminant analysis in geographic studies.																								
+Geo_nios_1chapter_0133	These statistical techniques are introduced to you in later chapters.																								
+Geo_nios_1chapter_0134a	you will find this.																								
+Geo_nios_1chapter_0134b	when you undertake the local area study , you yourself will see how useful these methods are in finding patterns and identifying relationships between space and the activities that are performed in them.																								
+Geo_nios_1chapter_0135	In the 1950s , the regional science movement arose led by Walter Isard.																								
+Geo_nios_1chapter_0136a	This provided a more quantitative and analytical base to geographical questions ,																								
+Geo_nios_1chapter_0136b	in contrast to the more qualitative tendencies of traditional geography.																								
+Geo_nios_1chapter_0137a	Regional Science comprises the body of knowledge																								
+Geo_nios_1chapter_0137b	in which like regional economics , resource management , location theory , urban and regional planning , transportation and communication , human geography , population distribution , landscape ecology , and environmental quality are examined for regional development ,																								
+Geo_nios_1chapter_0137c	Variable phenomena on the earth’s surface can be treated seperatehy or in association.																								

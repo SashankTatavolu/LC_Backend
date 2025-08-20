@@ -1,0 +1,3014 @@
+<sent_id=Geo_ncert_7stnd_4ch_0001>
+#कार्बन डाइऑक्साइड वायुमंडल में फैल कर पृथ्वी से विकिरित उष्मा को पृथ्वी पर रोककर ग्रीन हाउस प्रभाव पैदा करती है ।
+kArbana_1	1	-	-	-	-	-	-	24:mod
+dAiOYksAida_1	2	-	-	-	-	-	-	24:head
+[nc_1]	24	-	-	19:k1	-	-	-	-
+vAyumaMdala_1	3	-	-	5:k7p	-	-	-	-
+PEla_1	5	-	-	19:rpk	-	-	-	-
+pqWvI	7	female	-	-	-	-	-	22:begin
+[ne_1]	22	place	-	9:intf	-	-	-	-
+vikiriwa_1	9	-	-	10:mod	-	-	-	-
+uRmA_1	10	-	-	14:k2	-	-	-	-
+pqWvI_1	12	-	-	-	-	-	-	23:begin
+[ne_2]	23	place	-	14:k7p	-	-	-	-
+roka_1	14	-	-	19:rpk	-	-	-	-
+grIna_1	15	-	-	-	-	-	-	25:mod
+hAusa	16	male	-	-	-	-	-	25:head
+[nc_2]	25	-	-	17:mod	-	-	-	-
+praBAva_1	17	-	-	19:k2	-	-	-	-
+pExA_1	18	-	-	-	-	-	-	26:kriyAmUla
+kara_1-wA_hE_1	19	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0002>
+#इसलिए इसे ग्रीन हाउस गैस भी कहते हैं ।
+$wyax	1	-	-	6:k2	-	proximal	-	-
+grIna	2	-	-	-	-	-	-	9:begin
+[ne_1]	9	-	-	6:k1	-	-	-	-
+hAusa	3	male	-	-	-	-	-	10:begin
+[ne_2]	10	-	-	6:k1	-	-	-	-
+gEsa	4	female	-	-	-	BI	-	10:inside
+kaha_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0001.6:pariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0003a>
+#और इसके अभाव में धरती इतनी ठंडी हो जाती ।
+$wyax	1	-	-	2:r6	-	proximal	-	-
+aBAva_1	2	-	-	7:k7	-	-	-	-
+XarawI_1	4	-	-	7:k1	-	-	-	-
+iwanA_1	5	-	-	6:quant	-	-	-	-
+TaMdA_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_1	7	-	-	0:main	Geo_ncert_7stnd_4ch_0002.7:samuccaya	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0003b>
+#कि इस पर रहना असंभव होता ।
+$wyax	1	-	-	3:k7	-	proximal	-	-
+raha_1	3	-	-	5:k1	-	-	-	-
+asaMBava_1	4	-	-	-	-	-	-	7:kriyAmUla
+ho_1-wA_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0004>
+#किंतु जब कारखानों एवं कार के धुएँ से वायुमंडल में इसका स्तर बढता है , तब इस उष्मा के द्वारा पृथ्वी का तापमान बढता है ।
+$yax	1	-	-	12:k7t	-	-	-	-
+kAraKAnA_1	2	-	pl	-	-	-	-	27:op1
+kAra_1	4	-	-	-	-	-	-	27:op2
+XuAz_1	6	-	pl	12:rh	-	-	-	-
+vAyumaMdala_1	8	-	-	12:k7p	-	-	-	-
+$wyax	10	-	-	11:r6	-	proximal	-	-
+swara_1	11	-	-	12:k1	-	-	-	-
+baDa_1	12	-	-	15:rc	-	-	-	-
+waba	15	-	-	23:k7t	-	-	-	-
+$wyax	16	-	-	17:dem	-	proximal	-	-
+uRmA_1	17	-	-	23:k1	-	-	-	-
+pqWvI	20	female	-	-	-	-	-	26:begin
+[ne_1]	26	place	-	22:r6	-	-	-	-
+wApamAna_1	22	-	-	23:k1	-	-	-	-
+baDa_1-wA_hE_1	23	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	6:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0005>
+#इसे भूमंडलीय तापन ( ग्लोबल वार्मिंग ) कहते हैं ।
+$wyax	1	-	-	8:k2	-	proximal	-	-
+BUmaMdalIya_1	2	-	-	3:mod	-	-	-	-
+wApana	3	-	-	8:k2s	-	-	-	-
+globala	5	-	-	-	-	-	-	11:begin
+[ne_1]	11	-	-	3:re	-	-	-	-
+vArmiMga	6	-	-	-	-	-	-	11:inside
+kaha_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0006>
+#तापमान में इस वृद्धि के कारण पृथ्वी के सबसे ठंडे प्रदेश में जमी हुई बर्फ पिघलती है ।
+wApamAna_1	1	-	-	13:k7	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+vqxXi_1	4	-	-	13:rh	-	-	-	-
+pqWvI	7	female	-	-	-	-	-	19:begin
+[ne_1]	19	place	-	11:r6	-	-	-	-
+TaMdA_1	10	-	superl	11:mod	-	-	-	-
+praxeSa_1	11	-	-	13:k7p	-	-	-	-
+jama_1	13	-	-	15:rvks	-	-	-	-
+barPa_1	15	-	-	16:k1	-	-	-	-
+piGala_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0007a>
+#इसके परिणामस्वरूप समुद्र के जलस्तर में वृद्धि होती है ।
+$wyax	1	-	-	8:rh	-	proximal	-	-
+samuxra_1	3	-	-	5:r6	-	-	-	-
+jalaswara_1	5	-	-	8:k7	-	-	-	-
+vqxXi_1	7	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	Geo_ncert_7stnd_4ch_0006.11:pariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0007b>
+#इससे तटीय क्षेत्रों में बाढ आ जाती है ।
+$wyax	1	-	-	6:rh	-	proximal	-	-
+watIya_1	2	-	-	3:mod	-	-	-	-
+kRewra_1	3	-	pl	6:k7p	-	-	-	-
+bADa_1	5	-	-	6:k1	-	-	-	-
+A_1-wA_hE_1	6	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0008a>
+#दीर्घ अवधि में इसके कारण जलवायु में अत्यधिक परिवर्तन हो सकता है ।
+xIrGa_1	1	-	-	2:mod	-	-	-	-
+avaXi_1	2	-	-	10:k7	-	-	-	-
+$wyax	4	-	-	10:rh	-	proximal	-	-
+jalavAyu_1	6	-	-	10:k7	-	-	-	-
+awyaXika_1	8	-	-	9:quant	-	-	-	-
+parivarwana_1	9	-	-	10:k1	-	-	-	-
+ho_1-0_saka_ho_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0008b>
+#इसके फलस्वरूप कुछ पौधे एवं पशु लुप्त हो सकते हैं ।
+$wyax	1	-	-	8:k7a	-	proximal	-	-
+kuCa_1	3	-	-	4:quant	-	-	-	-
+pOXA_1	4	-	pl	-	-	-	-	13:op1
+paSu_1	6	-	-	-	-	-	-	13:op2
+lupwa_1	7	-	-	-	-	-	-	12:kriyAmUla
+ho_1-0_saka_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	8:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0009>
+#हमारी पृथ्वी चारों ओर से वायु की घनी चादर से घिरी हुई है , जिसे वायुमंडल कहते है ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+pqWvI_1	2	-	-	-	-	-	-	20:begin
+[ne_1]	20	place	-	11:k1	-	-	-	-
+cAra	3	numex	pl	4:card	-	-	-	-
+ora_1	4	-	-	11:rd	-	-	-	-
+vAyu_1	6	-	-	9:r6	-	-	-	-
+GanI_1	8	-	-	9:mod	-	-	-	-
+cAxara_1	9	-	-	11:k3	-	-	-	-
+Gira_1-yA_ho_hE_1	11	-	-	0:main	-	-	-	-
+$yax	15	-	-	17:k2	-	-	-	-
+vAyumaMdala_1	16	-	-	17:k1	-	-	-	-
+kaha_1	17	-	pl	11:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0010>
+#पृथ्वी पर सभी जीव जीवित रहने के लिए वायुमडंल पर निर्भर है ।
+pqWvI_1	1	-	-	-	-	-	-	14:begin
+[ne_1]	14	place	-	6:k7p	-	-	-	-
+saBI_1	3	-	-	4:quant	-	-	-	-
+jIva_1	4	-	-	6:k1	-	-	-	-
+jIviwa_1	5	-	-	-	-	-	-	15:kriyAmUla
+raha_1	6	-	pl	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	12:rt	-	-	-	-
+vAyumadaMla_1	9	-	-	12:k7	-	-	-	-
+nirBara_1	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0011a>
+#यह हमें साँस लेने के लिए वायु प्रदान करता है ।
+$wyax	1	-	-	9:k1	-	proximal	-	-
+$speaker	2	-	pl	9:k1	-	-	-	-
+sAzsa_1	3	-	-	-	-	-	-	12:kriyAmUla
+le_1	4	-	pl	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	9:rt	-	-	-	-
+vAyu_1	7	-	-	9:k2	-	-	-	-
+praxAna_1	8	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_2]	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0011b>
+#एवं सूर्य की किरणों के हानिकारक प्रभाव से हमारी रक्षा करता है ।
+sUrya	1	male	-	3:r6	-	-	-	-
+kiraNa_1	3	-	pl	6:r6	-	-	-	-
+hAnikAraka_1	5	-	-	6:mod	-	-	-	-
+praBAva_1	6	-	-	10:rh	-	-	-	-
+$speaker	8	-	pl	9:k2	-	-	-	-
+rakRA_1	9	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	Geo_ncert_7stnd_4ch_0011a.13:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0012a>
+#यदि सुरक्षा की यह चादर न हो ।
+surakRA_1	1	-	-	4:r6	-	-	-	-
+$wyax	3	-	-	4:dem	-	proximal	-	-
+cAxara_1	4	-	-	6:k1	-	-	-	-
+na_1	5	-	-	6:neg	-	-	-	-
+ho_1-0_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0012c.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0012b>
+#तो हम दिन के समय सूर्य की गर्मी से तप्त होकर जल सकते है ।
+$speaker	1	-	pl	11:k1	-	-	-	-
+xina_1	2	-	-	11:k7t	-	-	-	-
+sUrya_1	5	-	-	7:r6	-	-	-	-
+garmI_1	7	-	-	10:rh	-	-	-	-
+wapwa_1	9	-	-	-	-	-	-	15:kriyAmUla
+ho_1	10	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	11:rpk	-	-	-	-
+jala_1-0_saka_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0012c>
+#एवं रात के समय ठंड से जम सकते हैं ।
+rAwa_1	1	-	-	6:k7t	-	-	-	-
+TaMda_1	4	-	-	6:krvn	-	-	-	-
+jama_1-0_saka_hE_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0012b.6:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0013>
+#अतः यह वह वायुराशि है जिसने पृथ्वी के तापमान को रहने योग्य बनाया है ।
+$wyax	1	-	-	4:k1	-	proximal	-	-
+$wyax	2	-	-	4:k1	-	distal	-	-
+vAyurASi_1	3	-	-	4:k1s	-	-	-	-
+hE_1-pres	4	-	-	0:main	Geo_ncert_7stnd_4ch_0012c.4:pariNAma	-	-	-
+$yax	5	-	-	12:k1	-	-	-	-
+pqWvI_1	6	-	-	-	-	-	-	15:begin
+[ne_1]	15	place	-	8:r6	-	-	-	-
+wApamAna_1	8	-	-	10:k2	-	-	-	-
+raha_1	10	-	pl	12:k2	-	-	-	-
+yogya_1	11	-	-	12:k2s	-	-	-	-
+banA_1	12	-	-	3:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0014>
+#वायुमंडल का संघटन ।
+vAyumaMdala_1	1	-	-	3:r6	-	-	-	-
+saMGatana_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0015a>
+#क्या आप यह जानते हैं ।
+$kim	1	-	-	4:vmod	-	-	-	-
+$addressee	2	-	-	4:k1	-	respect	-	-
+$wyax	3	-	-	4:k2	-	proximal	-	-
+jAna_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0015b>
+#कि जिस वायु का उपयोग हम साँस लेने के लिए करते हैं , वास्तव में वह अनेक गैसों का मिश्रण होती है ?
+$yax	1	-	-	2:dem	-	-	-	-
+vAyu_1	2	-	-	4:k2	-	-	-	-
+upayoga_1	4	-	-	-	-	-	-	23:kriyAmUla
+$speaker	5	-	pl	10:k1	-	-	-	-
+sAzsa_1	6	-	-	-	-	-	-	24:kriyAmUla
+le_1	7	-	pl	-	-	-	-	24:verbalizer
+[cp_2]	24	-	-	10:rt	-	-	-	-
+kara_1-wA_hE_1	10	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+vAswava_1	13	-	-	20:k7p	-	-	-	-
+$wyax	15	-	-	20:k1	-	distal	-	-
+aneka_1	16	-	-	17:quant	-	-	-	-
+gEsa_1	17	-	pl	19:r6	-	-	-	-
+miSraNa_1	19	-	-	-	-	-	-	25:kriyAmUla
+ho_1	20	-	-	-	-	-	-	25:verbalizer
+[cp_3]	25	-	-	10:vmod	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0016>
+#नाइट्रोजन तथा ऑक्सीजन ऐसी दो गैसें हैं , जिनसे वायुमंडल का बडा भाग बना है ।
+nAitrojana_1	1	-	-	-	-	-	-	17:op1
+OYksIjana_1	3	-	-	-	-	-	-	17:op2
+EsA	4	-	-	6:dem	-	-	-	-
+xo	5	numex	-	6:card	-	-	-	-
+gEsa_1	6	-	pl	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	9	-	pl	14:k1	-	-	-	-
+vAyumaMdala_1	10	-	-	13:r6	-	-	-	-
+badA_1	12	-	-	13:mod	-	-	-	-
+BAga_1	13	-	-	14:k1	-	-	-	-
+banA_1	14	-	-	7:rc	-	-	-	-
+[conj_1]	17	-	-	7:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0017>
+#कार्बन डाइऑक्साइड , हीलियम , ओजोन , आर्गान , कार्बन डाइऑक्साइड एवं हाइड्रोजन कम मात्रा में पाई जाती हैं ।
+kArbana_1	1	-	-	-	-	-	-	21:mod
+dAiOYksAida_1	2	-	-	-	-	-	-	21:head
+[nc_1]	21	-	-	-	-	-	-	23:op1
+hIliyama_1	4	-	-	-	-	-	-	23:op2
+ojona_1	6	-	-	-	-	-	-	23:op3
+ArgAna	8	-	-	-	-	-	-	23:op4
+kArbana_1	10	-	-	-	-	-	-	22:mod
+dAiOYksAida	11	-	-	-	-	-	-	22:head
+[nc_2]	22	-	-	-	-	-	-	23:op5
+hAidrojana_1	13	-	-	17:k1	-	-	-	23:op6
+mAwrA_1	15	-	-	17:k7	-	-	-	-
+pA_1-yA_jA_wA_hE_1	17	-	-	0:main	-	-	-	-
+[conj_1]	23	-	-	17:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0018>
+#इन गैसों के अलावा धूल के छोटे-छोटे कण भी हवा में मौजूद होते हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+gEsa_1	2	-	pl	13:vmod	-	-	-	-
+XUla_1	5	-	-	8:r6	-	-	-	-
+Cote_1	7	-	xviwva	8:mod	-	-	-	-
+kaNa_1	8	-	-	13:k1	-	BI	-	-
+havA_1	10	-	-	13:k7	-	-	-	-
+mOjUxa_1	12	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_hE_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0019>
+#नाइट्रोजन , वायु में सर्वाधिक पाई जाने वाली गैस है ।
+nAitrojana_1	1	-	-	10:k1	-	-	-	-
+vAyu_1	3	-	-	6:k7p	-	-	-	-
+sarvAXika_1	5	-	-	-	-	-	-	12:kriyAmUla
+pA_1	6	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	9:mod	-	-	-	-
+gEsa_1	9	-	-	10:k1	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0020a>
+#जब हम साँस लेते हैं तब फेफडों में कुछ नाइट्रोजन भी ले जाते हैं ।
+$speaker	1	-	pl	3:k1	-	-	-	-
+sAzsa_1	2	-	-	3:k2	-	-	-	-
+le_1	3	-	pl	5:rc	-	-	-	-
+waba	5	-	-	11:k7t	-	-	-	-
+PePadA_1	6	-	pl	11:k7p	-	-	-	-
+kuCa_1	8	-	-	9:quant	-	-	-	-
+nAitrojana_1	9	-	-	11:k2	-	BI	-	-
+le_1-wA_hE_1	11	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0020b>
+#और फिर उसे बाहर निकाल देते है ।
+Pira_1	1	-	-	4:krvn	-	-	-	-
+$wyax	2	-	-	4:k2	-	distal	-	-
+bAhara_1	3	-	-	-	-	-	-	8:kriyAmUla
+nikAla_1-wA_hE_1	4	-	-	-	-	[shade:xe_1]	-	8:verbalizer
+[cp_1]	8	-	-	0:main	Geo_ncert_7stnd_4ch_0020a.8:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0021>
+#परंतु पौधों को अपने जीवन के लिए नाइट्रोजन की आवश्यकता होती है ।
+pOXa_1	1	-	pl	10:k4a	-	-	-	-
+apanA	3	-	pl	4:r6	-	-	-	-
+jIvana_1	4	-	-	10:rt	-	-	-	-
+nAitrojana_1	7	-	-	9:r6	-	-	-	-
+AvaSyakawA_1	9	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	Geo_ncert_7stnd_4ch_0020b.13:viroXI	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0022>
+#वे सीधे वायु से नाइट्रोजन नहीं ले पाते ।
+$wyax	1	-	pl	7:k1	-	distal	-	-
+sIXA_1	2	-	pl	7:krvn	-	-	-	-
+vAyu_1	3	-	-	7:k5	-	-	-	-
+nAitrojana_1	5	-	-	7:k2	-	-	-	-
+nahIM_1	6	-	-	7:neg	-	-	-	-
+le_1-subj_pA_1	7	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0023a>
+#मृदा तथा कुछ पौधें की जडों में रहने वाले जीवाणु वायु से नाइट्रोजन लेकर इसका स्वरूप बदल देते हैं ।
+mqxA_1	1	-	-	-	-	-	-	22:op1
+kuCa_1	3	-	-	4:quant	-	-	-	-
+pOXeM_1	4	-	-	-	-	-	-	22:op2
+jada_1	6	-	pl	8:k7	-	-	-	-
+raha_1	8	-	pl	11:mod	-	-	-	-
+jIvANu_1	10	-	-	-	-	-	-	21:mod
+vAyu_1	11	-	-	-	-	-	-	21:head
+[nc_1]	21	-	-	14:k5	-	-	-	-
+nAitrojana_1	13	-	-	14:k2	-	-	-	-
+le_1	14	-	-	17:rpk	-	-	-	-
+$wyax	15	-	-	16:r6	-	proximal	-	-
+svarUpa_1	16	-	-	17:k2	-	-	-	-
+baxala_1-wA_hE_1	17	-	-	0:main	-	[shade:xe_1]	-	-
+[conj_1]	22	-	-	6:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0023b>
+#इससे पौधों इसका प्रयोग कर सके ।
+$wyax	1	-	-	5:rh	-	proximal	-	-
+pOXa_1	2	-	pl	5:k1	-	-	-	-
+$wyax	3	-	-	4:k2	-	proximal	-	-
+prayoga_1	4	-	-	-	-	-	-	8:kriyAmUla
+kara_1-0_saka_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0024>
+#ऑक्सीजन वायु में प्रचरुता से मिलने वाली दूसरी गैस है ।
+OYksIjana_1	1	-	-	-	-	-	-	12:mod
+vAyu_1	2	-	-	-	-	-	-	12:head
+[nc_1]	12	-	-	6:k7	-	-	-	-
+pracaruwA_1	4	-	-	6:k5	-	-	-	-
+mila_1	6	-	pl	9:mod	-	-	-	-
+xUsarA_1	8	-	-	9:nmod__adj	-	-	-	-
+gEsa_1	9	-	-	10:k1	-	-	-	-
+hE_1-pres	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0025>
+#मनुष्य तथा पशु साँस लेने में वायु से ऑक्सीजन प्राप्त करते हैं ।
+manuRya_1	1	-	-	-	-	-	-	15:op1
+paSu_1	3	-	-	-	-	-	-	15:op2
+sAzsa_1	4	-	-	5:k2	-	-	-	-
+le_1	5	-	pl	11:k7	-	-	-	-
+vAyu_1	7	-	-	11:k5	-	-	-	-
+OYksIjana_1	9	-	-	11:k2	-	-	-	-
+prApwa_1	10	-	-	-	-	-	-	14:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	5:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0026>
+#हरे पादप , प्रकाश संश्लेषण द्वारा ऑक्सीजन उत्पन्न करते है ।
+harA	1	male	pl	-	-	-	-	12:begin
+[ne_1]	12	-	-	9:k1	-	-	-	-
+pAxapa_1	2	-	-	-	-	-	-	12:inside
+prakASa	4	male	-	-	-	-	-	13:begin
+[ne_2]	13	-	-	9:k1	-	-	-	-
+saMSleRaNa	5	male	-	-	-	-	-	13:inside
+OYksIjana_1	7	-	-	9:k2	-	-	-	-
+uwpanna_1	8	-	-	-	-	-	-	14:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0027>
+#इस प्रकार वायु में ऑक्सीजन की मात्रा समान बनी रहती है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	9:sent-adv	-	-	-	-
+vAyu_1	3	-	-	9:k7p	-	-	-	-
+OYksIjana_1	5	-	-	7:r6	-	-	-	-
+mAwrA_1	7	-	-	9:k1	-	-	-	-
+samAna_1	8	-	-	9:k1s	-	-	-	-
+bana_1-yA_raha_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0028a>
+#यदि हम वृक्ष काटते हैं ।
+$speaker	1	-	pl	3:k1	-	-	-	-
+vqkRa_1	2	-	-	3:k2	-	-	-	-
+kAta_1-wA_hE_1	3	-	-	0:main	Geo_ncert_7stnd_4ch_0028b.3:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0028b>
+#तो यह संतुलन बिगड जाता है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+saMwulana_1	2	-	-	3:k1	-	-	-	-
+bigada_1-wA_hE_1	3	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0029>
+#कार्बन डाइऑक्साइड अन्य महत्त्वपूर्ण गैस है ।
+kArbana_1	1	-	-	-	-	-	-	8:mod
+dAiOYksAida	2	-	-	-	-	-	-	8:head
+[nc_1]	8	-	-	6:k1	-	-	-	-
+anya_1	3	-	-	5:mod	-	-	-	-
+mahawwvapUrNa_1	4	-	-	3:mod	-	-	-	-
+gEsa_1	5	-	-	6:k1s	-	-	-	-
+hE_1-pres	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0030a>
+#हरे पादप अपने भोजन के रूप में कार्बन डाइऑक्साइड का प्रयोग करते हैं ।
+harA_1	1	-	pl	2:mod	-	-	-	-
+pAxapa_1	2	-	-	12:k1	-	-	-	-
+apanA	3	-	pl	4:r6	-	-	-	-
+Bojana_1	4	-	-	12:k7	-	-	-	-
+kArbana_1	8	-	-	-	-	-	-	15:mod
+dAiOYksAida_1	9	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	11:k2	-	-	-	-
+prayoga_1	11	-	-	-	-	-	-	16:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0030b>
+#और ऑक्सीजन वापस देते हैं ।
+OYksIjana_1	1	-	-	3:k2	-	-	-	-
+vApasa_1	2	-	-	-	-	-	-	6:kriyAmUla
+xe_1-wA_hE_1	3	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	Geo_ncert_7stnd_4ch_0030a.6:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0031>
+#मनुष्य और पशु कार्बन डाइऑक्साइड बाहर निकालते हैं ।
+manuRya_1	1	-	-	-	-	-	-	12:op1
+paSu_1	3	-	-	-	-	-	-	12:op2
+kArbana_1	4	-	-	-	-	-	-	10:mod
+dAiOYksAida_1	5	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	-	-	-	-	12:op3
+bAhara_1	6	-	-	-	-	-	-	11:kriyAmUla
+nikAla_1-wA_hE_1	7	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	7:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0032a>
+#मनुष्यों तथा पशुओं द्वारा बाहर छोडी जाने वाली कार्बन डाइऑक्साइड की मात्रा पादपों द्वारा प्रयोग की जाने वाली गैस के बराबर होती है ।
+manuRya_1	1	-	pl	-	-	-	-	27:op1
+paSu_1	3	-	pl	-	-	-	-	27:op2
+bAhara_1	5	-	-	6:k7p	-	-	-	-
+Coda_1	6	-	-	10:mod	-	-	-	-
+kArbana_1	9	-	-	-	-	-	-	25:mod
+dAiOYksAida_1	10	-	-	-	-	-	-	25:head
+[nc_1]	25	-	-	12:r6	-	-	-	-
+mAwrA_1	12	-	-	16:k2	-	-	-	-
+pAxapoM_1	13	-	-	16:k1	-	-	-	-
+prayoga_1	15	-	-	-	-	-	-	26:kriyAmUla
+kara_1	16	-	-	-	-	-	-	26:verbalizer
+[cp_1]	26	-	-	19:mod	-	-	-	-
+gEsa_1	19	-	-	22:rh	-	-	-	-
+ho_1-wA_hE_1	22	-	-	0:main	-	-	-	-
+[conj_1]	27	-	-	6:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0032b>
+#इससे यह संतुलन बना रहता है ।
+$wyax	1	-	-	4:rh	-	proximal	-	-
+$wyax	2	-	-	3:dem	-	proximal	-	-
+saMwulana_1	3	-	-	4:k1	-	-	-	-
+banA_1-0_raha_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0033>
+#परंतु यह संतुलन कोयला तथा खनिज तेल आदि ईंधन के जलाने से गडबडा जाता है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+saMwulana_1	2	-	-	12:k1	-	-	-	-
+koyalA_1	3	-	-	-	-	-	-	17:op1
+Kanija_1	5	-	-	-	-	-	-	16:mod
+wela_1	6	-	-	-	-	Axi	-	16:head
+[nc_1]	16	-	-	-	-	-	-	17:op2
+IMXana_1	8	-	-	10:k1	-	-	-	-
+jalA_1	10	-	pl	12:rh	-	-	-	-
+gadabadA_1-wA_hE_1	12	-	-	0:main	Geo_ncert_7stnd_4ch_0032b.12:viroXI	[shade:ja_1]	-	-
+[conj_1]	17	-	-	8:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0034>
+#वे वायुमडंल में प्रतिवर्ष करोडों टन कार्बन डाइऑक्साइड की बढोतरी करते हैं ।
+$wyax	1	-	pl	11:k1	-	distal	-	-
+vAyumadaMla	2	-	-	11:k7	-	-	-	-
+prawivarRa_1	4	-	-	11:k1	-	-	-	-
+karoda	5	numex	pl	-	-	-	-	16:count
+tana_1	6	-	-	-	-	-	-	16:unit
+kArbana_1	7	-	-	-	-	-	-	14:mod
+dAiOYksAida_1	8	-	-	-	-	-	-	14:head
+[nc_1]	14	-	-	10:k2	-	-	-	-
+baDowarI_1	10	-	-	-	-	-	-	15:kriyAmUla
+kara_1-wA_hE_1	11	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[meas_1]	16	-	-	8:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0035>
+#परिणामस्वरूप कार्बन डाइऑक्साइड का बढा हुआ आयतन पृथ्वी पर मौसम तथा जलवायु को प्रभावित करता है ।
+kArbana_1	2	-	-	-	-	-	-	19:mod
+dAiOYksAida_1	3	-	-	-	-	-	-	19:head
+[nc_1]	19	-	-	5:k1	-	-	-	-
+baDA_1	5	-	-	7:rvks	-	-	-	-
+Ayawana_1	7	-	-	15:k1	-	-	-	-
+pqWvI_1	8	-	-	-	-	-	-	18:begin
+[ne_1]	18	place	-	15:k7	-	-	-	-
+mOsama_1	10	-	-	-	-	-	-	21:op1
+jalavAyu_1	12	-	-	-	-	-	-	21:op2
+praBAviwa_1	14	-	-	-	-	-	-	20:kriyAmUla
+kara_1	15	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	1:ccof	-	-	-	-
+[conj_1]	21	-	-	15:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0036a>
+#जब वायु गरम होती है ।
+vAyu_1	1	-	-	3:k1	-	-	-	-
+garama_1	2	-	-	-	-	-	-	6:kriyAmUla
+ho_1-wA_hE_1	3	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	Geo_ncert_7stnd_4ch_0036c.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0036b>
+#तो फैलती है ।
+PEla_1-wA_hE_1	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0036c>
+#और हल्की होकर ऊपर उठती है ।
+halkA_1	1	-	-	-	-	-	-	7:kriyAmUla
+ho_1	2	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	4:rpk	-	-	-	-
+Upara_1	3	-	-	4:k7	-	-	-	-
+uTa_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_4ch_0036b.4:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0037>
+#ठंडी वायु सघन और भारी होती है ।
+TaMdA_1	1	-	-	-	-	-	-	10:op1
+vAyu_1	2	-	-	-	-	-	-	9:mod
+saGana_1	3	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	1:mod	-	-	-	-
+BArI_1	5	-	-	-	-	-	-	10:op2
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+[conj_1]	10	-	-	6:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0038>
+#इसीलिए इसमें नीचे रहने की प्रवृत्ति होती है ।
+$wyax	1	-	-	6:k7	-	proximal	-	-
+nIcA_1	2	-	pl	3:k7p	-	-	-	-
+raha_1	3	-	pl	5:r6	-	-	-	-
+pravqwwi_1	5	-	-	-	-	-	-	9:kriyAmUla
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	Geo_ncert_7stnd_4ch_0037.9:pariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0039>
+#गरम वायु के ऊपर उठने पर आस-पास के क्षेत्रों से ठंडी वायु रिक्त स्थान को भरने के लिए वहाँ आ जाती है ।
+garama_1	1	-	-	2:mod	-	-	-	-
+vAyu_1	2	-	-	5:k7	-	-	-	-
+Upara_1	4	-	-	2:k7p	-	-	-	-
+uTa_1	5	-	pl	16:rblsk	-	-	-	-
+Asa-pAsa	7	-	-	9:r6	-	-	-	-
+kRewra_1	9	-	pl	16:k5	-	-	-	-
+TaMdA_1	11	-	-	14:mod	-	-	-	-
+vAyu_1	12	-	-	-	-	-	-	24:mod
+rikwa_1	13	-	-	14:mod	-	-	-	-
+sWAna_1	14	-	-	-	-	-	-	24:head
+[nc_1]	24	-	-	16:k2	-	-	-	-
+Bara_1	16	-	pl	20:rt	-	-	-	-
+vahAz	19	-	pl	20:k7p	-	-	-	-
+A_1-wA_hE_1	20	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0040>
+#इस प्रकार वायु-चक्र चलता रहता है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	4:k1	-	-	-	-
+vAyu-cakra	3	-	-	4:k1	-	-	-	-
+cala_1-wA_raha_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0041>
+#वायुमडंल की संरचना ।
+vAyumadaMla	1	-	-	3:r6	-	-	-	-
+saMracanA_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0042>
+#हमारा वायुमंडल पाँच परतों में विभाजित है , जो पृथ्वी की सतह से आरंभ होती हैं ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+vAyumaMdala_1	2	-	-	7:k1	-	-	-	-
+pAzca	3	numex	-	4:card	-	-	-	-
+parawa_1	4	-	pl	7:k7	-	-	-	-
+viBAjiwa_1	6	-	-	7:k1s	-	-	-	-
+hE_1-pres	7	-	-	0:main	-	-	-	-
+$yax	9	-	-	15:k1	-	-	-	-
+pqWvI	10	female	-	-	-	-	-	18:begin
+[ne_1]	18	place	-	12:r6	-	-	-	-
+sawaha_1	12	-	-	15:k5	-	-	-	-
+AraMBa_1	14	-	-	-	-	-	-	19:kriyAmUla
+ho_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	7:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0043>
+#ये हैं - क्षोभमंडल , समतापमंडल , मध्यमंडल , बाह्य वायुमडंल एवं बहिर्मंडल ।
+$wyax	1	-	pl	2:k1	-	proximal	-	-
+hE_1-pres	2	-	-	0:main	-	-	-	-
+kRoBamaMdala	4	-	-	-	-	-	-	15:op1
+samawApamaMdala	6	-	-	-	-	-	-	15:op2
+maXyamaMdala	8	-	-	-	-	-	-	15:op3
+bAhya_1	10	-	-	11:mod	-	-	-	-
+vAyumadaMla	11	-	-	-	-	-	-	15:op4
+bahirmaMdala_1	13	-	-	-	-	-	-	15:op5
+[conj_1]	15	-	-	2:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0044H>
+#क्षोभमंडल ।
+kRoBamaMdala	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0044>
+#यह परत वायुमंडल की सबसे महत्त्वपूर्ण परत है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+parawa_1	2	-	-	8:k1	-	-	-	-
+vAyumaMdala_1	3	-	-	7:r6	-	-	-	-
+mahawwvapUrNa_1	6	-	superl	7:mod	-	-	-	-
+parawa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0045>
+#इसकी औसत ऊँचाई 13 किलोमीटर है ।
+$wyax	1	-	-	2:r6	-	proximal	-	-
+Osawa_1	2	-	-	6:k1	-	-	-	-
+UzcAI_1	3	-	-	6:k1	-	-	-	-
+13	4	meas	-	-	-	-	-	8:count
+kilomItara_1	5	-	-	-	-	-	-	8:unit
+hE_1-pres	6	-	-	0:main	-	-	-	-
+[meas_1]	8	-	-	6:k1s	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0046>
+#हम इसी मंडल में मौजूद वायु में साँस लेते हैं ।
+$speaker	1	-	pl	9:k1	-	-	-	-
+isI	2	-	-	3:dem	-	-	-	-
+maMdala_1	3	-	-	9:k7	-	-	-	-
+mOjUxa_1	5	-	-	6:mod	-	-	-	-
+vAyu_1	6	-	-	9:k7p	-	-	-	-
+sAzsa_1	8	-	-	-	-	-	-	12:kriyAmUla
+le_1-wA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0047>
+#मौसम की लगभग सभी घटनाएँ जैसे - वर्षा , कुहरा एवं ओलावर्षण इसी परत के अंदर होती है ।
+mOsama_1	1	-	-	5:r6	-	-	-	-
+saBI_1	4	-	-	5:quant	-	lagaBaga	-	-
+GatanA_1	5	-	pl	-	-	-	-	20:op1
+jEsA_1	6	-	pl	8:nmod__adj	-	-	-	-
+varRA_1	8	-	-	-	-	-	-	20:op2
+kuharA_1	10	-	-	-	-	-	-	20:op3
+olAvarRaNa_1	12	-	-	-	-	-	-	20:op4
+isI	13	-	-	14:dem	-	-	-	-
+parawa_1	14	-	-	17:k7p	-	-	-	-
+aMxara_1	16	-	-	14:k7p	-	-	-	-
+ho_1-wA_hE_1	17	-	-	0:main	-	-	-	-
+[conj_1]	20	-	-	17:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0048>
+#समतापमंडल : क्षोभमंडल के ऊपर का भाग समताप मंडल कहलाता है ।
+samawApamaMdala	1	-	-	3:mod	-	-	-	-
+kRoBamaMdala	3	-	-	7:r6	-	-	-	-
+Upara_1	5	-	-	3:k7p	-	-	-	-
+BAga_1	7	-	-	10:k1	-	-	-	-
+samawApa	8	-	-	-	-	-	-	13:begin
+[ne_1]	13	-	-	10:k1	-	-	-	-
+maMdala	9	male	-	-	-	-	-	13:inside
+kahalA_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0049>
+#यह लगभग 50 किलोमीटर की ऊँचाई तक पफैला है ।
+$wyax	1	-	-	4:dem	-	proximal	-	-
+50	3	meas	-	-	-	lagaBaga	-	11:count
+kilomItara_1	4	-	-	-	-	-	-	11:unit
+UzcAI_1	6	-	-	8:k7	-	-	-	-
+paPElA_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+[meas_1]	11	-	-	6:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0050>
+#यह परत बादलों एवं मौसम संबंधी घटनाओं से लगभग मुक्त होती है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+parawa_1	2	-	-	11:k1	-	-	-	-
+bAxala_1	3	-	pl	-	-	-	-	15:op1
+mOsama_1	5	-	-	-	-	-	-	15:op2
+saMbaMXI_1	6	-	-	7:mod	-	-	-	-
+GatanA_1	7	-	pl	11:rh	-	-	-	-
+mukwa_1	10	-	-	-	-	lagaBaga	-	14:kriyAmUla
+ho_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	6:intf	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0051>
+#इसके फलस्वरूप यहाँ की परिस्थितियाँ हवाई जहाज उडाने के लिए आदर्श होती हैं ।
+$wyax	1	-	-	12:rh	-	proximal	-	-
+yahAz	3	-	-	5:r6	-	-	-	-
+parisWiwi_1	5	-	pl	12:k1	-	-	-	-
+havAI_1	6	-	-	-	-	-	-	15:mod
+jahAja_1	7	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	8:k2	-	-	-	-
+udA_1	8	-	pl	12:rt	-	-	-	-
+AxarSa_1	11	-	-	-	-	-	-	16:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0052a>
+#समताप मंडल की एक महत्त्वपूर्ण विशेषता यह है ।
+samawApa	1	-	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	6:r6	-	-	-	-
+maMdala	2	male	-	-	-	-	-	10:inside
+eka_1	4	numex	-	6:card	-	-	-	-
+mahawwvapUrNa_1	5	-	-	6:mod	-	-	-	-
+viSeRawA_1	6	-	-	8:k1	-	-	-	-
+$wyax	7	-	-	8:k1s	-	proximal	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0052b>
+#कि इसमें ओजोन गैस की परत होती है ।
+$wyax	1	-	-	6:k7	-	proximal	-	-
+ojona	2	male	-	-	-	-	-	9:begin
+[ne_1]	9	-	-	5:r6	-	-	-	-
+gEsa_1	3	-	-	-	-	-	-	9:inside
+parawa_1	5	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0053>
+#यह परत सूर्य से आने वाली हानिकारक गैसों से हमारी रक्षा करती है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+parawa_1	2	-	-	12:k1	-	-	-	-
+sUrya_1	3	-	-	5:k5	-	-	-	-
+A_1	5	-	pl	8:mod	-	-	-	-
+hAnikAraka_1	7	-	-	8:mod	-	-	-	-
+gEsa_1	8	-	pl	12:k5	-	-	-	-
+$speaker	10	-	pl	11:k2	-	-	-	-
+rakRA_1	11	-	-	-	-	-	-	15:kriyAmUla
+kara_1-wA_hE_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0054>
+#मध्यमंडल : यह वायुमडंल की तीसरी परत है ।
+maXyamaMdala	1	-	-	8:k1	-	-	-	-
+$wyax	3	-	-	8:k1	-	proximal	-	-
+vAyumadaMla	4	-	-	7:r6	-	-	-	-
+wIsarA_1	6	-	-	7:nmod__adj	-	-	-	-
+parawa_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0055>
+#यह समताप मंडल के ठीक ऊपर होती है ।
+$wyax	1	-	-	3:dem	-	proximal	-	-
+samawApa_1	2	-	-	-	-	-	-	10:mod
+maMdala_1	3	-	-	-	-	TIka	-	10:head
+[nc_1]	10	-	-	7:k7p	-	-	-	-
+Upara_1	6	-	-	3:k7p	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0056>
+#यह लगभग 80 किलोमीटर की ऊँचाई तक फैली है ।
+$wyax	1	-	-	8:k1	-	proximal	-	-
+80	3	meas	-	-	-	lagaBaga	-	11:count
+kilomItara_1	4	-	-	-	-	-	-	11:unit
+UzcAI_1	6	-	-	8:k7	-	-	-	-
+PEla_1-yA_hE_1	8	-	-	0:main	-	-	-	-
+[meas_1]	11	-	-	6:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0057>
+#अंतरिक्ष से प्रवेश करने वाले उल्का पिंड इस परत में आने पर जल जाते है ।
+aMwarikRa_1	1	-	-	4:k5	-	-	-	-
+praveSa_1	3	-	-	-	-	-	-	18:kriyAmUla
+kara_1	4	-	pl	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	7:mod	-	-	-	-
+ulkA	6	female	-	-	-	-	-	17:begin
+[ne_1]	17	-	-	11:k1	-	-	-	-
+piMda_1	7	-	-	-	-	-	-	17:inside
+$wyax	8	-	-	9:dem	-	proximal	-	-
+parawa_1	9	-	-	11:k7	-	-	-	-
+A_1	11	-	pl	13:rblsk	-	-	-	-
+jala_1-wA_hE_1	13	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0058H>
+#बाह्य वायुमंडल ।
+bAhya_1	1	-	-	2:mod	-	-	-	-
+vAyumaMdala_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0058>
+#बाह्य वायुमंडल में बढती ऊँचाई के साथ तापमान अत्यधिक तीव्रता से बढता है ।
+bAhya_1	1	-	-	2:mod	-	-	-	-
+vAyumaMdala_1	2	-	-	4:k7	-	-	-	-
+baDa_1	4	-	-	5:rvks	-	-	-	-
+UzcAI_1	5	-	-	12:vmod	-	-	-	-
+sAWa_1	7	-	-	5:k7p	-	-	-	-
+wApamAna_1	8	-	-	12:k1	-	-	-	-
+awyaXika_1	9	-	-	10:mod	-	-	-	-
+wIvrawA_1	10	-	-	12:krvn	-	-	-	-
+baDa_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0059>
+#आयन मंडल इस परत का एक भाग है ।
+Ayana	1	-	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	8:k1	-	-	-	-
+maMdala	2	male	-	-	-	-	-	10:inside
+$wyax	3	-	-	4:dem	-	proximal	-	-
+parawa_1	4	-	-	7:r6	-	-	-	-
+eka_1	6	numex	-	7:card	-	-	-	-
+BAga_1	7	-	-	8:k1s	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0060>
+#यह 80 से 400 किलोमीटर तक फैला है ।
+$wyax	1	-	-	7:k1	-	proximal	-	-
+80	2	numex	-	-	-	-	-	11:start
+400	4	meas	-	-	-	-	-	10:count
+kilomItara_1	5	-	-	-	-	-	-	10:unit
+PElA_1-0_hE_1	7	-	-	0:main	-	-	-	-
+[meas_1]	10	-	-	-	-	-	-	11:end
+[span_1]	11	-	-	7:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0061>
+#रेडियो संचार के लिए इस परत का उपयोग होता है ।
+rediyo_1	1	-	-	-	-	-	-	12:mod
+saMcAra_1	2	-	-	-	-	-	-	12:head
+[nc_1]	12	-	-	9:rt	-	-	-	-
+$wyax	5	-	-	6:dem	-	proximal	-	-
+parawa_1	6	-	-	8:k2	-	-	-	-
+upayoga_1	8	-	-	-	-	-	-	13:kriyAmUla
+ho_1-wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0062>
+#वास्तव में पृथ्वी से प्रसारित रेडियो तरंगें इस परत द्वारा पुनः पृथ्वी पर परावर्तित कर दी जाती है ।
+vAswava_1	1	-	-	-	-	-	-	24:whole
+pqWvI	3	female	-	-	-	-	-	20:begin
+[ne_1]	20	place	-	5:intf	-	-	-	-
+prasAriwa_1	5	-	-	7:mod	-	-	-	-
+rediyo_1	6	-	-	-	-	-	-	22:mod
+waraMga_1	7	-	pl	-	-	-	-	22:head
+[nc_1]	22	-	-	15:k2	-	-	-	-
+$wyax	8	-	-	9:dem	-	proximal	-	-
+parawa_1	9	-	-	15:k1	-	-	-	-
+punaH_1	11	-	-	15:krvn	-	-	-	-
+pqWvI_1	12	-	-	-	-	-	-	21:begin
+[ne_2]	21	place	-	-	-	-	-	24:part
+parAvarwiwa_1	14	-	-	-	-	-	-	23:kriyAmUla
+kara_1-yA_jA_1	15	-	-	-	-	[shade:xe_1]	-	23:verbalizer
+[cp_1]	23	-	-	0:main	-	-	-	-
+[spatial_1]	24	-	-	15:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0063H>
+#बहिर्मंडल ।
+bahirmaMdala_1	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0063>
+#वायुमडंल की सबसे ऊपरी परत को बहिर्मंडल के नाम से जाना जाता है ।
+vAyumadaMla	1	-	-	5:r6	-	-	-	-
+UparI_1	4	-	superl	5:mod	-	-	-	-
+parawa_1	5	-	-	11:k2	-	-	-	-
+bahirmaMdala_1	7	-	-	9:r6	-	-	-	-
+nAma_1	9	-	-	11:k3	-	-	-	-
+jA_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0064>
+#यह वायु की पतली परत होती है ।
+$wyax	1	-	-	6:k1	-	proximal	-	-
+vAyu_1	2	-	-	5:r6	-	-	-	-
+pawalA_1	4	-	-	5:mod	-	-	-	-
+parawa_1	5	-	-	6:k1s	-	-	-	-
+ho_1-wA_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0065>
+#हल्की गैसें जैसे-लियम एवं हाइड्रोजन यहीं से अंतरिक्ष में तैरती रहती हैं ।
+halkA_1	1	-	-	2:mod	-	-	-	-
+gEsa_1	2	-	pl	10:k1	-	-	-	-
+jEse-liyama	3	-	-	-	-	-	-	14:op1
+hAidrojana_1	5	-	-	-	-	-	-	14:op2
+yahIM	6	-	-	10:krvn	-	-	-	-
+aMwarikRa_1	8	-	-	10:k7p	-	-	-	-
+wEra_1-wA_raha_hE_1	10	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	10:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0066>
+#मौसम एवं जलवायु ।
+mOsama_1	1	-	-	-	-	-	-	5:op1
+jalavAyu_1	3	-	-	-	-	-	-	5:op2
+[conj_1]	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0067>
+#क्या आज वर्षा होगी ?
+$kim	1	-	-	4:krvn	-	-	-	-
+Aja_1	2	-	-	4:k7t	-	-	-	-
+varRA_1	3	-	-	-	-	-	-	6:kriyAmUla
+ho_1-gA_1	4	-	-	-	-	-	-	6:verbalizer
+[cp_1]	6	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0068a>
+#क्या आज दिन साफ़ होगा ।
+$kim	1	-	-	5:krvn	-	-	-	-
+Aja_1	2	-	-	5:k7t	-	-	-	-
+xina_1	3	-	-	5:k7t	-	-	-	-
+sAPZa_1	4	-	-	-	-	-	-	7:kriyAmUla
+ho_1-gA_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0068b>
+#और धूप निकलेगी ?
+XUpa_1	1	-	-	2:k1	-	-	-	-
+nikala_1-gA_1	2	-	-	0:main	Geo_ncert_7stnd_4ch_0068a.2:samuccaya	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0069>
+#कितनी ही बार हमने क्रिकेट प्रेमियों के मुहँ से एकदिवसीय मैच के भविष्य पर अनुमान लगाते सुना होगा ?
+$kim	1	-	-	3:quant	-	hI	-	-
+bAra_1	3	-	-	17:k7t	-	-	-	-
+$speaker	4	-	pl	17:k1	-	-	-	-
+kriketa_1	5	-	-	-	-	-	-	20:mod
+premI_1	6	-	pl	-	-	-	-	20:head
+[nc_1]	20	-	-	8:r6	-	-	-	-
+muhaz_1	8	-	-	16:k5	-	-	-	-
+ekaxivasIya_1	10	-	-	-	-	-	-	21:mod
+mEca_1	11	-	-	-	-	-	-	21:head
+[nc_2]	21	-	-	13:r6	-	-	-	-
+BaviRya_1	13	-	-	16:k7	-	-	-	-
+anumAna_1	15	-	-	16:k2	-	-	-	-
+lagA_1	16	-	pl	17:vmod	-	-	-	-
+sunA_1-0_ho_1	17	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0070a>
+#यदि हम कल्पना यह करें ।
+$speaker	1	-	pl	4:k1	-	-	-	-
+kalpanA_1	2	-	-	-	-	-	-	6:kriyAmUla
+$wyax	3	-	-	-	-	proximal	-	7:kriyAmUla
+kareM_1-wA_hE_1	4	-	-	-	-	-	-	7:verbalizer
+[cp_2]	7	-	-	0:main	Geo_ncert_7stnd_4ch_0068b.7:samuccaya	-	-	-
+%affirmative
+[cp_1]	6	-	-	0:main	Geo_ncert_7stnd_4ch_0068b.6:samuccaya	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0070b>
+#कि हमारा शरीर एक रेडियो है ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+SarIra_1	2	-	-	5:k1	-	-	-	-
+eka_1	3	numex	-	4:card	-	-	-	-
+rediyo_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0070c>
+#और मस्तिष्क उसके स्पीकर , तो मौसम वह है जो इसके नियंत्राण बटनों से छेडछाड करता रहता है ।
+maswiRka_1	1	-	-	0:k1	-	-	-	-
+$wyax	2	-	-	3:r6	-	distal	-	-
+spIkara_1	3	-	-	-	-	-	-	21:op1
+mOsama_1	6	-	-	8:k1	-	-	-	-
+$wyax	7	-	-	8:k1s	-	distal	-	-
+hE_1-pres	8	-	-	-	-	-	-	21:op2
+$yax	9	-	-	15:k1	-	-	-	-
+$wyax	10	-	-	12:r6	-	proximal	-	-
+niyaMwrANa_1	11	-	-	-	-	-	-	19:mod
+batana_1	12	-	pl	-	-	-	-	19:head
+[nc_1]	19	-	-	15:k2	-	-	-	-
+CedaCAda_1	14	-	-	-	-	-	-	20:kriyAmUla
+kara_1	15	-	-	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	7:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0071>
+#मौसम , वायुमंडल की प्रत्येक घंटे तथा दिन-प्रतिदिन की स्थिति होती है ।
+mOsama_1	1	-	-	-	-	-	-	14:op1
+vAyumaMdala_1	3	-	-	6:r6	-	-	-	-
+prawyeka_1	5	-	-	6:quant	-	-	-	-
+GaMtA_1	6	-	pl	-	-	-	-	14:op2
+xina-prawixina	8	-	-	-	-	-	-	14:op3
+sWiwi_1	10	-	-	11:k1	-	-	-	-
+ho_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	10:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0072>
+#आर्द्र एवं गर्म मौसम किसी को भी चिडचिडा बना सकता है ।
+Arxra_1	1	-	-	-	-	-	-	13:op1
+garma_1	3	-	-	-	-	-	-	13:op2
+mOsama_1	4	-	-	9:k1	-	-	-	-
+kisI	5	-	-	9:k2	-	BI	-	-
+cidacidA_1	8	-	-	9:k1s	-	-	-	-
+banA_1-0_saka_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	4:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0073a>
+#अच्छा , हवादार मौसम हमें आनंद देता है ।
+acCA_1	1	-	-	7:krvn	-	-	-	-
+havAxAra_1	3	-	-	4:mod	-	-	-	-
+mOsama_1	4	-	-	7:k1	-	-	-	-
+$speaker	5	-	pl	7:k4	-	-	-	-
+AnaMxa_1	6	-	-	-	-	-	-	10:kriyAmUla
+xe_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0073b>
+#और हम घूमने की योजना भी बना सकते हैं ।
+$speaker	1	-	pl	6:k1	-	-	-	-
+GUma_1	2	-	pl	4:r6	-	-	-	-
+yojanA_1	4	-	-	6:k2	-	BI	-	-
+banA_1-0_saka_hE_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0073a.6:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0074>
+#मौसम नाटकीय रूप से दिन-प्रतिदिन बदलता है ।
+mOsama_1	1	-	-	6:k1	-	-	-	-
+nAtakIya_1	2	-	-	3:mod	-	-	-	-
+rUpa_1	3	-	-	6:krvn	-	-	-	-
+xina-prawixina	5	-	-	-	-	-	-	9:kriyAmUla
+baxala_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0075>
+#किंतु दीर्घ काल में किसी स्थान का औसत मौसम , उस स्थान की जलवायु बताता है ।
+xIrGa_1	1	-	-	2:mod	-	-	-	-
+kAla_1	2	-	-	14:k7t	-	-	-	-
+kisI	4	-	-	5:mod	-	-	-	-
+sWAna_1	5	-	-	7:r6	-	-	-	-
+Osawa_1	7	-	-	8:mod	-	-	-	-
+mOsama_1	8	-	-	14:k1	-	-	-	-
+$wyax	10	-	-	11:dem	-	distal	-	-
+sWAna_1	11	-	-	13:r6	-	-	-	-
+jalavAyu_1	13	-	-	14:k1	-	-	-	-
+bawA_1-wA_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0076a>
+#क्या अब आप यह समझ गए ।
+$kim	1	-	-	5:krvn	-	-	-	-
+aba	2	-	-	5:k7t	-	-	-	-
+$addressee	3	-	-	5:k1	-	respect	-	-
+$wyax	4	-	-	5:k2	-	proximal	-	-
+samaJa_1-yA_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0076b>
+#कि हम मौसम का दैनिक पूर्वानुमान क्यों करते हैं ?
+$speaker	1	-	pl	7:k1	-	-	-	-
+mOsama_1	2	-	-	5:r6	-	-	-	-
+xEnika_1	4	-	-	5:k2	-	-	-	-
+pUrvAnumAna_1	5	-	-	-	-	-	-	10:kriyAmUla
+$kim	6	-	-	7:krvn	-	-	-	-
+kara_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0077>
+#तापमान आप प्रतिदिन जिस तापमान का अनुभव करते है , वह वायुमडंल का तापमान होता है ।
+wApamAna_1	1	-	-	8:k1	-	-	-	-
+$addressee	2	-	-	8:k1	-	respect	-	-
+prawixina_1	3	-	-	8:k7t	-	-	-	-
+$yax	4	-	-	5:dem	-	-	-	-
+wApamAna_1	5	-	-	7:k2	-	-	-	-
+anuBava_1	7	-	-	-	-	-	-	18:kriyAmUla
+kara_1-wA_hE_1	8	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+$wyax	11	-	-	15:k1	-	distal	-	-
+vAyumadaMla	12	-	-	14:r6	-	-	-	-
+wApamAna_1	14	-	-	-	-	-	-	19:kriyAmUla
+ho_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_2]	19	-	-	8:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0078>
+#वायु में मौजूद ताप एवं शीतलता के परिमाण को तापमान कहते हैं ।
+vAyu_1	1	-	-	3:intf	-	-	-	-
+mOjUxa_1	3	-	-	4:mod	-	-	-	-
+wApa_1	4	-	-	-	-	-	-	15:op1
+SIwalawA_1	6	-	-	8:r6	-	-	-	-
+parimANa_1	8	-	-	-	-	-	-	15:op2
+wApamAna_1	10	-	-	-	-	-	-	14:kriyAmUla
+kaha_1-wA_hE_1	11	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	11:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0079a>
+#वायुमडंल का तापमान केवल दिन और रात में ही नहीं बदलता ।
+vAyumadaMla	1	-	-	3:r6	-	-	-	-
+wApamAna_1	3	-	-	11:k1	-	-	-	-
+xina_1	5	-	-	-	-	kevala	-	13:op1
+rAwa_1	7	-	-	-	-	hI	-	13:op2
+nahIM_1	10	-	-	11:neg	-	-	-	-
+baxala_1-wA_1	11	-	-	0:main	-	-	-	-
+[conj_1]	13	-	-	11:k7t	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0079b>
+#बल्कि ऋतुओं के अनुसार भी बदलता है ।
+qwu_1	1	-	pl	5:rt	-	BI	-	-
+baxala_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0080>
+#शीत ऋतु की अपेक्षा ग्रीष्म ऋतु ज्यादा गर्म होती है ।
+SIwa_1	1	-	-	2:mod	-	-	-	-
+qwu_1	2	-	-	4:r6	-	-	-	-
+apekRA_1	4	-	-	9:k1	-	-	-	-
+grIRma_1	5	-	-	-	-	-	-	12:mod
+qwu_1	6	-	-	-	-	-	-	12:head
+[nc_1]	12	-	-	9:k1	-	-	-	-
+garma_1	8	-	compermore	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0081>
+#आतपन एक महत्त्वपूर्ण कारक है , जो तापमान के वितरण को प्रभावित करता है ।
+Awapana	1	-	-	5:k1	-	-	-	-
+eka_1	2	numex	-	4:card	-	-	-	-
+mahawwvapUrNa_1	3	-	-	4:mod	-	-	-	-
+kAraka_1	4	-	-	5:k1s	-	-	-	-
+hE_1-pres	5	-	-	0:main	-	-	-	-
+$yax	7	-	-	13:k1	-	-	-	-
+wApamAna_1	8	-	-	10:r6	-	-	-	-
+viwaraNa_1	10	-	-	13:k2	-	-	-	-
+praBAviwa_1	12	-	-	-	-	-	-	16:kriyAmUla
+kara_1	13	-	-	-	-	-	-	16:verbalizer
+[cp_1]	16	-	-	5:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0082>
+#सूर्य से आने वाली वह ऊर्जा जिसे पृथ्वी रोक लेती है , आतपन कहलाती है ।
+sUrya	1	male	-	3:k5	-	-	-	-
+A_1	3	-	pl	9:vmod	-	-	-	-
+$wyax	5	-	-	9:k1	-	distal	-	-
+UrjA_1	6	-	-	9:k1	-	-	-	-
+$yax	7	-	-	9:k2	-	-	-	-
+pqWvI_1	8	-	-	9:k1	-	-	-	-
+roka_1-wA_hE_1	9	-	-	0:main	-	[shade:le_1]	-	-
+Awapana	13	-	-	14:k1	-	-	-	-
+kahalA_1	14	-	-	9:re	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0083>
+#आतपन सूर्यातप की मात्रा भूमध्य रेखा से ध्रुवों की ओर घटती है ।
+Awapana	1	-	-	-	-	-	-	14:begin
+[ne_1]	14	-	-	4:r6	-	-	-	-
+sUryAwapa_1	2	-	-	-	-	-	-	14:inside
+mAwrA_1	4	-	-	11:k1	-	-	-	-
+BUmaXya_1	5	-	-	-	-	-	-	15:mod
+reKA_1	6	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	11:k5	-	-	-	-
+XruvoM_1	8	-	-	11:rd	-	-	-	-
+ora_1	10	-	-	8:k7p	-	-	-	-
+Gata_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0084>
+#इसलिए तापमान उसी प्रकार घटता जाता है ।
+wApamAna_1	1	-	-	4:k1	-	-	-	-
+usI	2	-	-	3:dem	-	-	-	-
+prakAra_1	3	-	-	4:krvn	-	-	-	-
+Gata_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_4ch_0083.4:pariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0085a>
+#क्या अब आप यह समझ गए होंगे ।
+$kim	1	-	-	5:krvn	-	-	-	-
+aba	2	-	-	5:k7t	-	-	-	-
+$addressee	3	-	-	5:k1	-	respect	-	-
+$wyax	4	-	-	5:k2	-	proximal	-	-
+samaJa_1-0_gae_ho_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0085b>
+#कि ध्रुव बर्फ़ से क्यों ढँके हुए हैं ?
+Xruva	1	male	-	5:k1	-	-	-	-
+barPZa_1	2	-	-	5:k5	-	-	-	-
+$kim	4	-	-	5:krvn	-	-	-	-
+Dazka_1-subj_ho_hE_1	5	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0086a>
+#यदि पृथ्वी का तापमान अत्यधिक बढ जाता है ।
+pqWvI	1	female	-	3:r6	-	-	-	-
+wApamAna_1	3	-	-	5:k1	-	-	-	-
+awyaXika_1	4	-	-	5:k1s	-	-	-	-
+baDa_1-wA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_4ch_0086b.5:AvaSyakawApariNAma	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0086b>
+#तो यह इतनी गर्म हो जाएगी ।
+$wyax	1	-	-	4:k1	-	proximal	-	-
+iwanA_1	2	-	-	3:quant	-	-	-	-
+garma_1	3	-	-	4:k1s	-	-	-	-
+ho_1-gA_1	4	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0086c>
+#कि यहाँ कुछ फ़सलें नहीं उग सकेंगी ।
+yahAz	1	-	-	5:k7p	-	-	-	-
+kuCa_1	2	-	-	3:quant	-	-	-	-
+PZasaleM_1	3	-	-	5:k1	-	-	-	-
+nahIM_1	4	-	-	5:neg	-	-	-	-
+uga_1-0_saka_1	5	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0087>
+#गाँवों की अपेक्षा नगरों का तापमान बहुत अधिक होता है ।
+gAzva_1	1	-	pl	3:r6	-	-	-	-
+apekRA_1	3	-	-	9:k1	-	-	-	-
+nagara_1	4	-	pl	6:r6	-	-	-	-
+wApamAna_1	6	-	-	9:k1	-	-	-	-
+bahuwa_1	7	-	-	8:intf	-	-	-	-
+aXika_1	8	-	-	9:k1s	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0088>
+#दिन के समय में ऐसाफेल्ट से बनी सडकें एवं धतु और कंक्रीट से बने भवन गर्म हो जाते हैं ।
+xina_1	1	-	-	7:k7t	-	-	-	-
+EsAPelta_1	5	-	-	7:k5	-	-	-	-
+bana_1	7	-	-	8:rvks	-	-	-	-
+sadaka_1	8	-	pl	9:ccof	-	-	-	-
+Xawu_1	10	-	-	-	-	-	-	22:op1
+kaMkrIta_1	12	-	-	-	-	-	-	22:op2
+bana_1	14	-	-	15:rvks	-	-	-	-
+Bavana_1	15	-	-	9:ccof	-	-	-	-
+garma_1	16	-	-	-	-	-	-	21:kriyAmUla
+ho_1-wA_hE_1	17	-	-	-	-	[shade:ja_1]	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	14:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0089>
+#रात के समय यह उष्मा मुक्त हो जाती है ।
+rAwa_1	1	-	-	7:k7t	-	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+uRmA_1	5	-	-	7:k1	-	-	-	-
+mukwa_1	6	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_ho_1	7	-	-	-	-	[shade:ja_1]	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0090>
+#नगर के भीड वाले उँचे भवन गर्म वायु को रोक लेते हैं , जिससे नगरों का तापमान बढ जाता है ।
+nagara_1	1	-	-	3:r6	-	-	-	-
+BIda_1	3	-	mawupa	6:mod	-	-	-	-
+uzce_1	5	-	-	6:mod	-	-	-	-
+Bavana_1	6	-	-	10:k1	-	-	-	-
+garma_1	7	-	-	8:mod	-	-	-	-
+vAyu_1	8	-	-	10:k2	-	-	-	-
+roka_1-wA_hE_1	10	-	-	0:main	-	[shade:le_1]	-	-
+$yax	14	-	-	18:rh	-	-	-	-
+nagara_1	15	-	pl	17:r6	-	-	-	-
+wApamAna_1	17	-	-	18:k1	-	-	-	-
+baDa_1	18	-	-	10:rc	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0091>
+#वायु दाब ।
+vAyu_1	1	-	-	-	-	-	-	4:mod
+xAba_1	2	-	-	-	-	-	-	4:head
+[nc_1]	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0092a>
+#यह जानकर आपको आश्चर्य होगा ।
+$wyax	1	-	-	2:k2	-	proximal	-	-
+jAna_1	2	-	-	5:rpk	-	-	-	-
+$addressee	3	-	-	5:k4a	-	respect	-	-
+AScarya_1	4	-	-	-	-	-	-	7:kriyAmUla
+ho_1-gA_1	5	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0092b>
+#कि वायु हमारे शरीर पर उच्च दाब के साथ बल लगाती है ।
+vAyu	1	male	-	10:k1	-	-	-	-
+$speaker	2	-	pl	3:r6	-	-	-	-
+SarIra_1	3	-	-	10:k7p	-	-	-	-
+ucca_1	5	-	-	6:mod	-	-	-	-
+xAba_1	6	-	-	10:ras-k2	-	-	-	-
+sAWa_1	8	-	-	6:k7p	-	-	-	-
+bala_1	9	-	-	-	-	-	-	13:kriyAmUla
+lagA_1-wA_hE_1	10	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0093>
+#किंतु हम इसका अनुभव नहीं करते हैं ।
+$speaker	1	-	pl	5:k1	-	-	-	-
+$wyax	2	-	-	3:k2	-	proximal	-	-
+anuBava_1	3	-	-	-	-	-	-	8:kriyAmUla
+nahIM_1	4	-	-	5:neg	-	-	-	-
+kara_1-wA_hE_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0094a>
+#यह इसलिए होता है ।
+$wyax	1	-	-	3:k1	-	proximal	-	-
+isalie	2	-	-	3:rh	-	-	-	-
+ho_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0094b>
+#क्योंकि वायु का दाब हमारे ऊपर सभी दिशाओं से लगता है ।
+vAyu_1	1	-	-	3:r6	-	-	-	-
+xAba_1	3	-	-	9:k1	-	-	-	-
+$speaker	4	-	pl	9:k7	-	-	-	-
+Upara_1	5	-	-	4:k7p	-	-	-	-
+saBI_1	6	-	-	7:quant	-	-	-	-
+xiSA_1	7	-	pl	9:k5	-	-	-	-
+laga_1-wA_hE_1	9	-	-	0:main	Geo_ncert_7stnd_4ch_0094a.9:kAryakAraNa	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0094c>
+#और हमारा शरीर विपरीत बल लगाता है ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+SarIra_1	2	-	-	5:k1	-	-	-	-
+viparIwa_1	3	-	-	4:k2	-	-	-	-
+bala_1	4	-	-	-	-	-	-	8:kriyAmUla
+lagA_1-wA_hE_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	Geo_ncert_7stnd_4ch_0094b.8:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0095>
+#पृथ्वी की सतह पर वायु के भार द्वारा लगाया गया दाब , वायु दाब कहलाता है ।
+pqWvI	1	female	-	3:r6	-	-	-	-
+sawaha_1	3	-	-	9:k7p	-	-	-	-
+vAyu_1	5	-	-	7:r6	-	-	-	-
+BAra_1	7	-	-	9:k1	-	-	-	-
+lagA_1-yA_jA_yA1_1	9	-	-	0:main	-	-	-	-
+xAba_1	11	-	-	15:k1	-	-	-	-
+vAyu_1	13	-	-	-	-	-	-	18:mod
+xAba	14	male	-	-	-	-	-	18:head
+[nc_1]	18	-	-	15:k1	-	-	-	-
+kahalA_1	15	-	-	9:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0096>
+#वायुमंडल में ऊपर की ओर जाने पर दाब तेजी से गिरने लगता है ।
+vAyumaMdala_1	1	-	-	6:k7p	-	-	-	-
+Upara_1	3	-	-	6:rd	-	-	-	-
+ora_1	5	-	-	3:k7p	-	-	-	-
+jA_1	6	-	pl	11:rblsk	-	-	-	-
+xAba_1	8	-	-	11:k1	-	-	-	-
+wejI_1	9	-	-	11:krvn	-	-	-	-
+gira_1-nA_laga_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0097a>
+#समुद्र स्तर पर वायु दाब सर्वाधिक होता है ।
+samuxra_1	1	-	-	-	-	-	-	10:mod
+swara_1	2	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	7:k7	-	-	-	-
+vAyu_1	4	-	-	-	-	-	-	11:mod
+xAba_1	5	-	-	-	-	-	-	11:head
+[nc_2]	11	-	-	7:k1	-	-	-	-
+sarvAXika_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0097b>
+#और ऊँचाई पर जाने पर यह घटता जाता है ।
+UzcAI_1	1	-	-	3:k7	-	-	-	-
+jA_1	3	-	pl	6:rblsk	-	-	-	-
+$wyax	5	-	-	6:k2	-	proximal	-	-
+Gata_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0097a.6:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0098>
+#वायु दाब का क्षैतिज वितरण किसी स्थान पर उपस्थित वायु के ताप द्वारा प्रभावित होता है ।
+vAyu_1	1	-	-	-	-	-	-	18:mod
+xAba_1	2	-	-	-	-	-	-	18:head
+[nc_1]	18	-	-	5:r6	-	-	-	-
+kREwija_1	4	-	-	5:mod	-	-	-	-
+viwaraNa_1	5	-	-	15:k1	-	-	-	-
+kisI	6	-	-	7:mod	-	-	-	-
+sWAna_1	7	-	-	9:intf	-	-	-	-
+upasWiwa_1	9	-	-	10:mod	-	-	-	-
+vAyu_1	10	-	-	12:r6	-	-	-	-
+wApa_1	12	-	-	15:k1	-	-	-	-
+praBAviwa_1	14	-	-	-	-	-	-	19:kriyAmUla
+ho_1-wA_hE_1	15	-	-	-	-	-	-	19:verbalizer
+[cp_1]	19	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0099>
+#अधिक तापमान वाले क्षेत्रों में वायु गर्म होकर ऊपर उठती है ।
+wApamAna_1	2	-	mawupa	4:mod	-	-	-	-
+kRewra_1	4	-	pl	10:k7p	-	-	-	-
+vAyu_1	6	-	-	8:k1	-	-	-	-
+garma_1	7	-	-	-	-	-	-	13:kriyAmUla
+ho_1	8	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	10:rpk	-	-	-	-
+Upara_1	9	-	-	10:k7	-	-	-	-
+uTa_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0100>
+#यह निम्न दाब क्षेत्र बनाता है ।
+$wyax	1	-	-	5:k1	-	proximal	-	-
+nimna_1	2	-	-	4:mod	-	-	-	-
+xAba_1	3	-	-	-	-	-	-	8:mod
+kRewra_1	4	-	-	-	-	-	-	8:head
+[nc_1]	8	-	-	5:k1s	-	-	-	-
+banA_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0101>
+#निम्न दाब , बादलयुक्त आकाश एवं नम मौसम के साथ जुडा होता है ।
+nimna_1	1	-	-	2:mod	-	-	-	-
+xAba_1	2	-	-	-	-	-	-	15:op1
+bAxalayukwa_1	4	-	-	5:mod	-	-	-	-
+AkASa_1	5	-	-	-	-	-	-	15:op2
+nama_1	7	-	-	8:mod	-	-	-	-
+mOsama_1	8	-	-	-	-	-	-	15:op3
+sAWa_1	10	-	-	8:k7p	-	-	-	-
+judA_1-0_ho_hE_1	11	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	11:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0102>
+#कम तापमान वाले क्षेत्रों की वायु ठंडी होती है ।
+wApamAna_1	2	-	mawupa	4:mod	-	-	-	-
+kRewra_1	4	-	pl	6:r6	-	-	-	-
+vAyu_1	6	-	-	8:k1	-	-	-	-
+TaMdA_1	7	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0103>
+#इसके फलस्वरूप यह भारी होती है ।
+$wyax	1	-	-	5:rh	-	proximal	-	-
+$wyax	3	-	-	5:k1	-	proximal	-	-
+BArI_1	4	-	-	-	-	-	-	8:kriyAmUla
+ho_1-wA_hE_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0104>
+#भारी वायु निमज्जित होकर उच्च दाब क्षेत्र बनाती है ।
+BArI_1	1	-	-	2:mod	-	-	-	-
+vAyu_1	2	-	-	8:k1	-	-	-	-
+nimajjiwa_1	3	-	-	-	-	-	-	12:kriyAmUla
+ho_1	4	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	8:rpk	-	-	-	-
+ucca_1	5	-	-	7:mod	-	-	-	-
+xAba_1	6	-	-	-	-	-	-	11:mod
+kRewra_1	7	-	-	-	-	-	-	11:head
+[nc_1]	11	-	-	8:k2	-	-	-	-
+banA_1-wA_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0105>
+#उच्च दाब के कारण स्पष्ट एवं स्वच्छ आकाश होता है ।
+ucca_1	1	-	-	2:mod	-	-	-	-
+xAba_1	2	-	-	9:rh	-	-	-	-
+spaRta_1	5	-	-	-	-	-	-	12:op1
+svacCa_1	7	-	-	-	-	-	-	12:op2
+AkASa_1	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+[conj_1]	12	-	-	8:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0106>
+#वायु सदैव उच्च दाब क्षेत्र से निम्न दाब क्षेत्र की ओर गमन करती है ।
+vAyu	1	male	-	13:k1	-	-	-	-
+saxEva_1	2	-	-	13:krvn	-	-	-	-
+ucca_1	3	-	-	5:mod	-	-	-	-
+xAba_1	4	-	-	-	-	-	-	16:mod
+kRewra_1	5	-	-	-	-	-	-	16:head
+[nc_1]	16	-	-	13:k5	-	-	-	-
+nimna_1	7	-	-	9:mod	-	-	-	-
+xAba_1	8	-	-	-	-	-	-	17:mod
+kRewra_1	9	-	-	-	-	-	-	17:head
+[nc_2]	17	-	-	13:rd	-	-	-	-
+ora_1	11	-	-	9:k7p	-	-	-	-
+gamana_1	12	-	-	-	-	-	-	18:kriyAmUla
+kara_1-wA_hE_1	13	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0107>
+#उच्च दाब क्षेत्र से निम्न दाब क्षेत्र की ओर वायु की गति को ‘पवन’कहते हैं ।
+ucca_1	1	-	-	3:mod	-	-	-	-
+xAba_1	2	-	-	-	-	-	-	17:mod
+kRewra_1	3	-	-	-	-	-	-	17:head
+[nc_1]	17	-	-	14:k5	-	-	-	-
+nimna_1	5	-	-	7:mod	-	-	-	-
+xAba_1	6	-	-	-	-	-	-	18:mod
+kRewra_1	7	-	-	-	-	-	-	18:head
+[nc_2]	18	-	-	14:rd	-	-	-	-
+ora_1	9	-	-	7:k7p	-	-	-	-
+vAyu_1	10	-	-	12:r6	-	-	-	-
+gawi_1	12	-	-	14:k2	-	-	-	-
+‘pavana’kahawe	14	-	-	15:k1s	-	-	-	-
+hE_1-pres	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0108>
+#आप पवन को काम करते देख सकते हैं ।
+$addressee	1	-	-	6:k1	-	respect	-	-
+pavana	2	male	-	5:k2	-	-	-	-
+kAma_1	4	-	-	5:k2	-	-	-	-
+kara_1	5	-	pl	6:vmod	-	-	-	-
+xeKa_1-0_saka_hE_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0109a>
+#जब यह सडक पर गिरी पत्तियों को उडाती है ।
+$wyax	1	-	-	7:k1	-	proximal	-	-
+sadaka_1	2	-	-	4:k7p	-	-	-	-
+gira_1	4	-	-	5:rvks	-	-	-	-
+pawwI_1	5	-	pl	7:k2	-	-	-	-
+udA_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0109b>
+#अथवा तूफ़ान के समय पेडों को उखाड देती है ।
+wUPZAna_1	1	-	-	6:k7t	-	-	-	-
+peda_1	4	-	pl	6:k2	-	-	-	-
+uKAda_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0109a.6:anyawra	[shade:xe_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0110a>
+#कभी-कभी जब पवन धीरे बहती है ।
+kaBI_1	1	-	xviwva	5:k1	-	-	-	-
+$yax	2	-	-	5:k7t	-	-	-	-
+pavana	3	male	-	-	-	-	-	8:begin
+[ne_1]	8	-	-	5:krvn	-	-	-	-
+XIre_1	4	-	-	-	-	-	-	8:inside
+baha_1-wA_hE_1	5	-	-	0:main	Geo_ncert_7stnd_4ch_0110b.5:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0110b>
+#तो आप इसे महीन धूल या धुएँ को उडाते देख सकते हैं ।
+$addressee	1	-	-	9:k1	-	respect	-	-
+$wyax	2	-	-	-	-	proximal	-	13:op1
+mahIna_1	3	-	-	4:mod	-	-	-	-
+XUla_1	4	-	-	-	-	-	-	13:op2
+XuAz_1	6	-	pl	-	-	-	-	13:op3
+udA_1	8	-	pl	9:vmod	-	-	-	-
+xeKa_1-0_saka_hE_1	9	-	-	0:main	-	-	-	-
+[disjunct_1]	13	-	-	8:k2	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0111a>
+#कभी-कभी पवन इतनी तेज यह होती है ।
+kaBI_1	1	-	xviwva	6:rh	-	-	-	-
+pavana	2	male	-	6:k1	-	-	-	-
+iwanA_1	3	-	-	4:intf	-	-	-	-
+weja_1	4	-	-	-	-	-	-	9:kriyAmUla
+$wyax	5	-	-	6:k1	-	proximal	-	-
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0111b>
+#कि इसके विपरीत दिशा में चलना कठिन हो जाता है ।
+$wyax	1	-	-	7:rh	-	proximal	-	-
+xiSA_1	3	-	-	5:k7	-	-	-	-
+cala_1	5	-	-	7:k1	-	-	-	-
+kaTina_1	6	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_ho_1	7	-	-	-	-	[shade:ja_1]	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0112a>
+#आपने अवश्य अनुभव यह किया होगा ।
+$addressee	1	-	-	5:k1	-	respect	-	-
+avaSya_1	2	-	-	5:krvn	-	-	-	-
+anuBava_1	3	-	-	-	-	-	-	8:kriyAmUla
+$wyax	4	-	-	5:k2	-	proximal	-	-
+kara_1-yA_hE_1	5	-	-	-	-	-	-	8:verbalizer
+[cp_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0112b>
+#कि तेज पवन में छाता लेकर चलना आसान नहीं है ।
+weja_1	1	-	-	2:mod	-	-	-	-
+pavana	2	male	-	6:k7	-	-	-	-
+CAwA_1	4	-	-	5:k2	-	-	-	-
+le_1	5	-	-	6:rpk	-	-	-	-
+cala_1	6	-	-	9:k1	-	-	-	-
+AsAna_1	7	-	-	9:k1s	-	-	-	-
+nahIM_1	8	-	-	9:neg	-	-	-	-
+hE_1-pres	9	-	-	0:main	-	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0113a>
+#तीन अन्य उदाहरण सोचिए ।
+wIna	1	numex	pl	3:card	-	-	-	-
+anya_1	2	-	-	3:mod	-	-	-	-
+uxAharaNa_1	3	-	-	4:k1	-	-	-	-
+soca_1-e_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0113b>
+#जब तेज पवन के कारण आपके लिए समस्या उत्पन्न हुई हो ।
+weja_1	1	-	-	2:mod	-	-	-	-
+pavana	2	male	-	9:rh	-	-	-	-
+$addressee	5	-	-	9:rt	-	respect	-	-
+samasyA_1	7	-	-	9:k1	-	-	-	-
+uwpanna_1	8	-	-	-	-	-	-	12:kriyAmUla
+ho_1-yA_hE_1	9	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0114>
+#पवन को मुख्यतः तीन प्रकारों में विभाजित किया जा सकता है ।
+pavana	1	male	-	8:k2	-	-	-	-
+muKyawaH_1	3	-	-	5:mod	-	-	-	-
+wIna	4	numex	pl	5:card	-	-	-	-
+prakAra_1	5	-	pl	8:k7	-	-	-	-
+viBAjiwa_1	7	-	-	-	-	-	-	13:kriyAmUla
+kara_1-yA_jA_1	8	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0115>
+#तापमान को मापने की मानकइकाई डिग्री सेल्सियस है ।
+wApamAna_1	1	-	-	3:k2	-	-	-	-
+mApa_1	3	-	pl	7:r6	-	-	-	-
+mAnakaikAI_1	5	-	-	-	-	-	-	10:mod
+digrI_1	6	-	-	-	-	-	-	11:mod
+selsiyasa_1	7	-	-	-	-	-	-	11:head
+[nc_2]	11	-	-	8:k1	-	-	-	-
+hE_1-pres	8	-	-	0:main	-	-	-	-
+%affirmative
+[nc_1]	10	-	-	8:k1	-	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0116>
+#इस का आविष्कार ऐंडर्स सेल्सियस ने किया था ।
+$wyax	1	-	-	3:r6	-	proximal	-	-
+AviRkAra_1	3	-	-	-	-	-	-	11:kriyAmUla
+EMdarsa	4	-	-	-	-	-	-	10:begin
+[ne_1]	10	-	-	7:k1	-	-	-	-
+selsiyasa	5	-	-	-	-	-	-	10:inside
+kara_1-yA_WA_1	7	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0117a>
+#सेल्सियस पैमाने पर जल 0°सेल्सियस पर जमता है ।
+selsiyasa_1	1	-	-	2:mod	-	-	-	-
+pEmAnA_1	2	-	pl	7:k7	-	-	-	-
+jala_1	4	-	pl	-	-	-	-	10:mod
+0°selsiyasa	5	-	-	-	-	-	-	10:head
+[nc_1]	10	-	-	7:k7p	-	-	-	-
+jama_1-wA_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0117b>
+#एवं 100° सेल्सियस पर उबलता है ।
+100°	1	numex	-	-	-	-	-	7:count
+selsiyasa_1	2	-	-	-	-	-	-	7:unit
+ubala_1-wA_hE_1	4	-	-	0:main	Geo_ncert_7stnd_4ch_0117a.4:samuccaya	-	-	-
+[meas_1]	7	-	-	4:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0118a>
+#क्या आप यह जानते हैं ।
+$kim	1	-	-	4:vmod	-	-	-	-
+$addressee	2	-	-	4:k1	-	respect	-	-
+$wyax	3	-	-	4:k2	-	proximal	-	-
+jAna_1-wA_hE_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0118b>
+#कि चाँद पर वायु नहीं है , अतएव वहाँ वायु दाब भी नहीं है ।
+cAzxa_1	1	-	-	5:k7p	-	-	-	-
+vAyu_1	3	-	-	5:k1	-	-	-	-
+nahIM_1	4	-	-	5:neg	-	-	-	-
+hE_1-pres	5	-	-	-	-	-	-	16:op1
+vahAz	8	-	pl	13:k7p	-	-	-	-
+vAyu_1	9	-	-	-	-	-	-	15:mod
+xAba_1	10	-	-	-	-	BI	-	15:head
+[nc_1]	15	-	-	13:k1	-	-	-	-
+nahIM_1	12	-	-	13:neg	-	-	-	-
+hE_1-pres	13	-	-	-	-	-	-	16:op2
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0119a>
+#अंतरिक्ष यात्रा जब चाँद पर जाते हैं ।
+aMwarikRa_1	1	-	-	-	-	-	-	9:mod
+yAwrA_1	2	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	6:k1	-	-	-	-
+$yax	3	-	-	6:k7t	-	-	-	-
+cAzxa_1	4	-	-	6:k7p	-	-	-	-
+jA_1-wA_hE_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0119b.6:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0119b>
+#तो वे विशेष रूप से सुरक्षित हवा से भरी हुई अंतरिक्ष पोशाक पहनते हैं ।
+$wyax	1	-	pl	12:k1	-	distal	-	-
+viSeRa_1	2	-	-	3:mod	-	-	-	-
+rUpa_1	3	-	-	8:krvn	-	-	-	-
+surakRiwa_1	5	-	-	6:mod	-	-	-	-
+havA_1	6	-	-	8:krvn	-	-	-	-
+Bara_1	8	-	-	11:rvks	-	-	-	-
+aMwarikRa_1	10	-	-	-	-	-	-	15:mod
+poSAka_1	11	-	-	-	-	-	-	15:head
+[nc_1]	15	-	-	12:k2	-	-	-	-
+pahana_1-wA_hE_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0120a>
+#यदि वे इस अंतरिक्ष पोशाक को न पहनें ।
+$wyax	1	-	pl	7:k1	-	distal	-	-
+$wyax	2	-	-	4:dem	-	proximal	-	-
+aMwarikRa_1	3	-	-	-	-	-	-	9:mod
+poSAka_1	4	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	7:k2	-	-	-	-
+na_1	6	-	-	7:neg	-	-	-	-
+pahana_1-e_1	7	-	-	0:main	Geo_ncert_7stnd_4ch_0120b.7:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0120b>
+#तो अंतरिक्ष यात्रियों के शरीर द्वारा विपरीत बल लगने के कारण उनकी रक्त शिराएँ फट सकती हैं ।
+aMwarikRa_1	1	-	-	-	-	-	-	18:mod
+yAwrI_1	2	-	pl	-	-	-	-	18:head
+[nc_1]	18	-	-	4:r6	-	-	-	-
+SarIra_1	4	-	-	8:k1	-	-	-	-
+viparIwa_1	6	-	-	7:k2	-	-	-	-
+bala_1	7	-	-	-	-	-	-	20:kriyAmUla
+laga_1	8	-	pl	-	-	-	-	20:verbalizer
+[cp_1]	20	-	-	14:rh	-	-	-	-
+$wyax	11	-	pl	13:r6	-	distal	-	-
+rakwa_1	12	-	-	-	-	-	-	19:mod
+SirA_1	13	-	pl	-	-	-	-	19:head
+[nc_2]	19	-	-	14:k2	-	-	-	-
+Pata_1-0_saka_hE_1	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0121>
+#जिससे अंतरिक्ष यात्री रक्तस्त्रावित हो सकते हैं ।
+$yax	1	-	-	5:rh	-	-	-	-
+aMwarikRa_1	2	-	-	-	-	-	-	9:mod
+yAwrI_1	3	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	5:k1	-	-	-	-
+rakwaswrAviwa_1	4	-	-	-	-	-	-	10:kriyAmUla
+ho_1-0_saka_hE_1	5	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0122>
+#पवन का नाम उसके आने की दिशा के आधर पर निर्धरित होता है ।
+pavana	1	male	-	3:r6	-	-	-	-
+nAma_1	3	-	-	5:k1	-	-	-	-
+$wyax	4	-	-	5:r6	-	distal	-	-
+A_1	5	-	pl	7:r6	-	-	-	-
+xiSA_1	7	-	-	9:r6	-	-	-	-
+AXara_1	9	-	-	12:k7	-	-	-	-
+nirXariwa_1	11	-	-	-	-	-	-	15:kriyAmUla
+ho_1-wA_hE_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0123>
+#उदाहरण के लिए - पश्चिम से आने वाली पवन को पश्चिमी ( पछुवा ) पवन कहते है ।
+uxAharaNa_1	1	-	-	16:rt	-	-	-	-
+paScima	5	male	-	7:k2g	-	-	-	-
+A_1	7	-	pl	9:mod	-	-	-	-
+pavana	9	male	-	16:k2	-	-	-	-
+paScimI_1	11	-	-	13:mod	-	-	-	-
+paCuvA	13	-	-	15:mod	-	-	-	-
+pavana	15	male	-	16:k1	-	-	-	-
+kaha_1-wA_hE_1	16	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0124>
+#स्थायी पवनें : व्यापारिक पश्चिमी एवं पूर्वी पवनें स्थायी पवनें हैं ।
+sWAyI_1	1	-	-	-	-	-	-	14:op1
+pavaneM_1	2	-	-	-	-	-	-	13:mod
+vyApArika_1	4	-	-	-	-	-	-	13:head
+[nc_1]	13	-	-	1:mod	-	-	-	-
+paScimI_1	5	-	-	-	-	-	-	14:op2
+pUrvI_1	7	-	-	-	-	-	-	14:op3
+pavaneM	8	-	-	11:k1	-	-	-	-
+sWAyI_1	9	-	-	10:mod	-	-	-	-
+pavaneM_1	10	-	-	11:k1s	-	-	-	-
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	14	-	-	8:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0125>
+#ये वर्षभर लगातार निश्चित दिशा में चलती रहती हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+varRaBara_1	2	-	-	7:k1	-	-	-	-
+lagAwAra_1	3	-	-	7:krvn	-	-	-	-
+niSciwa_1	4	-	-	5:mod	-	-	-	-
+xiSA_1	5	-	-	7:k7	-	-	-	-
+cala_1-wA_raha_hE_1	7	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0126H>
+#मौसमी पवनें ।
+mOsamI_1	1	-	-	2:mod	-	-	-	-
+pavaneM	2	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0126>
+#ये पवनें विभिन्न ऋतुओं में अपनी दिशा बदलती रहती हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+pavaneM_1	2	-	-	8:k1	-	-	-	-
+viBinna_1	3	-	-	4:mod	-	-	-	-
+qwu_1	4	-	pl	8:k7	-	-	-	-
+apanA	6	-	-	7:r6	-	-	-	-
+xiSA_1	7	-	-	8:k2	-	-	-	-
+baxala_1-wA_raha_hE_1	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0127>
+#उदाहरण के लिए-भारत में मानसूनी पवनें ।
+uxAharaNa_1	1	-	-	3:r6	-	-	-	-
+lie-BArawa	3	-	-	0:k7	-	-	-	-
+mAnasUnI_1	5	-	-	6:mod	-	-	-	-
+pavaneM_1	6	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0128H>
+#स्थानीय पवनें ।
+sWAnIya_1	1	-	-	2:mod	-	-	-	-
+pavaneM_1	2	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0128>
+#ये पवनें किसी छोटे क्षेत्र में वर्ष या दिन के किसी विशेष समय में चलती हैं ।
+$wyax	1	-	pl	2:dem	-	proximal	-	-
+pavaneM_1	2	-	-	15:k1	-	-	-	-
+kisI	3	-	-	5:mod	-	-	-	-
+CotA_1	4	-	pl	5:mod	-	-	-	-
+kRewra_1	5	-	-	15:k7p	-	-	-	-
+varRa_1	7	-	-	-	-	-	-	18:op1
+xina_1	9	-	-	-	-	-	-	18:op2
+kisI	11	-	-	13:mod	-	-	-	-
+viSeRa_1	12	-	-	13:mod	-	-	-	-
+samaya_1	13	-	-	15:k7t	-	-	-	-
+cala_1-wA_hE_1	15	-	-	0:main	-	-	-	-
+[disjunct_1]	18	-	-	13:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0129>
+#उदाहरण के लिए-स्थल एवं समुद्री समीर ।
+uxAharaNa_1	1	-	-	3:r6	-	-	-	-
+lie-sWala	3	-	-	-	-	-	-	8:op1
+samuxrI_1	5	-	-	6:mod	-	-	-	-
+samIra_1	6	-	-	-	-	-	-	8:op2
+[conj_1]	8	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0130>
+#क्या आपको भारत के उत्तरी क्षेत्र की गर्म एवं शुष्क स्थानीय पवन याद हैं ?
+$kim	1	-	-	14:krvn	-	-	-	-
+$addressee	2	-	-	14:k4a	-	respect	-	-
+BArawa	3	male	-	6:r6	-	-	-	-
+uwwarI_1	5	-	-	6:mod	-	-	-	-
+kRewra_1	6	-	-	12:r6	-	-	-	-
+garma_1	8	-	-	-	-	-	-	16:op1
+SuRka_1	10	-	-	-	-	-	-	16:op2
+sWAnIya_1	11	-	-	10:mod	-	-	-	-
+pavana_1	12	-	-	14:k1	-	-	-	-
+yAxa_1	13	-	-	14:k1s	-	-	-	-
+hE_1-pres	14	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	12:mod	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0131>
+#इसे ‘लू’ कहते हैं ।
+$wyax	1	-	-	3:k2	-	proximal	-	-
+‘lU’	2	-	-	3:k2s	-	-	-	-
+kaha_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0132>
+#चक्रवात - प्राकृतिक आवेश ।
+cakravAwa	1	-	-	3:mod	-	-	-	-
+prAkqwika_1	3	-	-	4:mod	-	-	-	-
+AveSa_1	4	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0133>
+#भारत के पूर्वी समुद्री तट पर स्थित ओडिशा में बंगाल की खाडी से उठने वाले चक्रवातों का खतरा बना रहता है ।
+BArawa	1	male	-	5:r6	-	-	-	-
+pUrvI_1	3	-	-	5:mod	-	-	-	-
+samuxrI_1	4	-	-	3:mod	-	-	-	-
+wata_1	5	-	-	7:intf	-	-	-	-
+sWiwa_1	7	-	-	8:mod	-	-	-	-
+odiSA	8	-	-	14:k7p	-	-	-	-
+baMgAla	10	male	-	12:r6	-	-	-	-
+KAdI	12	female	-	14:k5	-	-	-	-
+uTa_1	14	-	pl	16:mod	-	-	-	-
+cakravAwoM_1	16	-	-	18:r6	-	-	-	-
+KawarA_1	18	-	-	19:k1	-	-	-	-
+banA_1-0_raha_hE_1	19	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0134>
+#17-18 अक्टूबर , 1999 को राज्य के पाँच जिलों में चक्रवात आया ।
+17-18	1	-	-	-	-	-	-	14:begin
+[ne_1]	14	-	-	12:k7t	-	-	-	-
+aktUbara	2	-	-	-	-	-	-	15:begin
+[ne_2]	15	-	-	12:k7t	-	-	-	-
+1999	4	numex	-	-	-	-	-	15:inside
+rAjya_1	6	-	-	9:r6	-	-	-	-
+pAzca	8	numex	-	9:card	-	-	-	-
+jilA_1	9	-	pl	12:k7p	-	-	-	-
+cakravAwa_1	11	-	-	12:k1	-	-	-	-
+A_1-yA_1	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0135>
+#29 अक्टूबर , 1999 को एक अन्य महाचक्रवात आया , जिसने राज्य के एक बडे भाग में तबाही मचाई ।
+29	1	numex	-	-	-	-	-	21:begin
+[ne_1]	21	-	-	9:k7t	-	-	-	-
+aktUbara	2	-	-	-	-	-	-	22:begin
+[ne_2]	22	-	-	9:k7t	-	-	-	-
+1999	4	numex	-	-	-	-	-	22:inside
+eka_1	6	numex	-	8:card	-	-	-	-
+anya_1	7	-	-	8:mod	-	-	-	-
+mahAcakravAwa_1	8	-	-	9:k1	-	-	-	-
+A_1-yA_1	9	-	-	0:main	-	-	-	-
+$yax	11	-	-	19:k1	-	-	-	-
+rAjya_1	12	-	-	16:r6	-	-	-	-
+eka_1	14	numex	-	16:card	-	-	-	-
+badA_1	15	-	pl	16:mod	-	-	-	-
+BAga_1	16	-	-	19:k7p	-	-	-	-
+wabAhI_1	18	-	-	-	-	-	-	23:kriyAmUla
+macA_1	19	-	-	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	8:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0136>
+#मुख्यतः पवन का वेग , वर्षा तथा ज्वारीय प्रोत्कर्ष से हानियाँ हुईं ।
+muKyawaH_1	1	-	-	12:krvn	-	-	-	-
+pavana	2	male	-	4:r6	-	-	-	-
+vega_1	4	-	-	-	-	-	-	15:op1
+varRA_1	6	-	-	-	-	-	-	15:op2
+jvArIya_1	8	-	-	9:mod	-	-	-	-
+prowkarRa	9	-	-	-	-	-	-	15:op3
+hAni_1	11	-	pl	-	-	-	-	14:kriyAmUla
+ho_1-yA_1	12	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	12:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0137>
+#260 किलोमीटर प्रति घंटे तक के वेग वाली पवन 36 घंटे से भी ज्यादा समय तक चलती रही ।
+260	1	meas	-	-	-	-	-	20:count
+kilomItara_1	2	-	-	-	-	prawi	-	20:unit
+GaMtA_1	4	-	pl	7:r6	-	-	-	-
+vega_1	7	-	mawupa	9:mod	-	-	-	-
+pavana	9	male	-	17:k1	-	-	-	-
+36	10	numex	-	11:card	-	-	-	-
+GaMtA_1	11	-	pl	-	-	BI	-	21:start
+samaya_1	15	-	-	-	-	-	-	21:end
+cala_1-wA_raha_1	17	-	-	0:main	-	-	-	-
+[meas_1]	20	-	-	4:mod	-	-	-	-
+[span_1]	21	-	-	17:k7t	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0138a>
+#तीव्र वेग वाली इस पवन ने पेडों को उखाड दिया ।
+wIvra_1	1	-	-	2:mod	-	-	-	-
+vega_1	2	-	mawupa	5:mod	-	-	-	-
+$wyax	4	-	-	5:dem	-	proximal	-	-
+pavana	5	male	-	9:k1	-	-	-	-
+peda_1	7	-	pl	9:k2	-	-	-	-
+uKAda_1-yA_1	9	-	-	0:main	-	[shade:xe_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0138b>
+#और कच्चे घरों को नष्ट कर दिया ।
+kaccA_1	1	-	pl	2:mod	-	-	-	-
+Gara_1	2	-	pl	5:k2	-	-	-	-
+naRta_1	4	-	-	-	-	-	-	8:kriyAmUla
+kara_1-yA_1	5	-	-	-	-	[shade:xe_1]	-	8:verbalizer
+[cp_1]	8	-	-	0:main	Geo_ncert_7stnd_4ch_0138a.8:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0139>
+#अनेक औद्योगिक भवनों तथा अन्य घरों की छतें भी उड गईं ।
+aneka_1	1	-	-	3:quant	-	-	-	-
+Oxyogika_1	2	-	-	3:mod	-	-	-	-
+Bavana_1	3	-	pl	-	-	-	-	13:op1
+anya_1	5	-	-	6:mod	-	-	-	-
+Gara_1	6	-	pl	-	-	-	-	13:op2
+Cawa_1	8	-	pl	10:k1	-	BI	-	-
+uda_1-yA_1	10	-	-	0:main	-	[shade:ja_1]	-	-
+[conj_1]	13	-	-	8:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0140>
+#विद्युत आपूर्ति एवं टेलीफोन लाइनें पूरी तरह से कट गईं ।
+vixyuwa_1	1	-	-	-	-	-	-	12:mod
+ApUrwi_1	2	-	-	-	-	-	-	12:head
+[nc_1]	12	-	-	-	-	-	-	14:op1
+telIPona_1	4	-	-	-	-	-	-	13:mod
+lAina_1	5	-	pl	-	-	-	-	13:head
+[nc_2]	13	-	-	-	-	-	-	14:op2
+pUrA_1	6	-	-	7:mod	-	-	-	-
+waraha_1	7	-	-	9:krvn	-	-	-	-
+kata_1-yA_1	9	-	-	0:main	-	[shade:ja_1]	-	-
+[conj_1]	14	-	-	9:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0141>
+#चक्रवात के फलस्वरूप लगातार तीन दिनों तक भारी वर्षा होती रही ।
+cakravAwa_1	1	-	-	10:rh	-	-	-	-
+lagAwAra_1	4	-	-	10:krvn	-	-	-	-
+wIna	5	numex	pl	6:card	-	-	-	-
+xina_1	6	-	pl	10:k7t	-	-	-	-
+BArI_1	8	-	-	9:mod	-	-	-	-
+varRA_1	9	-	-	10:k1	-	-	-	-
+ho_1-wA_raha_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0142>
+#इस वर्षा के कारण ओडिशा की प्रमुख नदियों में बाढ आ गई ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+varRA_1	2	-	-	11:rh	-	-	-	-
+odiSA	5	-	-	8:r6	-	-	-	-
+pramuKa_1	7	-	-	8:mod	-	-	-	-
+naxI_1	8	-	pl	11:k7p	-	-	-	-
+bADa_1	10	-	-	11:k1	-	-	-	-
+A_1-yA_1	11	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0143a>
+#चक्रवाती पवनों के कारण उठी ज्वारीय तरंगें स्थल पर 20 किलोमीटर तक आ गईं ।
+cakravAwI_1	1	-	-	2:mod	-	-	-	-
+pavanoM_1	2	-	-	5:rh	-	-	-	-
+uTa_1	5	-	-	8:rvks	-	-	-	-
+jvArIya_1	6	-	-	-	-	-	-	16:mod
+waraMga	7	female	pl	-	-	-	-	17:begin
+[ne_1]	17	-	-	13:k7p	-	-	-	-
+sWala	8	male	-	-	-	-	-	17:inside
+20	10	meas	-	-	-	-	-	18:count
+kilomItara_1	11	-	-	-	-	-	-	18:unit
+A_1-yA_1	13	-	-	0:main	-	[shade:ja_1]	-	-
+[meas_1]	18	-	-	13:k7t	-	-	-	-
+%affirmative
+[nc_1]	16	-	-	13:k7p	-	-	-	-
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0143b>
+#और फलस्वरूप तटीय क्षेत्रों में भयानक तबाही हुई ।
+watIya_1	2	-	-	3:mod	-	-	-	-
+kRewra_1	3	-	pl	7:k7p	-	-	-	-
+BayAnaka_1	5	-	-	6:mod	-	-	-	-
+wabAhI_1	6	-	-	7:k1	-	-	-	-
+ho_1	7	-	-	1:ccof	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0144>
+#अचानक 7 से 10 मीटर ऊँची ज्वारीय तरंगें आ गयीं , जिसके कारण तैयार खडी धान की फसल पूरी तरह से नष्ट हो गयी ।
+acAnaka_1	1	-	-	9:krvn	-	-	-	-
+7	2	numex	-	5:rsp	-	-	-	-
+10	4	meas	-	-	-	-	-	27:count
+mItara_1	5	-	-	-	-	-	-	27:unit
+UzcA_1	6	-	-	8:mod	-	-	-	-
+jvArIya_1	7	-	-	8:mod	-	-	-	-
+waraMga_1	8	-	pl	9:k1	-	-	-	-
+A_1-yA_1	9	-	-	0:main	-	[shade:ja_1]	-	-
+$yax	12	-	-	14:dem	-	-	-	-
+wEyAra_1	14	-	-	16:mod	-	-	-	-
+KadA_1	15	-	-	16:mod	-	-	-	-
+XAna_1	16	-	-	18:r6	-	-	-	-
+Pasala_1	18	-	-	23:k1	-	-	-	-
+pUrA_1	19	-	-	20:mod	-	-	-	-
+waraha_1	20	-	-	23:krvn	-	-	-	-
+naRta_1	22	-	-	-	-	-	-	26:kriyAmUla
+ho_1	23	-	-	-	-	[shade:ja_1]	-	26:verbalizer
+[cp_1]	26	-	-	9:rc	-	-	-	-
+[meas_1]	27	-	-	6:intf	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0145a>
+#25 अक्टूबर 1999 को पूर्वी पोर्ट ब्लेयर के निकट थाईलैंड की खाडी में अवदाब के कारण यह चक्रवात उत्पन्न हुआ ।
+25	1	numex	-	-	-	-	-	22:begin
+[ne_1]	22	-	-	20:k7t	-	-	-	-
+aktUbara	2	-	-	-	-	-	-	23:begin
+[ne_2]	23	-	-	20:k7t	-	-	-	-
+1999	3	numex	-	-	-	-	-	23:inside
+pUrvI_1	5	-	-	7:mod	-	-	-	-
+porta	6	-	-	-	-	-	-	24:begin
+[ne_3]	24	-	-	-	-	-	-	26:whole
+bleyara	7	-	-	-	-	-	-	24:inside
+nikata_1	9	-	-	7:k7p	-	-	-	-
+WAIlEMda	10	-	-	12:r6	-	-	-	-
+KAdI	12	female	-	-	-	-	-	26:part
+avaxAba_1	14	-	-	20:rh	-	-	-	-
+$wyax	17	-	-	18:dem	-	proximal	-	-
+cakravAwa_1	18	-	-	20:k1	-	-	-	-
+uwpanna_1	19	-	-	-	-	-	-	25:kriyAmUla
+ho_1-yA_1	20	-	-	-	-	-	-	25:verbalizer
+[cp_1]	25	-	-	0:main	-	-	-	-
+[spatial_1]	26	-	-	20:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0145b>
+#और यह धीरे-धीरे उत्तर-पश्चिमी दिशा में बढा ।
+$wyax	1	-	-	6:k1	-	proximal	-	-
+XIre_1	2	-	xviwva	6:krvn	-	-	-	-
+uwwara-paScimI	3	-	-	4:mod	-	-	-	-
+xiSA_1	4	-	-	6:k7	-	-	-	-
+baDA_1-0_1	6	-	-	0:main	Geo_ncert_7stnd_4ch_0145a.6:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0146a>
+#गहन होकर इसने महाचक्रवात का रूप धारण कर लिया ।
+gahana_1	1	-	-	-	-	-	-	11:kriyAmUla
+ho_1	2	-	-	-	-	-	-	11:verbalizer
+[cp_1]	11	-	-	8:rpk	-	-	-	-
+$wyax	3	-	-	8:k1	-	proximal	-	-
+mahAcakravAwa	4	-	-	6:r6	-	-	-	-
+rUpa_1	6	-	-	8:k2	-	-	-	-
+XAraNa_1	7	-	-	-	-	-	-	12:kriyAmUla
+kara_1-yA_1	8	-	-	-	-	[shade:le_1]	-	12:verbalizer
+[cp_2]	12	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0146b>
+#और 29 अक्टूबर को सुबह 10.30 बजे ओडिशा के इरेसामा एवं बालीवुफडा के बीच के क्षेत्रों को प्रभावित किया ।
+29	1	numex	-	-	-	-	-	20:begin
+[ne_1]	20	-	-	18:k7t	-	-	-	-
+aktUbara	2	-	-	-	-	-	-	20:inside
+subaha_1	4	-	-	6:mod	-	-	-	-
+10.30	5	clocktime	-	18:k7t	-	-	-	-
+odiSA	7	-	-	9:r6	-	-	-	-
+iresAmA	9	-	-	-	-	-	-	22:op1
+bAlIvuPadA	11	-	-	-	-	-	-	22:op2
+bIca_1	13	-	-	11:k7p	-	-	-	-
+kRewra_1	15	-	pl	18:k2	-	-	-	-
+praBAviwa_1	17	-	-	-	-	-	-	21:kriyAmUla
+kara_1-yA_1	18	-	-	-	-	-	-	21:verbalizer
+[cp_1]	21	-	-	0:main	Geo_ncert_7stnd_4ch_0146a.21:samuccaya	-	-	-
+[conj_1]	22	-	-	15:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0147>
+#इस महाचक्रवात ने भुवनेश्वर , कटक और 28 तटीय नगरों सहित ओडिशा के पूरे तट को बर्बाद कर दिया ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+mahAcakravAwa	2	-	-	18:k1	-	-	-	-
+BuvaneSvara	4	male	-	-	-	-	-	22:op1
+kataka	6	male	-	-	-	-	-	22:op2
+28	8	numex	-	10:card	-	-	-	-
+watIya_1	9	-	-	10:mod	-	-	-	-
+nagara_1	10	-	pl	-	-	-	-	22:op3
+odiSA	12	-	-	15:r6	-	-	-	-
+pUrA_1	14	-	pl	15:mod	-	-	-	-
+wata_1	15	-	-	18:k2	-	-	-	-
+barbAxa_1	17	-	-	-	-	-	-	21:kriyAmUla
+kara_1-yA_1	18	-	-	-	-	[shade:xe_1]	-	21:verbalizer
+[cp_1]	21	-	-	0:main	-	-	-	-
+[conj_1]	22	-	-	18:k7p	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0148>
+#इससे लगभग 130 लाख लोग प्रभावित हुए ।
+$wyax	1	-	-	7:rh	-	proximal	-	-
+130_1	3	numex	-	4:mod	-	-	-	-
+lAKa	4	numex	-	5:card	-	lagaBaga	-	-
+loga_1	5	-	-	7:k1	-	-	-	-
+praBAviwa_1	6	-	-	-	-	-	-	9:kriyAmUla
+ho_1-yA_1	7	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0149>
+#बहुत बडी संख्या में पशुओं की मौत हो गई ।
+bahuwa_1	1	-	-	2:intf	-	-	-	-
+badA_1	2	-	-	3:mod	-	-	-	-
+saMKyA_1	3	-	-	8:k7	-	-	-	-
+paSu_1	5	-	pl	7:k1	-	-	-	-
+mOwa_1	7	-	-	-	-	-	-	11:kriyAmUla
+ho_1-yA_1	8	-	-	-	-	[shade:ja_1]	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0150>
+#धान , सब्जियों एवं फलों की खडी फसलों का भारी नुकसान हुआ ।
+XAna_1	1	-	-	-	-	-	-	15:op1
+sabjI_1	3	-	pl	-	-	-	-	15:op2
+Pala_1	5	-	pl	-	-	-	-	15:op3
+KadA_1	7	-	-	8:mod	-	-	-	-
+Pasala_1	8	-	pl	11:r6	-	-	-	-
+BArI_1	10	-	-	11:k1	-	-	-	-
+nukasAna_1	11	-	-	-	-	-	-	14:kriyAmUla
+ho_1-yA_1	12	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	8:r6	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0151>
+#ज्वारीय प्रोत्कर्ष से उत्पन्न हुई लवणता के कारण कृषि योग्य विशाल भू-क्षेत्र अनुपजाऊ हो गए ।
+jvArIya_1	1	-	-	2:mod	-	-	-	-
+prowkarRa_1	2	-	-	5:rh	-	-	-	-
+uwpanna_1	4	-	-	-	-	-	-	17:kriyAmUla
+ho_1	5	-	-	-	-	-	-	17:verbalizer
+[cp_1]	17	-	-	6:rvks	-	-	-	-
+lavaNawA_1	6	-	-	14:rh	-	-	-	-
+kqRi_1	9	-	-	10:mod	-	-	-	-
+yogya_1	10	-	-	12:mod	-	-	-	-
+viSAla_1	11	-	-	10:mod	-	-	-	-
+BU-kRewra	12	-	-	14:k1	-	-	-	-
+anupajAU_1	13	-	-	-	-	-	-	18:kriyAmUla
+ho_1-yA_gae_1	14	-	-	-	-	-	-	18:verbalizer
+[cp_2]	18	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0152>
+#साल , सागवान एवं बाँस के बागान वाले विशाल भू-क्षेत्र नष्ट हो गए ।
+sAla_1	1	-	-	-	-	-	-	16:op1
+sAgavAna_1	3	-	-	-	-	-	-	16:op2
+bAzsa_1	5	-	-	7:r6	-	-	-	-
+bAgAna_1	7	-	mawupa	-	-	-	-	16:op3
+viSAla_1	9	-	-	-	-	-	-	16:op4
+BU-kRewra	10	-	-	12:k1	-	-	-	-
+naRta_1	11	-	-	-	-	-	-	15:kriyAmUla
+ho_1-yA_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+[conj_1]	16	-	-	10:mod	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0153>
+#पारादीप एवं कोणार्क के बीच स्थित मैंग्रोव के जंगल लुप्त ही हो गए ।
+pArAxIpa	1	-	-	-	-	-	-	15:op1
+koNArka	3	male	-	-	-	-	-	15:op2
+bIca_1	5	-	-	3:k7p	-	-	-	-
+sWiwa_1	6	-	-	7:mod	-	-	-	-
+mEMgrova_1	7	-	-	9:r6	-	-	-	-
+jaMgala_1	9	-	-	12:k1	-	-	-	-
+lupwa_1	10	-	-	12:k1s	-	hI	-	-
+ho_1-yA_1	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	6:intf	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0154>
+#आर्द्रता ।
+ArxrawA_1	1	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0155a>
+#जब जल पृथ्वी एवं विभिन्न जलाशयों से वाष्पित होता है ।
+jala_1	1	-	pl	-	-	-	-	11:mod
+pqWvI_1	2	-	-	-	-	-	-	11:head
+[nc_1]	11	-	-	-	-	-	-	13:op1
+viBinna_1	4	-	-	5:mod	-	-	-	-
+jalASaya_1	5	-	pl	-	-	-	-	13:op2
+vARpiwa_1	7	-	-	-	-	-	-	12:kriyAmUla
+ho_1-wA_hE_1	8	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	0:main	Geo_ncert_7stnd_4ch_0155b.12:AvaSyakawApariNAma	-	-	-
+[conj_1]	13	-	-	8:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0155b>
+#तो यह जलवाष्प बन जाता है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+jalavARpa_1	2	-	-	3:k1	-	-	-	-
+bana_1-wA_hE_1	3	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0156>
+#वायु में किसी भी समय जलवाष्प की मात्रा को ‘आर्द्रता’ कहते हैं ।
+vAyu_1	1	-	-	11:k7p	-	-	-	-
+kisI	3	-	-	5:mod	-	BI	-	-
+samaya_1	5	-	-	11:k7t	-	-	-	-
+jalavARpa_1	6	-	-	8:r6	-	-	-	-
+mAwrA_1	8	-	-	11:k2	-	-	-	-
+‘ArxrawA’	10	-	-	11:k2s	-	-	-	-
+kaha_1-wA_hE_1	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0157a>
+#जब वायु में जलवाष्प की मात्रा अत्यधिक होती है ।
+vAyu_1	1	-	-	7:k7p	-	-	-	-
+jalavARpa_1	3	-	-	5:r6	-	-	-	-
+mAwrA_1	5	-	-	7:k1	-	-	-	-
+awyaXika_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_hE_1	7	-	-	0:main	Geo_ncert_7stnd_4ch_0157b.7:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0157b>
+#तो उसे हम आर्द्र दिन कहते हैं ।
+$wyax	1	-	-	5:k2	-	distal	-	-
+$speaker	2	-	pl	5:k1	-	-	-	-
+Arxra_1	3	-	-	4:mod	-	-	-	-
+xina_1	4	-	-	5:k7t	-	-	-	-
+kaha_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0158a>
+#जैसे-जैसे वायु गर्म होती जाती है , इसकी जलवाष्प धरण करने की क्षमता बढती जाती है ।
+jEse_1	1	-	xviwva	2:dem	-	-	-	-
+vAyu_1	2	-	-	4:k1	-	-	-	-
+garma_1	3	-	-	-	-	-	-	18:kriyAmUla
+ho_1-wA_hE_1	4	-	-	-	-	-	-	18:verbalizer
+[cp_1]	18	-	-	0:main	-	-	-	-
+$wyax	8	-	-	9:r6	-	proximal	-	-
+jalavARpa_1	9	-	-	11:k2	-	-	-	-
+XaraNa_1	10	-	-	-	-	-	-	19:kriyAmUla
+kara_1	11	-	pl	-	-	-	-	19:verbalizer
+[cp_2]	19	-	-	13:r6	-	-	-	-
+kRamawA_1	13	-	-	14:k1	-	-	-	-
+baDa_1	14	-	-	4:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0158b>
+#और इस प्रकार यह और अधिक आर्द्र हो जाती है ।
+$wyax	1	-	-	2:dem	-	proximal	-	-
+prakAra_1	2	-	-	7:k1	-	-	-	-
+$wyax	3	-	-	7:k1	-	proximal	-	-
+Ora_1	4	-	-	5:intf	-	-	-	-
+aXika_1	5	-	-	6:quant	-	-	-	-
+Arxra_1	6	-	-	7:k1s	-	-	-	-
+ho_1-wA_ho_1	7	-	-	0:main	Geo_ncert_7stnd_4ch_0158a.7:samuccaya	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0159a>
+#आर्द्र दिन में , कपडे सूखने में काफ़ी समय लगता है ।
+Arxra_1	1	-	-	2:mod	-	-	-	-
+xina_1	2	-	-	6:k7p	-	-	-	-
+kapadA_1	5	-	pl	6:k2	-	-	-	-
+sUKa_1	6	-	pl	10:k7	-	-	-	-
+kAPZI_1	8	-	-	9:quant	-	-	-	-
+samaya_1	9	-	-	10:k1	-	-	-	-
+laga_1-wA_hE_1	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0159b>
+#एवं हमारे शरीर से पसीना आसानी से नहीं सूखता ।
+$speaker	1	-	pl	2:r6	-	-	-	-
+SarIra_1	2	-	-	8:k5	-	-	-	-
+pasInA_1	4	-	-	8:k1	-	-	-	-
+AsAnI_1	5	-	-	8:krvn	-	-	-	-
+nahIM_1	7	-	-	8:neg	-	-	-	-
+sUKa_1-wA_1	8	-	-	0:main	Geo_ncert_7stnd_4ch_0159a.8:samuccaya	-	-	-
+%negative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0159c>
+#और हम असहज महसूस करते हैं ।
+$speaker	1	-	pl	4:k1	-	-	-	-
+asahaja_1	2	-	-	4:krvn	-	-	-	-
+mahasUsa_1	3	-	-	-	-	-	-	7:kriyAmUla
+kara_1-wA_hE_1	4	-	-	-	-	-	-	7:verbalizer
+[cp_1]	7	-	-	0:main	Geo_ncert_7stnd_4ch_0159b.7:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0160a>
+#जब जलवाष्प ऊपर उठता है ।
+jalavARpa_1	1	-	-	3:k1	-	-	-	-
+Upara_1	2	-	-	3:k7	-	-	-	-
+uTa_1-wA_hE_1	3	-	-	0:main	Geo_ncert_7stnd_4ch_0160b.3:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0160b>
+#तो यह ठंडा होना शुरू हो जाता है ।
+$wyax	1	-	-	3:k1	-	proximal	-	-
+TaMdA_1	2	-	-	-	-	-	-	9:kriyAmUla
+ho_1	3	-	-	-	-	-	-	9:verbalizer
+[cp_1]	9	-	-	5:k1	-	-	-	-
+SurU_1	4	-	-	-	-	-	-	10:kriyAmUla
+ho_1-wA_ho_1	5	-	-	-	-	[shade:ja_1]	-	10:verbalizer
+[cp_2]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0161>
+#जलवाष्प संघनित होकर ठंडा होकर जल की बूँद बनाते हैं ।
+jalavARpa_1	1	-	-	3:k1	-	-	-	-
+saMGaniwa_1	2	-	-	-	-	-	-	12:kriyAmUla
+ho_1	3	-	-	-	-	-	-	12:verbalizer
+[cp_1]	12	-	-	5:rpk	-	-	-	-
+TaMdA_1	4	-	-	-	-	-	-	13:kriyAmUla
+ho_1	5	-	-	-	-	-	-	13:verbalizer
+[cp_2]	13	-	-	9:rpk	-	-	-	-
+jala_1	6	-	-	8:r6	-	-	-	-
+bUzxa_1	8	-	-	9:k2	-	-	-	-
+banA_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0162>
+#बादल इन्हीं जल बूंदों का ही एक समूह होता है ।
+bAxala_1	1	-	-	9:k1	-	-	-	-
+inhIM	2	-	-	4:dem	-	-	-	-
+jala_1	3	-	pl	-	-	-	-	12:mod
+bUMxoM_1	4	-	-	-	-	hI	-	12:head
+[nc_1]	12	-	-	8:r6	-	-	-	-
+eka_1	7	numex	-	8:card	-	-	-	-
+samUha_1	8	-	-	9:k1	-	-	-	-
+ho_1-wA_hE_1	9	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0163a>
+#जब जल की ये बूँदें इतनी भारी यह हो जाती हैं ।
+jala_1	1	-	-	4:r6	-	-	-	-
+$wyax	3	-	pl	4:dem	-	proximal	-	-
+bUzxa_1	4	-	pl	8:k1	-	-	-	-
+iwanA_1	5	-	-	6:quant	-	-	-	-
+BArI_1	6	-	-	8:k1s	-	-	-	-
+$wyax	7	-	pl	8:k1	-	proximal	-	-
+ho_1-wA_hE_1	8	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0163b>
+#कि वायु में तैर न सकें , तब ये वर्षण के रूप में नीचे आ जाती हैं ।
+vAyu_1	1	-	-	3:k7	-	-	-	-
+wEra_1	3	-	-	5:vmod	-	-	-	-
+na_1	4	-	-	5:neg	-	-	-	-
+saka_1	5	-	pl	14:vmod	-	-	-	-
+waba	7	-	-	14:k7t	-	-	-	-
+$wyax	8	-	pl	9:dem	-	proximal	-	-
+varRaNa_1	9	-	-	14:k7	-	-	-	-
+nIcA_1	13	-	pl	14:k7p	-	-	-	-
+A_1-wA_hE_1	14	-	-	0:main	-	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0164>
+#आकाश में उडते हुए जेट हवाई जहाज अपने पीछे सफ़ेद पथ चिन्ह छोडते हैं ।
+AkASa_1	1	-	-	3:k7p	-	-	-	-
+uda_1	3	-	pl	13:rsk	-	-	-	-
+jeta	5	-	-	-	-	-	-	16:begin
+[ne_1]	16	-	-	13:k1	-	-	-	-
+havAI_1	6	-	-	-	-	-	-	17:mod
+jahAja_1	7	-	-	-	-	-	-	17:head
+[nc_1]	17	-	-	13:k1	-	-	-	-
+apanA	8	-	pl	13:k7	-	-	-	-
+pICA_1	9	-	pl	8:k7p	-	-	-	-
+saPZexa_1	10	-	-	12:mod	-	-	-	-
+paWa_1	11	-	-	-	-	-	-	18:mod
+cinha_1	12	-	-	-	-	-	-	18:head
+[nc_2]	18	-	-	13:k2	-	-	-	-
+Coda_1-wA_hE_1	13	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0165>
+#इनके इंजनों से निकली नमी संघनित हो जाती है ।
+$wyax	1	-	pl	2:r6	-	proximal	-	-
+iMjana_1	2	-	pl	4:k5	-	-	-	-
+nikala_1	4	-	-	5:rvks	-	-	-	-
+namI_1	5	-	-	7:k1	-	-	-	-
+saMGaniwa_1	6	-	-	-	-	-	-	11:kriyAmUla
+ho_1-wA_ho_1	7	-	-	-	-	[shade:ja_1]	-	11:verbalizer
+[cp_1]	11	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0166>
+#वायु के गतिमान न रहने की स्थिति में यह संघनित नमी कुछ देर तक पथ के रूप में दिखाई देती है ।
+vAyu_1	1	-	-	5:k1	-	-	-	-
+gawimAna_1	3	-	-	-	-	-	-	23:kriyAmUla
+na_1	4	-	-	5:neg	-	-	-	-
+raha_1	5	-	pl	-	-	-	-	23:verbalizer
+[cp_1]	23	-	-	7:r6	-	-	-	-
+sWiwi_1	7	-	-	19:k7	-	-	-	-
+$wyax	9	-	-	11:dem	-	proximal	-	-
+saMGaniwa_1	10	-	-	11:mod	-	-	-	-
+namI_1	11	-	-	19:k1	-	-	-	-
+kuCa_1	12	-	-	13:quant	-	-	-	-
+xera_1	13	-	-	19:k7t	-	-	-	-
+paWa_1	15	-	-	19:k7	-	-	-	-
+xiKA_1-wA_hE_1	19	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0167>
+#पृथ्वी पर जल के रूप में गिरने वाला वर्षण , वर्षा कहलाता है ।
+pqWvI_1	1	-	-	7:k7p	-	-	-	-
+jala_1	3	-	-	7:k7	-	-	-	-
+gira_1	7	-	pl	9:mod	-	-	-	-
+varRaNa_1	9	-	-	12:k1	-	-	-	-
+varRA_1	11	-	-	-	-	-	-	15:kriyAmUla
+kahalA_1-wA_hE_1	12	-	-	-	-	-	-	15:verbalizer
+[cp_1]	15	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0168>
+#ज्यादातर भौम जल , वर्षा जल से ही प्राप्त होता है ।
+jyAxAwara	1	-	-	10:k1	-	-	-	-
+BOma	2	male	-	-	-	-	-	13:begin
+[ne_1]	13	-	-	10:k1	-	-	-	-
+jala_1	3	-	-	-	-	-	-	13:inside
+varRA_1	5	-	-	10:k1	-	-	-	-
+jala_1	6	-	-	10:k5	-	hI	-	-
+prApwa_1	9	-	-	-	-	-	-	14:kriyAmUla
+ho_1-wA_hE_1	10	-	-	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0169>
+#पौधे जल संरक्षण में मदद करते हैं ।
+pOXA_1	1	-	pl	6:k1	-	-	-	-
+jala_1	2	-	pl	-	-	-	-	9:mod
+saMrakRaNa_1	3	-	-	-	-	-	-	9:head
+[nc_1]	9	-	-	6:k7	-	-	-	-
+maxaxa_1	5	-	-	-	-	-	-	10:kriyAmUla
+kara_1-wA_hE_1	6	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0170a>
+#जब पहाडी पाश्र्वों से पेड काटे जाते हैं , वर्षा जल अनावृत पहाडों से नीचे बहता है ।
+pahAdA_1	1	-	-	2:mod	-	-	-	-
+pASrvoM_1	2	-	-	5:k5	-	-	-	-
+peda_1	4	-	-	5:k2	-	-	-	-
+kAta_1-wA_hE_1	5	-	-	0:main	-	-	-	-
+varRA_1	9	-	-	15:k1	-	-	-	-
+jala_1	10	-	-	11:intf	-	-	-	-
+anAvqwa_1	11	-	-	12:mod	-	-	-	-
+pahAda_1	12	-	pl	15:k5	-	-	-	-
+nIcA_1	14	-	pl	15:k7	-	-	-	-
+baha_1	15	-	-	5:rc	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0170b>
+#एवं निचले इलाकों में बाढ का कारण बनता है ।
+nicalA_1	1	-	pl	2:mod	-	-	-	-
+ilAkA_1	2	-	pl	7:k7p	-	-	-	-
+bADa_1	4	-	-	6:r6	-	-	-	-
+kAraNa_1	6	-	-	-	-	-	-	10:kriyAmUla
+bana_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	Geo_ncert_7stnd_4ch_0170a.10:samuccaya	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0171>
+#क्रियाविधि आधर पर वर्षा के तीन प्रकार होते हैं : संवहनी वर्षा , पर्वतीय वर्षा एवं चक्रवाती वर्षा ।
+kriyAviXi_1	1	-	-	-	-	-	-	20:mod
+AXara_1	2	-	-	-	-	-	-	20:head
+[nc_1]	20	-	-	8:k7	-	-	-	-
+varRA_1	4	-	-	7:r6	-	-	-	-
+wIna	6	numex	pl	7:card	-	-	-	-
+prakAra_1	7	-	-	8:k1	-	-	-	-
+ho_1-wA_hE_1	8	-	-	-	-	-	-	21:op1
+saMvahanI_1	11	-	-	12:mod	-	-	-	-
+varRA_1	12	-	-	-	-	-	-	21:op2
+parvawIya_1	14	-	-	15:mod	-	-	-	-
+varRA_1	15	-	-	-	-	-	-	21:op3
+cakravAwI_1	17	-	-	18:mod	-	-	-	-
+varRA_1	18	-	-	-	-	-	-	21:op4
+[conj_1]	21	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0172>
+#पौधें तथा जीव-जंतुओं के जीवित रहने के लिए वर्षा बहुत महत्त्वपूर्ण है ।
+pOXeM_1	1	-	-	-	-	-	-	15:op1
+jIva-jaMwuoM	3	-	-	-	-	-	-	15:op2
+jIviwa_1	5	-	-	-	-	-	-	14:kriyAmUla
+raha_1	6	-	pl	-	-	-	-	14:verbalizer
+[cp_1]	14	-	-	12:rt	-	-	-	-
+varRA_1	9	-	-	12:k1	-	-	-	-
+bahuwa_1	10	-	-	11:intf	-	-	-	-
+mahawwvapUrNa_1	11	-	-	12:k1s	-	-	-	-
+hE_1-pres	12	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	6:k7	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0173>
+#इससे धरातल को ताजा जल प्रदान होता है ।
+$wyax	1	-	-	7:rh	-	proximal	-	-
+XarAwala_1	2	-	-	7:k2	-	-	-	-
+wAjA_1	4	-	-	5:mod	-	-	-	-
+jala_1	5	-	-	7:k1	-	-	-	-
+praxAna_1	6	-	-	-	-	-	-	10:kriyAmUla
+ho_1-wA_hE_1	7	-	-	-	-	-	-	10:verbalizer
+[cp_1]	10	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0174a>
+#यदि वर्षा कम हो ।
+varRA_1	1	-	-	3:k1	-	-	-	-
+ho_1-0_1	3	-	-	0:main	Geo_ncert_7stnd_4ch_0174b.3:AvaSyakawApariNAma	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0174b>
+#तो जल की कमी तथा सूखा हो जाता है ।
+jala_1	1	-	-	3:r6	-	-	-	-
+kamI_1	3	-	-	-	-	-	-	10:op1
+sUKA_1	5	-	-	-	-	-	-	10:op2
+ho_1-wA_ho_1	6	-	-	0:main	-	[shade:ja_1]	-	-
+[conj_1]	10	-	-	6:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0175a>
+#इसके विपरीत अगर वर्षा अधिक होती है ।
+$wyax	1	-	-	0:vmod	-	proximal	-	-
+varRA_1	4	-	-	6:k1	-	-	-	-
+ho_1-wA_hE_1	6	-	-	-	-	-	-	9:op1
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0175b>
+#तो बाढ आ जाती है ।
+bADa_1	1	-	-	2:k1	-	-	-	-
+A_1-wA_hE_1	2	-	-	0:main	Geo_ncert_7stnd_4ch_0119b.2:viroXI	[shade:ja_1]	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0176>
+#वर्षण के दूसरे रूप हिम , सहिम वृष्टि तथा ओला हैं ।
+varRaNa_1	1	-	-	5:r6	-	-	-	-
+xUsarA_1	3	-	pl	5:nmod__adj	-	-	-	-
+rUpa	4	male	-	-	-	-	-	13:begin
+[ne_1]	13	-	-	-	-	-	-	15:op1
+hima	5	male	-	-	-	-	-	13:inside
+sahima	7	-	-	-	-	-	-	14:begin
+[ne_2]	14	-	-	-	-	-	-	15:op2
+vqRti_1	8	-	-	-	-	-	-	14:inside
+olA	10	male	-	-	-	-	-	15:op3
+hE_1-pres	11	-	-	0:main	-	-	-	-
+[conj_1]	15	-	-	11:k1	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0177>
+#निम्न प्रश्नों के उत्तर दीजिए ।
+nimna_1	1	-	-	2:mod	-	-	-	-
+praSna_1	2	-	pl	4:r6	-	-	-	-
+uwwara_1	4	-	-	5:k2	-	-	-	-
+xe_1-e_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0178>
+#वायुमंडल क्या है ?
+vAyumaMdala_1	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0179>
+#वायुमंडल का अध्कितर भाग किन दो गैसों से बना है ?
+vAyumaMdala_1	1	-	-	4:r6	-	-	-	-
+aXkiwara_1	3	-	-	4:mod	-	-	-	-
+BAga_1	4	-	-	9:k1	-	-	-	-
+$kim	5	-	pl	7:mod__wq	-	-	-	-
+xo	6	numex	-	7:card	-	-	-	-
+gEsa_1	7	-	pl	9:ras-k1	-	-	-	-
+banA_1-0_hE_1	9	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0180>
+#वायुमंडल में कौन-सी गैस हरित गृह प्रभाव पैदा करती है ?
+vAyumaMdala_1	1	-	-	9:k7p	-	-	-	-
+kOna-sI	3	-	-	4:mod	-	-	-	-
+gEsa_1	4	-	-	9:k1	-	-	-	-
+hariwa_1	5	-	-	7:mod	-	-	-	-
+gqha_1	6	-	-	-	-	-	-	12:mod
+praBAva_1	7	-	-	-	-	-	-	12:head
+[nc_1]	12	-	-	9:k2	-	-	-	-
+pExA_1	8	-	-	-	-	-	-	13:kriyAmUla
+kara_1-wA_hE_1	9	-	-	-	-	-	-	13:verbalizer
+[cp_1]	13	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0181>
+#मौसम किसे कहते हैं ?
+mOsama_1	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k2	-	-	-	-
+kaha_1-wA_hE_1	3	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0182>
+#वर्षा के तीन प्रकार लिखें ।
+varRA_1	1	-	-	4:r6	-	-	-	-
+wIna	3	numex	pl	4:card	-	-	-	-
+prakAra_1	4	-	-	5:k1	-	-	-	-
+liKa_1-e_1	5	-	-	0:main	-	-	-	-
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_7stnd_4ch_0183>
+#वायुदाब क्या है ?
+vAyuxAba_1	1	-	-	3:k1	-	-	-	-
+$kim	2	-	-	3:k1s	-	-	-	-
+hE_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative
+</sent_id>
+
+

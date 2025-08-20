@@ -78,14 +78,14 @@ session = Session()
 Base.metadata.create_all(engine)
 
 # Path to sentence file
-sentence_file_path = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Sanskrit_data/sentences.txt'
+sentence_file_path = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Aug14_2ch/sentences.txt'
 
 # Read the sentence data from the file
 sentences_data = read_sentences_from_file(sentence_file_path)
 
 # Insert sentences into the database
 for sentence_data in sentences_data:
-    sentence_data["chapter_id"] = 44# Specify the chapter ID for these sentences
+    sentence_data["chapter_id"] = 95# Specify the chapter ID for these sentences
     new_sentence = Sentence(**sentence_data)
     session.add(new_sentence)
 

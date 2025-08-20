@@ -1,3 +1,4 @@
+
 from sqlalchemy import JSON
 from sqlalchemy.dialects.postgresql import JSONB
 from application.extensions import db
@@ -15,7 +16,9 @@ class User(db.Model):
     email = db.Column(db.String(255), unique=True, nullable=False)
     password_hash = db.Column(db.String(256), nullable=False)
     role = db.Column(JSONB, nullable=False)
+    is_approved = db.Column(db.Boolean, default=False)
     organization = db.Column(db.String(255), nullable=True)
+    language = db.Column(JSONB, nullable=False)  # new field for multiple languages
     created_at = db.Column(db.DateTime, default=datetime.datetime.utcnow)
     updated_at = db.Column(db.DateTime, default=datetime.datetime.utcnow, onupdate=datetime.datetime.utcnow)
 
@@ -49,7 +52,6 @@ class User(db.Model):
     
     def get_reset_token(self, expires_sec=3600):
         try:
-            # Make sure SECRET_KEY is properly set
             secret_key = current_app.config.get('SECRET_KEY')
             if not secret_key:
                 print("ERROR: SECRET_KEY is not set in Flask configuration")
@@ -67,14 +69,11 @@ class User(db.Model):
     def verify_reset_token(token, expires_sec=3600):
         if not token:
             return None
-            
         try:
-            # Make sure SECRET_KEY is properly set
             secret_key = current_app.config.get('SECRET_KEY')
             if not secret_key:
                 print("ERROR: SECRET_KEY is not set in Flask configuration")
                 return None
-                
             s = URLSafeTimedSerializer(secret_key)
             user_data = s.loads(token, salt='password-reset-salt', max_age=expires_sec)
             return User.query.get(user_data['user_id'])

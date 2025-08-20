@@ -137,38 +137,135 @@
 
 
 
-import sys
-import re
+# import sys
+# import re
 
-def process_file(input_file, output_file):
-    data = {}
+# def process_file(input_file, output_file):
+#     data = {}
 
-    with open(input_file, 'r', encoding='utf-8') as file:
-        for line in file:
-            parts = line.strip().split('\t')
-            if len(parts) < 2:
-                continue
+#     with open(input_file, 'r', encoding='utf-8') as file:
+#         for line in file:
+#             parts = line.strip().split('\t')
+#             if len(parts) < 2:
+#                 continue
 
-            sentence_id = parts[0]
-            sentence_text = parts[2] if len(parts) >= 3 else ""
+#             sentence_id = parts[0]
+#             sentence_text = parts[2] if len(parts) >= 3 else ""
 
-            # Extract base ID by removing the trailing a, b, c... etc.
-            base_id = re.sub(r'[a-zA-Z]$', '', sentence_id)
+#             # Extract base ID by removing the trailing a, b, c... etc.
+#             base_id = re.sub(r'[a-zA-Z]$', '', sentence_id)
 
-            # Merge sentences with the same base ID
-            if base_id not in data:
-                data[base_id] = sentence_text
-            else:
-                data[base_id] += sentence_text  # No space to avoid double spacing
+#             # Merge sentences with the same base ID
+#             if base_id not in data:
+#                 data[base_id] = sentence_text
+#             else:
+#                 data[base_id] += sentence_text  # No space to avoid double spacing
 
-    with open(output_file, 'w', encoding='utf-8') as file:
-        for base_id, text in data.items():
-            file.write(f"{base_id}\t{text.strip()}\n")
+#     with open(output_file, 'w', encoding='utf-8') as file:
+#         for base_id, text in data.items():
+#             file.write(f"{base_id}\t{text.strip()}\n")
 
-if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python script.py <input_file> <output_file>")
-    else:
-        input_file = sys.argv[1]
-        output_file = sys.argv[2]
-        process_file(input_file, output_file)
+# if __name__ == "__main__":
+#     if len(sys.argv) != 3:
+#         print("Usage: python script.py <input_file> <output_file>")
+#     else:
+#         input_file = sys.argv[1]
+#         output_file = sys.argv[2]
+#         process_file(input_file, output_file)
+
+
+
+# from indic_transliteration import sanscript
+# from indic_transliteration.sanscript import transliterate
+# import re
+
+# input_file = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/segments.txt'
+# output_file = '/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/Segments.txt'
+
+# with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
+#     for line in infile:
+#         line = line.strip()
+#         if not line:
+#             continue
+
+#         # Split using regex to handle varying spaces/tabs
+#         parts = re.split(r'[\t]+|\s{2,}', line)
+#         if len(parts) < 2:
+#             print(f"Skipping malformed line: {line}")
+#             continue
+
+#         sent_id = parts[0]
+#         hindi = parts[1]
+#         english = parts[2] if len(parts) > 2 else ""
+
+#         wx = transliterate(hindi, sanscript.DEVANAGARI, sanscript.WX)
+
+#         # Double tab (`\t\t`) between each column
+#         outfile.write(f"{sent_id}\t\t{hindi}\t\t{wx}\t\t{english}\n")
+
+# print(f"Done! Output written to '{output_file}'")
+
+
+# import wxconv
+
+# def hindi_to_wx(hindi_text):
+#     """Convert Hindi text to WX notation."""
+#     converter = wxconv.WXC()
+#     return converter.convert(hindi_text)
+
+# if __name__ == "__main__":
+#     hindi_text = input("Enter Hindi text: ")
+#     wx_text = hindi_to_wx(hindi_text)
+#     print(f"WX format: {wx_text}")
+
+
+# from indic_transliteration.sanscript import transliterate, DEVANAGARI, WX
+
+
+# def hindi_to_wx(unicode_text):
+#     return transliterate(unicode_text, DEVANAGARI, WX)
+
+# input_file = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/segments.txt"
+# output_file = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/Segments.txt"
+
+# with open(input_file, "r", encoding="utf-8") as infile, open(output_file, "w", encoding="utf-8") as outfile:
+#     for line in infile:
+#         parts = line.strip().split('\t')
+        
+#         # Handle lines that have at least Hindi and English
+#         if len(parts) >= 3:
+#             segment_id = parts[0]
+#             hindi = parts[1].strip()
+#             english = parts[-1].strip()  # In case of trailing tabs
+
+#             wx = hindi_to_wx(hindi)
+
+#             # Write in the format: ID \t Hindi \t WX \t English
+#             outfile.write(f"{segment_id}\t{hindi}\t{wx}\t{english}\n")
+#         else:
+#             # Just write the line as-is if it's not properly formatted
+#             outfile.write(line)
+
+
+
+input_file = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/sentences.txt"
+output_file = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/input.txt"
+
+hindi_sentences = []
+
+with open(input_file, "r", encoding="utf-8") as infile:
+    for line in infile:
+        parts = line.strip().split('\t')
+        if len(parts) >= 2:
+            hindi_sentence = parts[1].strip()
+            hindi_sentences.append(hindi_sentence)
+
+# Combine into one paragraph
+paragraph = ' '.join(hindi_sentences)
+
+# Save to file
+with open(output_file, "w", encoding="utf-8") as outfile:
+    outfile.write(paragraph)
+
+print("Merged paragraph:")
+print(paragraph)

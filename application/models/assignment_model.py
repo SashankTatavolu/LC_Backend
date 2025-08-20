@@ -19,6 +19,7 @@ class Assignment(db.Model):
             'id': self.id,
             'user_id': self.user_id,
             'segment_id': self.segment_id,
+            'username': self.user.username if self.user else None,  # Add username
             'tab_name': self.tab_name,
             'assigned_at': self.assigned_at
         }

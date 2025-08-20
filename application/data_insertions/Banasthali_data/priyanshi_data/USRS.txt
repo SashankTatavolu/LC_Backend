@@ -1,0 +1,640 @@
+﻿<sent_id=sent_1>
+#सुबह 7 बजे से 9 बजे तक बारिश हुई ।
+subaha_1        1        -        -        9:k7t        -        -        -        -
+7        2        clocktime        -        6:rsp        -        -        -        -
+9        5        clocktime        -        9:k7t        -        -        -        -
+bAriSa_1        8        -        -        -        -        -        -        11:kriyAmUla
+ho_1-yA_1        9        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+[span_1]        12        -        -        9:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_2>
+#स्कूल से घर मैं पैदल गया ।
+skUla_1        1        -        -        6:k5        -        -        -        -
+Gara_1        3        -        -        6:k7p        -        -        -        -
+$speaker        4        -        -        6:k1        -        -        -        -
+pExala_1        5        -        -        6:k2p        -        [shade:ja_1]        -        -
+jA_1-yA_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_3>
+#3 साल से 6 साल तक के बच्चों के लिए खेल है ।
+3        1        meas        -        -        -        -        -        14:count
+sAla_1        2        -        -        -        -        -        -        14:unit
+6        4        meas        -        -        -        -        -        15:count
+sAla_1        5        -        -        -        -        -        -        15:unit
+baccA_1        8        -        pl        12:rt        -        -        -        -
+Kela_1        11        -        -        12:k1        -        -        -        -
+hE_1-pres        12        -        -        0:main        -        -        -        -
+[meas_1]        14        -        -        5:rsp        -        -        -        -
+[meas_2]        15        -        -        8:r6        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_4>
+#राम ने 500 रुपये से 1000 रुपये तक की किताबें खरीदीं ।
+rAma        1        male        -        11:k1        -        -        -        -
+500        3        numex        -        4:card        -        -        -        -
+rupayA_1        4        -        pl        11:k5        -        -        -        -
+1000        6        numex        -        7:card        -        -        -        -
+rupayA_1        7        -        pl        10:r6        -        -        -        -
+kiwAba_1        10        -        pl        11:k2        -        -        -        -
+KarIxa_1-yA_1        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_5>
+#जून से अगस्त तक बारिश होती है ।
+jUna        1        moy        -        -        -        -        -        10:start
+agaswa        3        moy        -        -        -        -        -        10:end
+bAriSa_1        5        -        -        -        -        -        -        9:kriyAmUla
+ho_1-wA_hE_1        6        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+[span_1]        10        -        -        6:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_6>
+#स्टेशन से कॉलेज तक बस चलती है ।
+steSana_1        1        -        -        -        -        -        -        9:start
+kOYleja_1        3        -        -        -        -        -        -        9:end
+basa_1        5        -        -        6:k1        -        -        -        -
+cala_1-wA_hE_1        6        -        -        0:main        -        -        -        -
+[span_1]        9        -        -        6:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_7>
+#50 से 80 अंक वालों को इनाम मिलेगा ।
+50        1        numex        -        4:rsp        -        -        -        -
+80        3        numex        -        4:card        -        -        -        -
+aMka_1        4        -        -        8:k4        -        -        -        -
+inAma_1        7        -        -        8:k1        -        -        -        -
+mila_1-gA_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_8>
+#9 बजे से 11 बजे तक परीक्षा चली ।
+9        1        clocktime        -        5:rsp        -        -        -        -
+11        4        clocktime        -        8:k7t        -        -        -        -
+parIkRA_1        7        -        -        8:k1        -        -        -        -
+cala_1-yA_1        8        -        -        0:main        -        -        -        -
+[span_1]        10        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_9>
+#मुझे 3 से 5 फीट वाली मेजें चाहिए ।
+$speaker        1        -        -        8:k1        -        -        -        -
+3        2        numex        -        5:rsp        -        -        -        -
+5        4        numex        -        5:card        -        -        -        -
+PIta_1        5        -        mawupa        7:mod        -        -        -        -
+meja_1        7        -        pl        8:k1        -        -        -        -
+cAha_1-e_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_10>
+#राम ने 6 बजे से 9 बजे तक पढ़ाई की ।
+rAma        1        male        -        10:k1        -        -        -        -
+6        3        clocktime        -        7:rsp        -        -        -        -
+9        6        clocktime        -        10:k7t        -        -        -        -
+paDZAI_1        9        -        -        -        -        -        -        12:kriyAmUla
+kara_1-yA_1        10        -        -        -        -        -        -        12:verbalizer
+[cp_1]        12        -        -        0:main        -        -        -        -
+[span_1]        13        -        -        10:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_11>
+#सीमा 20 से 30 साल नौकरी में रही ।
+sImA_1        1        -        -        8:k1        -        -        -        -
+20        2        numex        -        5:rsp        -        -        -        -
+30        4        meas        -        -        -        -        -        10:count
+sAla_1        5        -        -        -        -        -        -        10:unit
+nOkarI_1        6        -        -        8:k7p        -        -        -        -
+raha_1-yA_1        8        -        -        0:main        -        -        -        -
+[meas_1]        10        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_12>
+#अनीता ने सुबह से शाम तक पुस्तकें पढ़ीं ।
+anIwA        1        -        -        8:k1        -        -        -        -
+subaha_1        3        -        -        -        -        -        -        10:start
+SAma_1        5        -        -        -        -        -        -        10:end
+puswaka_1        7        -        pl        8:k2        -        -        -        -
+paDZIM_1-wA_hE_1        8        -        -        0:main        -        -        -        -
+[span_1]        10        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_13>
+#जयपुर में 3 से 4 डिग्री तापमान बढ़ा ।
+jayapura        1        -        -        8:k7p        -        -        -        -
+3        3        numex        -        8:k5        -        -        -        -
+4        5        numex        -        7:card        -        -        -        -
+digrI_1        6        -        -        -        -        -        -        10:mod
+wApamAna_1        7        -        -        -        -        -        -        10:head
+[nc_1]        10        -        -        8:k1        -        -        -        -
+baDZA_1-wA_hE_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_14>
+#काव्या ने 200 से 400 रुपये के खिलौने खरीदे ।
+kAvyA        1        -        -        9:k1        -        -        -        -
+200        3        numex        -        6:rsp        -        -        -        -
+400        5        numex        -        6:card        -        -        -        -
+rupayA_1        6        -        pl        8:r6        -        -        -        -
+KilOnA_1        8        -        pl        9:k2        -        -        -        -
+KarIxa_1-e_1        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_15>
+#राम ने 5 साल से 10 साल तक क्रिकेट सीखा ।
+rAma        1        male        -        10:k1        -        -        -        -
+5        3        meas        -        -        -        -        -        12:count
+sAla_1        4        -        -        -        -        -        -        12:unit
+10        6        meas        -        -        -        -        -        13:count
+sAla_1        7        -        -        -        -        -        -        13:unit
+kriketa_1        9        -        -        10:k1        -        -        -        -
+sIKa_1-yA_1        10        -        -        0:main        -        -        -        -
+[meas_1]        12        -        -        -        -        -        -        14:start
+[meas_2]        13        -        -        -        -        -        -        14:end
+[span_1]        14        -        -        10:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_16>
+#अर्जुन ने 2 से 5 लीटर दूध लिया ।
+arjuna        1        male        -        8:k1        -        -        -        -
+2        3        numex        -        6:rsp        -        -        -        -
+5        5        meas        -        -        -        -        -        10:count
+lItara_1        6        -        -        -        -        -        -        10:unit
+xUXa_1        7        -        -        8:k2        -        -        -        -
+le_1-yA_1        8        -        -        0:main        -        -        -        -
+[meas_1]        10        -        -        7:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_17>
+#नीरज ने 10 से 15 साल नौकरी की ।
+nIraja        1        male        -        8:k1        -        -        -        -
+10        3        numex        -        6:rsp        -        -        -        -
+15        5        meas        -        -        -        -        -        11:count
+sAla_1        6        -        -        -        -        -        -        11:unit
+nOkarI_1        7        -        -        -        -        -        -        10:kriyAmUla
+kara_1-yA_1        8        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        0:main        -        -        -        -
+[meas_1]        11        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_18>
+#राम ने 8 बजे से 10 बजे तक किताबें पढ़ीं ।
+rAma        1        male        -        10:k1        -        -        -        -
+8        3        clocktime        -        7:rsp        -        -        -        -
+10        6        clocktime        -        10:k7t        -        -        -        -
+kiwAba_1        9        -        pl        10:k2        -        -        -        -
+paDZIM_1-wA_hE_1        10        -        -        0:main        -        -        -        -
+[span_1]        12        -        -        10:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_19>
+#नीना ने 120 रुपये से 150 रुपये की चॉकलेट ली ।
+nInA        1        -        -        10:k1        -        -        -        -
+120        3        numex        -        4:card        -        -        -        -
+rupayA_1        4        -        pl        10:k5        -        -        -        -
+150        6        numex        -        7:card        -        -        -        -
+rupayA_1        7        -        pl        9:r6        -        -        -        -
+cOYkaleta_1        9        -        -        10:k2        -        -        -        -
+le_1-yA_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_20>
+#पूजा शाम 4 बजे से रात 8 बजे तक काम करती है ।
+pUjA_1        1        -        -        11:k1        -        -        -        -
+SAma_1        2        -        -        4:mod        -        -        -        -
+4        3        clocktime        -        8:rsp        -        -        -        -
+rAwa_1        6        -        -        8:mod        -        -        -        -
+8        7        clocktime        -        11:k7t        -        -        -        -
+kAma_1        10        -        -        -        -        -        -        14:kriyAmUla
+kara_1-wA_hE_1        11        -        -        -        -        -        -        14:verbalizer
+[cp_1]        14        -        -        0:main        -        -        -        -
+[span_1]        15        -        -        11:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_21>
+#राम ने 6 से 9 साल तक नृत्य सीखा ।
+rAma        1        male        -        9:k1        -        -        -        -
+6        3        numex        -        -        -        -        -        12:start
+9        5        meas        -        -        -        -        -        11:count
+sAla_1        6        -        -        -        -        -        -        11:unit
+nqwya_1        8        -        -        9:k1        -        -        -        -
+sIKa_1-yA_1        9        -        -        0:main        -        -        -        -
+[meas_1]        11        -        -        -        -        -        -        12:end
+[span_1]        12        -        -        9:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_22>
+#गीता घर से बाजार तक चलती है ।
+gIwA        1        female        -        6:k1        -        -        -        -
+Gara_1        2        -        -        -        -        -        -        9:start
+bAjAra_1        4        -        -        -        -        -        -        9:end
+cala_1-wA_hE_1        6        -        -        0:main        -        -        -        -
+[span_1]        9        -        -        6:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_23>
+#अर्जुन ने सोमवार से बुधवार तक क्रिकेट नहीं खेला ।
+arjuna        1        male        -        9:k1        -        -        -        -
+somavAra        3        dow        -        -        -        -        -        11:start
+buXavAra        5        dow        -        -        -        -        -        11:end
+kriketa_1        7        -        -        9:k2        -        -        -        -
+nahIM_1        8        -        -        9:neg        -        -        -        -
+Kela_1-yA_1        9        -        -        0:main        -        -        -        -
+[span_1]        11        -        -        9:k7t        -        -        -        -
+%negative
+</sent_id>
+
+
+<sent_id=sent_24>
+#गीता जून से अगस्त तक टूर पर जाएगी ।
+gIwA        1        female        -        -        -        -        -        10:begin
+[ne_1]        10        -        -        -        -        -        -        11:start
+jUna        2        moy        -        -        -        -        -        10:inside
+agaswa        4        moy        -        -        -        -        -        11:end
+tUra_1        6        -        -        8:k7p        -        -        -        -
+jA_1-gA_1        8        -        -        0:main        -        -        -        -
+[span_1]        11        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_25>
+#राम ने 5 से 10 किलो सेब खरीदे ।
+rAma        1        male        -        8:k1        -        -        -        -
+5        3        numex        -        6:rsp        -        -        -        -
+10        5        meas        -        -        -        -        -        10:count
+kilo_1        6        -        -        -        -        -        -        10:unit
+seba_1        7        -        -        8:k2        -        -        -        -
+KarIxa_1-e_1        8        -        -        0:main        -        -        -        -
+[meas_1]        10        -        -        7:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_26>
+#बस 40 किमी / घंटा से 60 किमी / घंटा तक चली ।
+basa_1        1        -        -        12:k1        -        -        -        -
+40        2        numex        -        3:card        -        -        -        -
+kimI_1        3        -        -        5:mod        -        -        -        -
+GaMtA_1        5        -        -        -        -        -        -        14:start
+60        7        numex        -        8:card        -        -        -        -
+kimI_1        8        -        -        10:mod        -        -        -        -
+GaMtA_1        10        -        -        -        -        -        -        14:end
+cala_1-yA_1        12        -        -        0:main        -        -        -        -
+[span_1]        14        -        -        12:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_27>
+#पूजा बाजार से पार्क तक पैदल चली ।
+pUjA_1        1        -        -        7:k1        -        -        -        -
+bAjAra_1        2        -        -        -        -        -        -        9:start
+pArka_1        4        -        -        -        -        -        -        9:end
+pExala_1        6        -        -        7:k2p        -        -        -        -
+cala_1-yA_1        7        -        -        0:main        -        -        -        -
+[span_1]        9        -        -        7:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_28>
+#पूजा दोपहर से रात तक पुस्तकालय में थी ।
+pUjA_1        1        -        -        8:k1        -        -        -        -
+xopahara_1        2        -        -        -        -        -        -        10:start
+rAwa_1        4        -        -        -        -        -        -        10:end
+puswakAlaya_1        6        -        -        8:k7p        -        -        -        -
+hE_1-past        8        -        -        0:main        -        -        -        -
+[span_1]        10        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_29>
+#गाँव से बाजार तक पैदल चलो ।
+gAzva_1        1        -        -        -        -        -        -        8:start
+bAjAra_1        3        -        -        -        -        -        -        8:end
+pExala_1        5        -        -        6:k7p        -        -        -        -
+cala_1-o_1        6        -        -        0:main        -        -        -        -
+[span_1]        8        -        -        6:k7p        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_30>
+#क्या साक्षी ने 10 से 15 किलो फल खरीदे ?
+$kim        1        -        -        9:krvn        -        -        -        -
+sAkRI        2        female        -        9:k1        -        -        -        -
+10        4        numex        -        7:rsp        -        -        -        -
+15        6        meas        -        -        -        -        -        11:count
+kilo_1        7        -        -        -        -        -        -        11:unit
+Pala_1        8        -        -        9:k2        -        -        -        -
+KarIxa_1-e_1        9        -        -        0:main        -        -        -        -
+[meas_1]        11        -        -        8:mod        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_31>
+#नेहा घर से बाज़ार साइकिल से गई ।
+nehA        1        -        -        7:k1        -        -        -        -
+Gara_1        2        -        -        7:k5        -        -        -        -
+bAjZAra_1        4        -        -        -        -        -        -        9:mod
+sAikila_1        5        -        -        -        -        -        -        9:head
+[nc_1]        9        -        -        7:k3        -        -        -        -
+jA_1-yA_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_32>
+#\" राघव स्टेशन से कॉलेज पैडल गया
+rAGava        2        -        -        7:k1        -        -        -        -
+steSana        3        male        -        7:k5        -        -        -        -
+kOYleja_1        5        -        -        7:k2p        -        -        -        -
+pEdala_1        6        -        -        7:k2        -        -        -        -
+jA_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_33>
+#पूजा जनवरी से मार्च हॉस्टल में रही ।
+pUjA_1        1        -        -        7:k1        -        -        -        -
+janavarI        2        moy        -        7:k7t        -        -        -        -
+mArca        4        moy        -        5:mod        -        -        -        -
+hOYstala_1        5        -        -        7:k7p        -        -        -        -
+raha_1-yA_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_34>
+#अर्जुन दिसम्बर से फरवरी पहाड़ों में रहा ।
+arjuna        1        male        -        7:k1        -        -        -        -
+xisambara        2        -        -        7:k7t        -        -        -        -
+ParavarI        4        female        -        5:mod        -        -        -        -
+pahAdZoM_1        5        -        -        7:k7p        -        -        -        -
+raha_1-yA_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_35>
+#क्या अमित ने 100 रुपये से 200 रुपये की किताबें खरीदीं ?
+$kim        1        -        -        11:krvn        -        -        -        -
+amiwa        2        male        -        11:k1        -        -        -        -
+100        4        numex        -        5:card        -        -        -        -
+rupayA_1        5        -        pl        11:k5        -        -        -        -
+200        7        numex        -        8:card        -        -        -        -
+rupayA_1        8        -        pl        10:r6        -        -        -        -
+kiwAba_1        10        -        pl        11:k2        -        -        -        -
+KarIxa_1-yA_1        11        -        -        0:main        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_36>
+#रोहन ने तीन साल से सात साल तक हॉकी खेला ।
+rohana        1        -        -        10:k1        -        -        -        -
+wIna        3        numex        pl        -        -        -        -        12:count
+sAla_1        4        -        -        -        -        -        -        12:unit
+sAwa        6        numex        -        -        -        -        -        13:count
+sAla_1        7        -        -        -        -        -        -        13:unit
+hOYkI_1        9        -        -        10:k2        -        -        -        -
+Kela_1-yA_1        10        -        -        0:main        -        -        -        -
+[meas_1]        12        -        -        -        -        -        -        14:start
+[meas_2]        13        -        -        -        -        -        -        14:end
+[span_1]        14        -        -        10:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_37>
+#सिया मई से जुलाई तक मामा के घर थी ।
+sI        1        male        -        -        -        -        -        11:begin
+[ne_1]        11        -        -        -        -        -        -        12:start
+maI        2        moy        -        -        -        -        -        11:inside
+julAI        4        moy        -        -        -        -        -        12:end
+mAmA_1        6        -        -        8:r6        -        -        -        -
+Gara_1        8        -        -        9:k1        -        -        -        -
+hE_1-past        9        -        -        0:main        -        -        -        -
+[span_1]        12        -        -        9:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_38>
+#मनीष शाम से रात तक किताबें पढ़ाता है ।
+manIRa        1        -        -        2:mod        -        -        -        -
+SAma_1        2        -        -        -        -        -        -        10:start
+rAwa_1        4        -        -        -        -        -        -        10:end
+kiwAba_1        6        -        pl        7:k1        -        -        -        -
+paDZAwA_1-wA_hE_1        7        -        -        0:main        -        -        -        -
+[span_1]        10        -        -        7:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_39>
+#निखिल ने दोपहर से शाम तक चित्र बनाए ।
+niKila        1        -        -        8:k1        -        -        -        -
+xopahara_1        3        -        -        -        -        -        -        10:start
+SAma_1        5        -        -        -        -        -        -        10:end
+ciwra_1        7        -        -        8:k2        -        -        -        -
+banA_1-e_1        8        -        -        0:main        -        -        -        -
+[span_1]        10        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_40>
+#रोहन ने 15 साल से 20 साल तक क्रिकेट नहीं खेला ।
+rohana        1        -        -        11:k1        -        -        -        -
+15        3        meas        -        -        -        -        -        13:count
+sAla_1        4        -        -        -        -        -        -        13:unit
+20        6        meas        -        -        -        -        -        14:count
+sAla_1        7        -        -        -        -        -        -        14:unit
+kriketa_1        9        -        -        11:k2        -        -        -        -
+nahIM_1        10        -        -        11:neg        -        -        -        -
+Kela_1-yA_1        11        -        -        0:main        -        -        -        -
+[meas_1]        13        -        -        -        -        -        -        15:start
+[meas_2]        14        -        -        -        -        -        -        15:end
+[span_1]        15        -        -        11:k7t        -        -        -        -
+%negative
+</sent_id>
+
+
+<sent_id=sent_41>
+#मुंबई में 28 डिग्री से 34 डिग्री तक गर्मी रही ।
+muMbaI        1        -        -        10:k7p        -        -        -        -
+28        3        numex        -        4:card        -        -        -        -
+digrI_1        4        -        -        7:mod        -        -        -        -
+34        6        numex        -        7:card        -        -        -        -
+digrI_1        7        -        -        10:k7        -        -        -        -
+garmI_1        9        -        -        10:k1        -        -        -        -
+raha_1-yA_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_42>
+#क्या निखिल ने 500 रुपये से 800 रुपये के खिलौने खरीदे ?
+$kim        1        -        -        11:krvn        -        -        -        -
+niKila        2        -        -        11:k1        -        -        -        -
+500        4        numex        -        5:card        -        -        -        -
+rupayA_1        5        -        pl        11:k5        -        -        -        -
+800        7        numex        -        8:card        -        -        -        -
+rupayA_1        8        -        pl        10:r6        -        -        -        -
+KilOnA_1        10        -        pl        11:k2        -        -        -        -
+KarIxa_1-e_1        11        -        -        0:main        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_43>
+#सविता ने प्राइमरी कक्षा से मिडिल कक्षा तक पढ़ाया ।
+saviwA        1        -        -        9:k1        -        -        -        -
+prAimarI_1        3        -        -        -        -        -        -        11:mod
+kakRA_1        4        -        -        -        -        -        -        11:head
+[nc_1]        11        -        -        -        -        -        -        12:start
+midila_1        6        -        -        7:nmod__adj        -        -        -        -
+kakRA_1        7        -        -        -        -        -        -        12:end
+paDZAyA_1-wA_hE_1        9        -        -        0:main        -        -        -        -
+[span_1]        12        -        -        9:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_44>
+#पुरन ने 4 से 7 गिलास पानी पिया ।
+purana        1        -        -        8:k1        -        -        -        -
+4        3        numex        -        8:k5        -        -        -        -
+7        5        numex        -        6:card        -        -        -        -
+gilAsa_1        6        -        -        8:k1        -        -        -        -
+pAnI_1        7        -        -        8:k2        -        -        -        -
+pI_1-yA_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_45>
+#क्या राधिका ने जनवरी से मार्च तक योग सीखा ?
+$kim        1        -        -        9:vmod        -        -        -        -
+rAXikA        2        -        -        9:k1        -        -        -        -
+janavarI        4        moy        -        -        -        -        -        11:start
+mArca        6        moy        -        -        -        -        -        11:end
+yoga_1        8        -        -        9:k2        -        -        -        -
+sIKa_1-yA_1        9        -        -        0:main        -        -        -        -
+[span_1]        11        -        -        9:k7t        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_46>
+#अमित ने दिसम्बर से फरवरी तक स्केटिंग सीखी ।
+amiwa        1        male        -        8:k1        -        -        -        -
+xisambara        3        -        -        -        -        -        -        10:start
+ParavarI        5        female        -        -        -        -        -        10:end
+sketiMga_1        7        -        -        8:k2        -        -        -        -
+sIKa_1-yA_1        8        -        -        0:main        -        -        -        -
+[span_1]        10        -        -        8:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_47>
+#दिल्ली में 20 डिग्री से 30 डिग्री का मौसम रहा ।
+xillI        1        female        -        10:k7p        -        -        -        -
+20        3        numex        -        4:card        -        -        -        -
+digrI_1        4        -        -        7:mod        -        -        -        -
+30        6        numex        -        7:card        -        -        -        -
+digrI_1        7        -        -        9:r6        -        -        -        -
+mOsama_1        9        -        -        10:k1        -        -        -        -
+raha_1-yA_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_48>
+#देव ने 8 से 12 साल में टेनिस सीखा ।
+xeva        1        male        -        9:k1        -        -        -        -
+8        3        numex        -        6:rsp        -        -        -        -
+12        5        meas        -        -        -        -        -        11:count
+sAla_1        6        -        -        -        -        -        -        11:unit
+tenisa_1        8        -        -        9:k2        -        -        -        -
+sIKa_1-yA_1        9        -        -        0:main        -        -        -        -
+[meas_1]        11        -        -        9:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_49>
+#वीर 6 से 7 दिन घूमने गया ।
+vIra        1        male        -        6:k1        -        -        -        -
+6        2        numex        -        5:rsp        -        -        -        -
+7        4        meas        -        -        -        -        -        9:count
+xina_1        5        -        -        -        -        -        -        9:unit
+GUma_1-yA_1        6        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        6:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_50>
+#क्या सीमा ने जून से जुलाई तक योग सीखा ?
+$kim        1        -        -        9:vmod        -        -        -        -
+sImA_1        2        -        -        9:k1        -        -        -        -
+jUna        4        moy        -        -        -        -        -        11:start
+julAI        6        moy        -        -        -        -        -        11:end
+yoga_1        8        -        -        9:k2        -        -        -        -
+sIKa_1-yA_1        9        -        -        0:main        -        -        -        -
+[span_1]        11        -        -        9:k7t        -        -        -        -
+%interrogative
+</sent_id>

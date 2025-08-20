@@ -1,0 +1,119 @@
+Hindi-Isma								
+<sent_id=01_001_1>								
+#तपस्वी महर्षि वाल्मीकि ने तप एवं स्वाध्याय में संलग्न, शास्त्रज्ञों में  श्रेष्ठ, मुनि-श्रेष्ठ, देवर्षि नारद से पूछा।								
+wapa_1	1	-	-	-	-	-	-	4:op1
+svAXyAya_1	2	-	-	-	-	-	-	4:op2
+[xvanxvaH_1]	4	-	-	-	-	-	-	5:mod
+saMlagna_1	3	-	-	-	-	-	-	5:head
+[7-tat_1]	5	-	-	11:mod	-	-	-	-
+wapasvI_1	6	-	-	13:mod	-	-	-	-
+SAswra_1	7	-	-	-	-	-	-	9:mod
+vixa_1	8	-	pl	-	-	-	-	9:head
+[upa-tat_1]	9	-	-	10:rn	-	-	-	-
+SreRTa_1	10	-	-	11:mod	-	-	-	-
+nAraxa	11	per/male	-	12:k2	-	-	-	-
+pUcCa_1-o_1	12	-	-	0:main	-	-	-	-
+vAlmIki	13	per/male	-	12:k1	-	-	-	-
+muni_1	14	-	-	-	-	-	-	16:mod
+SreRTa_1	15	-	-	-	-	-	-	16:head
+[7-tat_2]	16	-	-	11:mod	-	-	-	-
+%affirmative								
+</sent_id>								
+								
+<sent_id=01_002_1>								
+#वर्तमान मे लोक में कौन गुणवान् है?								
+$kim	1	-	-	6:k1	-	nu_1	-	-
+$wyax	2	-	-	4:mod	-	proximal	-	-
+varwmAna_1	3	-	-	6:k7t	-	-	-	-
+loka_1	4	-	-	6:k7p	-	-	-	-
+guNa_1	5	-	mawupa	1:k1s	-	-	-	-
+as_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_002_2>								
+#कौन पराक्रमी, धर्मज्ञ, कृतज्ञ और सत्य-वाक्य, दृढ-व्रत है?								
+$kim_1	1	-	-	15:k1	-	ca_1	-	-
+parAkramI_1	2	-	-	-	-	-	-	13:समुच्चितः
+Xarma_1	3	-	-	-	-	-	-	5:mod
+jFawA_1	4	-	-	-	-	-	-	5:head
+[upa-tat_1]	5	-	-	-	-	-	-	13:समुच्चितः
+kara_1	6	-	-	-	-	-	-	8:mod
+jFawA_1	7	-	-	-	-	-	-	8:head
+[upa-tat_2]	8	-	-	-	-	-	-	13:समुच्चितः
+sawya_1	9	-	-	-	-	-	-	11:comp1
+vAkya_1	10	-	-	-	-	-	-	11:comp2
+[bahu_1]	11	-	-	-	-	-	-	13:समुच्चितः
+xqDa_1	12	-	-	-	-	-	-	14:comp1
+saMkalpa_1	13	-	-	-	-	-	-	14:comp2
+[bahu_2]	14	-	-	1:k1s	-	-	-	-
+as_1-pres	15	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_1>								
+#कौन चरित्र संपन्न है?								
+cAriwra_1	1	-	-	3:rask1	-	ca_1	-	-
+$kim_1	2	-	-	4:k1	-	-	-	-
+saMpanna_1	3	-	-	2:k1s	-	-	-	-
+as_1-pres	4	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_2>								
+#कौन सभी प्राणियों का हित करने वाला है ?								
+saBI_1	1	-	-	-	-	-	-	3:mod
+prANI_1	2	-	pl	-	-	-	-	3:head
+[karmaXAraya_1]	3	-	-	6:k7p	-	-	-	-
+$kim_1	4	-	-	6:k1	-	-	-	-
+hiwa_1	5	-	-	4:k1s	-	-	-	-
+as_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_3>								
+#कौन विद्वान है?								
+vixvAna_1	1	-	-	2:k1s	-	-	-	-
+$kim_1	2	-	-	3:k1	-	-	-	-
+as_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_4>								
+कौन समर्थ है?								
+$kim_1	1	-	-	3:k1	-	-	-	-
+samarWa_1	2	-	-	1:k1s	-	ca_1	-	-
+as_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_003_5>								
+#कौन एक प्रिय दर्शन है?								
+$kim_1	1	-	-	7:k1	-	ca_1	-	-
+eka_1	2	-	-	-	-	-	-	5:comp1
+priya_1	3	-	-	-	-	-	-	5:comp2
+[षष्ठी_बहुव्रीहिः_1]	5	-	-	-	-	-	-	6:mod
+xarSana_1	4	-	-	-	-	-	-	6:head
+[karmaXAraya_1]	6	-	-	1:k1s	-	-	-	-
+as_1-pres	7	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_004_1>								
+#कौन आत्मवान है?								
+AwmavAna_1	1	-	mawupa	2:k1s	-	-	-	-
+$kim_1	2	-	-	3:k1	-	-	-	-
+as_1-pres	3	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								
+								
+<sent_id=01_004_2>								
+#कौन विजित क्रोध है, कांतिवान है ?								
+vijiwa_1	1	-	-	-	-	-	-	3:comp1
+kroXa_1	2	-	-	-	-	-	-	3:comp2
+[bahu_1]	3	-	-	-	-	-	-	4:समुच्चितः
+kAMwi_1	4	-	mawupa	5:k1s	-	-	-	-
+$kim_1	5	-	-	6:k1	-	-	-	-
+as_1-pres	6	-	-	0:main	-	-	-	-
+%interrogative								
+</sent_id>								

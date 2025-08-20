@@ -170,9 +170,9 @@ def insert_data(session, file_path, chapter_id):
 
 def main():
     # file_path = "application/data_insertions/10th chapter/test.txt"
-    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/Sanskrit_data/USRs.txt"
+    file_path = "/home/sashank/Downloads/LC/Language_Communicator_Backend/application/data_insertions/demo/USRs.txt"
     
-    chapter_id = 44# Specify the chapter_id you're working with
+    chapter_id = 60# Specify the chapter_id you're working with
 
     session = SessionLocal()
     insert_data(session, file_path, chapter_id)

@@ -1,7 +1,14 @@
+from flask import current_app
 from application.models.chapter_model import Chapter
 from application.models.project_model import Project
 from application.models.segment_model import Segment
 from application.models.sentence_model import Sentence
+from application.models.construction_model import Construction
+from application.models.lexical_conceptual_model import LexicalConceptual
+from application.models.relational_model import Relational
+from application.models.feedback_model import Feedback
+from application.models.assignment_model import Assignment
+from application.models.discourse_model import Discourse
 from application.models.user_model import User
 from application.extensions import db
 from application.extensions import mail 
@@ -158,3 +165,53 @@ class ChapterService:
         segment_indices = [segment.segment_index for segment in segments]
         
         return segment_indices
+
+    
+    @classmethod
+    def delete_chapter_and_related_data(cls, chapter_id):
+        try:
+            # Get the chapter first
+            chapter = Chapter.query.get(chapter_id)
+            if not chapter:
+                return False
+
+            # Delete chapter-level assignments first
+            Assignment.query.filter_by(chapter_id=chapter_id).delete()
+            db.session.flush()
+
+            # Get all sentences for this chapter
+            sentences = Sentence.query.filter_by(chapter_id=chapter_id).all()
+            
+            # For each sentence, delete related data
+            for sentence in sentences:
+                # Get all segments for this sentence
+                segments = Segment.query.filter_by(sentence_id=sentence.id).all()
+                
+                for segment in segments:
+                    # Delete related data
+                    Assignment.query.filter_by(segment_id=segment.segment_id).delete()
+                    Feedback.query.filter_by(segment_id=segment.segment_id).delete()
+                    Discourse.query.filter_by(segment_id=segment.segment_id).delete()
+                    Relational.query.filter_by(segment_id=segment.segment_id).delete()
+                    Construction.query.filter_by(segment_id=segment.segment_id).delete()
+                    LexicalConceptual.query.filter_by(segment_id=segment.segment_id).delete()
+                    
+                    # Delete the segment itself
+                    db.session.delete(segment)
+                    db.session.flush()
+                
+                # Delete the sentence
+                db.session.delete(sentence)
+                db.session.flush()
+            
+            # Finally delete the chapter
+            db.session.delete(chapter)
+            
+            # Commit all changes
+            db.session.commit()
+            return True
+            
+        except Exception as e:
+            db.session.rollback()
+            current_app.logger.error(f"Error deleting chapter {chapter_id}: {str(e)}")
+            raise e

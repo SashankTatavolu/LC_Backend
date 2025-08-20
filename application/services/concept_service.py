@@ -9,8 +9,22 @@ class ConceptService:
         prefix = hindi_label.split('_')[0]  
         return ConceptDictionary.query.filter(ConceptDictionary.hindi_label.like(f"{prefix}_%")).all()
     
- 
+    @staticmethod
+    def get_concepts_by_sanskrit_label(sanskrit_label):
+        # Extracts the part before "_"
+        prefix = sanskrit_label.split('_')[0]  
+        return ConceptDictionary.query.filter(ConceptDictionary.sanskrit_label.like(f"{prefix}_%")).all()
+    
+    @staticmethod
+    def get_concepts_by_english_string_label(english_label):
+    # Extracts the part before "_"
+        prefix = english_label.split('_')[0]
+        return ConceptDictionary.query.filter(ConceptDictionary.english_label.like(f"{prefix}_%")).all()
 
+    @staticmethod
+    def get_concept_by_id(concept_id):
+        return ConceptDictionary.query.filter_by(concept_id=concept_id).first()
+    
     @staticmethod
     def get_concepts_by_english_label(english_label):
         """
@@ -91,7 +105,7 @@ class ConceptService:
             print(f"Transaction rolled back. Error: {e}")
             raise Exception("Database transaction failed")
 
-
+    
 
 
 

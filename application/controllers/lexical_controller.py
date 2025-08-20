@@ -20,15 +20,24 @@ def get_lexicals_by_segment(segment_id):
 @measure_response_time
 def manage_lexicals_by_segment(segment_id):
     data = request.get_json()
-    is_finalized = data.get('is_finalized', False)  # Extract is_finalized from request
+    is_finalized = data.get('is_finalized', False)
+
+    print(f"Received PUT /segment/{segment_id} payload: {data}")
 
     if request.method == 'POST':
         lexicals = LexicalService.create_lexicals(segment_id, data)
         return jsonify([lexical.serialize() for lexical in lexicals]), 201
 
     elif request.method == 'PUT':
-        success = LexicalService.update_lexicals_by_segment(segment_id, data.get('lexicals', []), is_finalized)
-        return ('Update successful', 200) if success else ('No lexicals found', 404)
+        success, message = LexicalService.update_lexicals_by_segment(
+            segment_id,
+            data.get('lexicals', []),
+            is_finalized
+        )
+        if success:
+            return jsonify({"message": "Update successful"}), 200
+        else:
+            return jsonify({"message": "Update failed", "error": message}), 400
 
 
 @lexical_blueprint.route('/segment/<int:segment_id>/is_concept_generated', methods=['GET'])

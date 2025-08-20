@@ -39,8 +39,8 @@ chapter_text = read_chapter_from_file(chapter_file_path)
 
 
 chapter_data = {
-    "project_id":13,
-    "name": "Geonios_15ch",  
+    "project_id":16,
+    "name": "Geo_ncert_7stnd_chapter_4",  
     "uploaded_by_id": 24, 
     "text": chapter_text,
     "created_at": datetime.datetime.utcnow(),

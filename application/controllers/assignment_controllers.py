@@ -14,6 +14,22 @@ from ..extensions import db
 
 assignment_blueprint = Blueprint('assignments', __name__)
     
+@assignment_blueprint.route('/chapter/<int:chapter_id>/assigned_users', methods=['GET'])
+def get_chapter_assigned_users(chapter_id):
+    chapter = Chapter.query.get(chapter_id)
+    if not chapter:
+        return jsonify({"message": "Chapter not found"}), 404
+    
+    # Get unique users assigned to this chapter's segments
+    users = set()
+    for segment in chapter.segments:
+        for assignment in segment.assignments:
+            users.add((assignment.user.id, assignment.user.username))
+    
+    return jsonify({
+        "users": [{"user_id": u[0], "username": u[1]} for u in users]
+    }), 200
+ 
 @assignment_blueprint.route('/assigned_users', methods=['GET'])
 @jwt_required()
 def get_assignments():
@@ -29,14 +45,14 @@ def get_assignments():
             Assignment.segment_id,
             Segment.segment_index,
             Assignment.chapter_id,
-            Chapter.name.label('chapter_name'),  # ⬅️ Add chapter name
+            Chapter.name.label('chapter_name'),
             Assignment.user_id,
             User.username,
             Assignment.tab_name
         )
         .join(User, User.id == Assignment.user_id)
         .join(Segment, Segment.segment_id == Assignment.segment_id)
-        .join(Chapter, Chapter.id == Assignment.chapter_id)  # ⬅️ Join Chapter table
+        .join(Chapter, Chapter.id == Assignment.chapter_id)
         .filter(User.organization == current_user.organization)
         .all()
     )
@@ -45,7 +61,7 @@ def get_assignments():
         "segment_id": None,
         "segment_index": None,
         "chapter_id": None,
-        "chapter_name": None,  # ⬅️ Add this
+        "chapter_name": None,
         "user_id": None,
         "username": None,
         "assigned_tabs": []
@@ -56,30 +72,43 @@ def get_assignments():
         segment_data["segment_id"] = a.segment_id
         segment_data["segment_index"] = a.segment_index
         segment_data["chapter_id"] = a.chapter_id
-        segment_data["chapter_name"] = a.chapter_name  # ⬅️ Set chapter name
+        segment_data["chapter_name"] = a.chapter_name
         segment_data["user_id"] = a.user_id
         segment_data["username"] = a.username
 
+        # Check if tab already exists
         existing_tabs = [t['tab_name'] for t in segment_data["assigned_tabs"]]
         if a.tab_name not in existing_tabs:
             is_finalized = False
-
+            
+            # Check if the tab is finalized
             if a.tab_name == 'lexical_conceptual':
-                is_finalized = db.session.query(LexicalConceptual).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
+                is_finalized = db.session.query(exists().where(
+                    LexicalConceptual.segment_id == a.segment_id, 
+                    LexicalConceptual.isFinalized == True
+                )).scalar()
             elif a.tab_name == 'construction':
-                is_finalized = db.session.query(Construction).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
+                is_finalized = db.session.query(exists().where(
+                    Construction.segment_id == a.segment_id, 
+                    Construction.isFinalized == True
+                )).scalar()
             elif a.tab_name == 'relational':
-                is_finalized = db.session.query(Relational).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
+                is_finalized = db.session.query(exists().where(
+                    Relational.segment_id == a.segment_id, 
+                    Relational.isFinalized == True
+                )).scalar()
             elif a.tab_name == 'discourse':
-                is_finalized = db.session.query(Discourse).filter_by(segment_id=a.segment_id, isFinalized=False).count() == 0
-
+                is_finalized = db.session.query(exists().where(
+                    Discourse.segment_id == a.segment_id, 
+                    Discourse.isFinalized == True
+                )).scalar()
+            
             segment_data["assigned_tabs"].append({
                 "tab_name": a.tab_name,
                 "isFinalized": is_finalized
             })
 
     return jsonify(list(grouped_assignments.values())), 200
-
 
 @assignment_blueprint.route('/user_assignments/<int:user_id>', methods=['GET'])
 @jwt_required()
@@ -151,3 +180,87 @@ def get_user_assignments(user_id):
         chapter.pop("segment_ids_set")
 
     return jsonify(result), 200
+
+
+@assignment_blueprint.route('/segment_assignments/<int:segment_id>', methods=['GET'])
+@jwt_required()
+def get_segment_assignments(segment_id):
+    """
+    Get all user assignments for a specific segment ID
+    Returns: List of users assigned to this segment with their assigned tabs
+    """
+    # First verify the segment exists
+    segment = Segment.query.get(segment_id)
+    if not segment:
+        return jsonify({"message": "Segment not found"}), 404
+
+    # Get all assignments for this segment
+    assignments = (
+        db.session.query(
+            Assignment.user_id,
+            User.username,
+            Assignment.tab_name,
+            Chapter.name.label('chapter_name')
+        )
+        .join(User, User.id == Assignment.user_id)
+        .join(Chapter, Chapter.id == Assignment.chapter_id)
+        .filter(Assignment.segment_id == segment_id)
+        .all()
+    )
+
+    if not assignments:
+        return jsonify({"message": "No assignments found for this segment"}), 404
+
+    # Group assignments by user
+    result = {
+        "segment_id": segment_id,
+        "segment_index": segment.segment_index,
+        "chapter_id": assignments[0].chapter_id if assignments else None,
+        "chapter_name": assignments[0].chapter_name if assignments else None,
+        "assigned_users": []
+    }
+
+    # Group tabs by user
+    user_assignments = defaultdict(list)
+    for a in assignments:
+        user_assignments[(a.user_id, a.username)].append(a.tab_name)
+
+    # Format the response
+    for (user_id, username), tabs in user_assignments.items():
+        result["assigned_users"].append({
+            "user_id": user_id,
+            "username": username,
+            "assigned_tabs": tabs,
+            # Add any additional user info you want to include
+            # "user_email": email, etc.
+        })
+
+    return jsonify(result), 200
+
+
+@assignment_blueprint.route('/chapter/<int:chapter_id>/assignments', methods=['DELETE'])
+@jwt_required()
+def delete_chapter_assignments(chapter_id):
+    # First verify the chapter exists
+    chapter = Chapter.query.get(chapter_id)
+    if not chapter:
+        return jsonify({"message": "Chapter not found"}), 404
+
+    try:
+        # Delete all assignments for this chapter
+        deleted_count = Assignment.query.filter_by(chapter_id=chapter_id).delete()
+        db.session.commit()
+        
+        return jsonify({
+            "message": f"Successfully deleted {deleted_count} assignments from chapter {chapter_id}",
+            "deleted_count": deleted_count
+        }), 200
+        
+    except Exception as e:
+        db.session.rollback()
+        return jsonify({
+            "message": "Failed to delete assignments",
+            "error": str(e)
+        }), 500
+        
+        

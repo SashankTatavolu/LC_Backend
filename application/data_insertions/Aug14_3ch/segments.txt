@@ -1,0 +1,266 @@
+Geo_nios_3ch_0001a	In the previous lesson , we have learnt that this.																								
+Geo_nios_3ch_0001b	the interior of the earth is very hot.																								
+Geo_nios_3ch_0002	Earthquakes and volcanoes are concentrated along a few narrow belts.																								
+Geo_nios_3ch_0003	The type and density of rocks of the crust are variable.																								
+Geo_nios_3ch_0004	The surface features are dynamic in character.																								
+Geo_nios_3ch_0005	This dynamism is due to two forces — endogenetic and exogenetic.																								
+Geo_nios_3ch_0006	Endogenetic forces are those which are caused from below the surface.																								
+Geo_nios_3ch_0007a	Due to this , an area may get elevated.																								
+Geo_nios_3ch_0007b	Or it gets submerged.																								
+Geo_nios_3ch_0008	These forces try to make the surface irregular .																								
+Geo_nios_3ch_0009	Exogenetic forces are those which operate from above the surface.																								
+Geo_nios_3ch_0010a	They try to eliminate the irregularities of the surface through the process of denudation.																								
+Geo_nios_3ch_0010b	We will be reading in lesson.																								
+Geo_nios_3ch_0011	In this lesson we will be studying about the endogenetic forces.																								
+Geo_nios_3ch_0012	After studying this lesson , you will be able to define isostasy.																								
+Geo_nios_3ch_0013	After studying this lesson , you will be able to describe the variation in relief features on the earth’s surface.																								
+Geo_nios_3ch_0014	After studying this lesson , you will be able to explain the isostatic adjustment by various experiments.																								
+Geo_nios_3ch_0015a	After studying this lesson , you will be able to explain the views of Airy and Pratt.																								
+Geo_nios_3ch_0015b	And distinguish between the ideas of both.																								
+Geo_nios_3ch_0016	After studying this lesson , you will be able to explain the concept of continental drift.																								
+Geo_nios_3ch_0017	After studying this lesson , you will be able to enumerate the evidences of continental drift.																								
+Geo_nios_3ch_0018	After studying this lesson , you will be able to explain the concept of plate tectonics.																								
+Geo_nios_3ch_0019a	After studying this lesson , you will be able to identify  different plates on the world map.																								
+Geo_nios_3ch_0019b	And locate them.																								
+Geo_nios_3ch_0020	After studying this lesson , you will be able to explain the mechanism of plate movement.																								
+Geo_nios_3ch_0021	After studying this lesson , you will be able to identify various plate boundaries and associated features.																								
+Geo_nios_3ch_0022	After studying this lesson , you will be able to explain the distribution of land and water on the globe.																								
+Geo_nios_3ch_0023	After studying this lesson , you will be able to associate earthquakes and volcanoes with plate boundaries.																								
+Geo_nios_3ch_0024a	The term “Isostasy” is derived from “Isostasia”.																								
+Geo_nios_3ch_0024b	It is  a word of Greek language meaning the state of being in balance.																								
+Geo_nios_3ch_0025	You already know and must have seen that the mountain have many peaks and relatively great heights.																								
+Geo_nios_3ch_0026	Similarly plateau and plain have flat surfaces.																								
+Geo_nios_3ch_0027a	They have moderate and lower height , respectively.																								
+Geo_nios_3ch_0027b	On the contrary oceanic beds and trenches have greater depths.																								
+Geo_nios_3ch_0028	There is a great difference in height among these features.																								
+Geo_nios_3ch_0029	You also know that the earth is rotating while keeping perfect balance among its various features.																								
+Geo_nios_3ch_0030	Thus , our earth is considered to be in isostatic equilibrium.																								
+Geo_nios_3ch_0031a	Example : - Suppose this																								
+Geo_nios_3ch_0031b	You are holding one stick each in your both hands vertically with varying heights , say 5’ and 15’																								
+Geo_nios_3ch_0031c	And  you are moving in a particular direction.																								
+Geo_nios_3ch_0032	Do you have any difficulty in maintaining a balance in congruence with your body as well as two sticks together ?.																								
+Geo_nios_3ch_0033	Definitely , smaller stick will be easy to make a balance than the longer one.																								
+Geo_nios_3ch_0034	It is just because of the center of gravity.																								
+Geo_nios_3ch_0035	The center of gravity with smaller stick will be nearer to your holding hand in comparison to the longer stick.																								
+Geo_nios_3ch_0036	In the same way smaller surface features like plains are more stable than the tall mountains.																								
+Geo_nios_3ch_0037	Isosatic Balance : views of Airy.																								
+Geo_nios_3ch_0038	Airy , a geologist , considered the density of different columns ( plains , plateaus , mountains , etc. ) to be the same.																								
+Geo_nios_3ch_0039	Hence , he proposed the idea of ‘uniform density with varying thickness’.																								
+Geo_nios_3ch_0040	We know that the upper crust of the earth is made up of lighter material.																								
+Geo_nios_3ch_0041a	In this layer , silica and aluminum are found in abundance.																								
+Geo_nios_3ch_0041b	hence it is known as ‘Sial’.																								
+Geo_nios_3ch_0042	It is less denser than the lower one.																								
+Geo_nios_3ch_0043a	Airy assumed this.																								
+Geo_nios_3ch_0043b	the Sialic crust is floating over the Sima ( silica and magnesium , lower denser layer ) .																								
+Geo_nios_3ch_0044	Crustal layer is uniform in terms of density with varying length of columns.																								
+Geo_nios_3ch_0045	Therefore , those columns are projecting down into the asthenosphere depending upon the proportions of the column.																								
+Geo_nios_3ch_0046a	It is due to this reason that the root has developed.																								
+Geo_nios_3ch_0046b	or the sima has been displaced from below.																								
+Geo_nios_3ch_0047a	To prove this concept , Airy took an example of wooden blocks of various sizes and immersed them into water.																								
+Geo_nios_3ch_0047b	and immersed them into water.																								
+Geo_nios_3ch_0048	All blocks are of same density.																								
+Geo_nios_3ch_0049	They get immersed differently in proportion to their sizes.																								
+Geo_nios_3ch_0050a	In the same way higher features with great height seen on the surface of the earth have deeper roots.																								
+Geo_nios_3ch_0050b	whereas short in length has shorter roots beneath.																								
+Geo_nios_3ch_0051a	It is the concept of root.																								
+Geo_nios_3ch_0051b	which is sustaining the higher elevation.																								
+Geo_nios_3ch_0052	He is of the opinion that the landmasses are floating like a boat in the substratum ( magmatic asthenosphere ) .																								
+Geo_nios_3ch_0053	According to this concept , the root beneath the Mt. Everest would be 70 , 784 metre below the sea level.																								
+Geo_nios_3ch_0054	On this bases Airy has been criticized that the root is not possible to be at such a great depth.																								
+Geo_nios_3ch_0055	Because the root material will melt due to higher temperature found at that depth.																								
+Geo_nios_3ch_0056	Pratt considered landblocks of various heights to be different in terms of their density.																								
+Geo_nios_3ch_0057	The taller landmass has lesser density and smaller height features to be denser.																								
+Geo_nios_3ch_0058	In other words , there is an inverse relationship between height and density.																								
+Geo_nios_3ch_0059a	There is a higher column																								
+Geo_nios_3ch_0059b	density will be lesser.																								
+Geo_nios_3ch_0059c	There is a shorter column																								
+Geo_nios_3ch_0059d	density will be higher.																								
+Geo_nios_3ch_0060a	Assuming this to be true , he accepted this.																								
+Geo_nios_3ch_0060b	that all blocks of different height get compensated at a certain depth into the substratum.																								
+Geo_nios_3ch_0061	In this way a line is being demarcated above which there is equal pressure with varying heights.																								
+Geo_nios_3ch_0062a	Thus , he denounced the root concept of Airy.																								
+Geo_nios_3ch_0062b	And accepted the ‘concept of a level of compensation’.																								
+Geo_nios_3ch_0063a	For proving his concept he took a number of metal bars of varying density with same weight and put them into mercury.																								
+Geo_nios_3ch_0063b	And put them into mercury.																								
+Geo_nios_3ch_0064a	In this way they form a line by all those bars , which he regarded to be the level of compensation.																								
+Geo_nios_3ch_0064b	Which he regarded to be the level of compensation.																								
+Geo_nios_3ch_0065	Differences between the views of Airy and Pratt.																								
+Geo_nios_3ch_0066	The differences between the views of Airy and Pratt can more clearly be presented in a tabular form.																								
+Geo_nios_3ch_0067	Uniform density of crustal material.																								
+Geo_nios_3ch_0068	Varying density of crustal material.																								
+Geo_nios_3ch_0069	Varying depth upto which root penetrates.																								
+Geo_nios_3ch_0070	Uniform depth upto which crustal material reaches.																								
+Geo_nios_3ch_0071	Deeper root below the mountain and smaller beneath plain.																								
+Geo_nios_3ch_0072	No root formation , but a level of compensation.																								
+Geo_nios_3ch_0073	It is quite apparent that there is no complete isostatic balance over the globe.																								
+Geo_nios_3ch_0074	The earth is unstable.																								
+Geo_nios_3ch_0075	Endogenetic forces often disturb the crustal balance.																								
+Geo_nios_3ch_0076a	The regular earthquakes and volcanic eruptions along a particular belt do not signify any balance.																								
+Geo_nios_3ch_0076b	but a sort of adjustment is needed continuously.																								
+Geo_nios_3ch_0077a	Endogenetic forces and their tectonic effects are the causes of imbalance on the surface.																								
+Geo_nios_3ch_0077b	But nature always tries to make an isostatic adjustment with itself.																								
+Geo_nios_3ch_0078a	Exogenetic forces are trying to eliminate the differences on the surface of the earth.																								
+Geo_nios_3ch_0078b	And in this process they are peeling off , transporting down to far flung places , and depositing them.																								
+Geo_nios_3ch_0079	In this process , isostatic balance is maintained by the underneath flowage of material by subsidence at the place of deposition and upliftment at the peeling of place in their proportion to the denudation.																								
+Geo_nios_3ch_0080	According to Alfred Wegener , the entire landmass of the globe was together about 280 million years ago.																								
+Geo_nios_3ch_0081	It was termed as Pangea , a super continent.																								
+Geo_nios_3ch_0082	The huge water body surrounding the Pangea was known as Panthalasa.																								
+Geo_nios_3ch_0083a	From 280 to 150 million years ago , Pangea was broken latitudinally into northern and southern parts known as Laurasia ( Angaraland ) and Gondwanaland , respectively.																								
+Geo_nios_3ch_0083b	Known as Laurasia ( Angaraland ) and Gondwanaland , respectively.																								
+Geo_nios_3ch_0084a	Both of them drifted away																								
+Geo_nios_3ch_0084b	and in between a shallow sea emerged by filling up the water from Panthalasa.																								
+Geo_nios_3ch_0084c	It was known as Tethys sea.																								
+Geo_nios_3ch_0085a	Later on Laurasia and Gondwanaland rifted.																								
+Geo_nios_3ch_0085b	And finally drifted to form the present day distribution of land and water on the eart.																								
+Geo_nios_3ch_0086	Wegener gave a number of evidences in support of the unification of land mass in geologic past.																								
+Geo_nios_3ch_0087	They are such which cannot be negated even today.																								
+Geo_nios_3ch_0088a	Eastern coast of South America is identical to Western coast of Africa which fits to a certain depth in the ocean.																								
+Geo_nios_3ch_0088b	Which fits to a certain depth in the ocean.																								
+Geo_nios_3ch_0089	To a certain extent coastal areas and continental shelves have been modified by oceanic waves through denudation.																								
+Geo_nios_3ch_0090	The mountain systems of Southern Atlantic coast in South America and Africa show the similarity of the extension in both continents.																								
+Geo_nios_3ch_0091	Coal and Vegetation evidences.																								
+Geo_nios_3ch_0092	The distribution of coal and vegetation over South America , Africa , India and Australia proves that they were together in geological past.																								
+Geo_nios_3ch_0093a	The classical glacial deposits during carboniferous period over these landmasses resemble each other which tells the story of togetherness.																								
+Geo_nios_3ch_0093b	Which tells the story of togetherness.																								
+Geo_nios_3ch_0094	Today they lie in different climatic zones.																								
+Geo_nios_3ch_0095a	Apart from above evidences put forward by Wegener , other evidences ( known later ) are also there.																								
+Geo_nios_3ch_0095b	which support the idea of continental drift.																								
+Geo_nios_3ch_0096	Paleomagnetism is the study of the direction of pole through ages.																								
+Geo_nios_3ch_0097a	Magnetically susceptible minerals like haematite , pyrrhotite magnetite etc. get aligned with the magnetic pole of the earth and recorded in the solidification of magma during that time.																								
+Geo_nios_3ch_0097b	And recorded in the solidification of magma during that time.																								
+Geo_nios_3ch_0098a	It is found that periodic changes have occurred.																								
+Geo_nios_3ch_0098b	And poles have wandered which is not possible for the entire earth.																								
+Geo_nios_3ch_0099a	Hence , it is the twist and turn of the landblock.																								
+Geo_nios_3ch_0099b	And not for the entire earth which has again explained that the continents have shifted their positions.																								
+Geo_nios_3ch_0100a	Along the mid Atlantic ridge , magma comes out at the sea bed and gets solidified.																								
+Geo_nios_3ch_0100b	And gets solidified.																								
+Geo_nios_3ch_0101a	A new zone is formed and this process is continuing since millions of years.																								
+Geo_nios_3ch_0101b	And this process is continuing since millions of years.																								
+Geo_nios_3ch_0102a	It is leading for diversion of continental block																								
+Geo_nios_3ch_0102b	the size of the Atlantic ocean is increasing which is termed as sea floor spreading.																								
+Geo_nios_3ch_0103	It is the classical example of the shifting of continents.																								
+Geo_nios_3ch_0104	The explanation of continental drift through sea floor spreading and the study of paleomagnetism is commonly known as Plate Tectonics.																								
+Geo_nios_3ch_0105	The uppermost outer solid and rigid layer of the earth is called crust.																								
+Geo_nios_3ch_0106	Its thickness varies considerably.																								
+Geo_nios_3ch_0107a	It is as little as 5 km thick beneath the oceans at some places																								
+Geo_nios_3ch_0107b	but under some mountain ranges it extends upto a depth of 70 km.																								
+Geo_nios_3ch_0108	Below the crust denser rocks are found , known as mantle crust.																								
+Geo_nios_3ch_0109	This upper part of mantle upto an average depth of 100 km from the surface is solid.																								
+Geo_nios_3ch_0110	This solid mantle plus upper crust form a comparatively rigid block termed as lithosphere.																								
+Geo_nios_3ch_0111	Mantle is partially molten between 100 to 250 km depth.																								
+Geo_nios_3ch_0112	This zone is said to be asthenosphere ,.																								
+Geo_nios_3ch_0113a	This Zone is also known as Mohr discontinuity																								
+Geo_nios_3ch_0113b	a simplification of Mohorovicic , the name of the seismologist who discovered it.																								
+Geo_nios_3ch_0114	All these things you have already read in the previous lesson.																								
+Geo_nios_3ch_0115	The lithosphere is broken into several blocks.																								
+Geo_nios_3ch_0116	These blocks are known as plates.																								
+Geo_nios_3ch_0117	which are moving over asthenosphere.																								
+Geo_nios_3ch_0118	There are seven major plates.																								
+Geo_nios_3ch_0119	Apart from these major plates minor plates are about 20 in number.																								
+Geo_nios_3ch_0120	a few important among them are.																								
+Geo_nios_3ch_0121	Arabian plate , Philippine plate , Cocos plate , Nazca plate , Caribbean plate , Scotia plate , etc.																								
+Geo_nios_3ch_0122	The major and minor plates constitute the whole surface of the earth.																								
+Geo_nios_3ch_0123	Plate tectonics is a method or way of understanding the land-water distribution of the earth.																								
+Geo_nios_3ch_0124	Tectonics is a sort of movement of plates.																								
+Geo_nios_3ch_0125	Through the movement , internal forces are explained which are responsible for the distribution of earth’s crust , formation of mountain chains and distribtion of earthquakes and volcanism.																								
+Geo_nios_3ch_0126a	Arthur Holmes , a British geologist , in 1928 – 1929 , proposed																								
+Geo_nios_3ch_0126b	convectional currents exist underneath the lithosphere.																								
+Geo_nios_3ch_0127a	The center of convectional current is not exactly known																								
+Geo_nios_3ch_0127b	it is believed																								
+Geo_nios_3ch_0127c	that it has an average depth of about 100 to 250 km below the surface.																								
+Geo_nios_3ch_0128	The inception of the current is initiated by heat generation due to radio-active minerals.																								
+Geo_nios_3ch_0129a	Due to integration and disintegration of atomic minerals heat is produced																								
+Geo_nios_3ch_0129b	the melting of surrounding rocks.																								
+Geo_nios_3ch_0130	In this way currents start operating.																								
+Geo_nios_3ch_0131	These currents are classified into rising and falling with divergence and convergence activities , respectively.																								
+Geo_nios_3ch_0132	With rising convectional current , transport of hot and viscous matter takes place upwardly.																								
+Geo_nios_3ch_0133	After reaching about 100 kms below the surface that current gets diverged leading to split into the upper part.																								
+Geo_nios_3ch_0134	The molten material penetrates into the split and thus creation of new surface and the draft of the mammoth plate in opposition direction.																								
+Geo_nios_3ch_0135	It happens below the mid-oceanic ridge.																								
+Geo_nios_3ch_0136a	On the other hand two sets of diverging thermal convectional currents brings two plates together																								
+Geo_nios_3ch_0136b	It is called convergent boundary where subduction takes place.																								
+Geo_nios_3ch_0137	Plates of lithosphere are constantly in motion because of convectional currents.																								
+Geo_nios_3ch_0138	Plate boundaries are very important and significant structural features.																								
+Geo_nios_3ch_0139	Boundaries are very distinct and easy to identify.																								
+Geo_nios_3ch_0140	They are associated with newly formed mountain systems , oceanic ridges and trenches.																								
+Geo_nios_3ch_0141a	Plates are moving continuously.																								
+Geo_nios_3ch_0141b	Plates have relative direction of movement.																								
+Geo_nios_3ch_0142	Based on the direction of movement three types of plate boundaries can , easily , be identified.																								
+Geo_nios_3ch_0143	The convectional current are caused due to radio-activity.																								
+Geo_nios_3ch_0144	These currents get diverted on approaching the crust layer.																								
+Geo_nios_3ch_0145	Diverging currents produce tension at the contact-zone of crust leading to fracture.																								
+Geo_nios_3ch_0146a	Magnetic material penetrates into the fractroges																								
+Geo_nios_3ch_0146b	It gets solidified.																								
+Geo_nios_3ch_0147a	This continuous process pushes the blocks in opposite direction.																								
+Geo_nios_3ch_0147b	It creates a new zone , known as “zone of construction”.																								
+Geo_nios_3ch_0148	At convergent boundary , two adjacent plates come further and further closer to each other and collide.																								
+Geo_nios_3ch_0149a	When both sides are of continental nature																								
+Geo_nios_3ch_0149b	a mountain formation is evident.																								
+Geo_nios_3ch_0150	When one of the two is continental and the other maritime again mountain comes into being along the boundary.																								
+Geo_nios_3ch_0151	In this case , continental plate overrides the maritime.																								
+Geo_nios_3ch_0152a	When both plates are of maritime , both of them break , subduct and penetrate below.																								
+Geo_nios_3ch_0152b	hence trenches are formed.																								
+Geo_nios_3ch_0153	Along this boundary earthquakes and volcanic activities are prominent.																								
+Geo_nios_3ch_0154a	In all these three situations , surface area is reduced																								
+Geo_nios_3ch_0154b	therefore , this is also known as “zone of destruction”.																								
+Geo_nios_3ch_0155	Transform fault is the one when two adjacent plates slide past each other.																								
+Geo_nios_3ch_0156a	Direction of movement may be along or against.																								
+Geo_nios_3ch_0156b	They move parallel to each other.																								
+Geo_nios_3ch_0157	Therefore , neither there is any construction of fresh area nor it has any destruction.																								
+Geo_nios_3ch_0158	Hence , it is known as “zone of preservation”.																								
+Geo_nios_3ch_0159a	Plates are not a permanent features																								
+Geo_nios_3ch_0159b	but they vary in size and shape.																								
+Geo_nios_3ch_0160	Plates can split or get welded with adjoining plate.																								
+Geo_nios_3ch_0161	Almost all tectonic activities occur along the plate boundaries.																								
+Geo_nios_3ch_0162	Prior to the advent of plate tectonic theory , the continental drift theory which was proposed by Wegener was criticized , particularly about the forces.																								
+Geo_nios_3ch_0163	In fact , it was outrightly rejected in spite of apparent evidences.																								
+Geo_nios_3ch_0164a	But further researches about the material of sea floor and paleomagnetism supported the theory																								
+Geo_nios_3ch_0164b	the proposition of plate tectonic theory in 1960’s has solved the problem of the mechanism of movement.																								
+Geo_nios_3ch_0165	Plate Tectonics Vs Earthquakes and Volcanoes.																								
+Geo_nios_3ch_0166	The distribution of earthquakes and volcanoes over the globe clearly reveals that they are strongly associated with the boundaries of plates.																								
+Geo_nios_3ch_0167	Plate boundaries are the zones where every sort of tectonic activity does take place.																								
+Geo_nios_3ch_0168	The release of energy created because of the movement of plates is manifested in this zone in the form of earthquakes and volcanic eruption.																								
+Geo_nios_3ch_0169	What you have learnt ?.																								
+Geo_nios_3ch_0170	The surface of the earth is dynamic.																								
+Geo_nios_3ch_0171	This dynamism is due to the forces operating from inside the surface ( endogenetic forces ) as well as on the surface / atmospheric forces ( exogenetic forces ) .																								
+Geo_nios_3ch_0172	It is existing on the earth while itself is rotating and revolving.																								
+Geo_nios_3ch_0173	The surface is irregular.																								
+Geo_nios_3ch_0174a	Hence , a sort of dynamic equilibrium is always in operation.																								
+Geo_nios_3ch_0174b	A sort of dynamic equilibrium is termed as isostasy.																								
+Geo_nios_3ch_0175	Apart from many scholars the views of Airy and Pratt are more distinct.																								
+Geo_nios_3ch_0176	Airy propounded the idea of uniform density of all rocks on the surface.																								
+Geo_nios_3ch_0177	has its roots depending upon the height of the column.																								
+Geo_nios_3ch_0178	A greater root will be found beneath the higher and lofy body of mountains and having smaller root under lower columns like plateau or plain.																								
+Geo_nios_3ch_0179	Pratt accepted that the rocks found on the earth have different densities.																								
+Geo_nios_3ch_0180	At a particulars depth , the weight of all columns of varying height will be compensated.																								
+Geo_nios_3ch_0181a	Hence , higher column of mass will have lower density.																								
+Geo_nios_3ch_0181b	lower column will have higher density.																								
+Geo_nios_3ch_0182	Therefore , both of them are explaining the same problem of isostatic balance , but with different perspective.																								
+Geo_nios_3ch_0183	The distribution of land and water on earth surface is not static.																								
+Geo_nios_3ch_0184a	It has changed																								
+Geo_nios_3ch_0184b	It is changing.																								
+Geo_nios_3ch_0184c	It will change in future too.																								
+Geo_nios_3ch_0185a	This changed position is said to be continental drift in crude way which was conceived by Wegener																								
+Geo_nios_3ch_0185b	The mechanism explained by him was not scientific.																								
+Geo_nios_3ch_0186a	Therefore , his ideas of continental drift was denounced.																								
+Geo_nios_3ch_0186b	in spite of his strong futile and testifying evidences.																								
+Geo_nios_3ch_0187	With the concept of convectional current theory of Holmes and proposition of plate tectonics , a new thinking came in understanding the surface of the earth.																								
+Geo_nios_3ch_0188	Study on paleomagnetism as well as sea floor spreading have supported the plate tectonics theory.																								
+Geo_nios_3ch_0189	According to this theory , the earth surface is made up of several broken blocks of enormous size with great depth considered to be a plate.																								
+Geo_nios_3ch_0190	There are seven bigger size plates and twenty seven smaller size plates.																								
+Geo_nios_3ch_0191	As per the concept of convectional current , their movement takes place in three possible ways.																								
+Geo_nios_3ch_0192	First , two adjacent plates move away ( divergent ) and where a new zone is constructed.																								
+Geo_nios_3ch_0193	Second , two adjacent plates come closer ( convergent ) and get subducted and where a zone is destroyed.																								
+Geo_nios_3ch_0194a	Third , in which two adjacent plates slide past each other ( fracture )																								
+Geo_nios_3ch_0194b	the margins of both plates are preserved.																								
+Geo_nios_3ch_0195	Because of these different tectonic activities , earthquakes and volcanoes are associated with plate margins.																								
+Geo_nios_3ch_0196	What is isostasy ?.																								
+Geo_nios_3ch_0197	Explain the concept of isostasy according to Airy.																								
+Geo_nios_3ch_0198	Explain the isostatic balance of the earth as proposed by Pratt.																								
+Geo_nios_3ch_0199	Differentiate the ideas between Airy and Pratt.																								
+Geo_nios_3ch_0200	Discuss the isostatic balance at global level.																								
+Geo_nios_3ch_0201	Discuss the evidences of continental drift.																								
+Geo_nios_3ch_0202	What is plate ?.																								
+Geo_nios_3ch_0203	Explain the mechanism of plate movement.																								
+Geo_nios_3ch_0204	Discuss the activities at plate margins.																								
+Geo_nios_3ch_0205	Describe the distribution of earthquakes and volcanoes with the help of plate boundaries.																								

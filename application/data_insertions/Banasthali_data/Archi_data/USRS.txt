@@ -1,0 +1,604 @@
+﻿<sent_id=sent_101>
+#सीता ने 5 किलोमीटर दौड़ लगाई ।
+sIwA        1        female        -        -        -        -        -        8:begin
+[ne_1]        8        per        -        6:k1        -        -        -        -
+5        3        meas        -        -        -        -        -        9:count
+kilomItara_1        4        -        -        -        -        -        -        9:unit
+xOdZa_1        5        -        -        6:k2        -        -        -        -
+lagA_1-yA_1        6        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        5:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_102>
+#क्या तुमने देखा , उस बोरी का वजन लगभग 10 किलोग्राम निकला ?
+$kim        1        -        -        3:krvn        -        -        -        -
+$addressee        2        -        pl        3:k1        -        -        -        -
+xeKa_1-yA_1        3        -        -        0:main        -        -        -        -
+$wyax        5        -        -        6:dem        -        distal        -        -
+borA_1        6        -        -        8:r6        -        -        -        -
+vajana_1        8        -        -        12:k1        -        -        -        -
+10        10        meas        -        -        -        lagaBaga        -        14:count
+kilogrAma_1        11        -        -        -        -        -        -        14:unit
+nikala_1        12        -        -        3:k2        -        -        -        -
+[meas_1]        14        -        -        12:k1s        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_103>
+#रस्सी सिर्फ 15 मीटर ही थी , इसलिए काम नहीं बना ।
+rassA_1        1        -        -        6:k1        -        -        -        -
+15        3        meas        -        -        -        sirPa        -        13:count
+mItara_1        4        -        -        -        -        hI        -        13:unit
+WA_1        6        -        -        8:re        -        -        -        -
+isalie        8        -        -        11:rh        -        -        -        -
+kAma_1        9        -        -        11:k1        -        -        -        -
+nahIM_1        10        -        -        11:neg        -        -        -        -
+banA_1-0_1        11        -        -        0:main        -        -        -        -
+[meas_1]        13        -        -        6:k1s        -        -        -        -
+%negative
+</sent_id>
+
+
+<sent_id=sent_104>
+#इमारत 50 फुट ऊँची है ।
+imArawa_1        1        -        -        5:k1        -        -        -        -
+50        2        numex        -        3:card        -        -        -        -
+Puta_1        3        -        -        4:intf        -        -        -        -
+UzcA_1        4        -        -        5:k1s        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_105>
+#गाड़ी 80 किलोमीटर प्रति घंटा की रफ्तार से चल रही थी ।
+gAdZI_1        1        -        -        9:k1        -        -        -        -
+80        2        meas        -        -        -        -        -        13:count
+kilomItara_1        3        -        -        -        -        prawi        -        13:unit
+GaMtA_1        5        -        -        7:r6        -        -        -        -
+raPwAra_1        7        -        -        9:krvn        -        -        -        -
+cala_1-0_raha_WA_1        9        -        -        0:main        -        -        -        -
+[meas_1]        13        -        -        5:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_106>
+#राम ने 2 लीटर पानी पिया ।
+rAma        1        male        -        6:k1        -        -        -        -
+2        3        meas        -        -        -        -        -        8:count
+lItara_1        4        -        -        -        -        -        -        8:unit
+pAnI_1        5        -        -        6:k2        -        -        -        -
+pI_1-yA_1        6        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        5:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_107>
+#लगभग 50 फुट ऊँची इमारत ने मुझे हैरान कर दिया !
+50        2        numex        -        3:card        -        lagaBaga        -        -
+Puta_1        3        -        -        4:intf        -        -        -        -
+UzcA_1        4        -        -        5:mod        -        -        -        -
+imArawa_1        5        -        -        9:k1        -        -        -        -
+$speaker        7        -        -        9:k2        -        -        -        -
+hErAna_1        8        -        -        -        -        -        -        12:kriyAmUla
+kara_1-yA_1        9        -        -        -        -        [shade:xe_1]        -        12:verbalizer
+[cp_1]        12        -        -        0:main        -        -        -        -
+%imperative
+</sent_id>
+
+
+<sent_id=sent_108>
+#आज तापमान 42 डिग्री सेल्सियस है , इसलिए बाहर जाना टाल दिया ।
+Aja_1        1        -        -        6:k7t        -        -        -        -
+wApamAna_1        2        -        -        6:k1        -        -        -        -
+42        3        numex        -        5:card        -        -        -        -
+digrI_1        4        -        -        -        -        -        -        14:mod
+selsiyasa_1        5        -        -        -        -        -        -        14:head
+[nc_1]        14        -        -        6:k1s        -        -        -        -
+hE_1-pres        6        -        -        0:main        -        -        -        -
+isalie        8        -        -        11:rh        -        -        -        -
+bAhara_1        9        -        -        10:k7p        -        -        -        -
+jA_1        10        -        -        11:vmod        -        -        -        -
+tAla_1        11        -        pl        6:rc        -        [shade:xe_1]        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_109>
+#कुआँ 30 मीटर से भी ज़्यादा गहरा लग रहा था ।
+kuAz_1        1        -        -        8:k1        -        -        -        -
+30        2        meas        -        -        -        -        -        13:count
+mItara_1        3        -        -        -        -        BI        -        13:unit
+gaharA_1        7        -        compermore        -        -        -        -        12:kriyAmUla
+laga_1-0_raha_WA_1        8        -        -        -        -        -        -        12:verbalizer
+[cp_1]        12        -        -        0:main        -        -        -        -
+[meas_1]        13        -        -        6:intf        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_110>
+#उसने 3 घंटे पढ़ाई की ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+3        2        numex        -        3:card        -        -        -        -
+GaMtA_1        3        -        pl        5:k7t        -        -        -        -
+paDZAI_1        4        -        -        -        -        -        -        7:kriyAmUla
+kara_1-yA_1        5        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_111>
+#क्या तुमने 5 किलो चावल खरीदे ?
+$kim        1        -        -        6:krvn        -        -        -        -
+$addressee        2        -        pl        6:k1        -        -        -        -
+5        3        meas        -        -        -        -        -        8:count
+kilo_1        4        -        -        -        -        -        -        8:unit
+cAvala_1        5        -        -        6:k2        -        -        -        -
+KarIxa_1-e_1        6        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        5:mod        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_112>
+#उसने 3 लीटर पानी उबाल लिया ।
+$wyax        1        -        -        0:k1        -        distal        -        -
+3        2        meas        -        -        -        -        -        8:count
+lItara_1        3        -        -        -        -        -        -        8:unit
+pAnI_1        4        -        -        0:k2        -        -        -        -
+ubAla_1        5        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        4:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_113>
+#मैं 2 घंटे से उसका इंतज़ार कर रहा हूँ ।
+$speaker        1        -        -        7:k1        -        -        -        -
+2        2        numex        -        3:card        -        -        -        -
+GaMtA_1        3        -        pl        7:k7t        -        -        -        -
+$wyax        5        -        -        6:k2        -        distal        -        -
+iMwajZAra_1        6        -        -        -        -        -        -        11:kriyAmUla
+kara_1-0_raha_hE_1        7        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_114>
+#रास्ता सिर्फ 200 मीटर बचा है ।
+rAswA_1        1        -        -        5:k1        -        -        -        -
+200        3        meas        -        -        -        sirPa        -        8:count
+mItara_1        4        -        -        -        -        -        -        8:unit
+bacA_1-0_hE_1        5        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        5:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_115>
+#क्या दीवार 8 फीट ऊँची है ?
+$kim        1        -        -        6:krvn        -        -        -        -
+xIvAra_1        2        -        -        6:k1        -        -        -        -
+8        3        numex        -        4:card        -        -        -        -
+PIta_1        4        -        -        5:intf        -        -        -        -
+UzcA_1        5        -        -        6:k1s        -        -        -        -
+hE_1-pres        6        -        -        0:main        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_116>
+#उसने 2 किलो आम छाँटे ।
+$wyax        1        -        -        5:k1        -        distal        -        -
+2        2        meas        -        -        -        -        -        7:count
+kilo_1        3        -        -        -        -        -        -        7:unit
+Ama_1        4        -        -        5:k1s        -        -        -        -
+CAzta_1-e_1        5        -        -        0:main        -        -        -        -
+[meas_1]        7        -        -        5:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_117>
+#खेत 100 मीटर लंबा नापा गया ।
+Kewa_1        1        -        -        5:k1        -        -        -        -
+100        2        meas        -        -        -        -        -        8:count
+mItara_1        3        -        -        -        -        -        -        8:unit
+laMbA_1        4        -        -        5:k2s        -        -        -        -
+nApa_1-yA_jA_yA1_1        5        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        4:intf        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_118>
+#उसने 15 मिनट में खाना खा लिया ।
+$wyax        1        -        -        6:k1        -        distal        -        -
+15        2        meas        -        -        -        -        -        9:count
+minata_1        3        -        -        -        -        -        -        9:unit
+KAnA_1        5        -        -        6:k2        -        -        -        -
+KA_1-yA_1        6        -        -        0:main        -        [shade:le_1]        -        -
+[meas_1]        9        -        -        6:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_119>
+#उन्होंने 3 घंटे का सेशन पूरा किया ।
+$wyax        1        -        pl        7:k1        -        distal        -        -
+3        2        numex        -        3:card        -        -        -        -
+GaMtA_1        3        -        pl        5:r6        -        -        -        -
+seSana_1        5        -        -        7:k2        -        -        -        -
+pUrA_1        6        -        -        -        -        -        -        9:kriyAmUla
+kara_1-yA_1        7        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_120>
+#क्या तुमने 5 मीटर वाली रस्सी देखी ?
+$kim        1        -        -        7:krvn        -        -        -        -
+$addressee        2        -        pl        7:k1        -        -        -        -
+5        3        meas        -        -        -        -        -        9:count
+mItara_1        4        -        mawupa        -        -        -        -        9:unit
+rassA_1        6        -        -        7:k2        -        -        -        -
+xeKa_1-yA_1        7        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        6:mod        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_121>
+#मैंने 30 मिनट तक इंतज़ार किया ।
+$speaker        1        -        -        6:k1        -        -        -        -
+30        2        meas        -        -        -        -        -        9:count
+minata_1        3        -        -        -        -        -        -        9:unit
+iMwajZAra_1        5        -        -        -        -        -        -        8:kriyAmUla
+kara_1-yA_1        6        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        6:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_122>
+#अभी 3 बजे हैं ।
+aBI        1        -        -        4:k7t        -        -        -        -
+3        2        clocktime        -        4:k7t        -        -        -        -
+hE_1-pres        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_123>
+#कल दोपहर को मिलते हैं ।
+kala_1        1        -        -        4:k7t        -        -        -        -
+xopahara_1        2        -        -        4:k7t        -        -        -        -
+mila_1-wA_hE_1        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_124>
+#तुम कितने बजे आए थे ?
+$addressee        1        -        -        4:k1        -        -        -        -
+$kim        2        -        pl        3:quant        -        -        -        -
+baja_1        3        -        -        4:k7t        -        -        -        -
+A_1-subj_WA_1        4        -        -        0:main        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_125>
+#शाम को 6 बजे तक रुकना ।
+SAma_1        1        -        -        6:k7t        -        -        -        -
+6        3        clocktime        -        6:k7t        -        -        -        -
+ruka_1-nA_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_126>
+#रात के 10 बजे गए ।
+rAwa_1        1        -        -        4:r6        -        -        -        -
+10        3        clocktime        -        5:k7t        -        -        -        -
+gae_1-wA_hE_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_127>
+#मैं 25 साल का हूँ ।
+$speaker        1        -        -        5:k1        -        -        -        -
+25        2        meas        -        -        -        -        -        7:count
+sAla_1        3        -        -        -        -        -        -        7:unit
+hE_1-pres        5        -        -        0:main        -        -        -        -
+[meas_1]        7        -        -        5:rhh        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_128>
+#तुम्हारी बहन 18 की है न ?
+$addressee        1        -        pl        2:r6        -        -        -        -
+bahana_1        2        -        -        3:mod        -        -        -        -
+18        3        numex        -        4:k1        -        -        -        -
+kara_1-yA_hE_1        4        -        -        0:main        -        -        -        -
+na_1        6        -        -        4:neg        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_129>
+#उसकी उम्र 40 के आसपास है ।
+$wyax        1        -        -        2:r6        -        distal        -        -
+umra_1        2        -        -        6:k1        -        -        -        -
+40        3        numex        -        6:k7        -        -        -        -
+AsapAsa_1        5        -        -        3:k7p        -        -        -        -
+hE_1-pres        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_130>
+#कितनी उम्र का बच्चा है यह ?
+$kim        1        -        -        2:quant        -        -        -        -
+umra_1        2        -        -        4:r6        -        -        -        -
+baccA_1        4        -        -        5:k1s        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+$wyax        6        -        -        5:k1s        -        proximal        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_131>
+#दादी 70 साल की हो गई हैं ।
+xAxI_1        1        -        -        5:k1        -        -        -        -
+70        2        meas        -        -        -        -        -        9:count
+sAla_1        3        -        -        -        -        -        -        9:unit
+ho_1-yA_hE_1        5        -        -        0:main        -        [shade:ja_1]        -        -
+[meas_1]        9        -        -        5:rhh        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_132>
+#घर से ऑफिस 5 किलोमीटर दूर है ।
+Gara_1        1        -        -        7:k5        -        -        -        -
+OYPisa_1        3        -        -        7:k1        -        -        -        -
+5        4        meas        -        -        -        -        -        9:count
+kilomItara_1        5        -        -        -        -        -        -        9:unit
+xUra_1        6        -        -        5:k7p        -        -        -        -
+hE_1-pres        7        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        7:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_133>
+#उसने 10 मिनट में पूरा काम कर दिया ।
+$wyax        1        -        -        7:k1        -        distal        -        -
+10        2        meas        -        -        -        -        -        10:count
+minata_1        3        -        -        -        -        -        -        10:unit
+pUrA_1        5        -        -        6:mod        -        -        -        -
+kAma_1        6        -        -        7:k2        -        -        -        -
+kara_1-yA_1        7        -        -        0:main        -        [shade:xe_1]        -        -
+[meas_1]        10        -        -        7:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_134>
+#सुबह 7 बजे अलार्म बजा था ।
+subaha_1        1        -        -        5:k7t        -        -        -        -
+7        2        clocktime        -        5:k7t        -        -        -        -
+alArma_1        4        -        -        5:k2        -        -        -        -
+bajA_1-0_WA_1        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_135>
+#ट्रेन 10 मिनट देर से आई ।
+trena_1        1        -        -        6:k1        -        -        -        -
+10        2        meas        -        -        -        -        -        8:count
+minata_1        3        -        -        -        -        -        -        8:unit
+xera_1        4        -        -        6:k7t        -        -        -        -
+A_1-yA_1        6        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        4:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_136>
+#क्या तुमने 3 मीटर लंबी लकड़ी देखी ?
+$kim        1        -        -        7:krvn        -        -        -        -
+$addressee        2        -        pl        7:k1        -        -        -        -
+3        3        meas        -        -        -        -        -        9:count
+mItara_1        4        -        -        -        -        -        -        9:unit
+laMbA_1        5        -        -        6:mod        -        -        -        -
+lakadZI_1        6        -        -        7:k2        -        -        -        -
+xeKa_1-yA_1        7        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        6:mod        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_137>
+#तुम्हारा फ़ोन 150 ग्राम का है ।
+$addressee        1        -        pl        2:r6        -        -        -        -
+PZona_1        2        -        -        6:k1        -        -        -        -
+150        3        meas        -        -        -        -        -        8:count
+grAma_1        4        -        -        -        -        -        -        8:unit
+hE_1-pres        6        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        6:rhh        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_138>
+#एक आदमी ने 4 लीटर दूध मंगाया ।
+eka_1        1        numex        -        2:card        -        -        -        -
+AxamI_1        2        -        -        7:k1        -        -        -        -
+4        4        meas        -        -        -        -        -        9:count
+lItara_1        5        -        -        -        -        -        -        9:unit
+xUXa_1        6        -        -        7:k2        -        -        -        -
+maMgAyA_1-wA_hE_1        7        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        6:mod        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_139>
+#तुमने 6 घंटे का सफर किया ।
+$addressee        1        -        pl        6:k1        -        -        -        -
+6        2        numex        -        3:card        -        -        -        -
+GaMtA_1        3        -        pl        5:k2        -        -        -        -
+saPara_1        5        -        -        -        -        -        -        8:kriyAmUla
+kara_1-yA_1        6        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_140>
+#यात्रा लगभग 120 किलोमीटर की थी ।
+yAwrA_1        1        -        -        -        -        -        -        8:kriyAmUla
+120        3        meas        -        -        -        lagaBaga        -        9:count
+kilomItara_1        4        -        -        -        -        -        -        9:unit
+kara_1-yA_WA_1        5        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        5:k2        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_141>
+#नदी 300 मीटर चौड़ी है ।
+naxI_1        1        -        -        5:k1        -        -        -        -
+300        2        meas        -        -        -        -        -        7:count
+mItara_1        3        -        -        -        -        -        -        7:unit
+cOdZI_1        4        -        -        5:k1s        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+[meas_1]        7        -        -        4:intf        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_142>
+#बाज़ार तक का रास्ता 750 मीटर है ।
+bAjZAra_1        1        -        -        4:r6        -        -        -        -
+rAswA_1        4        -        -        7:k1        -        -        -        -
+750        5        meas        -        -        -        -        -        9:count
+mItara_1        6        -        -        -        -        -        -        9:unit
+hE_1-pres        7        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        7:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_143>
+#क्या तुमने 2 किलो सेब ले लिए ?
+$kim        1        -        -        6:krvn        -        -        -        -
+$addressee        2        -        pl        6:k1        -        -        -        -
+2        3        meas        -        -        -        -        -        9:count
+kilo_1        4        -        -        -        -        -        -        9:unit
+seba_1        5        -        -        6:k2        -        -        -        -
+le_1-yA_1        6        -        -        0:main        -        [shade:le_1]        -        -
+[meas_1]        9        -        -        5:mod        -        -        -        -
+%interrogative
+</sent_id>
+
+
+<sent_id=sent_144>
+#उसने सिर्फ 20 सेकंड में जवाब दिया ।
+$wyax        1        -        -        7:k1        -        distal        -        -
+20        3        meas        -        -        -        sirPa        -        10:count
+sekaMda_1        4        -        -        -        -        -        -        10:unit
+javAba_1        6        -        -        -        -        -        -        9:kriyAmUla
+xe_1-yA_1        7        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+[meas_1]        10        -        -        7:k7t        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_145>
+#पैकेट 500 ग्राम का था ।
+pEketa_1        1        -        -        5:k1        -        -        -        -
+500        2        meas        -        -        -        -        -        7:count
+grAma_1        3        -        -        -        -        -        -        7:unit
+hE_1-past        5        -        -        0:main        -        -        -        -
+[meas_1]        7        -        -        5:rhh        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_146>
+#उन्होंने 4 दिन का सफर तय किया ।
+$wyax        1        -        pl        7:k1        -        distal        -        -
+4        2        meas        -        -        -        -        -        10:count
+xina_1        3        -        -        -        -        -        -        10:unit
+saPara_1        5        -        -        7:k2        -        -        -        -
+waya_1        6        -        -        -        -        -        -        9:kriyAmUla
+kara_1-yA_1        7        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+[meas_1]        10        -        -        5:r6        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_147>
+#शर्ट 42 नंबर की है ।
+Sarta_1        1        -        -        5:k1        -        -        -        -
+42        2        numex        -        3:card        -        -        -        -
+naMbara_1        3        -        -        5:rhh        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_148>
+#लैपटॉप का वजन 2.5 किलो है ।
+lEpatOYpa_1        1        -        -        3:r6        -        -        -        -
+vajana_1        3        -        -        6:k1        -        -        -        -
+2.5        4        numex        -        -        -        -        -        8:count
+kilo_1        5        -        -        -        -        -        -        8:unit
+hE_1-pres        6        -        -        0:main        -        -        -        -
+[meas_1]        8        -        -        6:k1s        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_149>
+#बच्चा 3 किलो का पैदा हुआ ।
+baccA_1        1        -        -        6:k1        -        -        -        -
+3        2        meas        -        -        -        -        -        9:count
+kilo_1        3        -        -        -        -        -        -        9:unit
+pExA_1        5        -        -        -        -        -        -        8:kriyAmUla
+ho_1-yA_1        6        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        5:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+
+<sent_id=sent_150>
+#कल 100 मीटर दौड़ की प्रतियोगिता है ।
+kala_1        1        -        -        7:k7t        -        -        -        -
+100        2        meas        -        -        -        -        -        9:count
+mItara_1        3        -        -        -        -        -        -        9:unit
+xOdZa_1        4        -        -        6:r6        -        -        -        -
+prawiyogiwA_1        6        -        -        7:k1        -        -        -        -
+hE_1-pres        7        -        -        0:main        -        -        -        -
+[meas_1]        9        -        -        4:mod        -        -        -        -
+%affirmative
+</sent_id>

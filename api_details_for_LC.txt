@@ -71,6 +71,21 @@ sudo docker tag language_communicator_backend-web:latest sashank662/language_com
 
 sudo docker push sashank662/language_communicator_backend:latest
 
+sudo docker pull sashank662/language_communicator_backend:latest
 
+ sudo docker run -it -p 5000:5000 sashank662/language_communicator_backend:latest
 
 <script src="flutter_bootstrap.js" async></script>
+
+
+
+
+
+
+ psql -h 10.2.8.12 -U postgres -d lc4u -c "\copy concept_dictionary TO '/home/sashank/Downloads/LC/concept_dictionary.csv' WITH CSV HEADER;"
+
+
+
+
+
+UPDATE users SET is_approved = TRUE;

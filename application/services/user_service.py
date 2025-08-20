@@ -5,24 +5,30 @@ class UserService:
     
     @staticmethod
     def create_user(data):
-        if not data.get('username') or not data.get('role') or not data.get('password') or not data.get('organization') or not data.get('email'):
+        required_fields = ['username', 'role', 'password', 'organization', 'email', 'language']
+        if not all(data.get(field) for field in required_fields):
             return None
 
-        # Ensure role is a list (you already handle this in the route, so this step might be redundant)
+        # Ensure role is a list
         if not isinstance(data['role'], list):
             data['role'] = [role.strip() for role in data['role'].split(',')]
 
-        # Create user instance
+        # Ensure language is a list
+        if not isinstance(data['language'], list):
+            data['language'] = [lang.strip() for lang in data['language'].split(',')]
+
         user = User(
             username=data['username'],
-            role=data['role'],  # Make sure this is a list, as it's expected to be JSONB
+            role=data['role'],
             organization=data['organization'],
-            email=data['email']
+            email=data['email'],
+            language=data['language']
         )
         user.set_password(data['password'])
         db.session.add(user)
         db.session.commit()
         return user
+
 
     @staticmethod
     def authenticate_user(username, password):
@@ -35,9 +41,7 @@ class UserService:
     def get_all_users():
         return User.query.all()
     
-    # @staticmethod
-    # def get_users_by_organization(organization):
-    #     return User.query.filter_by(organization=organization).all()
+
     @staticmethod
     def get_users_by_organization(organization):
         return User.query.filter(
@@ -98,6 +102,13 @@ class UserService:
             if 'password' in data and data['password']:
                 user.set_password(data['password'])
                 print(f"Password updated for user {user_id}")
+                
+            if 'languages' in data:
+                if isinstance(data['languages'], list):
+                    print(f"Updating languages from {user.language} to {data['languages']}")
+                    user.language = data['languages']
+                else:
+                    user.language = [lang.strip() for lang in data['languages'].split(',')]
 
             db.session.flush()  # Pushes the changes to the DB immediately for verification
             db.session.commit()

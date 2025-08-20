@@ -1,0 +1,10 @@
+01_001_1	तपस्वी महर्षि वाल्मीकि ने तप एवं स्वाध्याय में संलग्न, शास्त्रज्ञों में  श्रेष्ठ, मुनि-श्रेष्ठ, देवर्षि नारद से पूछा।	wapasvI maharRi vAlmIki ne wapa evaM svAXyAya meM saMlagna, SAswrajFoM meM  SreRTa, muni-SreRTa, xevarRi nAraxa se pUCA.	The ascetic Vālmīki put the following question direct to nārada, the chief of hermits, the foremost of those skilled in expression, who remains (ever) engaged in penance and self-study (the study of the Vedas and Vedāngas).
+01_002_1	वर्तमान मे लोक में कौन गुणवान् है?	varwamAna me loka meM kOna guNavAn hE?	Who can possibly be full of virtues in this world at present?
+01_002_2	कौन पराक्रमी, धर्मज्ञ, कृतज्ञ और सत्य-वाक्य, दृढ-व्रत है?	kOna parAkramI, XarmajFa, kqwajFa Ora sawya-vAkya, xqDa-vrawa hE?	Who is possessed of prowess and knows what is right? Who is conscious of services done, truthful of speech and firm of resolve?
+01_003_1	कौन चरित्र संपन्न है?	kOna cariwra saMpanna hE?	Who is possesssed of right conduct?
+01_003_2	कौन सभी प्राणियों का हित करने वाला है ?	kOna saBI prANiyoM kA hiwa karane vAlA hE ?	Who is friendly to all living beings?
+01_003_3	कौन विद्वान है?	kOna vixvAna hE?	Who is a man of knowledge?
+01_003_4	कौन समर्थ है?	kOna samarWa hE?	Who is powerful?
+01_003_5	कौन एक प्रिय दर्शन है?	kOna eka priya xarSana hE?	Who has a singularly lovable appearance?
+01_004_1	कौन आत्मवान है?	kOna AwmavAna hE?	Who has subdued his self?
+01_004_2	कौन विजित क्रोध है, कांतिवान है ?	kOna vijiwa kroXa hE, kAMwivAna hE ?	Who has conquered anger and who is possessed of spledour ?

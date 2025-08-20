@@ -1,0 +1,512 @@
+Geo_nios_2ch_0001	The earth is the only known planet with developed life in the universe.																								
+Geo_nios_2ch_0002	Like most of the celestial bodies , the earth is spherical in shape.																								
+Geo_nios_2ch_0003	You also know that hot water and molten lava eject out from the earth’s interior.																								
+Geo_nios_2ch_0004	This indicates that the temperature below the earth’s surface is very high.																								
+Geo_nios_2ch_0005	World’s deepest mining is limited only to the depth of less than 5 kilometers.																								
+Geo_nios_2ch_0006	As we know that the land features seldom retain any fixed form.																								
+Geo_nios_2ch_0007	Their shape is constantly changing.																								
+Geo_nios_2ch_0008	One group of exogenetic forces includes those which weaken and disintegrate the rocks at their original location.																								
+Geo_nios_2ch_0009	The second group consists of endogenetic forces which remove the disintegrated rocks from high lands and deposit them in the Low lands.																								
+Geo_nios_2ch_0010	These two processes have been responsible for disintegrating rocks and shaping new landforms.																								
+Geo_nios_2ch_0011	They are also partly responsible for the formation of soil , which is very important for us.																								
+Geo_nios_2ch_0012	In this lesson , we will study about the earth’s interior and the materials that form the upper portion of the earth’s crust.																								
+Geo_nios_2ch_0013	You will also learn about , weathering and its types , the process of gradation and the significance and formation of soils.																								
+Geo_nios_2ch_0014	After studying this lesson , you will be able to explain the limitations of direct observations of the earth’s interior ;.																								
+Geo_nios_2ch_0015	After studying this lesson , you will be able to compare the different layers of the earth’s interior with reference to thickness , temperature , density and pressure ;.																								
+Geo_nios_2ch_0016	After studying this lesson , you will be able to distinguish between rock and mineral ;.																								
+Geo_nios_2ch_0017	After studying this lesson , you will be able to classify rocks according to their mode of formation ;.																								
+Geo_nios_2ch_0018	After studying this lesson , you will be able to describe the economic significance of rocks ;.																								
+Geo_nios_2ch_0019	After studying this lesson , you will be able to explain the term weathering and describe its types with suitable examples ;.																								
+Geo_nios_2ch_0020	After studying this lesson , you will be able to explain the various gradational processes changing the face of the land ;.																								
+Geo_nios_2ch_0021	After studying this lesson , you will be able to differentiate between degradation and aggradations ;.																								
+Geo_nios_2ch_0022	After studying this lesson , you will be able to relate weathering with soilformation.																								
+Geo_nios_2ch_0023	After studying this lesson , you will be able to explain the various factors contributing to soil formation ;.																								
+Geo_nios_2ch_0024	It is not possible to know about the earth’s interior by direct observations because of its huge size and the changing nature of its internal composition.																								
+Geo_nios_2ch_0025	Through mining and drilling operations we have been able to observe the earth’s interior directly only up to a depth of few kilometers.																								
+Geo_nios_2ch_0026	The rapid increase in temperature below the earth’s surface is mainly responsible for setting a limit to direct observation inside the earth.																								
+Geo_nios_2ch_0027	The temperature in the earth’s interior is so high that it can even melt any tool used for drilling.																								
+Geo_nios_2ch_0028	This fact also restricts deep drilling ,.																								
+Geo_nios_2ch_0029	thus causing hindrance to direct observation of the materials of the earth’s interior.																								
+Geo_nios_2ch_0030	The huge size of the earth and increasing temperature with depth has set a limit to direct observation of the earth’s interior.																								
+Geo_nios_2ch_0031	The above diagram shows the concentric layers of the earth’s interior.																								
+Geo_nios_2ch_0032	The innermost layer surrounding the earth ' s centre is called core.																								
+Geo_nios_2ch_0033	Core is the most dense layer ofthe earth with ,.																								
+Geo_nios_2ch_0034	Its density range from 9.5 to 14.5 and sometimes even higher.																								
+Geo_nios_2ch_0035	It is composed mainly of the iron and nickel.																								
+Geo_nios_2ch_0036	thus commonly known as Nife. ( Nickel + Ferrum ) .																								
+Geo_nios_2ch_0037	Core consists of two sub-layers.																								
+Geo_nios_2ch_0038	The inner one is solid ( C₂ of fig. 2.1 ).																								
+Geo_nios_2ch_0039	and the outer one is semi - liquid ( C of fig. 2.1 ) .																								
+Geo_nios_2ch_0040	The layer surrounding the core is known as mantle ,.																								
+Geo_nios_2ch_0041	Major constituent elements of mantle are magnesium and silicon ,.																								
+Geo_nios_2ch_0042	hence , this layer is termed as Sima ( Si1ica + Magnesium ) .																								
+Geo_nios_2ch_0043	The density of this layer varies from 3.3 to 5.7.																								
+Geo_nios_2ch_0044	Mantle is surrounded by the outermost layer of the earth.																								
+Geo_nios_2ch_0045	known as lithosphere and its density varies from 2.70 to 2.95.																								
+Geo_nios_2ch_0046	Major constituent elements of lithosphere are silica ( Si ) and aluminium ( AI ) ,.																								
+Geo_nios_2ch_0047	thus this layer is termed as Sial ( Silica + Aluminium ) .																								
+Geo_nios_2ch_0048	The outermost part ofthe lithosphere in known as crust.																								
+Geo_nios_2ch_0049	Core , mantle and crust are the three main concentric layers ofthe earth ' s interior.																								
+Geo_nios_2ch_0050	Core is the innermost layer.																								
+Geo_nios_2ch_0051	and has the highest density.																								
+Geo_nios_2ch_0052	It is made up mainly of nickel and iron.																								
+Geo_nios_2ch_0053	Mantle is the layer lying between the core and lithosphere.																								
+Geo_nios_2ch_0054	Its major constituents are silicon and magnesium.																								
+Geo_nios_2ch_0055	Crust is the outermost layer ofthe earth and is mainly composed of silicon and aluminium.																								
+Geo_nios_2ch_0056	Give the most important factor limiting direct observation of the earths interior.																								
+Geo_nios_2ch_0057	Name the three layers of the earth ' s.																								
+Geo_nios_2ch_0058	Name the innermost layer of the earth.																								
+Geo_nios_2ch_0059	What is the density of the core ?.																								
+Geo_nios_2ch_0060	Which layer includes the earth ' s crust ?.																								
+Geo_nios_2ch_0061	Name the thinnest layer of the earth.																								
+Geo_nios_2ch_0062	TEMPERATURE , PRESSURE AND DENSITY OF THE EARTH ' S INTERIOR.																								
+Geo_nios_2ch_0063	Temperature : Rise in temperature with increase in depth is observed in mines and deep wells.																								
+Geo_nios_2ch_0064	These evidences along with molten lava erupted from the earth’s interior , support that temperature increases towards the centre of the earth.																								
+Geo_nios_2ch_0065	The different observations show that the rate of increase of temperature is not uniform from the surface towards the earth’s centre.																								
+Geo_nios_2ch_0066	It is faster at some places than at others.																								
+Geo_nios_2ch_0067	In the beginning this increase is at an average rate of 1º C for every 32 metres increase in depth.																								
+Geo_nios_2ch_0068	At such a constant rate of increase in temperature , at 10 km depth , the temperature will be approximately 3000C and at 40 km depth it will be 12000C.																								
+Geo_nios_2ch_0069	At this rate , earth’s interior should be in a molten state.																								
+Geo_nios_2ch_0070	Yet it is not so.																								
+Geo_nios_2ch_0071	The rocks buried under the pressure of several km thickness of overlying rocks melt at higher temperature than similar rocks at the surface.																								
+Geo_nios_2ch_0072	NO English Translation.																								
+Geo_nios_2ch_0073	A basaltic lava rock which melts at 12500C at the surface will melt at 14000C at 32 km depth.																								
+Geo_nios_2ch_0074	The behaviour of earthquake waves is another evidence for this phenomenon.																								
+Geo_nios_2ch_0075	They further confirm that the composition of different layers is as variable as is the rate of change of temperature.																								
+Geo_nios_2ch_0076	While in the upper 100 km , the increase in temperature is at the rate of 12°C per km ,.																								
+Geo_nios_2ch_0077	in the next 300 km it is 20°C per km but is only 100C per km below it.																								
+Geo_nios_2ch_0078	The temperature at the centre is estimated to lie somewhere between 3000°C and 50000C.																								
+Geo_nios_2ch_0079	The temperature at the centre is estimated to lie somewhere between 3000°C and 50000C. Such a high temperature inside the earth may be due to chemical reactions under high pressure conditions and disintegration of radio active elements.																								
+Geo_nios_2ch_0080	Pressure : The pressure also increases from the surface towards the centre of the earth due to huge weight of the overlying rocks.																								
+Geo_nios_2ch_0081	Therefore in deeper portions , the pressure is tremendously high.																								
+Geo_nios_2ch_0082	The pressure near the centre is considered to be 3 to 4 million times the pressure of atmosphere at sea level.																								
+Geo_nios_2ch_0083	At high temperature , the material beneath will melt towards the central part of the earth. This molten material under tremendous pressure conditions acquires the property of a solid.																								
+Geo_nios_2ch_0084	It is probably in a plastic state.																								
+Geo_nios_2ch_0085	Density : Due to increase in pressure and presence of heavier materials towards the earth’s centers , the density of earth’s layers also goes on increasing.																								
+Geo_nios_2ch_0086	Obviously the materials of the innermost part of the earth are very dense as already stated.																								
+Geo_nios_2ch_0087	NO English Translation.																								
+Geo_nios_2ch_0088	What is the temperature at the centre of the earth ?.																								
+Geo_nios_2ch_0089	How much is the pressure at the earth’s centre ?.																								
+Geo_nios_2ch_0090	Why does the density increase towards the centre of the earth ?.																								
+Geo_nios_2ch_0091	The outermost part of lithosphere is called crust.																								
+Geo_nios_2ch_0092	This is the most significant part of the earth because it is occupied by humans.																								
+Geo_nios_2ch_0093	The material of the crust is made up of rocks.																								
+Geo_nios_2ch_0094	The rocks are of different types.																								
+Geo_nios_2ch_0095	They are hard like granite , soft like clay and loose like gravel.																								
+Geo_nios_2ch_0096	Rocks have a great variety of colour , weight and hardness.																								
+Geo_nios_2ch_0097	Rocks are composed of minerals.																								
+Geo_nios_2ch_0098	They are aggregates or physical mixture of one or more minerals.																								
+Geo_nios_2ch_0099	Minerals on the other hand are made up of two or more elements in a definite ratio.																								
+Geo_nios_2ch_0100	They have a definite chemical composition.																								
+Geo_nios_2ch_0101	Crust is made up of more than 2000 minerals , but out of these , 6 are the most abundant.																								
+Geo_nios_2ch_0102	and contribute the maximum to this uppermost part of the earth.																								
+Geo_nios_2ch_0103	These are feldspar , quartz , pyroxenes , amphiboles , mica and olivine.																								
+Geo_nios_2ch_0104	Granite is a rock.																								
+Geo_nios_2ch_0105	Its constituent minerals bound together are quartz , feldspar and mica which make it a hard rock.																								
+Geo_nios_2ch_0106	Change in the ratio of these minerals give rise to granites of different colours and hardness.																								
+Geo_nios_2ch_0107	The minerals containing metals are called metallic minerals.																								
+Geo_nios_2ch_0108	Haematite , a major iron ore.																								
+Geo_nios_2ch_0109	It is a metallic mineral.																								
+Geo_nios_2ch_0110	Ores are metallic minerals which can be profitably mined.																								
+Geo_nios_2ch_0111	Rocks are of immense economic importance to us.																								
+Geo_nios_2ch_0112	NO English Translation.																								
+Geo_nios_2ch_0113	Rocks differ in their properties , size of particles and mode of formation.																								
+Geo_nios_2ch_0114	On the basis of mode of formation rocks may be grouped into three types : Igneous Sedimentary and Metamorphic.																								
+Geo_nios_2ch_0115	NO English Translation.																								
+Geo_nios_2ch_0116	The word igneous is derived from the Latin word ‘ignis’.																								
+Geo_nios_2ch_0117	It has meaning fire.																								
+Geo_nios_2ch_0118	Igneous rocks are formed by the cooling of highly heated molten fluid material , known as magma.																								
+Geo_nios_2ch_0119	The word magma is derived from a Greek word which means ‘dough’. It requires a greater quantity of heat to melt the rocks under overlying pressure than at the surface.																								
+Geo_nios_2ch_0120	We do not know the exact depths at which magma forms.																								
+Geo_nios_2ch_0121	but probably it is formed at different depths not exceeding 40 km.																								
+Geo_nios_2ch_0122	Molten rocks produce an increase in volume which is responsible for causing fractures or cracks in the crust.																								
+Geo_nios_2ch_0123	The overlying pressure gets weakened along these openings ,.																								
+Geo_nios_2ch_0124	thus forcing out the magma through them.																								
+Geo_nios_2ch_0125	Otherwise it can’t escape due to great overlying pressure.																								
+Geo_nios_2ch_0126	When magma is ejected to the surface , it is called lava.																								
+Geo_nios_2ch_0127	Igneous rocks are formed from solidified molten magma below or on the earth’s surface.																								
+Geo_nios_2ch_0128	As they comprise the earth’s first crust and all other rocks are derived from them.																								
+Geo_nios_2ch_0129	these are called the parent of all rocks or the ‘primary rocks’.																								
+Geo_nios_2ch_0130	About 95 % of the volume of outermost 16 km of the earth is composed of them.																								
+Geo_nios_2ch_0131	These are largely hard and massive because of their magmatic origin and are crystalline in appearances.																								
+Geo_nios_2ch_0132	On the basis of their mode of occurrence , igneous rocks can be classified as :.																								
+Geo_nios_2ch_0133	extrusive or volcanic rocks and intrusive rocks.																								
+Geo_nios_2ch_0134	Extrusive igneous rocks are formed by cooling of lava on the earth’s surface.																								
+Geo_nios_2ch_0135	As lava cools very rapidly on coming out of the hot interior of the earth ,.																								
+Geo_nios_2ch_0136	the mineral crystals forming these rocks are very fine.																								
+Geo_nios_2ch_0137	These rocks are also called volcanic rocks.																								
+Geo_nios_2ch_0138	Gabbro and basalt are very common examples of such rocks.																								
+Geo_nios_2ch_0139	These rocks are found in volcanic areas.																								
+Geo_nios_2ch_0140	Deccan plateau’s regur soil in India is derived from lava.																								
+Geo_nios_2ch_0141	Intrusive igneous rocks are formed when magma solidifies below the earth’s surface.																								
+Geo_nios_2ch_0142	The rate of cooling below the earth’ s surface is very slow.																								
+Geo_nios_2ch_0143	which gives rise to formation of large crystals in the rocks.																								
+Geo_nios_2ch_0144	Deep seated intrusive rocks are termed as plutonic rocks and shallow depth intrusive rocks are termed as hypabyssal.																								
+Geo_nios_2ch_0145	Granite and dolerite are common examples of intrusive rocks.																								
+Geo_nios_2ch_0146	The huge blocks of coarse graniticrocks are found both in the Himalaya and the Decean Plateau.																								
+Geo_nios_2ch_0147	NO English Translation.																								
+Geo_nios_2ch_0148	Let us look at the Fig. 2.2. It illustrates that magma , on cooling , produces rocks of different shapes and sizes ,.																								
+Geo_nios_2ch_0149	depending on the space available after it forces itself into the crust.																								
+Geo_nios_2ch_0150	Common forms of instrusive igneous rocks are batholiths , sills and dykes etc.																								
+Geo_nios_2ch_0151	Batholiths are huge masses of solidified magma.																								
+Geo_nios_2ch_0152	They vary in size some are as much as several hundred kilometers across and thousands of kilometers thick.																								
+Geo_nios_2ch_0153	They generally form the core of the major mountains , as shown in this diagram.																								
+Geo_nios_2ch_0154	Their irregular dome shaped roofs sometimes appear on the surface after erosion of millions of years.																								
+Geo_nios_2ch_0155	Sill is the horizontal intrusion of solidified magma between the layers of pre-existing rocks.																								
+Geo_nios_2ch_0156	Dyke is similarly a more or less vertical formation from few metres to several kilometers in length and from few centimeter to hundreds of metres in thickness.																								
+Geo_nios_2ch_0157	On the basis of chemical properties , igneous rocks are classified into acidic and basic rocks.																								
+Geo_nios_2ch_0158	These are formed as a result of solidification of acidic or basic lava.																								
+Geo_nios_2ch_0159	Acidic igneous rocks are composed of 65 % or more of silica.																								
+Geo_nios_2ch_0160	These rocks are light coloured ,.																								
+Geo_nios_2ch_0161	hard and very strong.																								
+Geo_nios_2ch_0162	Granite is an example of an acidic rock.																								
+Geo_nios_2ch_0163	NO English Translation.																								
+Geo_nios_2ch_0164	Basic igneous rocks contain less than 55 % of silica.																								
+Geo_nios_2ch_0165	and have more of iron and magnesium.																								
+Geo_nios_2ch_0166	These rocks are dark coloured.																								
+Geo_nios_2ch_0167	and weak enough for weathering.																								
+Geo_nios_2ch_0168	Gabbro , basalt and dolerite are examples of basic rocks.																								
+Geo_nios_2ch_0169	Igneous rocks are formed by the solidification of hot molten material called magma or lava.																								
+Geo_nios_2ch_0170	Extrusive igneous rocks are formed by cooling of lava on the earth’s surface.																								
+Geo_nios_2ch_0171	e.g. basalt , gabbro.																								
+Geo_nios_2ch_0172	Instrusive igneous rocks are formed by solidification of magma below the earth’s surface ,.																								
+Geo_nios_2ch_0173	e.g. granite.																								
+Geo_nios_2ch_0174	Define the term mineral.																								
+Geo_nios_2ch_0175	Give the names of any three minerals which are found extensively on the earth’s crust.																								
+Geo_nios_2ch_0176	Give a term for each of the following.																								
+Geo_nios_2ch_0177	Deep seated intrusive igneous rock.																								
+Geo_nios_2ch_0178	A hot sticky molten material erupted on the earth’s surface.																								
+Geo_nios_2ch_0179	How are dykes and sills formed ?.																								
+Geo_nios_2ch_0180	Which one of the following is an example of intrusive igenous rock ?.																								
+Geo_nios_2ch_0181	These rocks are formed by successive deposition of sediments.																								
+Geo_nios_2ch_0182	These sediments may be the debris eroded from any previously existing rock which may be igneous rock , metamorphic or old sedimentary rock.																								
+Geo_nios_2ch_0183	Sedimentary rocks have layered or stratified structure.																								
+Geo_nios_2ch_0184	So these rocks are also called stratified rocks.																								
+Geo_nios_2ch_0185	The thickness of strata varies from few millimeters to several metres.																								
+Geo_nios_2ch_0186	Generally , these rocks have some type of fossil between their strata.																								
+Geo_nios_2ch_0187	Fossil is the solid part or an impression of a prehistoric animal or plant embedded in strata of sedimentary rocks.																								
+Geo_nios_2ch_0188	Fossil is the solid part.																								
+Geo_nios_2ch_0189	Sedimentary rocks are widely spread on the earth surface but to a shallow depth.																								
+Geo_nios_2ch_0190	The individual rock particles are first broken from rocks and then transported by running water , ocean currents , glaciers or even by wind from one place to another.																								
+Geo_nios_2ch_0191	It may settle in calmer waters of lakes or oceans or at places where the transporting agent has no longer enough energy to carry them farther.																								
+Geo_nios_2ch_0192	These are identified as riverine , lacustrine ( formed by lake ) , glacial or aeolian ( formed by wind ) sedimentary rocks with reference to their deposition near rivers , lakes , glacier or deserts respectively.																								
+Geo_nios_2ch_0193	The sediments are often loose , unconsolidated , soft rock material , in the beginning like sand and clay , but in course of time they get hardened to a compact material by excessive pressure and cementation to form sedimentary rocks.																								
+Geo_nios_2ch_0194	Sandstone , shale , limestone and dolomite are examples of sedimentary rocks.																								
+Geo_nios_2ch_0195	No English Translation.																								
+Geo_nios_2ch_0196	No English Translation.																								
+Geo_nios_2ch_0197	Sediments of different sizes may get bound by cementing material under suitable conditions.																								
+Geo_nios_2ch_0198	The deposition of sediments in the beginning is generally horizontal.																								
+Geo_nios_2ch_0199	but it may get tilted afterwards due to movements in the earth’s crust.																								
+Geo_nios_2ch_0200	No English Translation.																								
+Geo_nios_2ch_0201	No English Translation.																								
+Geo_nios_2ch_0202	No English Translation.																								
+Geo_nios_2ch_0203	Conglomerate is an example of such a sedimentary rock.																								
+Geo_nios_2ch_0204	This type of formation of consolidated material is termed as mechanically formed sedimentary rock.																								
+Geo_nios_2ch_0205	The consolidation of organic matter derived from plants and animals forms sedimentary rocks of organic origin.																								
+Geo_nios_2ch_0206	Coal and limestone are organic sedimentary rocks.																								
+Geo_nios_2ch_0207	The sediments may also result from chemical reaction.																								
+Geo_nios_2ch_0208	Direct precipitation of minerals from their solution in water may give rise to sedimentary rocks of chemical origin.																								
+Geo_nios_2ch_0209	No English Translation.																								
+Geo_nios_2ch_0210	Gypsum , rocksalt and nitre are examples of such sedimentary rocks.																								
+Geo_nios_2ch_0211	Huge folded mountains of the world like Himalayas , Andes etc. are made up of sedimentary rocks.																								
+Geo_nios_2ch_0212	All the alluvial deposits of the world are also due to sedimentary accumulations.																								
+Geo_nios_2ch_0213	All river basins , particularly their plains and deltas are good examples of sedimentary accumulations.																								
+Geo_nios_2ch_0214	e.g. IndoGangetic plain and Ganga-Brahmaputra delta.																								
+Geo_nios_2ch_0215	Sedimentary rocks are formed by the successive deposition of sediments.																								
+Geo_nios_2ch_0216	Fossil is the solid part or an impression of a prehistoric animal or plant embedded in sedimentary rocks in which they are buried.																								
+Geo_nios_2ch_0217	Most rocks in mountainous regions show an evidence of change.																								
+Geo_nios_2ch_0218	All these in course of time become metamorphic or changed forms of rocks.																								
+Geo_nios_2ch_0219	Metamorphic rocks are formed under the influence of heat or pressure on sedimentary or igneous rocks.																								
+Geo_nios_2ch_0220	Tremendous pressure and high temperature change the colour , hardness , structure and composition of all types of pre-existing rocks.																								
+Geo_nios_2ch_0221	No English Translation.																								
+Geo_nios_2ch_0222	The process which bring about the change is known as Metamorphism.																								
+Geo_nios_2ch_0223	and the ultimate products , formed due to operation of such processes are defined as the Metamorphic rocks.																								
+Geo_nios_2ch_0224	Temperature , pressure stress and access of chemically reactive substances are the main agents , which are responsible for metamorphism.																								
+Geo_nios_2ch_0225	When molten magma or lava comes in contact with surrounding rocks , it bakes them and changes them into metamorphic rocks.																								
+Geo_nios_2ch_0226	Heat causes the minerals to recrystallise in the rock.																								
+Geo_nios_2ch_0227	The process of change by heat is called thermal or contact metamorphism.																								
+Geo_nios_2ch_0228	Slate , gneiss , schist , marble and diamond are good examples of metamorphic rocks.																								
+Geo_nios_2ch_0229	Metamorphic rocks are hard and tough in comparison to the parent rocks from which they are formed.																								
+Geo_nios_2ch_0230	Examples of metamorphic rocks are given in the table 2.1 with their parent rock from which they have been formed.																								
+Geo_nios_2ch_0231	No English Translation.																								
+Geo_nios_2ch_0232	Different types of metamorphic rocks are found all over the world.																								
+Geo_nios_2ch_0233	In India , marble is found in Rajasthan , Bihar and Madhya Pradesh , whereas slates are available in plenty in Orissa , Andhra Pradesh and Haryana.																								
+Geo_nios_2ch_0234	In Kangra and Kumaun regions of Himalaya , slates of different colours are found.																								
+Geo_nios_2ch_0235	Metamorphic rocks are formed by the effect of heat or pressure on sedimentary or igneous or even metamorphic rocks.																								
+Geo_nios_2ch_0236	Thermal metamorphism is the process by which a rock under-goes change as a result of great heat.																								
+Geo_nios_2ch_0237	Dynamic metamorphism is the modification of rock , by tremendous pressure during extensive earth movements.																								
+Geo_nios_2ch_0238	ECONOMIC SIGNIFICANCE OF ROCKS.																								
+Geo_nios_2ch_0239	Man has been interacting with the surface of the earth since long.																								
+Geo_nios_2ch_0240	With time and advancement in technology he is making different uses of rocks and minerals.																								
+Geo_nios_2ch_0241	No English Translation.																								
+Geo_nios_2ch_0242	The importance of rocks is given below :.																								
+Geo_nios_2ch_0243	Soils are derived from rocks.																								
+Geo_nios_2ch_0244	Soils provide suitability for that agricultural products that provide food for mention and provide raw material for many industries.																								
+Geo_nios_2ch_0245	Rocks are the source of types of building material directly or indirectly.																								
+Geo_nios_2ch_0246	Granite , gneiss , sandstone , marble and slates are extensively used in the construction of buildings.																								
+Geo_nios_2ch_0247	Tajmahal is made of white marble.																								
+Geo_nios_2ch_0248	Red Forts of Delhi and Agra , are made of red sandstone.																								
+Geo_nios_2ch_0249	Slates are used for roof purposes in different parts of India.																								
+Geo_nios_2ch_0250	Minerals are the foundation of the modern civilization.																								
+Geo_nios_2ch_0251	Metallic minerals provide all metals ranging from very precious gold , platinum , silver , copper to aluminium and iron.																								
+Geo_nios_2ch_0252	These metals are obtained from different rocks.																								
+Geo_nios_2ch_0253	Raw Material : Certain rocks and minerals are used as raw material for many industries.																								
+Geo_nios_2ch_0254	In cement industry and limestone kilns different type of rocks and minerals are used for production of finished goods.																								
+Geo_nios_2ch_0255	Graphite is used in crucible and pencil manufacturing as raw materials.																								
+Geo_nios_2ch_0256	Precious stones and metals are obtained from different metamorphic or igneous rocks.																								
+Geo_nios_2ch_0257	Diamond is a precious stone.																								
+Geo_nios_2ch_0258	It is used in jewelry and is a metamorphic rock.																								
+Geo_nios_2ch_0259	Similarly other precious stones like gems , rubies and sapphires are obtained from different type of rocks.																								
+Geo_nios_2ch_0260	Fuel in the form of coal , petroleum , natural gas and nuclear minerals.																								
+Geo_nios_2ch_0261	Fuels are derived from different rocks.																								
+Geo_nios_2ch_0262	Fertilizers are also derived from some rocks.																								
+Geo_nios_2ch_0263	Phosphatic fertilizers are obtained from phosphorite.																								
+Geo_nios_2ch_0264	Phosphate mineral found in abundance in some parts of the world.																								
+Geo_nios_2ch_0265	Rocks and minerals are the main source of all metals ,.																								
+Geo_nios_2ch_0266	precious stones , solid fuel and raw materials for industries.																								
+Geo_nios_2ch_0267	What are rocks ?.																								
+Geo_nios_2ch_0268	Classify rocks.																								
+Geo_nios_2ch_0269	Give single term for each of the following.																								
+Geo_nios_2ch_0270	Process of the formation of metamorphic rock due to pressure.																								
+Geo_nios_2ch_0271	Rocks which contain strata.																								
+Geo_nios_2ch_0272	Rocks formed by the effect of heat or pressure on sedimentary or igneous rocks.																								
+Geo_nios_2ch_0273	Sedimentary rocks deposited in lakes.																								
+Geo_nios_2ch_0274	Tick the correct answer ;.																								
+Geo_nios_2ch_0275	An example of sedimentary rock is.																								
+Geo_nios_2ch_0276	WHAT IS WEATHERING ?.																								
+Geo_nios_2ch_0277	Weathering is the general term applied to the combined action of all processes that cause rock to disintegrate physically and decompose chemically.																								
+Geo_nios_2ch_0278	Among these elements temperature , rainfall , frost , fog and ice are the important ones.																								
+Geo_nios_2ch_0279	Weathering begins as soon as rocks come in contact with one or more than one elements of weather on the surface of the earth.																								
+Geo_nios_2ch_0280	No English Translation.																								
+Geo_nios_2ch_0281	No English Translation.																								
+Geo_nios_2ch_0282	No English Translation.																								
+Geo_nios_2ch_0283	No English Translation.																								
+Geo_nios_2ch_0284	No English Translation.																								
+Geo_nios_2ch_0285	No English Translation.																								
+Geo_nios_2ch_0286	No English Translation.																								
+Geo_nios_2ch_0287	No English Translation.																								
+Geo_nios_2ch_0288	In nature , generally both the disintegrationand decomposition act together at the same time and assist each other.																								
+Geo_nios_2ch_0289	No English Translation.																								
+Geo_nios_2ch_0290	We must remember that the weathered material ( i.e. disintegrated and decomposed ) lie in situ ( i.e. at its original position ) .																								
+Geo_nios_2ch_0291	In this process no transportation or movement of material is involved other than its falling down under the force of gravity.																								
+Geo_nios_2ch_0292	When the rocks are broken up into smaller fragments without any chemical change in their composition , it is called physical weathering.																								
+Geo_nios_2ch_0293	The term mechanical weathering is also used for physical weathering.																								
+Geo_nios_2ch_0294	Physical weathering takes place in different ways in different types of areas.																								
+Geo_nios_2ch_0295	They have been explained here with examples.																								
+Geo_nios_2ch_0296	We all know that the successive heating and cooling causes expansion and contraction of the rocks.																								
+Geo_nios_2ch_0297	In hot desert regions , day temperatures are very high.																								
+Geo_nios_2ch_0298	while nights are very cold.																								
+Geo_nios_2ch_0299	This high diurnal range of temperature causes successive expansion and contraction of the rocks.																								
+Geo_nios_2ch_0300	Rocks tend to enlarge the joints.																								
+Geo_nios_2ch_0301	Finally the rocks disintegrate into smaller blocks.																								
+Geo_nios_2ch_0302	This process is known as block disintegration.																								
+Geo_nios_2ch_0303	Rocks are generally poor conductors of heat.																								
+Geo_nios_2ch_0304	As a result of intense heating the outer layers of the rock expand rapidly.																								
+Geo_nios_2ch_0305	The inner layers remain almost unaffected by heat.																								
+Geo_nios_2ch_0306	Due to successive expansion and contraction , the outer layer of the rock subsequently peels off from the main mass of the rock in the form of concentric shells.																								
+Geo_nios_2ch_0307	The peeling of rocks in layers by this process is very similar to the peeling of successive layers of an onion.																								
+Geo_nios_2ch_0308	The process is called exfoliation.																								
+Geo_nios_2ch_0309	Almost all rounded forms of dolerite blocks of rocks in Singhbhum district of Bihar are due to this process.																								
+Geo_nios_2ch_0310	Granite domes of Mahabalipuram , particularly ‘Krishna Ka Laddu’ and those near Jabalpur on Madan Mahal Hill are good examples , of exfoliation.																								
+Geo_nios_2ch_0311	One of the most important physical weathering processes in cold climates is frost action , the alternate freezing and melting of water inside the joints of the rocks , splits them into fragments.																								
+Geo_nios_2ch_0312	This is because conversion of water into ice increases the volume of water by 10 percent.																								
+Geo_nios_2ch_0313	In cold regions rocks are disintegrated into small particles through this process.																								
+Geo_nios_2ch_0314	It is called frost action.																								
+Geo_nios_2ch_0315	Disintegration of rocks into smaller fragments without any change in their chemical composition is called mechanical weathering.																								
+Geo_nios_2ch_0316	The rapid heating and cooling of the rocks creates a series of joints and cracks .																								
+Geo_nios_2ch_0317	This tends to breaking up into smaller blocks.																								
+Geo_nios_2ch_0318	This process is known as block disintegration.																								
+Geo_nios_2ch_0319	A weathering process by which the outer layers of the rock peel out in concentric cells due to difference of temperature in the outer layers is called exfoliation.																								
+Geo_nios_2ch_0320	Breaking up of rocks due to freezing of water in the rock joints and cracks , in very cold regions , is called frost action.																								
+Geo_nios_2ch_0321	Name three types of weathering.																								
+Geo_nios_2ch_0322	In which areas is mechanical weathering more pronounced ?.																								
+Geo_nios_2ch_0323	Give appropriate technical terms for each of the following statements :.																								
+Geo_nios_2ch_0324	Peeling of successive layers of rocks like the layers of an onion widening of joints and cracks due to alternative freezing and melting of water in them.																								
+Geo_nios_2ch_0325	Disintegration of rocks without any change in their chemical composition.																								
+Geo_nios_2ch_0326	Chemical change in the rocks through formation of new compounds or formation of new substances is called chemical weathering.																								
+Geo_nios_2ch_0327	Chemical processes include oxidation , hydrolysis , and acid solution.																								
+Geo_nios_2ch_0328	Decomposition of rocks by chemical processes with the help of water and atmospheric gases is called chemical weathering.																								
+Geo_nios_2ch_0329	This is the process in which atmospheric oxygen reacts with the rock to produce oxides and the process is called oxidation.																								
+Geo_nios_2ch_0330	Greatest impact of this process is observed on ferrous minerals.																								
+Geo_nios_2ch_0331	Oxygen present in humid air reacts with iron grains in the rocks to form a yellow or red oxide of iron.																								
+Geo_nios_2ch_0332	This is called rusting of the iron.																								
+Geo_nios_2ch_0333	Rust decomposes rocks completely with passage of time.																								
+Geo_nios_2ch_0334	This is the process by which various types of carbonates are formed.																								
+Geo_nios_2ch_0335	Some of these carbonates are soluble in water.																								
+Geo_nios_2ch_0336	For example , when rain water containing carbon dioxide passes through pervious limestone rocks , the rock joints enlarge due to the action of carbonic acid.																								
+Geo_nios_2ch_0337	The joints enlarge in size.																								
+Geo_nios_2ch_0338	And lime is removed in solution.																								
+Geo_nios_2ch_0339	This type of breakdown of rocks is called carbonation.																								
+Geo_nios_2ch_0340	This is the process by which water is absorbed by the minerals of the rock.																								
+Geo_nios_2ch_0341	Due to the absorption of water by the rock , its volume increases and the grains lose their shape.																								
+Geo_nios_2ch_0342	Feldspar , for example , is changed into kaolin through hydration.																								
+Geo_nios_2ch_0343	Kaolin on Vindhyan Hills near Jabalpur has been formed in this manner.																								
+Geo_nios_2ch_0344	This is the process in which some of the minerals get dissolved in water.																								
+Geo_nios_2ch_0345	They are therefore removed in solution.																								
+Geo_nios_2ch_0346	Rock salt and gypsum are removed by this process.																								
+Geo_nios_2ch_0347	Chemical weathering involves the process of oxidation , carbonation , hydration-and solution.																								
+Geo_nios_2ch_0348	In which region is chemical weathering more effective ?.																								
+Geo_nios_2ch_0349	Which process is involved when gypsum gets dissolved in water ?.																								
+Geo_nios_2ch_0350	Which process of chemical weathering causes rusting of iron ?.																								
+Geo_nios_2ch_0351	Which , chemical action is predominant in limestone region ?.																								
+Geo_nios_2ch_0352	Biotic weathering is carried out by plants , animals and man.																								
+Geo_nios_2ch_0353	Plants contribute to both mechanical and chemical weathering.																								
+Geo_nios_2ch_0354	The roots of the plants penetrate into the joints of the rocks.																								
+Geo_nios_2ch_0355	They grow longer and thicker. .																								
+Geo_nios_2ch_0356	In this manner they exert pressure on the rocks and the rock joints are thereby enlarged and break into smaller fragments.																								
+Geo_nios_2ch_0357	Burrowing animals like earthworms , rats , rabbits , termites and ants breakdown the rocks.																								
+Geo_nios_2ch_0358	These disintegrated rocks can easily be eroded or removed by wind etc.																								
+Geo_nios_2ch_0359	Hooves of animals break the soil and thus assist soil erosion.																								
+Geo_nios_2ch_0360	The role of earthworms and termites is of special significance.																								
+Geo_nios_2ch_0361	According to scientists , there is a possibility of occurrence of about 1 , 50 , 000 earthworms in an acre.																								
+Geo_nios_2ch_0362	They can convert 10 to 15 tonnes of rock mass into good soil and bring it to the surface.																								
+Geo_nios_2ch_0363	Human beings play a very important role in weathering of various rocks.																								
+Geo_nios_2ch_0364	Man breaks a large amount of rocks in the course of his activities , like agriculture , construction of houses , roads etc.																								
+Geo_nios_2ch_0365	He quarries for mining minerals , thus helps in weathering by breaking , weakening and loosening the rocks.																								
+Geo_nios_2ch_0366	Biotic agents like plants , animals and man also contribute to physical and chemical weathering.																								
+Geo_nios_2ch_0367	Which important matter is formed by weathering ?.																								
+Geo_nios_2ch_0368	Where does humus in soils come from ?.																								
+Geo_nios_2ch_0369	Give examples of two activities of man helping in weathering.																								
+Geo_nios_2ch_0370	We have studied the process of weathering and have learnt how different types of land features are produced in areas of different types of climate through this process.																								
+Geo_nios_2ch_0371	Weathering also plays an important role in formation of soil which provides basis for agriculture.																								
+Geo_nios_2ch_0372	world’s food supply.																								
+Geo_nios_2ch_0373	Mechanical weathering of the surface rocks disintegrates the rock and converts it into a fine powder.																								
+Geo_nios_2ch_0374	These small particles are deposited in layers with the help of water.																								
+Geo_nios_2ch_0375	biotic weathering produces humus.																								
+Geo_nios_2ch_0376	This organic matter is formed through the action of plants and animals which helps in the formation of soil.																								
+Geo_nios_2ch_0377	Various processes of weathering help in giving different colours and properties of soil.																								
+Geo_nios_2ch_0378	The process of weathering contributes significantly to soil formation besides disintegrated of rocks.																								
+Geo_nios_2ch_0379	Exogenetic forces are constantly working to bring about leveling or the gradation of land.																								
+Geo_nios_2ch_0380	They attempt to achieve a condition of balance between erosion and deposition which mean a graded position.																								
+Geo_nios_2ch_0381	The above forces operate through the process called the process of gradation.																								
+Geo_nios_2ch_0382	Agents of gradation like rivers , glaciers winds , sea waves and underground water perform their task.																								
+Geo_nios_2ch_0383	With the help of the triple action of weathering , erosion and deposition.																								
+Geo_nios_2ch_0384	The leveling down of elevated portions of the earth’s surface is done by erosion.																								
+Geo_nios_2ch_0385	The filling up of depressions is done by deposition of the eroded material transported by the external agents of gradation as spoken earlier.																								
+Geo_nios_2ch_0386	No English Translation.																								
+Geo_nios_2ch_0387	No English Translation.																								
+Geo_nios_2ch_0388	We have studied that the endogenetic forces of the earth give rise to major landforms on the earth surface.																								
+Geo_nios_2ch_0389	and the exogenetic forces level them down.																								
+Geo_nios_2ch_0390	The work of gradation has two components.																								
+Geo_nios_2ch_0391	When rocks are removed by scraping , scratching and cutting as a result of the process of erosion.																								
+Geo_nios_2ch_0392	Thereby lowering the elevation of the land.																								
+Geo_nios_2ch_0393	It is called degradation.																								
+Geo_nios_2ch_0394	first of all includes the work of weathering that is the movement of scarped and scratched material aided by the great force of gravity.																								
+Geo_nios_2ch_0395	It also includes the work of erosion implying the transportation of the rock material by an agent of gradation.																								
+Geo_nios_2ch_0396	The increase in the movement of rock - debris increases both its erosional and transportational capacities.																								
+Geo_nios_2ch_0397	Filling up of low-lying areas of depression by eroded material is called deposition.																								
+Geo_nios_2ch_0398	Deposition starts when the agents of gradation lose their force or have obstruction in their way.																								
+Geo_nios_2ch_0399	As a result eroded material is deposited in depressions.																								
+Geo_nios_2ch_0400	which not only creates new landforms but also modifies the existing ones.																								
+Geo_nios_2ch_0401	Let us now look at the figure.																								
+Geo_nios_2ch_0402	It explains the total process of gradation and its two components-degradation and aggradation.																								
+Geo_nios_2ch_0403	It shows the elevated portions continuously being lowered by weathering and erosion.																								
+Geo_nios_2ch_0404	The debris consisting of the eroded material is transported and deposited in the low lying areas.																								
+Geo_nios_2ch_0405	The surface of the lower areas on the other hand is raised through deposition of this debris.																								
+Geo_nios_2ch_0406	Finally , the position of a uniform or near uniform level is achieved.																								
+Geo_nios_2ch_0407	No English Translation.																								
+Geo_nios_2ch_0408	The process of gradation is not performed by a single agent.																								
+Geo_nios_2ch_0409	It is rather a result of the work of all agents of gradation acting simultaneously.																								
+Geo_nios_2ch_0410	Levelling and smoothening of land surface is called gradation.																								
+Geo_nios_2ch_0411	includes both degradation and aggradation.																								
+Geo_nios_2ch_0412	The weathering of the land surface by erosion is called degradation and raising or filling up of depressions by deposition is called aggradation.																								
+Geo_nios_2ch_0413	Which process is involved in the levelling of the earth’s surface ?.																								
+Geo_nios_2ch_0414	Which two processes constitute gradation ?.																								
+Geo_nios_2ch_0415	Which term is used for raising or filling up of depressions by depositing ?.																								
+Geo_nios_2ch_0416	What is degradation ?.																								
+Geo_nios_2ch_0417	Soil is the uppermost layer of the land surface that plants use and depend on for nutrients , water and physical support.																								
+Geo_nios_2ch_0418	No English Translation.																								
+Geo_nios_2ch_0419	No English Translation.																								
+Geo_nios_2ch_0420	The five factors , which control the formation of soil are parent rock , relief , time , climate and plant and animal organisms.																								
+Geo_nios_2ch_0421	The former three are called the passive factors while the later two are the active factors.																								
+Geo_nios_2ch_0422	The parent material and climate are the most important because these two affect the other factors.																								
+Geo_nios_2ch_0423	A soil is derived from the underlying rock or the parent rock material containing different minerals.																								
+Geo_nios_2ch_0424	The parent rock gets broken into tiny pieces and is decomposed slowly by physical and , chemical weathering.																								
+Geo_nios_2ch_0425	It furnishes inorganic mineral particles of the soil.																								
+Geo_nios_2ch_0426	The parent rock also influences the rate of soil formation , the chemical composition , colour , texture , structure , mineral content and fertility.																								
+Geo_nios_2ch_0427	Topography of an area affects the degree of erosion of the parent rock material and the rate of surface run off of water.Steep slopes aresubjected to more rapid run-off of surface water than the gentle slopes.																								
+Geo_nios_2ch_0428	Thus , the relief affects directly and indirectly the processes involved in soil formation.																								
+Geo_nios_2ch_0429	Therefore , there is less infiltration of water on steeper slopes , which retards soil forming processes.																								
+Geo_nios_2ch_0430	In addition , rapid run-off on steep slopes often erodes their surface faster than soil can develop.																								
+Geo_nios_2ch_0431	It is because of this that the mountainous topography develops coarse , thin and infertile soil.																								
+Geo_nios_2ch_0432	Plain areas have rich well developed fertile soils.																								
+Geo_nios_2ch_0433	The soil forming process is very slow.																								
+Geo_nios_2ch_0434	A well developed soil results as an end product of physical , chemical and biological processes operating collectively for a very long period of time.																								
+Geo_nios_2ch_0435	It is by far the most important factor in the sense that over a long period of time it not only tends to reduce the difference caused by the parent material but also influences biological activities within the soil.																								
+Geo_nios_2ch_0436	Due to this factor two different parent materials may develop the same type of soil in one type of climatic region.																								
+Geo_nios_2ch_0437	For example , granite and sandstone have developed into sandy soil in dry Rajasthan desert.																								
+Geo_nios_2ch_0438	On the other hand , two different types of soils may develop from the same parent material in two climatic regions.																								
+Geo_nios_2ch_0439	For example , the crystalline granites have developed laterite soils in monsoon regions and non laterite soils in sub humid regions.																								
+Geo_nios_2ch_0440	The process of weathering , its effectiveness and the type of plant and animal organisms in a region are directly linked with the seasonal change of temperature and distribution and nature of precipitation.																								
+Geo_nios_2ch_0441	Hence , climate plays an important role in soil forming processes.																								
+Geo_nios_2ch_0442	Plants and animals play an active role in transforming parent materials into a mature soil.																								
+Geo_nios_2ch_0443	Dead plants and animals contribute to the organic content of the soil.																								
+Geo_nios_2ch_0444	The process of decay , added by bacterial action , transforms organic matter into humus.																								
+Geo_nios_2ch_0445	Humus is responsible for the fertility of the soil.																								
+Geo_nios_2ch_0446	It also enhances water retention capacity of the soil.																								
+Geo_nios_2ch_0447	This organic material helps the soil to support plant life.																								
+Geo_nios_2ch_0448	The plant cover in turn protects rich upper layer of the soil from erosion.																								
+Geo_nios_2ch_0449	By increasing the proportion of rainfall entering into the soil rather than running off the surface.																								
+Geo_nios_2ch_0450	It also prevents greater evaporation of soil moisture by its thick canopy ,.																								
+Geo_nios_2ch_0451	thus allowing soil to mature and become fertile.																								
+Geo_nios_2ch_0452	The climate , plant and animal organisms are the active factors of soil formation.																								
+Geo_nios_2ch_0453	The parent material , relief and time are the passive factors of soil formation.																								
+Geo_nios_2ch_0454	Soil profile is the arrangement of the soil into layer like horizons.																								
+Geo_nios_2ch_0455	These are physically , chemically and biologically different from each other.																								
+Geo_nios_2ch_0456	Winds carry away vast quantity of fine soil particles and sand from deserts and spread it over adjoining cultivated land.																								
+Geo_nios_2ch_0457	This type of land destroy their fertility.																								
+Geo_nios_2ch_0458	This type of erosion is known as wind erosion.																								
+Geo_nios_2ch_0459	It takes place in and around all desert regions of the world.																								
+Geo_nios_2ch_0460	In India , over one lakh kilometers of land is under Thar Desert.																								
+Geo_nios_2ch_0461	It spread over parts of Gujarat , Haryana , Punjab and Rajasthan states.																								
+Geo_nios_2ch_0462	These areas are subject to intense wind erosion.																								
+Geo_nios_2ch_0463	Water when moves as a sheet takes away thin layers of soil.																								
+Geo_nios_2ch_0464	This type of erosion is called sheet erosion.																								
+Geo_nios_2ch_0465	Such type of erosion is most common along the river beds and areas affected by floods.																								
+Geo_nios_2ch_0466	In the long run , the soil is completely exhausted due to removal of top soil and becomes infertile.																								
+Geo_nios_2ch_0467	The removal of surface material usually soil , by the action of running water.																								
+Geo_nios_2ch_0468	The processes create numerous tiny channels ( rills ) a few centimeters in depth.																								
+Geo_nios_2ch_0469	The removal of soil material naturally or by human action is called soil erosion.																								
+Geo_nios_2ch_0470	Soil erosion is of four types : wind erosion , sheet erosion , rill erosion , gully erosion.																								
+Geo_nios_2ch_0471	Factors influencing soil erosion are velocity and amount of surface run off , nature of slope , texture and structure of soils and frequency and speed of winds.																								
+Geo_nios_2ch_0472	Soil conservation methods include protection of forests , afforestation , bunding , reclamation of lands ; controlling floods , over grazing ; terracing , strip farming , contour ploughing and crop rotation.																								
+Geo_nios_2ch_0473	Earth is a spherical body.																								
+Geo_nios_2ch_0474	The direct observations into its interior are limited to a depth of a few kilometers.																								
+Geo_nios_2ch_0475	Temperature , pressure and density increase from the earth’s surface to its centre.																								
+Geo_nios_2ch_0476	Earth’s interior is divided into three concentric layers ; Crust , mantle and core.																								
+Geo_nios_2ch_0477	The material of the crust is composed of rocks.																								
+Geo_nios_2ch_0478	Rock is composed of one or more minerals.																								
+Geo_nios_2ch_0479	Minerals have a definite chemical composition.																								
+Geo_nios_2ch_0480	On the basis of their mode of formation , rocks are classified into three types - igneous , sedimentary and metamorphic Igneous rocks are formed by the solidification of molten lava or magma.																								
+Geo_nios_2ch_0481	Granite , basalt and gabbro are examples of igneous rocks.																								
+Geo_nios_2ch_0482	Molten material solidified beneath the earth’s surface to form intrusive and above the earth surface to form extrusive igneous rocks.																								
+Geo_nios_2ch_0483	They provide precious metals and stones , building material and fuel etc. for our use.																								
+Geo_nios_2ch_0484	Rocks are of immense use to us.																								
+Geo_nios_2ch_0485	Soil erosion is a natural process of destruction and removal of soil material from its place.																								
+Geo_nios_2ch_0486	Running water , winds , sea waves and glaciers are the most active agents of erosion.																								
+Geo_nios_2ch_0487	Erosion of soils takes place in four ways wind erosion , sheet erosion , rill erosion and gully erosion.																								
+Geo_nios_2ch_0488	Removal of soil cover depends on velocity and speed of water , nature of slope , texture and structure of soils , frequency of dust storms and nature of precipitation.																								
+Geo_nios_2ch_0489	Man through his misdeeds , has also helped natural forces in increasing the problem of soil erosion.																								
+Geo_nios_2ch_0490	Methods to prevent soils from being eroded constitute soil conservation.																								
+Geo_nios_2ch_0491	These methods are protection of forests , afforestation , contour ploughing , terrace and strip farming , bunding , flood control , etc.																								
+Geo_nios_2ch_0492	What are the limitations of direct methods in the determination of the earth’s interior ?.																								
+Geo_nios_2ch_0493	Draw and label a diagram showing earth’s interior and its density and depth of each layer.																								
+Geo_nios_2ch_0494	Distinguish between a rock and a mineral with suitable examples.																								
+Geo_nios_2ch_0495	Discuss the classification of various types of rocks on the basis of their mode of formation.																								
+Geo_nios_2ch_0496	Support your answer with examples.																								
+Geo_nios_2ch_0497	Explain in brief the economic significance of rocks and minerals.																								
+Geo_nios_2ch_0498	No English Translation.																								
+Geo_nios_2ch_0499	Compare the processes of formation of metamorphic and sedimentary rocks.																								
+Geo_nios_2ch_0500	What is weathering ?.																								
+Geo_nios_2ch_0501	Name the different types of weathering.																								
+Geo_nios_2ch_0502	How does chemical weathering take place ?.																								
+Geo_nios_2ch_0503	Differentiate between.																								
+Geo_nios_2ch_0504	Explain the process of gradation.																								
+Geo_nios_2ch_0505	How does man become an important agent of weathering.																								
+Geo_nios_2ch_0506	Explain the following processes of weathering by drawing simple diagrams :.																								
+Geo_nios_2ch_0507	By plant action.																								
+Geo_nios_2ch_0508	Give a brief account of soil profile. Illustrate your answers with a diagram.																								
+Geo_nios_2ch_0509	Discuss various factors responsible for soil formation.																								
+Geo_nios_2ch_0510	What is soil erosion ?.																								
+Geo_nios_2ch_0511	Explain the different ways in which soil is eroded.																								
+Geo_nios_2ch_0512	Discuss the various methods being used to conserve soil.																								

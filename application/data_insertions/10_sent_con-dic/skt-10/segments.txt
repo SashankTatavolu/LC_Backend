@@ -1,0 +1,10 @@
+01_001_1	तपः-स्वाध्याय-निरतम् तपस्वी वाक्-विदाम् वरम् नारदम् परिपप्रच्छ वाल्मीकिः मुनि-पुङ्गवम् .	wapaH-svAXyAya-nirawam wapasvI vAk-vixAm varam nAraxam paripapracCa vAlmIkiH muni-pufgavam .	The ascetic Vālmīki put the following question direct to nārada, the chief of hermits, the foremost of those skilled in expression, who remains (ever) engaged in penance and self-study (the study of the Vedas and Vedāngas).
+01_002_1	कः नु अस्मिन् साम्प्रतम् लोके गुणवान् (अस्ति) .	kaH nu asmin sAmprawam loke guNavAn (aswi) .	Who can possibly be full of virtues in this world at present?
+01_002_2	कः च वीर्यवान् धर्म-ज्ञः च कृत-ज्ञः च सत्य-वाक्यः दृढ-व्रतः (अस्ति) .	kaH ca vIryavAn Xarma-jFaH ca kqwa-jFaH ca sawya-vAkyaH xqDa-vrawaH (aswi) .	Who is possessed of prowess and knows what is right? Who is conscious of services done, truthful of speech and firm of resolve?
+01_003_1	चारित्रेण च कः युक्तः (अस्ति) .	cAriwreNa ca kaH yukwaH (aswi) .	Who is possesssed of right conduct?
+01_003_2	सर्व-भूतेषु कः हितः (अस्ति) .	sarva-BUweRu kaH hiwaH (aswi) .	Who is friendly to all living beings?
+01_003_3	विद्वान् कः (अस्ति) .	vixvAn kaH (aswi) .	Who is a man of knowledge?
+01_003_4	कः समर्थः च (अस्ति) .	kaH samarWaH ca (aswi) .	Who is powerful?
+01_003_5	कः च एक-प्रिय-दर्शनः (अस्ति) .	kaH ca eka-priya-xarSanaH (aswi) .	Who has a singularly lovable appearance?
+01_004_1	आत्मवान् कः (अस्ति) .	AwmavAn kaH (aswi) .	Who has subdued his self?
+01_004_2	जित-क्रोधः द्युतिमान् (च) (कः) (अस्ति) .	jiwa-kroXaH xyuwimAn (ca) (kaH) (aswi) .	Who has conquered anger and who is possessed of spledour ?
